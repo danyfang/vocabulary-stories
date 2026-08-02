@@ -27,11 +27,15 @@ Read one or more vocabulary-unit stories aloud from `wordlist.txt`.
 
 The script reads only each story's title and prose. It excludes unit headings,
 vocabulary entries, Chinese translations, and separator lines. It joins wrapped
-prose lines with spaces before invoking `say`, preventing artificial pauses.
+prose lines with spaces before invoking `say`, preventing artificial pauses. It
+inserts a one-second pause after each title so the passage begins distinctly.
+During continuous reading, it pauses for two seconds between unit stories.
 
 ## Validation
 
 - Confirm every requested unit exists.
 - Confirm every requested unit has a title and story.
+- Confirm a one-second speech pause follows each title.
+- Confirm a two-second speech pause separates consecutive unit stories.
 - Do not edit `wordlist.txt` while reading it.
 - If `say` is unavailable, report that macOS text-to-speech is required.

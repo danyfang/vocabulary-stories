@@ -1,22 +1,29 @@
 ---
 name: complete-vocabulary-unit
-description: 'Add concise Chinese translations and a titled story using every listed word in vocabulary units. Use when completing, translating, or writing a story for units in wordlist1.txt.'
+description: 'Correct misspellings, add concise Chinese translations, and write a titled story using every listed word in vocabulary units. Use when completing, translating, correcting, or writing a story for units in wordlist1.txt.'
 argument-hint: 'Unit number(s), for example: 12 13'
 user-invocable: true
 ---
 
 # Complete Vocabulary Unit
 
-Complete one or more bare vocabulary units in `wordlist1.txt` by translating
-their words into Chinese and writing a titled short story for each unit.
+Complete one or more bare vocabulary units in `wordlist1.txt` by correcting
+misspellings, translating the words into Chinese, and writing a titled short
+story for each unit.
 
 ## Procedure
 
 1. Read each requested unit through the next `Unit N` heading or end of file,
    plus one nearby completed unit. Use the current file, not prior excerpts.
-2. Preserve every listed English word or phrase exactly unless the user asks
-   for a spelling correction.
-3. Ensure each unit begins with this exact 72-character separator immediately
+2. Check every listed English word or phrase for spelling before translating
+   it. Correct clear misspellings in the vocabulary entries first. Verify an
+   unfamiliar form before changing it so that rare, archaic, regional,
+   technical, and deliberately nonstandard terms are preserved. If the
+   intended correction is genuinely ambiguous, ask the user rather than
+   guessing.
+3. Use each corrected spelling consistently in its Chinese translation entry
+   and throughout the story. Do not retain a misspelling as a plot device.
+4. Ensure each unit begins with this exact 72-character separator immediately
    before its heading:
 
    ```text
@@ -24,20 +31,23 @@ their words into Chinese and writing a titled short story for each unit.
    Unit N
    ```
 
-4. Add concise, idiomatic Chinese meanings in this format:
+5. Add concise, idiomatic Chinese meanings in this format:
 
    ```text
    word — 常见释义；另一常见释义
    ```
 
-5. After the vocabulary entries, add a specific title and an original short
+6. After the vocabulary entries, add a specific title and an original short
    story. Keep the unit compact: do not insert blank lines anywhere.
-6. Use every listed word or phrase naturally in the story. Prefer the exact
+7. Use every corrected word or phrase naturally in the story. Prefer the exact
    listed form; inflect it only when normal grammar requires it.
-7. Make the story coherent and interesting rather than a sequence of example
+8. Make the story coherent and interesting rather than a sequence of example
    sentences. Keep it compact and do not explain the vocabulary in the story.
-8. Wrap prose lines at no more than 72 characters.
-9. Edit only the requested units and any missing separator immediately before
+9. Vary settings and plots by checking nearby completed stories. Avoid ledgers,
+   audits, missing payments, financial fraud, and accounting investigations
+   unless a listed word specifically requires that context.
+10. Wrap prose lines at no more than 72 characters.
+11. Edit only the requested units and any missing separator immediately before
    them. Preserve unrelated text and user changes.
 
 ## Validation
@@ -45,10 +55,13 @@ their words into Chinese and writing a titled short story for each unit.
 After editing, perform focused checks for every requested unit:
 
 - Its heading is immediately preceded by exactly 72 dashes.
+- Clear misspellings were corrected before translation and story composition.
+- Corrected spellings match across vocabulary entries and story occurrences.
 - Every vocabulary entry has a Chinese translation after ` — `.
 - Every listed English word or phrase occurs in its story, case-insensitively.
 - No line exceeds 72 characters and no blank lines exist.
 - The unit has exactly one non-generic title and one coherent story.
+- Its setting and plot do not repeat nearby stories unnecessarily.
 - No vocabulary from adjacent units was accidentally included.
 
 Run file diagnostics after the content checks. Report whether vocabulary

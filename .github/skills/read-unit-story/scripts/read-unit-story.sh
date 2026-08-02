@@ -42,9 +42,13 @@ spoken_text=$(
         }
         active && !in_story && index($0, " — ") > 0 { next }
         active {
+            if (!in_story) {
+                if (length(text)) text = text " [[slnc 2000]] "
+                text = text $0 " [[slnc 1000]]"
+            } else {
+                text = text " " $0
+            }
             in_story = 1
-            if (length(text)) text = text " "
-            text = text $0
             story[unit] = 1
         }
         END {
