@@ -964,7 +964,7 @@ his repair plan, then braced the roof before the next downpour.
 ------------------------------------------------------------------------
 Unit 49
 stag — 雄鹿；不带伴侣参加
-cartilage — 软骨；软骨组织
+sibilant — 发咝咝声的；咝咝声
 trident — 三叉戟
 orb — 球体；宝珠
 undertow — 退浪；水下暗流
@@ -978,8 +978,8 @@ Nia could not envisage why a stone stag guarded the egress of a tide
 cave. Inside, mildew covered a hefty statue whose trident pointed at
 an iridescent orb beneath the water. When an undertow pulled her toward
 the rocks, she wedged the trident into a crack and held on. The orb
-proved to be a fisher's glass float, while the stag's broken antler
-contained cartilage from a recent deer. Nia followed its tracks out.
+proved to be a fisher's glass float. Then a sibilant breath of wind
+behind the stag revealed a narrow passage, which Nia followed out.
 ------------------------------------------------------------------------
 Unit 50
 ramification — 后果；衍生影响
@@ -989,13 +989,13 @@ immolate — 献祭；牺牲
 raiment — 衣服；服饰
 jugular — 颈静脉；致命要害
 lard — 猪油；给……加猪油
-trivish — 琐碎的；微不足道的（非标准用词）
+trivial — 琐碎的；微不足道的
 decimate — 大量毁灭；严重削弱
 unruly — 难以管教的；难以控制的
 The Bonfire at Midsummer Green
 A meek tailor lent royal raiment to an unruly midsummer troupe. Their
 leader planned to immolate a straw king, unaware that its crown was
-packed with lard. A trivish prank could have a deadly ramification:
+packed with lard. A trivial prank could have a deadly ramification:
 sparks might decimate the dry stalls and sully the festival forever.
 When a prop sword nearly struck an actor's jugular, the tailor halted
 the show, removed the crown, and moved the bonfire beyond the green.
@@ -1116,11 +1116,199 @@ using the same tonic to save a feverish dockworker. The evidence
 cleared her name and restored her place in the village.
 ------------------------------------------------------------------------
 Unit 57
-alimony
-zeitgeist
-tousle
-abbey 
-hypostasis
-vial 
-feline
-petal 
+alimony — 离婚赡养费
+zeitgeist — 时代精神；时代思潮
+tousle — 弄乱；使蓬乱
+abbey — 修道院；大教堂
+hypostasis — 本质；位格
+vial — 小瓶；药水瓶
+feline — 猫科动物；猫一样的
+petal — 花瓣
+wedge — 楔子；楔入
+antler — 鹿角
+The Statue in the Abbey Garden
+With her first alimony payment, sculptor Iris rented an abandoned abbey
+to create a work that captured the anxious zeitgeist. She called it
+Hypostasis: a feline figure with one antler, holding a glass vial and a
+single bronze petal. On opening night, a gust began to tousle her hair
+as the statue leaned toward the crowd. Iris used a wooden wedge to
+steady its base, then discovered that someone had loosened the bolts.
+The near disaster made her strange creation famous by morning.
+------------------------------------------------------------------------
+Unit 58
+sublunary — 尘世的；月下世界的
+abide — 忍受；遵守
+temporal — 世俗的；时间的
+sublime — 崇高的；壮丽的
+lump — 块；笨重的人
+inescapably — 不可避免地
+banquet — 宴会；盛宴
+folly — 愚蠢；蠢事
+meritorious — 值得赞扬的；有功绩的
+surpassing — 卓越的；胜过的
+The Banquet on Bell Mountain
+A temporal prince held a banquet beneath a sublime mountain waterfall.
+He called ordinary hunger a sublunary concern and served each guest a
+lump of painted clay, claiming its beauty offered surpassing
+nourishment. His cook could not abide such folly. In a meritorious act
+of defiance, she brought out steaming bread and stew. The guests
+inescapably preferred real food, and the embarrassed prince joined
+them before the dishes grew cold.
+------------------------------------------------------------------------
+Unit 59
+celestial — 天空的；天体的
+ethereal — 轻盈飘逸的；超凡的
+estimable — 值得尊敬的；可估量的
+indulgence — 放纵；嗜好
+purblind — 目光短浅的；视力模糊的
+obtuse — 迟钝的；愚笨的
+juvenile — 青少年的；幼稚的
+rile — 激怒；惹恼
+stricture — 严厉批评；限制
+assent — 同意；赞成
+The Comet over Moonlight Theater
+An estimable composer wrote an ethereal score for a celestial ballet,
+but the purblind director called it a juvenile indulgence. His obtuse
+stricture began to rile the dancers, who refused to perform in
+silence. When a comet crossed the open roof in perfect time with the
+final chord, the audience demanded an encore. The director gave his
+reluctant assent, and the ballet became the theater's greatest success.
+------------------------------------------------------------------------
+Unit 60
+accede — 同意；就任
+verdict — 裁决；判决
+decree — 法令；命令
+pontiff — 教皇；主教
+awry — 出错的；歪斜的
+obligate — 迫使；使负有义务
+ruinous — 毁灭性的；代价高昂的
+salutary — 有益的；有益健康的
+stomp — 重踏；跺脚
+melancholy — 忧郁；悲伤
+The Bellmaker's Verdict
+When the cathedral bell rang awry, a melancholy pontiff issued a decree
+that would obligate every bellmaker to pay a ruinous fine. Old Tomas
+refused to accede and asked the council for a fair verdict. He climbed
+the tower, gave the warped floorboard one firm stomp, and exposed a
+loose support beneath the bell. The discovery had a salutary effect:
+the decree was withdrawn, the floor was repaired, and the bell rang
+clearly again.
+------------------------------------------------------------------------
+Unit 61
+catholic — 广泛的；包容一切的
+latitudinarian — 宽容的；不拘泥教条的
+puerile — 幼稚的；愚蠢的
+contemplative — 沉思的；冥想的
+chord — 和弦；弦
+encore — 加演；再来一个
+cunning — 狡猾的；巧妙的
+fishy — 可疑的；有鱼腥味的
+pilfer — 偷窃；小偷小摸
+deplore — 强烈谴责；深感遗憾
+The Vanishing Violin Bow
+The latitudinarian director welcomed performers of catholic tastes to
+his seaside theater. During a contemplative violin solo, one chord
+faltered because the spare bow had vanished. A puerile stagehand made
+a fishy claim about a gull carrying it away, but a cunning violinist
+found rosin on his coat. He had tried to pilfer the bow and sell it.
+The director chose to deplore the theft publicly but forgive the boy
+after he returned it. That night, the relieved audience demanded an
+encore.
+------------------------------------------------------------------------
+Unit 62
+sophomoric — 自作聪明而幼稚的；大二学生的
+unimpeachable — 无可指责的；无可怀疑的
+astray — 迷路；误入歧途
+macula — 斑点；黄斑
+blemish — 瑕疵；污点
+maculate — 弄脏；有斑点的
+spick-and-span — 一尘不染的；整洁如新的
+peccadillo — 小过失；小缺点
+peccant — 有罪的；犯错的
+peccable — 可能犯罪的；易犯错的
+The Speck on the Retinal Slide
+Professor Lin kept her eye laboratory spick-and-span and her records
+unimpeachable. When a sophomoric prank sent a class astray, a student
+mistook dust on a slide for a blemish in the retinal macula. His
+peccadillo became serious when he tried to maculate another slide to
+hide the mistake. Lin found the peccant fingerprint and reminded the
+class that every scientist is peccable. The student confessed, cleaned
+the slides, and repeated the experiment correctly.
+------------------------------------------------------------------------
+Unit 63
+lull — 暂时平静；使安静
+hiatus — 间断；空缺
+spick — 整洁漂亮的；崭新的
+immaculate — 完美无瑕的；一尘不染的
+exquisite — 精美的；细腻的
+petty — 琐碎的；小气的
+smear — 污迹；诽谤
+speck — 小点；微粒
+debark — 下船；卸下
+embark — 上船；着手
+The Portrait across the Strait
+After a long hiatus, painter Lena was ready to embark on a voyage to
+exhibit an exquisite miniature across the strait. Her spick uniform
+and immaculate canvas drew praise, but a petty rival tried to smear
+her reputation by pointing to a dark speck near the portrait's eye.
+During a lull in the crossing, Lena proved that the mark was the
+subject's beauty spot. When the passengers debarked at dawn, the rival
+apologized, and the gallery hung her painting beside the entrance.
+------------------------------------------------------------------------
+Unit 64
+intestate — 未留遗嘱的；无遗嘱继承的
+scanty — 少量的；不足的
+scant — 几乎没有；不足的
+cornucopia — 丰饶角；丰富之源
+untenable — 站不住脚的；难以维持的
+illusory — 虚幻的；迷惑人的
+sophistical — 诡辩的；似是而非的
+languid — 无精打采的；慵懒的
+placid — 平静的；温和的
+stoicism — 坚忍；斯多葛主义
+The Cornucopia of Glasswater
+When a wealthy recluse died intestate, his heirs found only scanty
+supplies and a brass cornucopia in his cottage. A sophistical lawyer
+claimed it proved that treasure lay beneath the placid lake, but his
+argument was untenable. Despite the languid summer heat, Mara searched
+with stoicism and found scant evidence: a map whose golden island was
+illusory, painted in salt. Rain erased it, revealing the true message
+beneath: the cottage and garden were the old man's only riches.
+------------------------------------------------------------------------
+Unit 65
+consanguinity — 血缘关系；同宗
+protean — 多变的；千变万化的
+flighty — 轻浮的；反复无常的
+volant — 飞行的；能飞的
+outlandish — 古怪的；异国风格的
+pristine — 崭新的；原始纯净的
+slovenly — 邋遢的；马虎的
+dilapidated — 破败的；年久失修的
+scaly — 覆有鳞片的；鳞状的
+grungy — 肮脏的；破旧的
+The Aviary on Flint Hill
+Despite their consanguinity, twins Nia and Tomas disagreed about the
+dilapidated aviary they had inherited. Flighty Tomas proposed an
+outlandish cafe, while Nia studied its grungy beams and scaly roof.
+They found a volant lizard gliding among the rafters, its protean skin
+changing color in the light. Even the slovenly caretaker helped them
+restore the habitat, and by spring the enclosure looked pristine.
+------------------------------------------------------------------------
+Unit 66
+fickle — 反复无常的；易变的
+erratic — 不规律的；反复无常的
+mercurial — 喜怒无常的；机敏善变的
+seedy — 破旧的；声名狼藉的
+forlorn — 孤苦无助的；荒凉的
+wretched — 悲惨的；恶劣的
+groveling — 卑躬屈膝的；匍匐的
+debased — 堕落的；贬值的
+despicable — 卑鄙的；可鄙的
+contemptible — 可轻蔑的；卑劣的
+The Last Show at Marlow House
+In a seedy theater, a mercurial producer blamed every failure on his
+fickle cast and the building's erratic lights. A forlorn understudy
+found the lead actor groveling before him for one more chance. Tired
+of the producer's despicable threats and contemptible insults, she
+called the show a debased imitation of art. The wretched cast walked
+out together, leaving the producer to face the empty seats alone.
