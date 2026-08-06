@@ -88,7 +88,7 @@ scalp — 倒卖（票务等）；头皮
 slack — 懈怠的；松弛
 boutique — 精品店；小而精的
 The Operative's Last Move
-Rex had a checkered career as a political provocateur, and his slack approach to loyalty had burned bridges across the party. When a boutique consulting firm dangled a lucrative contract before him, he was prodded into action. His task was to transpose a partisan report into something that looked neutral. The work played havoc with his metabolism — he barely slept for a week. In the end, he scalped the credit from a junior colleague, only to find the firm had been watching the whole time.
+Rex had a checkered career as a political provocateur, and his slack approach to loyalty had burned bridges across the party. When a boutique consulting firm dangled a lucrative contract before him, he was prodded into action. His task was to transpose the findings from a partisan report into a neutral-looking brief. The work played havoc with his metabolism — he barely slept for a week. In the end, he stole the credit from a junior colleague and tried to scalp a spare ticket to the launch, only to find the firm had been watching the whole time.
 Unit 8
 smug — 自鸣得意的；沾沾自喜的
 microcosm — 缩影；微观世界
@@ -114,7 +114,7 @@ quirky — 古怪而有趣的；独特的
 Bible-thumping — 狂热宣扬《圣经》的；宗教狂热的
 annex — 附属建筑；兼并
 The Secret in the Annex
-On her first night at the newspaper, a chirpy recruit named Lena was sent to inventory its condemned annex. Behind a lumpen concrete statue, she found a folder of salacious photographs arranged to ruin a Bible-thumping senator's career. The images looked convincing, but one quirky detail caught her eye: every clock showed the same impossible time. Lena began to splay the pictures across the floor and discovered identical shadows in each one. They were fakes. Working until dawn on little more than an anorexic sandwich, she traced them to the senator's rival and helped foil the scheme. By breakfast, the newest reporter had the paper's biggest scoop.
+On her first night at the newspaper, a chirpy recruit named Lena was sent to inventory its condemned annex. Behind a lumpen concrete statue, she found a folder of salacious photographs arranged to ruin a Bible-thumping senator's career. The images looked convincing, but one quirky detail caught her eye: every clock showed the same impossible time. Lena began to splay the pictures across the floor and discovered identical shadows in each one. They were fakes, and the model had been digitally altered to look anorexic. Working until dawn, Lena traced them to the senator's rival and helped foil the scheme. By breakfast, the newest reporter had the paper's biggest scoop.
 Unit 10
 extricate — 解脱；摆脱
 swoon — 晕倒；痴迷
@@ -205,7 +205,7 @@ haggard — 憔悴的；疲惫的
 antagonism — 敌意；对抗
 abet — 教唆；协助
 The Misspelled Alibi
-The haggard student was accused of helping to abet the theft of a sensuous bronze statue. A conspicuous streak of blue paint marked her coat, and years of antagonism with the curator made matters worse. Yet the gracious judge remained lenient because the case seemed tractable. On a receipt, the thief called the job "a strenuous delivary," using the same odd misspelling found in the curator's emails. The curator confessed, and the museum agreed to waive the student's legal fees.
+The haggard student was accused of abetting the theft of a sensuous bronze statue. A conspicuous streak of blue paint marked her coat, and years of antagonism with the curator made matters worse. Yet the gracious judge remained lenient because the case seemed tractable. On a receipt, the thief called the job "a strenuous delivary," using the same odd misspelling found in the curator's emails. The curator confessed, and the museum agreed to waive the student's legal fees.
 Unit 17
 defy — 反抗；违抗
 patron — 赞助人；主顾
@@ -231,7 +231,7 @@ espouse — 支持；信奉
 grub — 食物；挖掘
 verbatim — 逐字地；一字不差的
 The Speech at Closing Time
-By day, Arun taught at a vocational school; acting was his avocation. When a spendthrift governor threatened to close the school, Arun began to declaim the official's equivocal promises outside city hall. He quoted them verbatim and urged the crowd to espouse practical training. Volunteers brought grub, expecting a long protest. Instead, a transigent deputy offered a compromise that preserved every workshop. To mollify the crowd, she signed it before the cameras.
+By day, Arun taught at a vocational school; acting was his avocation. When a spendthrift governor threatened to close the school, Arun began to declaim the official's equivocal promises outside city hall. He quoted them verbatim and urged the crowd to espouse practical training. Volunteers brought grub, expecting a long protest. Instead, a usually transigent deputy finally accepted a compromise that preserved every workshop. To mollify the crowd, she signed it before the cameras.
 Unit 19
 improvident — 缺乏远见的；挥霍的
 assuage — 缓和；减轻
@@ -270,7 +270,7 @@ beseech — 恳求；哀求
 exponent — 倡导者；代表人物
 proletariat — 无产阶级；工人阶级
 The Petition Beneath the Varnish
-During the palace revelry, a mud-streaked courier delivered a portrait to the queen. A proud courtier dismissed him as a common supplicant, but the royal conservator noticed fresh pigment beneath the varnish. Hidden there was a petition from a leading exponent of the proletariat, who had used the painting to beseech the queen to reopen a dangerous mine only after repairs. Impressed by the workers' ingenuity, she chose to bestow an audience on their leader and ordered the mine made safe.
+During the palace revelry, a mud-streaked courier delivered a portrait to the queen. A proud courtier dismissed him as a common supplicant, but the royal conservator noticed fresh pigment beneath the varnish. Hidden there was a petition from a leading exponent of the proletariat, who had used the painting to beseech the queen to reopen a dangerous mine only after repairs. Impressed by the workers' ingenuity, she chose to bestow royal protection on them, grant their leader an audience, and order the mine made safe.
 Unit 22
 solicitous — 关切的；殷勤的
 slimy — 黏滑的；虚伪讨厌的
@@ -296,7 +296,7 @@ supersede — 取代；替代
 ophthalmologist — 眼科医生
 atheist — 无神论者
 The Error in the Cavern
-An atheist ophthalmologist joined a tour of a cavern newly opened to the public. A heckler laughed when she noticed that an ancient symbol was labelled "palindrome." Then came a splat as wet plaster struck the floor. She warned everyone not to tread on the fallen detritus and used her walking stick to parry another loose fragment. Her sharp eyesight revealed a widening crack, and safety orders soon supersede the site's opening plans.
+An atheist ophthalmologist joined a tour of a cavern newly opened to the public. A heckler laughed when she noticed that an ancient symbol was labelled "palindrome." Then came a splat as wet plaster struck the floor. She warned everyone not to tread on the fallen detritus and used her walking stick to parry another loose fragment. Her sharp eyesight revealed a widening crack, and safety orders soon superseded the site's opening plans.
 Unit 24
 loquacity — 健谈；多话
 ocular — 眼睛的；视觉的
@@ -348,7 +348,7 @@ hewn — 砍成的；凿成的
 unabashed — 不害羞的；不窘迫的
 pugilistic — 好斗的；拳击的
 The Pastel Map
-During the ascent to a hewn stone fortress, forensic cartographer Nia found a pastel map beneath a fallen marker. Its involution of colored paths revealed that an insurgent courier had been guiding each bandit patrol around the border guards. At the gate, an unabashed merchant mocked her evidence and adopted a pugilistic stance. When he made a sudden lunge for the map, Nia stepped aside. He crashed into the bell, whose alarm brought the guards and ended the conspiracy.
+During the ascent to a hewn stone fortress, forensic cartographer Nia found a pastel map beneath a fallen marker. Its colored paths encoded a geometric involution: tracing any route twice returned to the same gate, revealing how an insurgent courier had guided each bandit patrol around the border guards. At the gate, an unabashed merchant mocked her evidence and adopted a pugilistic stance. When he made a sudden lunge for the map, Nia stepped aside. He crashed into the bell, whose alarm brought the guards and ended the conspiracy.
 Unit 28
 salve — 药膏；慰藉
 unguent — 软膏；油膏
@@ -413,7 +413,7 @@ strut — 趾高气扬地走；支柱
 predicament — 困境；尴尬处境
 ditch — 沟渠；抛弃
 The Understudy's Red Coat
-A pompous actor began to strut across the stage in an extravagant red coat, ignoring the unassuming understudy beside him. His fiery speech won only lukewarm applause, and the listless audience started to leave. Then a broken prop rolled into the orchestra ditch, placing the company in a dangerous predicament. The understudy calmly repaired the scene and finished the play. Even the star admitted his foible: he could command attention, but not solve every crisis.
+A pompous actor began to strut across the stage in an extravagant red coat, ignoring the unassuming understudy beside him. His fiery speech won only lukewarm applause, and the listless audience started to leave. Then a broken prop rolled into the orchestra ditch, placing the company in a dangerous predicament. The understudy calmly retrieved and repaired the prop, then finished the play. Even the star admitted his foible: he could command attention, but not solve every crisis.
 Unit 33
 prehensile — 能抓握的；适于缠绕的
 prehensible — 可理解的；可领会的
@@ -426,7 +426,7 @@ quibble — 为小事争辩；诡辩
 excoriate — 严厉斥责；痛批
 exasperate — 使恼怒；使烦恼
 The Monkey in the Newsroom
-A monkey with a prehensile tail stole a censor's red pencil and climbed onto the newsroom clock. The editor tried to censure the keeper, denounce the zoo, and excoriate everyone within reach. His complaint was barely prehensible, however, because he would cavil at each explanation, niggle over every detail, and quibble about who had left the window open. The monkey's antics began to exasperate the staff, but when it unfurled a protest sign, even the editor laughed.
+A monkey with a prehensile tail stole a censor's red pencil and climbed onto the newsroom clock. The editor tried to censure the keeper, denounce the zoo, and excoriate everyone within reach. His complaint was barely prehensible, however: he would cavil at each explanation, niggle over every detail, and quibble so constantly that no one could identify his point. The monkey's antics began to exasperate the staff, but when it unfurled a protest sign, even the editor laughed.
 Unit 34
 carp — 抱怨；吹毛求疵
 assimilate — 吸收；融入
@@ -491,7 +491,7 @@ vengeance — 报复；复仇
 ensue — 随之发生；接着发生
 bloodshed — 流血；杀戮
 The Tailor's Ledger
-A punctilious tailor, oft praised for his dainty royal apparel, found “embezzlement” scrawled beside a missing payment in his ledger. His family precept demanded honesty, yet the king feared that an accusation would revive an old vendetta. The tailor sought justice, not vengeance, and quietly produced the receipts. An inquiry would ensue, but his restraint exposed the thief without bloodshed.
+A punctilious tailor, oft praised for his dainty royal apparel, found “embezzlement” scrawled beside a missing payment in his ledger. His family precept demanded honesty, yet the king feared that an accusation would revive an old vendetta. The tailor sought justice, not vengeance, and quietly produced the receipts. An inquiry ensued, but his restraint exposed the thief without bloodshed.
 Unit 39
 overnice — 过分讲究的；过于挑剔的
 finicky — 挑剔的；难以取悦的
@@ -543,7 +543,7 @@ myopic — 近视的；目光短浅的
 acquiesce — 默许；勉强同意
 demonstrable — 可证明的；显而易见的
 The Bell across the Marsh
-For generations, the laity would venerate a bell with an inimitable tone. When floods turned the pilgrimage road into a morass, a jaded warden proposed an onerous detour. Most travelers chose to acquiesce, but a myopic carpenter gave credence to an old tale about a raised path. At low tide, its stones became demonstrable beneath the reeds, and the forgotten route carried the next procession safely across.
+For generations, the laity would venerate a bell with an inimitable tone. When floods turned the pilgrimage road into a morass, a jaded warden proposed an onerous detour. Most travelers chose to acquiesce, but a myopic carpenter gave credence to an old tale about a raised path. At low tide, the truth of the tale became demonstrable when stones appeared beneath the reeds, and the forgotten route carried the next procession safely across.
 Unit 43
 pontificate — 自以为是地说教；武断地发表意见
 ambivalent — 矛盾的；摇摆不定的
@@ -673,7 +673,7 @@ mediocre — 平庸的；普通的
 jejune — 枯燥乏味的；幼稚的
 quack — 庸医；江湖医生
 The Bitter Tonic of Bell Street
-A quack claimed that pantheism had revealed a cure for every ailment. He filled his shop with a pantheon of wooden gods and sold an acrid tonic labeled "mediocre miracle." To forge testimonials, he wrote jejune tales of woe and ruled his assistants with petty despotism. Chemist Ada tested the tonic, found only vinegar and pepper, and posted the results where every customer could read them.
+A quack claimed that pantheism had revealed a cure for every ailment. He filled his shop with a pantheon of wooden gods and sold an acrid tonic as a miracle, though its label bore only a mediocre sketch of a halo. To forge testimonials, he wrote jejune tales of woe and ruled his assistants with petty despotism. Chemist Ada tested the tonic, found only vinegar and pepper, and posted the results where every customer could read them.
 Unit 53
 humdrum — 单调乏味的；平凡的
 insipid — 淡而无味的；枯燥的
@@ -686,7 +686,7 @@ ware — 商品；制品
 huckster — 小贩；唯利是图的推销者
 contempt — 蔑视
 The Painted Sign at Reed Marsh
-At the marsh fair, a huckster began to hawk a humdrum clay ware as the proverbial cup of kings. An insipid crest did little to support his claim. When a mudslinger called the potter an imposter, she turned the cup over and revealed her maker's seal. The huckster showed contempt for the buyers who demanded refunds, so the fair warden closed his stall and sent him packing.
+At the marsh fair, a huckster began to hawk a piece of humdrum clay ware as the proverbial cup of kings. An insipid crest did little to support his claim. When a mudslinger called the potter an imposter, she turned the cup over and revealed her maker's seal. The huckster showed contempt for the buyers who demanded refunds, so the fair warden closed his stall and sent him packing.
 Unit 54
 prosaic — 平淡无奇的；乏味的
 humbug — 骗子；骗人的把戏
@@ -712,7 +712,7 @@ crass — 粗鲁愚钝的；毫不体贴的
 prescriptive — 规定性的；指令性的
 effete — 衰弱的；颓废的
 The Orchid beyond Fenner Bog
-A dandy mountebank promised tourists an orchid whose color would connote eternal youth. His prescriptive map ordered them to hoe through protected ground, a crass demand that could ruin the bog. Though the crossing looked daunting, botanist Sela had the pluck to follow an old boardwalk instead. She found only an effete painted flower, exposed the fraud, and left the living orchids untouched.
+A dandy mountebank promised tourists an orchid whose color would connote eternal youth. His prescriptive map ordered them to hoe through protected ground, a crass demand that could ruin the bog. Though the crossing looked daunting, botanist Sela had the pluck to follow an old boardwalk instead. She found the effete mountebank beside a painted flower, exposed the fraud, and left the living orchids untouched.
 Unit 56
 sterile — 无菌的；贫瘠的
 tonic — 补药；滋补品
@@ -777,7 +777,7 @@ salutary — 有益的；有益健康的
 stomp — 重踏；跺脚
 melancholy — 忧郁；悲伤
 The Bellmaker's Verdict
-When the cathedral bell rang awry, a melancholy pontiff issued a decree that would obligate every bellmaker to pay a ruinous fine. Old Tomas refused to accede and asked the council for a fair verdict. He climbed the tower, gave the warped floorboard one firm stomp, and exposed a loose support beneath the bell. The discovery had a salutary effect: the decree was withdrawn, the floor was repaired, and the bell rang clearly again.
+When the rhythm of the cathedral bell went awry, a melancholy pontiff issued a decree that would obligate every bellmaker to pay a ruinous fine. Old Tomas refused to accede and asked the council for a fair verdict. He climbed the tower, gave the warped floorboard one firm stomp, and exposed a loose support beneath the bell. The discovery had a salutary effect: the decree was withdrawn, the floor was repaired, and the bell rang clearly again.
 Unit 61
 catholic — 广泛的；包容一切的
 latitudinarian — 宽容的；不拘泥教条的
@@ -907,7 +907,7 @@ venison — 鹿肉
 demote — 降职；降级
 excavate — 挖掘；发掘
 The Song beneath the Courtyard
-An assorted group of archaeologists came to excavate a palace courtyard before an opera gala. Its soprano chose to tarry nearby, eating venison as tents began to sprawl across the lawn. By a fluke, her high note loosened dust from an ancient emblem. The discovery gave the gala unexpected cachet. When a steward tried to demote the diggers to servants, the soprano refused to perform until he apologized.
+Archaeologists with assorted specialties came to excavate a palace courtyard before an opera gala. The gala's soprano chose to tarry nearby, eating venison as tents began to sprawl across the lawn. By a fluke, her high note loosened dust from an ancient emblem. The discovery gave the gala unexpected cachet. When a steward tried to demote the diggers to servants, the soprano refused to perform until he apologized.
 Unit 71
 vanquish — 击败；克服
 torrid — 炎热的；热烈的
@@ -920,7 +920,7 @@ fumble — 笨拙地处理；摸索
 coronation — 加冕典礼
 baleful — 凶恶的；有害的
 The Mare at the Coronation
-On a torrid coronation morning, a baleful duke tried to sabotage the queen's saddle. A groom saw him waddle from the stable and fumble with a silver buckle. Although a sudden cramp slowed her, the groom made the mare canter into the courtyard and raised the alarm. A chromosome record proved the duke had switched the royal horse. The groom helped vanquish his scheme, and the true mare carried the queen to her crown.
+On a torrid coronation morning, a baleful duke tried to sabotage the queen's saddle. A groom saw him waddle from the stable and fumble with a silver buckle. Although a sudden cramp slowed her, the groom made the mare canter into the courtyard and raised the alarm. Records of a rare chromosome marker proved that the duke had switched the royal horse. The groom helped vanquish his scheme, and the true mare carried the queen to her crown.
 Unit 72
 xenophobia — 排外情绪；仇外心理
 utilitarian — 实用的；功利主义的
@@ -1011,7 +1011,7 @@ faction — 派别；小集团
 heave — 用力举起；起伏
 hinge — 铰链；取决于
 The Beacon behind the Mural
-On a stormy ridge, two guides from a rival faction found a horse with one injured hoof. Its rein had caught on the hinge of an abandoned hut. They had to heave the door aside, revealing a mural that marked an old beacon tunnel. Inside were luscious dried peaches, still barely palatable, and a working lamp that summoned help through the fog.
+On a stormy ridge, two guides from a rival faction found a horse with one injured hoof. Its rein had caught on the hinge of an abandoned hut. They had to heave the door aside, revealing a mural that marked an old beacon tunnel. Inside were once-luscious dried peaches, now barely palatable, and a working lamp that summoned help through the fog.
 Unit 79
 fossil — 化石；守旧的人
 freight — 货物；运输
@@ -1037,7 +1037,7 @@ rancid — 腐臭的；变质的
 reproof — 责备；谴责
 perennial — 多年生的；长期存在的
 The Garden of Second Chances
-A strange odor rose from an ornate fountain and put the perennial garden in peril. The rancid water did not enthrall its visitors, and the gardener faced stern reproof. With genuine compunction, he traced the leak to a pivotal valve he had neglected. His repair brought such rapture to the reopening crowd that they volunteered to restore every bed before spring.
+A strange odor rose from an ornate fountain and put the perennial garden in peril. The fountain used to enthrall visitors, but its water had turned rancid, and the gardener faced stern reproof. With genuine compunction, he traced the leak to a pivotal valve he had neglected. His repair brought such rapture to the reopening crowd that they volunteered to restore every bed before spring.
 Unit 81
 conscientious — 认真负责的；尽责的
 rupture — 破裂；决裂
@@ -1063,7 +1063,7 @@ encroach — 侵占；侵犯
 hamper — 妨碍；阻碍
 rebuke — 斥责；严厉批评
 The Cedar Grove Ballot
-A ream of glossy notices claimed a new road would not encroach on the cedar grove. Ranger Sela found an olfactory clue there: fresh asphalt hidden beneath leaves. She watched a survey horse trot past barriers that would hamper nesting deer and called the claim a downright lie. Though officials rebuke her, she refused to despond. Her photographs helped residents trounce the road proposal at the ballot box.
+A ream of glossy notices claimed a new road would not encroach on the cedar grove. Ranger Sela found an olfactory clue there: fresh asphalt hidden beneath leaves. She watched a survey horse trot past barriers that would hamper nesting deer and called the claim a downright lie. Though officials rebuked her, she refused to despond. Her photographs helped residents trounce the road proposal at the ballot box.
 Unit 83
 discretion — 谨慎；自行决定权
 defect — 缺陷；叛逃
@@ -1076,7 +1076,7 @@ transpire — 发生；被人得知
 insular — 与世隔绝的；心胸狭窄的
 kinship — 亲属关系；亲近感
 The Bell of the Island Deity
-On an insular island, a bronze deity presided over the harvest feast. When reeds began to rustle behind its platform, frightened cattle started a stampede. Carpenter Ivo spotted a defect in the ceremonial gate and used his discretion to break it open. The obdurate priest predicted divine wrath, but no disaster came to transpire. Instead, the rescue renewed the villagers' kinship with their mainland guests.
+On an insular island, a bronze deity presided over the harvest feast. When reeds began to rustle behind its platform, frightened cattle started a stampede. Carpenter Ivo spotted a defect in the ceremonial gate and used his discretion to break it open. The obdurate priest predicted divine wrath, but no disaster transpired. Instead, the rescue renewed the villagers' kinship with their mainland guests.
 Unit 84
 gallantry — 英勇；殷勤
 wreathe — 环绕；覆盖
@@ -1089,7 +1089,7 @@ latch — 门闩；闩上
 pageant — 盛装游行；露天表演
 unravel — 解开；阐明
 The Unfinished Pageant Float
-For the spring pageant, each delinquent at the reformatory helped wreathe a wooden float in ribbons. When its rear latch snapped, the cloth began to billow around a child on the platform. Tomas did not waver. With unexpected gallantry, he climbed aboard, used a loose thread to unravel the tangled cloth, and held the frame steady while his teacher ran to procure a new pin. The repaired float won applause.
+For the spring pageant, each delinquent at the reformatory helped wreathe a wooden float in ribbons. When its rear latch snapped, the cloth began to billow around a child on the platform. Tomas did not waver. With unexpected gallantry, he climbed aboard, began to unravel the tangled cloth by hand, and held the frame steady while his teacher ran to procure a new pin. The repaired float won applause.
 Unit 85
 jeer — 嘲笑；讥讽
 jab — 猛戳；注射
@@ -1115,7 +1115,7 @@ florid — 过分华丽的；面色红润的
 flounder — 挣扎；不知所措
 forbearance — 克制；宽容
 The Plume beyond the Grove
-A glossy brochure praised the new trail through the grove, but ranger Nia saw a dark plume rise beyond the asphalt road. Birds began to flit between trees, and warning flags started to flutter. While frightened hikers flounder over a florid emergency map, Nia showed forbearance and gave clear directions. She made them plod toward the river, then smothered the small campfire before it could spread.
+A glossy brochure praised the new trail through the grove, but ranger Nia saw a dark plume rise beyond the asphalt road. Birds began to flit between trees, and warning flags started to flutter. While frightened hikers floundered over a florid emergency map, Nia showed forbearance and gave clear directions. She made them plod toward the river, then smothered the small campfire before it could spread.
 Unit 87
 recuperate — 康复；恢复
 acrimony — 尖刻；敌意
@@ -1245,7 +1245,7 @@ potable — 可饮用的
 orthodox — 正统的；传统的
 devoted — 忠诚的；挚爱的
 The Well at Stone Orchard
-A devoted architect came to plumb an abandoned orchard well whose water no one believed was potable. As she began to sidle along its narrow brim, a plump lizard startled her and vanished into a slough of old skin. Rejecting the orthodox plan to seal the shaft, she used rope to stitch a torn filter cloth, lowered it into the darkness, and brought up clear water that revived the dying trees.
+A devoted architect came to plumb an abandoned orchard well whose water no one believed was potable. As she began to sidle along its narrow brim, a plump lizard startled her and began to slough its old skin. Rejecting the orthodox plan to seal the shaft, she used rope to stitch a torn filter cloth, lowered it into the darkness, and brought up clear water that revived the dying trees.
 Unit 97
 hatch — 孵化；策划
 sublimate — 升华；升华转化
@@ -1258,7 +1258,7 @@ dampen — 使潮湿；减弱
 locution — 说法；措辞
 indispensability — 不可或缺性
 Static in the Aviary Dome
-At dawn in the glass aviary, Mei watched a rare crane hatch while engineers trudge through wet cables to remove an illegal wiretap, and the irony was sharp: the thief had praised privacy in every public locution; when a pendulous lamp cracked above the brood, a jade figurine fell, rain began to dampen the control room, and only the keeper's indispensability could sublimate panic into disciplined rescue that saved both chicks and data.
+At dawn in the glass aviary, Mei watched a rare crane hatch while engineers trudged past wet cables to remove an illegal wiretap, and the irony was sharp: the thief had praised privacy in every public locution; when a pendulous lamp cracked above the brood, a jade figurine fell, and rain began to dampen the control room, the keeper proved her indispensability by helping the team sublimate panic into a disciplined rescue that saved both chicks and data.
 Unit 98
 testimony — 证词；证明
 nostrum — 万灵药；包治百病的偏方
@@ -1271,7 +1271,7 @@ parsimony — 吝啬；过度节俭
 highbrow — 高雅自命的；知识分子派头的
 stomach — 胃；忍受
 Margins of the Clocktower Library
-In the clocktower reading room, a conservative bibliophile gave testimony that the donor's nostrum for preserving paper was a fraud, and despite misgiving about speaking to a highbrow committee, she described the ponderous stain that spread in a perfect circumference around each treated page; their parsimony had approved the cheap mixture, but she could no longer stomach the damage.
+In the clocktower reading room, a conservative bibliophile gave testimony before a ponderous, highbrow committee that the donor's nostrum for preserving paper was a fraud; despite her misgiving about speaking publicly, she described the dark stain that spread in a perfect circumference around each treated page, explaining that the committee's parsimony had led it to approve the cheap mixture and that she could no longer stomach the damage.
 Unit 99
 implication — 含义；牵连
 jar — 罐子；使震惊
@@ -1284,7 +1284,7 @@ carcinogen — 致癌物
 quill — 羽毛笔；羽管
 paraphrase — 释义；改述
 The Label under the Pottery Kiln
-At the museum kiln, Rafi found a cracked jar of glaze whose label carried the implication of a hidden carcinogen, so he used a quill to paraphrase old safety notes and habituate apprentices to masks; when a visitor mocked the warning as provocation, Rafi chose to externalize the full report, solder a loose vent, and show that even the paint's denomination code matched a recalled batch.
+At the museum kiln, Rafi found a cracked jar of glaze beside a coin of an unknown denomination. A faded label bore a clear implication: the glaze contained a carcinogen. He used a quill to paraphrase old safety notes and habituate apprentices to wearing masks. When a visitor mocked the warning as a provocation, Rafi refused to externalize his anger in an argument; instead, he published the full report, repaired the loose vent with solder, and used the coin's date to identify the recalled batch.
 Unit 100
 divers — 潜水员
 prescription — 处方；规定
@@ -1297,7 +1297,7 @@ obverse — 正面；主要方面
 underrate — 低估；看轻
 groove — 沟槽；进入状态
 Forging Day at Harbor Smithy
-During festival forging at Harbor Smithy, the divers brought a rusted coin whose obverse looked royal, and Mara read a faded prescription for cleaning it while apprentices seethe at her caution; a taunt meant to humiliate her backfired when she proved that tautological legends can still mislead perception, set the piece on the anvil, cut a testing groove, and warned everyone not to underrate patient method.
+During festival forging at Harbor Smithy, the divers brought a rusted coin whose obverse looked royal, and Mara read a faded prescription for cleaning it while apprentices seethed at her caution; a taunt meant to humiliate her backfired when she proved that tautological legends can still mislead perception, set the piece on the anvil, cut a testing groove, and warned everyone not to underrate patient method.
 Unit 101
 connive — 共谋；纵容
 pretence — 假装；虚饰
@@ -1310,7 +1310,7 @@ carpenter — 木匠
 relish — 享受；津津有味
 discount — 低估；折扣
 Salt Baths and Cedar Fences
-At a windswept spa, a carpenter repaired the paling while a bather overheard officials connive to seize the springs under pretence of safety; they tried to conscript local teens as guards and called protesting fishers riffraff, but the town learned to thrive on solidarity, relish public debate, and discount the rumors that had kept visitors away.
+At a windswept spa, a carpenter repaired the paling while a bather overheard officials connive with developers in a plan to seize the springs under the pretence of safety; they tried to conscript local teens as guards and called protesting fishers riffraff, but the town learned to thrive on solidarity, relish public debate, and discount the rumors that had kept visitors away.
 Unit 102
 rind — 外皮；果皮
 portentous — 不祥的；故作庄重的
@@ -1323,7 +1323,7 @@ bide — 等待；忍耐
 depreciate — 贬值；轻视
 cathedral — 大教堂
 Soup under the Bell Tower
-Beside the old cathedral, a street chef with remarkable flair shaved orange rind into broth as thunder gave the market a portentous hush; his burnt apron made tourists depreciate him at first, yet the riveting aroma could impel any passerby to stop, bide the long queue, and leave smiling.
+Beside the old cathedral, a street chef with remarkable flair shaved orange rind into broth as thunder gave the market a portentous hush; his burnt apron made tourists depreciate him at first, yet the riveting aroma could impel passersby to stop, bide their time in the long queue, and leave smiling.
 Unit 103
 conceal — 隐藏；隐瞒
 compensate — 补偿；弥补
@@ -1336,7 +1336,7 @@ decipher — 破译；辨认
 needlework — 刺绣；针线活
 adulate — 过分吹捧
 The Breezeway Between Galleries
-During the interregnum after the curator resigned, a thief tried to conceal and shoplift a sampler of royal needlework, but lavender from the courtyard began to waft through the breezeway, making her painted smile pucker as guards arrived; to compensate the intern she had mocked, the board let him decipher the stitch code himself instead of forcing him to adulate senior scholars.
+During the interregnum after the curator resigned, a thief tried to shoplift a sampler of royal needlework from the gallery store and conceal it beneath her coat, but lavender began to waft through the breezeway, making her lips pucker beneath a painted smile as guards arrived; to compensate the intern she had mocked, the board let him decipher the stitch code himself instead of forcing him to adulate senior scholars.
 Unit 104
 inundate — 淹没；使大量涌来
 effulgent — 灿烂夺目的
@@ -1349,7 +1349,7 @@ crutch — 拐杖；依赖物
 chuckle — 轻声笑
 obsess — 使着迷；困扰
 Neon Rain on Dock Nine
-When monsoon clouds inundate Dock Nine, an effulgent billboard kept blinking while a recalcitrant drone refused to land; technicians watched battery levels flag, traced the fault to an amorphous blob in the cooling gel, and used a foam gag to quiet the alarm, then had to invoice the port for emergency parts as their manager leaned on a crutch and tried not to obsess over every chuckle from the night shift.
+When monsoon clouds inundated Dock Nine, an effulgent billboard kept blinking while a recalcitrant drone refused to land; technicians watched battery levels flag, traced the fault to an amorphous blob in the cooling gel, and fitted a foam gag over the alarm speaker, then had to invoice the port for emergency parts as their manager leaned on a crutch and tried not to obsess over every chuckle from the night shift.
 Unit 105
 idolize — 崇拜；偶像化
 epitomize — 成为…的典型
@@ -1362,7 +1362,7 @@ cognate — 同源词；同类的
 enduring — 持久的；耐久的
 deforest — 砍伐森林
 A Lesson at Cedar Ridge School
-In a hill school facing plans to deforest the valley, Ms. Lin asked students not to idolize the mayor on a pedestal or adopt a defeatist tone, because real courage should epitomize enduring care; they used cognate place names from old maps to show how roads would denude slopes, and their calm petition helped placate angry loggers and appease frightened families.
+In a hill school facing plans to deforest the valley, Ms. Lin asked students not to put the mayor on a pedestal and idolize him or to adopt a defeatist tone, because real courage should epitomize enduring care; they used cognate place names from old maps to show how roads would denude slopes, and their calm petition helped placate angry loggers and appease frightened families.
 Unit 106
 hubris — 傲慢自负；狂妄
 eerie — 阴森的；诡异的
@@ -1375,7 +1375,7 @@ bumpkinly — 土里土气的
 influx — 涌入；流入
 labile — 易变的；不稳定的
 The Tunnel with the Blue Lamps
-After an influx of thrill seekers to the abandoned tunnel, a vlogger's hubris led him past warning signs into an eerie shaft where a beam snapped and left a gash on his arm; a bumpkinly guide he had mocked refused to be craven, pulled him out, exposed the sponsor's swindle in the foreword of a safety booklet, and noted that fear is labile but consequences are not.
+After an influx of thrill seekers to the abandoned tunnel, a vlogger's hubris led him past warning signs into an eerie shaft where a beam splintered, leaving a gash on his arm; a guide whose bumpkinly accent he had mocked refused to be craven, pulled him out, exposed the sponsor's swindle in the foreword of a safety booklet, and noted that fear is labile but consequences are not.
 Unit 107
 psyche — 心灵；心理
 permeable — 可渗透的；易受影响的
@@ -1388,7 +1388,7 @@ glut — 过剩；使充斥
 abbreviate — 缩写；缩短
 disillusion — 幻灭；使醒悟
 Murals at Twilight Station
-In a crepuscular subway station, Sana painted a seminal mural about the city psyche, using parallelism in repeated arches and a reprise of old protest colors; she refused to abbreviate the names of lost neighborhoods, because a glut of slogans could disillusion viewers, and only a permeable, listening style of art might feel transcendent instead of preachy.
+In a crepuscular subway station, Sana painted a seminal mural about the city psyche, using parallelism in repeated arches and a reprise of old protest colors; she refused to abbreviate the names of lost neighborhoods, because a glut of slogans could disillusion viewers, and art had to remain permeable to the voices of residents if it was to feel transcendent instead of preachy.
 Unit 108
 vascular — 血管的；脉管的
 flare — 突然爆发；闪光
@@ -1401,7 +1401,7 @@ robust — 强健的；有力的
 ciliate — 纤毛虫；有纤毛的
 inalienable — 不可剥夺的
 Midnight Lab, Open Courtyard
-At a marine lab, Dr. Ortega tracked vascular damage in shrimp after a chemical flare in the bay, while interns escaped the gloom by dancing tango in the courtyard; one hardheaded trustee called their protest a transgression, but the ecstatic crowd argued that clean water is an inalienable right, and robust evidence from a ciliate bloom forced the factory to install filters.
+At a marine lab, Dr. Ortega tracked vascular damage in fish after a chemical flare at a refinery polluted the bay, while interns escaped the gloom by dancing the tango in the courtyard; one hardheaded trustee called their protest a transgression, but the ecstatic crowd argued that clean water is an inalienable right, and robust evidence linking a ciliate bloom to the pollution forced the factory to install filters.
 Unit 109
 gallop — 飞奔；迅速发展
 soak — 浸泡；湿透
@@ -1414,7 +1414,7 @@ incisor — 门牙
 platonic — 柏拉图式的；纯友谊的
 demotic — 大众化的；口语体的
 The Ballroom after the Rain Race
-After a charity horse gallop through sudden rain, Theo had to soak his tuxedo by the heater before stepping onstage, where the host offered an anodyne speech no one remembered; what people did recall was Theo's demotic poem, which used a comic tale about a chipped incisor to interweave platonic friendship and civic pride, letting kindness rather than ego dominate the evening and revive donations.
+After a charity gallop through sudden rain, Theo's tuxedo was soaked, so he hung it by the heater before stepping onstage, where the host offered an anodyne speech no one remembered; what people did recall was Theo's demotic poem, which used a comic tale about a chipped incisor to interweave platonic friendship and civic pride, letting kindness rather than ego dominate the evening and revive the donation drive.
 Unit 110
 bureaucracy — 官僚体系；繁文缛节
 ecologist — 生态学家
@@ -1427,7 +1427,7 @@ terrain — 地形；领域
 signatory — 签署者；签约国
 remonstrance — 抗议；规劝
 Song over the Marsh Office
-When a new bureaucracy tried to homogenize wetland rules for every terrain, an ecologist filed a factual remonstrance and gathered each signatory village chief to oppose the plan; even a self-described valetudinarian elder arrived by boat, and after a madcap carol from schoolchildren softened the room, the agency agreed to local protections.
+When a new bureaucracy tried to homogenize wetland rules for every terrain, an ecologist filed a factual remonstrance and gathered the chiefs from each signatory village to oppose the plan; even a self-described valetudinarian elder arrived by boat, and after a madcap carol from schoolchildren softened the room, the agency agreed to local protections.
 Unit 111
 prone — 易于…的；俯卧的
 restiveness — 焦躁不安；难以安静
@@ -1453,7 +1453,7 @@ lesion — 损伤；病灶
 hike — 徒步；上涨
 aria — 咏叹调
 Echoes on the Cliff Trail
-During a charity hike above the opera town, a young cardiologist diagnosed a runner's chest lesion and warned him not to splurge energy out of spite after hearing a rival's aria echo from below; the local gentry expected bravado, but careful ratiocination overcame their repulsion toward caution, and the race ended before any pride could wither into tragedy.
+During a charity hike above the opera town, a young cardiologist diagnosed a runner's chest lesion and warned him not to splurge on a burst of speed out of spite after hearing a rival's aria echo from below; the local gentry reacted with repulsion to the stark diagnosis and expected bravado, but careful ratiocination prevailed, and the race ended before injury could make their pride wither.
 Unit 113
 contaminate — 污染；弄脏
 affix — 粘贴；添加后缀
@@ -1466,7 +1466,7 @@ dingy — 阴暗肮脏的
 distill — 蒸馏；提炼
 husk — 外壳；空壳
 Tea Fire in the Old Courtyard
-In a dingy courtyard workshop, a celibate monk taught teens to distill orange blossom water without letting smoke contaminate the batch, asking them to tamp charcoal evenly and affix dates to each jar; when police came to bail rainwater from the cellar and asked about rumors of serfdom in the nearby estate, one boy began to stutter, but the monk calmly cracked a rice husk and said truth needs no disguise.
+In a dingy courtyard workshop, a celibate monk taught teens to distill orange blossom water without letting smoke contaminate the batch, asking them to tamp charcoal evenly and affix dates to each jar; when police came to bail rainwater from the cellar and asked about rumors of serfdom on a nearby estate, one boy began to stutter before admitting that laborers were trapped there, but the monk calmly cracked a rice husk and urged him to shed fear as easily as its shell.
 Unit 114
 regiment — 严格管理；团
 enunciate — 清晰发音；明确表达
@@ -1479,7 +1479,7 @@ uncouth — 粗鲁无礼的；笨拙的
 plead — 恳求；辩护
 devour — 狼吞虎咽；吞噬
 Clinic Shift beside the Bus Depot
-At the depot clinic, Dr. Rao had to regiment triage after flood injuries turned one ward septic, and he asked interns to enunciate each dosage because a proprietary app could bewilder newcomers with stark alerts; an uncouth vendor tried to devour supplies and then plead ignorance, but security helped eliminate the theft ring before dawn.
+At the depot clinic, Dr. Rao had to regiment triage after septic wounds filled one ward, and he asked interns to enunciate each dosage because a proprietary app could bewilder newcomers with stark alerts; an uncouth vendor began to devour a patient's meal while his accomplices stole supplies, then tried to plead ignorance, but security helped eliminate the theft ring before dawn.
 Unit 115
 instill — 逐步灌输；培养
 peerless — 无与伦比的
@@ -1492,7 +1492,7 @@ jitters — 紧张不安
 palate — 味觉；上颚
 histrionic — 戏剧化夸张的
 The Last Bell before Commencement
-On commencement morning, the choir director tried to instill calm into students with jitters, telling them to absorb the hall's echo and trust their palate before the banquet song; one histrionic parent used a megaphone to vent complaints and magnify minor mistakes, yet the peerless solo by a usually quiet, virtuous baker's son silenced the room.
+On commencement morning, the choir director tried to instill calm in students with jitters, telling them to absorb the hall's echo, trust their training during the banquet song, and save their palate for the desserts; one histrionic parent used a megaphone to vent complaints and magnify minor mistakes, yet the peerless solo by a usually quiet, virtuous baker's son silenced the room.
 Unit 116
 razor — 剃刀；锋利边缘
 contumacy — 抗命；顽抗
@@ -1505,7 +1505,7 @@ hepatitis — 肝炎
 graft — 贪污；移植
 four-poster — 四柱床
 Night Ward and the Antique Bed
-In a mountain clinic, a zany donor insisted on gifting a carved four-poster to the pediatric ward, but the nurse found razor-sharp shavings and an old dossier linking the timber dealer to graft; his obstinate contumacy became disruptive when inspectors asked about missing permits, and blood tests later tied his crew's shared cup to hepatitis, ending the scheme.
+In a mountain clinic, a zany, obstinate donor insisted on gifting a carved four-poster to the pediatric ward, but the nurse found razor-sharp shavings and an old dossier linking the timber dealer to graft; his contumacy became disruptive when inspectors asked about missing permits, and medical records later linked his crew to a hepatitis A outbreak caused by unsafe food handling, ending the scheme.
 Unit 117
 equilibrium — 平衡；均衡状态
 perishable — 易腐坏的
@@ -1518,7 +1518,7 @@ growl — 低吼；咆哮
 acclimate — 适应新环境
 obstacle — 障碍；阻碍
 Cargo Run over Glacier Pass
-On a fell winter route, pilot Ivo signed a compact to deliver perishable vaccines to three villages, but a sudden crosswind made the plane swerve around an airborne obstacle of ice dust; hearing the engine growl, he fought for equilibrium, landed on a frozen strip, and helped new medics acclimate before a volunteer clown welcomed children into the clinic.
+On a fell winter route, pilot Ivo signed a compact to deliver perishable vaccines to three villages, but a sudden crosswind made the plane swerve around an airborne obstacle: a sheet of ice torn from the ridge; hearing the engine growl, he fought for equilibrium, landed on a frozen strip, and helped new medics acclimate to the altitude before a volunteer clown welcomed children into the clinic.
 Unit 118
 slippage — 滑动；偏差
 particularize — 详述；具体说明
@@ -1531,7 +1531,7 @@ mongrel — 杂种狗；混合物
 duckling — 小鸭
 delirium — 神志错乱；谵妄
 Rescue Pond behind the Carnival
-At the carnival pond, a jolly handler trained a mongrel to aid in detection of weak ice after repeated slippage near the reeds, and when a duckling vanished at dusk, the mayor called the search gutless until the handler asked him not to belabor blame but to particularize the last sighting; minutes later they found the bird and treated a chilled boy whose delirium eased after warm tea and oxygen augmentation.
+At the carnival pond, a jolly handler trained a mongrel to aid in the detection of weak ice after repeated slippage near the reeds, and when a duckling vanished at dusk, the mayor called the handler gutless for refusing to charge onto the pond until she asked him not to belabor blame but to particularize the last sighting; minutes later they found the bird and treated a chilled boy whose delirium eased after warm tea, supplemental oxygen, and an augmentation of the clinic's heating.
 Unit 119
 gush — 涌出；滔滔不绝
 stale — 不新鲜的；陈腐的
@@ -1544,7 +1544,7 @@ perilous — 危险的；险恶的
 curtail — 缩减；削减
 tilt — 倾斜；使倾向
 Red Ink at the Tram Depot
-At the tram depot newsroom, ink began to gush from a cracked pen nib just as Lian traced a nexus between signal failures and a perilous bridge tilt, and though editors feared readers were stale on infrastructure stories, a receptive crowd studied every digit in her chart while a ruddy mechanic urged city hall not to curtail repairs.
+At the tram depot newsroom, ink began to gush from a cracked pen nib just as Lian traced a nexus between signal failures and the perilous tilt of a bridge, and though editors feared readers had tired of stale infrastructure stories, a receptive crowd studied every digit in her chart while a ruddy mechanic urged city hall not to curtail repairs.
 Unit 120
 brawny — 强壮的；魁梧的
 peninsula — 半岛
@@ -1557,7 +1557,7 @@ versatile — 多才多艺的；多功能的
 pollen — 花粉
 pedant — 学究；书呆子
 Storm Notes from Windcap Peninsula
-On Windcap Peninsula, a brawny ferry captain and a pedant botanist argued over an exigent rescue route during a gale, but a versatile drone with a patent winch ignored their vagary of pride, carried medicine through clouds of pine pollen, and returned before the milk cargo could sour.
+On Windcap Peninsula, a brawny ferry captain and a pedant botanist argued during a gale over the best route for an exigent rescue, one more vagary of local pride; they set the dispute aside when a versatile drone fitted with a patent-pending winch carried medicine through clouds of pine pollen and returned before the milk cargo could sour.
 Unit 121
 floppy — 松软下垂的；软盘式的
 harmony — 和谐；和声
@@ -1570,7 +1570,7 @@ prefigure — 预示；预想
 nifty — 漂亮利落的；实用巧妙的
 petulance — 任性；暴躁
 Rehearsal in the Paper Lantern Hall
-Before the spring recital, the conductor pinned a nifty list backstage and asked everyone to whisper cues so harmony could survive the echoing hall, but a critic began to vituperate the dancers with childish petulance until a floppy lantern dropped, reminding him that art is corporeal labor and that rude comments intrude on fragile focus while also prefigure failure.
+Before the spring recital, the conductor pinned a nifty list backstage and asked everyone to whisper cues so harmony could survive the echoing hall, but a critic began to vituperate the dancers with childish petulance until a floppy lantern dropped, reminding him that art is corporeal labor and that rude comments intrude on fragile focus and can also prefigure failure.
 Unit 122
 aluminium — 铝
 maroon — 栗色；使搁浅
@@ -1583,7 +1583,7 @@ nemesis — 天敌；报应
 eddy — 漩涡；打转
 encompass — 包含；环绕
 Boat Shed at Raven Inlet
-In the maroon boat shed, Aya used an aluminium pulley to lift a broken skiff while her brother rowed tight circles with one oar to study each eddy, hoping to transmute old fishing scraps into floating barriers that could encompass the cove; when officials tried to feign support and then ossify the project in paperwork, the oil spill returned as their nemesis.
+In the maroon boat shed, Aya used an aluminium pulley to lift a broken skiff while her brother rowed tight circles with one oar to study each eddy, hoping to transmute old fishing scraps into floating barriers that could encompass the cove; when officials tried to feign support and then let the project ossify under layers of paperwork, the oil spill returned as their nemesis.
 Unit 123
 contentious — 有争议的；好争辩的
 premiere — 首映；首次演出
@@ -1596,7 +1596,7 @@ optimum — 最佳的；最适宜的
 unearth — 发掘；发现
 rebus — 图画字谜；谜题
 Premier Night at Maple Transit Hub
-At the city transit hub, the premiere of a short film about the deciduous riverbanks sparked contentious debate, because a random survey had underestimated children's susceptibility to diesel fumes; after engineers unearth older data hidden in an archive rebus, the council held a ponderable hearing and approved the optimum bus schedule and cleaner engines.
+At the city transit hub, the premiere of a short film about the deciduous riverbanks sparked contentious debate because a random survey had underestimated children's susceptibility to diesel fumes; after engineers unearthed older data encoded in an archival rebus, the council held a hearing on that ponderable evidence and approved the optimum bus schedule and cleaner engines.
 Unit 124
 offset — 抵消；补偿
 cloture — 终止辩论程序
@@ -1609,7 +1609,7 @@ thrall — 奴役；沉迷状态
 instructive — 有教育意义的
 tissue — 组织；薄纸
 Debate beneath the Old Gallows Hill
-In the civic theater below Gallows Hill, a miser on the budget committee tried to keep the museum in stasis, but an artist unveiled an instructive collage of court records and silk tissue that called former punishments heretical; as the audience fell into thrall, the speaker sought cloture, and the mayor offered a guarantee to offset repair costs.
+In the civic theater below Gallows Hill, a miser on the budget committee tried to keep the museum in stasis, but an artist unveiled an instructive collage of court records and silk tissue that offered a heretical view of former punishments; as the audience fell under its thrall, the speaker sought cloture, and the mayor offered a guarantee to offset repair costs.
 Unit 125
 clement — 温和的；仁慈的
 adhere — 粘附；遵守
@@ -1622,7 +1622,7 @@ consent — 同意；许可
 lingual — 语言的；舌的
 caption — 说明文字；字幕
 Broadcast from the Cliff Conservatory
-On a clement evening at the cliff conservatory near the precipice, a musician opened with harpsichord and a fierce monologue about the import of preserving local speech; elders gave consent to record their lingual stories if credits would adhere to each voice, and after the station finalized divestiture of ads that mocked dialect, every video carried a respectful caption.
+On a clement evening at the cliff conservatory near the precipice, a musician opened with a harpsichord piece and a fierce monologue about the import of preserving local speech; elders gave consent to record their stories for a lingual archive if the station would adhere to their terms and credit every voice, and after the station finalized divestiture of ads that mocked dialect, every video carried a respectful caption.
 Unit 126
 ventral — 腹侧的；下方的
 averse — 反感的；不愿意的
@@ -1661,7 +1661,7 @@ segment — 部分；片段
 lionize — 吹捧；把……奉为名人
 discourse — 演讲；论述
 Alcove Broadcast
-In the museum alcove, a premature influencer with an ulterior sponsor asked the orchestra to loll through one segment of an immortal anthem for her channel, but the conductor rejected the viscous flattery and gave a sharp discourse that made critics lionize the players instead.
+In the museum alcove, an influencer with an ulterior sponsor made a premature request: she asked the orchestra members to loll in their chairs through one segment of an immortal anthem for her channel, but the conductor rejected the viscous flattery and gave a sharp discourse that made critics lionize the players instead.
 Unit 129
 rescript — 法令；正式回信
 hail — 冰雹；欢呼
@@ -1674,7 +1674,7 @@ rendezvous — 约会；会合点
 whimsy — 奇想；异想天开
 unworldly — 超凡脱俗的；不谙世事的
 Harvest Letter in the Rain
-After a hail storm, the retiring nun arrived at our midnight rendezvous in plain vesture, carrying a rescript that ordered the old harvest dance with a silver scythe to resume; though she feigned annoyance at my whimsy, the unworldly smile under her halo said she had planned the surprise.
+After a hail storm, the retiring nun arrived at our midnight rendezvous in plain vesture, carrying a rescript that ordered the old harvest dance featuring a silver scythe to resume; though she feigned annoyance at my whimsy, the unworldly smile under her halo said she had planned the surprise.
 Unit 130
 drool — 流口水；垂涎
 revolt — 反抗；起义
@@ -1687,7 +1687,7 @@ disclose — 揭露；公开
 flicker — 闪烁；忽明忽暗
 awl — 锥子；尖钻
 The Last Carbon Copy
-During a momentous jazz archive hearing, a single flicker on the projector revealed deliberate erasure of signatures, and while rivals began to divagate and drool over blame, I used an awl to open a sealed tube and disclose letters that could bereave the minister of support and trigger a public revolt.
+During a momentous jazz archive hearing, a single flicker on the projector revealed deliberate erasure of signatures, and while rivals began to divagate and drool over the prospect of assigning blame, I used an awl to open a sealed tube and disclose letters that could bereave the minister of support and trigger a public revolt.
 Unit 131
 girth — 围度；周长
 leeward — 背风的；下风处
@@ -1700,7 +1700,7 @@ inexpedient — 不明智的；不合时宜的
 revenue — 收入；财政收入
 realign — 重新调整；重新排列
 Form at the Leeward Shrine
-At the leeward shrine, a petitioner with an illiterate father asked us to realign a tax form whose acronym and legal girth made closure impossible; because cutting clinic revenue was inexpedient, the clerk simplified every line and the crowd cheered.
+At the leeward shrine, a petitioner with an illiterate father asked us to realign a tax form whose dense acronym and sheer girth made closure impossible; because cutting clinic revenue was inexpedient, the clerk simplified every line and the crowd cheered.
 Unit 132
 hasten — 加快；催促
 dilemma — 两难困境
@@ -1713,7 +1713,7 @@ withstand — 承受住；抵挡
 faucet — 水龙头
 elixir — 灵药；妙方
 Night Kiln Lesson
-In a heterodox pottery class, Mei faced a dilemma when the faucet failed and the clay began to crack, so she did not hasten to panic but used a tea elixir bottle as a check on water use, wrapped each stalk in a garland of wet cloth, and helped every vase withstand the night.
+In a heterodox pottery class, Mei faced a dilemma when the faucet failed and the clay began to crack, so she did not hasten the drying; instead, she used an old elixir bottle to ration water and check waste, laid a damp garland around each vessel, and propped every flower stalk upright so the pieces could withstand the night.
 Unit 133
 teeter — 摇摇欲坠；摇晃
 facilitate — 促进；使便利
@@ -1726,7 +1726,7 @@ trajectory — 轨迹；发展路径
 tycoon — 大亨；巨头
 discipline — 纪律；自律
 Bronze Garden Emergency
-Watching the tycoon prance beside the statuary, the interns saw his confidence teeter when the surgeon explained that a damaged pancreas could alter his running trajectory, so she used calm discipline and a bright tourniquet demonstration to facilitate treatment while the room slipped into mesmerism.
+Watching the tycoon prance beside the statuary, the interns felt the mesmerism of the spectacle break when he began to teeter and fell. A surgeon applied a tourniquet to his bleeding leg, then explained that his diseased pancreas could alter the trajectory of his recovery; her calm discipline helped facilitate treatment.
 Unit 134
 nestle — 依偎；坐落于
 plummet — 暴跌；垂直下坠
@@ -1765,7 +1765,7 @@ hemorrhage — 大出血；严重流失
 retrench — 紧缩开支；削减
 rally — 集结；振作
 Dust on the Chapel Steps
-When a tangible clue appeared as a single granule of red dust, the medic used mnemonics to retrace the route to the chapel someone tried to desecrate, where an acarpous vine masked a balloon rigged to trigger a hemorrhage; we chose to retrench from the ridge and rally witnesses before accusing anyone of perjury.
+When a tangible clue appeared as a single granule of red dust, the medic used mnemonics to retrace the route to a chapel that vandals planned to desecrate, where an acarpous vine concealed a balloon packed with shards that could cause a hemorrhage; because budget cuts had forced us to retrench, we withdrew from the ridge and chose to rally witnesses before alleging perjury.
 Unit 137
 caulk — 填缝；填缝材料
 stylus — 触控笔；手写笔
@@ -1778,7 +1778,7 @@ slipshod — 草率的；敷衍的
 querulous — 爱抱怨的；发牢骚的
 militia — 民兵组织
 Rain in the Banner Gallery
-In the monarchy museum, a querulous albino curator used a stylus to label a sundry panel on militia banners, but a slipshod projection left gaps in the skylight plan, so we had to caulk the frame before dawn.
+In the monarchy museum, a querulous albino curator used a stylus to label a panel displaying sundry militia banners, but a slipshod projection of repair costs omitted gaps around the skylight, so we had to caulk the frame before dawn.
 Unit 138
 swell — 增大；肿胀
 daub — 涂抹；拙劣画作
@@ -1791,7 +1791,7 @@ gaggle — 一群（鹅或吵闹的人）
 allocate — 分配；拨给
 condole — 吊唁；慰问
 Peak Market Spiral
-After a market swell at the mountain peak, a gaggle from the press watched a street dolt daub chalk arrows and attempt a pirouette on wet stone, so the mayor asked me to mediate, allocate dry space for performers, and condole with the injured juggler.
+After a swell of visitors reached the market at the mountain peak, a gaggle from the press watched a local dolt daub chalk arrows on wet stone and attempt a pirouette there, so the mayor asked me to mediate the dispute, allocate dry space to performers, and condole with a juggler over his ruined props.
 Unit 139
 bust — 半身像；破产
 atheism — 无神论
@@ -1804,7 +1804,7 @@ malfeasance — 渎职；不法行为
 goggle — 瞪眼看；护目镜
 symmetry — 对称；匀称
 The Statue with Sensors
-During an arid semester, our observant science club used symmetry games as a stimulus against wearisome drills, until a bust in the hallway began to goggle at dawn because hidden wires and precipitation sensors exposed the principal's malfeasance and ended his loud atheism lectures.
+During an arid semester, our observant science club used symmetry games as a stimulus against wearisome drills. When precipitation activated hidden sensors in a hallway bust, students began to goggle at its moving eyes; the wiring exposed the principal's malfeasance, for he had diverted laboratory funds to his loud atheism lectures.
 Unit 140
 impact — 冲击；影响
 avowal — 公开承认；坦白
@@ -1817,7 +1817,7 @@ torque — 扭矩
 linen — 亚麻布；亚麻制品
 amputate — 截肢；切断
 Checklist Before Launch
-After the rocket test impact, the pilot made an avowal that a torque fault in the linen-wrapped valve could release fuel mid-flight, yet the optional safety outline had been ignored, so one cadet began to bawl as medics had to amputate a crushed hand.
+After a hard impact during the rocket test, the pilot made an avowal that a torque fault in the linen-wrapped valve could release fuel mid-flight, yet an optional warning in the safety outline had been ignored, so one cadet began to bawl as medics had to amputate his crushed hand.
 Unit 141
 inadvertence — 疏忽；无意之失
 kaleidoscopic — 千变万化的；万花筒般的
@@ -1830,7 +1830,7 @@ escalate — 升级；加剧
 reconnaissance — 侦察；勘察
 perch — 栖木；停落
 Drummer After the Parade
-Following a kaleidoscopic parade, one drummer missed his reconnaissance class through truancy, and a trivial spat escalated when his inadvertence knocked over a perch of doves, but the town clinic helped him convalesce and the mayor framed new amenity rules as a sanity lesson.
+Following a kaleidoscopic parade, one drummer's truancy caused him to miss reconnaissance class. During a trivial spat, he knocked over a dove perch through inadvertence, and the chaos threatened everyone's sanity as tempers began to escalate; afterward, the clinic's quiet garden proved a welcome amenity while it helped him convalesce.
 Unit 142
 costume — 戏服；服装
 disinfectant — 消毒剂
@@ -1843,7 +1843,7 @@ herpetologist — 爬虫两栖动物学家
 pilot — 试点；飞行员
 gridiron — 烤架；美式橄榄球场
 Snakes Beside the Gridiron Marsh
-Our pilot herpetologist wore a bright costume and carried disinfectant onto the gridiron marsh, where a naysayer tried to tangle every rope and recited the maxim that fame is impermanent; after we shared porridge and tagged the snakes, even he admitted the survey worked.
+During a pilot survey of the marsh beside the gridiron, a herpetologist wore a bright costume and carried disinfectant while a naysayer tried to tangle every marking rope and recited the maxim that fame is impermanent; after we shared porridge and tagged the snakes, even he admitted the survey worked.
 Unit 143
 sow — 播种；散布
 intersect — 相交；交叉
@@ -1856,7 +1856,7 @@ enterprise — 事业；企业
 attorney — 律师；代理人
 reward — 奖励；回报
 Floodplain Testimony
-In her recollection of the flood, the attorney said she watched two canals intersect beside a gem market as farmers sow seed on the roof of a massive enterprise, then police arrest looters at dawn and the governor reward the volunteer crews while ordering all superfluity removed from aid trucks.
+In her recollection of the flood, the attorney said she had watched two canals intersect beside a gem market as farmers sowed seed on the massive roof of an enterprise; police then made an arrest at dawn, and the governor offered a reward to the volunteer crews while ordering all superfluity removed from aid trucks.
 Unit 144
 whiff — 一股气味；些许
 voracity — 贪吃；贪婪
@@ -1869,7 +1869,7 @@ immensity — 广阔无边；巨大
 filament — 细丝；灯丝
 polyglot — 通晓多种语言的人；多语的
 Kiln Room Induction
-A tangy whiff from the kiln woke our lackadaisical apprentice during her induction, and when she showed scorn for safety, the polyglot master explained how a ceramic filament could survive the immensity of furnace heat only if fed at steady speed rather than voracity.
+A tangy whiff from the kiln woke our lackadaisical apprentice during her induction, and when she showed scorn for safety, the polyglot master explained how a ceramic filament could survive the immensity of the furnace heat only if fed at a steady speed; her voracity at lunch had no place beside the kiln.
 Unit 145
 profile — 轮廓；侧面
 apex — 顶点；最高点
@@ -1882,7 +1882,7 @@ cower — 蜷缩；畏缩
 infernal — 地狱般的；糟透的
 zigzag — 之字形；曲折行进
 Trail to the Aspen Ridge
-From a cliff profile, the ranger traced a zigzag path to the apex where dual streams met; there we watched milk curdle in the infernal heat, heard a euphonious flute among aspen leaves, and helped a lost child disentangle his kite instead of cower.
+Against the cliff's profile, the ranger traced a zigzag path to the apex where dual streams met; there we watched milk curdle in the infernal heat, heard a euphonious flute among aspen leaves, and helped a lost child disentangle his kite rather than let him cower.
 Unit 146
 bower — 凉亭；树荫小屋
 miscreant — 恶棍；不法之徒
@@ -1895,7 +1895,7 @@ dither — 犹豫不决；发抖
 analgesic — 镇痛药；止痛的
 cistern — 蓄水池；水箱
 Concerto by the Cistern
-Inside a vine bower, the treasurer heard a miscreant dither while a concerto drifted over the cistern, and when the thief tried to pry an ivory seal from an interstice with a hawser hook, an analgesic dart from security ended the chase.
+Inside a vine bower, the treasurer heard a miscreant dither while a concerto drifted over the cistern. When the thief tried to pry an ivory seal from an interstice with a hawser hook, he slipped on the wet stones; a guard caught him, and a medic gave him an analgesic for his injured ankle.
 Unit 147
 acquit — 宣告无罪；履行（义务）
 stigma — 污名；耻辱
@@ -1908,7 +1908,7 @@ entreat — 恳求；乞求
 fallacy — 谬误；错误观念
 moment — 瞬间；时刻
 Spoof Night at the Lantern Club
-At the comedy club, a plump spoof about a famous stigma made the audience acquit a rookie comic in that awkward moment, but his nubile partner began to resent the script, entreat him to fix its fallacy, and seep tears into her cue cards.
+At the comedy club, a plump actor performed a spoof of the fallacy that every nubile woman should seek marriage, but the joke deepened a stigma that his partner had come to resent. In that awkward moment, tears began to seep into her cue cards as she rose to entreat him to revise the script, and the audience refused to acquit him merely because he grinned.
 Unit 148
 span — 跨度；跨越
 flint — 燧石；打火石
@@ -1921,7 +1921,7 @@ lust — 欲望；贪欲
 sequestrate — 扣押；隔离
 dissertation — 学位论文；专题论文
 Dissertation at Sea
-To finish her dissertation aboard a yacht, Rina used a flint blade to incise map marks along a fencing post, opine on each coastal span, chastise her own lust for shortcuts, and finally sequestrate the forged chart in a cone-shaped locker.
+To finish her dissertation aboard a yacht, Rina used a flint blade to incise a reference mark into an old fencing post recovered from each coastal span. She would opine on the evidence, chastise herself for her lust for shortcuts, and ask the court to sequestrate the forged chart in a cone-shaped locker.
 Unit 149
 monsoon — 季风；雨季
 generation — 一代人；产生
@@ -1934,7 +1934,7 @@ mechanism — 机制；机械装置
 reagent — 试剂
 document — 文件；记录
 Minuet in Monsoon Season
-In monsoon season, our generation learned to wield a portable piano while tracking lactic buildup in dancers with nephritis, and the lab's clever mechanism let a single reagent turn each muddy sample into a clear document before the evening minuet.
+In monsoon season, a pianist recovering from nephritis played a minuet while researchers measured lactic acid in the dancers. A new mechanism allowed them to use one reagent to document the buildup clearly, and the younger generation learned to wield portable laboratory equipment without interrupting the piano recital.
 Unit 150
 alabaster — 雪白的；雪花石膏
 ostentation — 炫耀；铺张
@@ -1947,7 +1947,7 @@ spasmodic — 阵发性的；断断续续的
 conviviality — 欢乐气氛；友好热闹
 mettlesome — 勇敢好胜的；有斗志的
 Alabaster Ridge Survey
-The mettlesome tenant became my companion on an astronomical survey, where alabaster cliffs and spasmodic winds made each step harden our resolve; to supervise camp with conviviality, she mocked my ostentation and measured every rope twice.
+The mettlesome tenant became my companion on an astronomical survey, where alabaster cliffs and spasmodic winds made every step harden our resolve; her conviviality kept the camp cheerful as she helped supervise it, mocked my ostentation, and measured every rope twice.
 Unit 151
 tribulation — 苦难；磨难
 behold — 看；注视
@@ -1960,7 +1960,7 @@ component — 部件；组成部分
 rebellious — 叛逆的；反抗的
 qualms — 顾虑；不安
 Repairing the Seine Fleet
-In a year of tribulation, the harbor crew watched nets droop as the exchequer delayed aid, yet a rebellious captain said behold this spare buffer component for the old seine and swore we could restore the fleet despite everyone's qualms.
+In a year of tribulation, the harbor crew watched nets droop as the exchequer delayed aid, yet a rebellious captain pointed to a spare buffer, a crucial component of the old seine winch, and cried, "Behold our answer!" He swore we could restore the fleet despite everyone's qualms.
 Unit 152
 mandatory — 强制的；必须的
 scare — 惊吓；恐慌
@@ -1973,7 +1973,7 @@ overbearing — 专横的；盛气凌人的
 nonpareil — 无与伦比的人（或物）
 talisman — 护身符；吉祥物
 Cave Permit Hearing
-Because helmet lights were mandatory in the cave, the overbearing guide used an old talisman to scare tourists and intoxicate gullible teens, but my hardy partner produced an alibi, grabbed a trowel, and made the provident judge declare her nonpareil honesty.
+Because helmet lights were mandatory in the cave, the overbearing guide tried to scare tourists with an old talisman and intoxicate gullible teens with fumes from burning resin. My hardy partner, whose alibi proved that she had not lit it, used a trowel to uncover his stash; at the hearing, the provident judge praised her as a nonpareil investigator.
 Unit 153
 parameter — 参数；界限
 lave — 冲洗；沐浴
@@ -1986,7 +1986,7 @@ kidnap — 绑架；劫持
 cone — 圆锥；锥形体
 offbeat — 非传统的；不落俗套的
 Offbeat Costume Rehearsal
-Using a straightforward parameter chart, the costume artist would lave each garment and knot a scarf on the offbeat hero shaped like a cone, but producer compulsion to kidnap rehearsal time made the lead actor play martyr until we reset the schedule.
+Using a straightforward parameter chart, the costume artist would lave each garment and knot a scarf around a cone-shaped prop for an offbeat drama about a kidnap plot, but the producer's compulsion to revise every scene consumed rehearsal time and made the lead actor play the martyr until we reset the schedule.
 Unit 154
 drastic — 激烈的；严厉的
 assumption — 假设；承担
@@ -1999,7 +1999,7 @@ justifiable — 有正当理由的
 marsupial — 有袋动物
 lair — 巢穴；藏身处
 Intermission at the Minaret Stage
-After a drastic drought and famine, engineers displace families from a hill lair to build an amalgam reservoir beside the minaret, and during intermission at the council play a biologist challenged the assumption of easy relocation and showed why the move was justifiable by tracking a rare marsupial.
+After a drastic drought and famine threatened to displace families, engineers proposed an amalgam reservoir beside the minaret. During intermission at the council play, a biologist challenged the assumption that construction was justifiable by showing that the chosen hill was the lair of a rare marsupial.
 Unit 155
 verve — 活力；神采
 square — 广场；使成方形
@@ -2025,7 +2025,7 @@ monotony — 单调；乏味
 elevate — 提升；举起
 confidence — 信心；把握
 Cantata After the Bout
-Though unconscious after a horrific bout of pugilism, the novice heard a cantata from the chapel anchor his breathing as medics elevate his confidence; doctors presume recovery will beat the hierarchy of grim forecasts and end the monotony of fear.
+After a horrific bout of pugilism left the novice unconscious, medics used a pillow to elevate his head. A cantata from the chapel seemed to anchor his breathing and restore their confidence; doctors refused to presume an outcome, instead explaining the hierarchy of recovery steps and ending the monotony of fearful speculation.
 Unit 157
 genuflect — 屈膝致敬；卑躬屈膝
 enrapture — 使着迷；使狂喜
@@ -2038,7 +2038,7 @@ compatriot — 同胞
 spike — 猛增；尖刺
 husky — 嗓音沙哑的；结实的
 Song at Dawn Station
-At dawn, pilgrims genuflect before a husky singer whose inexhaustible voice can enrapture a crowd, but an illiberal official tried to alter the permit and mire her modest compatriot in fines until ticket prices spike.
+At dawn, pilgrims began to genuflect before a husky singer whose inexhaustible voice could enrapture a crowd, but an illiberal official tried to alter the permit and mire her modest compatriot in fines until ticket prices began to spike.
 Unit 158
 capsule — 胶囊；太空舱
 slander — 诽谤；诋毁
@@ -2051,7 +2051,7 @@ quondam — 昔日的；从前的
 abnegate — 放弃；克制
 compress — 压缩；压紧
 The Quondam Spy's Capsule
-The quondam spy used a foolproof stratagem to compress evidence into a brass capsule, and when glamorous hosts spread slander and twaddle about his motives, he chose to abnegate applause and present a verisimilar timeline instead.
+The quondam spy used a foolproof stratagem to compress evidence into a brass capsule, and when glamorous hosts spread slander and twaddle about his motives, he chose to abnegate his desire for applause and present a verisimilar timeline instead.
 Unit 159
 recline — 斜倚；躺卧
 snarl — 咆哮；缠结
@@ -2064,7 +2064,7 @@ bravura — 炫技表演；华丽技巧
 shriek — 尖叫；刺耳声
 plumb — 探测深度；彻底地
 The Accolate Shields
-On the museum floor, two accolate shields hung above a velvet chair where the duke would recline, but a snarl from the curator made me willy-nilly plumb the storeroom, recover a missing trinket, and convince the crowd that the singer's bravura still deserved prestige after one shriek from the balcony.
+On the museum floor, two accolate shields hung above a velvet chair where the duke would recline, but the curator's snarl forced me, willy-nilly, to plumb the storeroom and recover a missing trinket. I then managed to convince the crowd that the singer's bravura still deserved prestige after one shriek from the balcony.
 Unit 160
 emigrate — 移居国外；迁居
 deed — 行为；契约
@@ -2077,7 +2077,7 @@ disembody — 使脱离肉体；使抽离
 limp — 跛行；软弱无力的
 squalor — 肮脏；贫民窟般的状态
 Operetta Contract at Dawn
-After deciding to emigrate from the district's squalor, Ada signed every deed with pertinacious care because even an iota of error in the operetta company's contract could be called a misnomer; its yielding manager would limp away while a lighting trick seemed to disembody the lead singer.
+After deciding to emigrate from the district's squalor, Ada examined every deed with pertinacious care and refused to yield an iota to the operetta company's yielding manager. She warned that its name, Grand Palace Players, was a misnomer; that evening, a lighting trick seemed to disembody the lead singer while a comic actor pretended to limp away.
 Unit 161
 friable — 易碎的；松散的
 draft — 草稿；草案
@@ -2090,7 +2090,7 @@ persiflage — 戏谑；挖苦
 regal — 帝王般的；高贵的
 full-bodied — 醇厚的；浓郁的
 Regal Garden Menu
-The regal chef used persiflage to remonstrate with investors who pretend a full-bodied sauce can come from friable herbs, and his draft for carnivorous horticulture showed how roots penetrate stone beds behind the palace.
+Over a full-bodied wine, the regal head of palace horticulture used persiflage to remonstrate with investors who pretend carnivorous plants thrive in friable soil; his draft plan showed how their roots penetrate the firm beds behind the palace.
 Unit 162
 bloated — 臃肿的；肿胀的
 morose — 阴郁的；闷闷不乐的
@@ -2103,7 +2103,7 @@ cypress — 柏树
 benefactor — 赞助人；恩人
 malcontent — 不满分子；不满的
 Smoke over Cypress Row
-In a bloated refinery town, a morose malcontent set a formidable coop on fire, but an inflamed benefactor funded cypress barriers and petroleum filters, turning the earthshaking scandal into a clean-water campaign.
+In a refinery town bloated by rapid growth, a morose malcontent set a formidable coop on fire, but a benefactor, inflamed by the destruction, funded cypress barriers and filters for petroleum runoff, turning the earthshaking scandal into a clean-water campaign.
 Unit 163
 pedagogue — 教师；教育家
 rhyme — 押韵；韵文
@@ -2116,7 +2116,7 @@ maternal — 母亲的；母性的
 split — 分裂；裂开
 bracing — 令人振奋的；寒冷清爽的
 Bracing Winter Classroom
-Our maternal pedagogue used a snappy rhyme to notch each theorem into memory and entitle every shy child to speak, and when rivals tried to split the class with rumors, her incorruptible calm could intensify even a bracing winter lesson.
+Our maternal pedagogue used a snappy rhyme to notch each theorem into memory and entitle every shy child to speak, and when rivals tried to split the class with rumors, she chose to intensify the bracing winter lesson without losing her incorruptible calm.
 Unit 164
 measured — 审慎的；有节奏的
 outstrip — 超过；胜过
@@ -2129,7 +2129,7 @@ bump — 碰撞；隆起
 incandescence — 白炽发光；炽热光辉
 fathom — 彻底理解；测深
 Incandescence in the Wreck
-With measured breaths, the diver used an oblique lamp to indicate how one crack in the hull let gross algae coat every organism, and though the current would outstrip us with each bump, we could still fathom the wreck by following the incandescence of plankton.
+With measured breaths, the diver used an oblique lamp to indicate how one crack in the hull had let a gross layer of algae coat the wreck and threaten every organism inside it. Though the current could outstrip our fins after each bump against the timbers, we could still fathom the wreck's layout by following the incandescence of plankton.
 Unit 165
 pare — 削减；削皮
 vitreous — 玻璃状的；玻璃体的
@@ -2142,7 +2142,7 @@ falsehood — 谎言；虚假
 cadet — 军校学员；见习生
 pursue — 追求；追踪
 One-Page Incident Report
-The cadet had to pare a verified report to one page, but his gabby minion kept adding falsehood and every odd occurrence from patrol, including a vitreous bead lodged in the frieze, so the captain ordered him to pursue clarity.
+The cadet had to pare a verified report to one page, but his gabby minion kept adding a falsehood and every odd occurrence from patrol, including a vitreous bead lodged in the frieze, so the captain ordered him to pursue clarity.
 Unit 166
 precede — 先于；走在前面
 firearm — 火器；枪支
@@ -2155,7 +2155,7 @@ congruous — 一致的；和谐的
 riotous — 喧闹的；狂欢的
 spur — 刺激；马刺
 Truce at the Stockade Gate
-Before dawn, scouts precede the convoy into a congruous canyon, where I muse over the pith of our mission to betroth rival clans, yet a riotous prankster named Josh fired a firearm near the stockade and gave both chiefs a cruel spur to fight.
+Before dawn, scouts precede the convoy into a congruous canyon while I muse over the pith of our mission: to betroth the heirs of rival clans. Yet a riotous guard began to josh the riders, and when his firearm discharged near the stockade, the blast gave both chiefs a cruel spur to fight.
 Unit 167
 fustian — 浮夸空话；华而不实的
 depressant — 抑制剂；镇静剂
@@ -2168,7 +2168,7 @@ cavalry — 骑兵；装甲部队
 shattered — 粉碎的；极度疲惫的
 cold-blooded — 冷酷无情的；冷血的
 Perigee Mutiny
-At perigee tide, a mutinous drummer in clammy boots began to riffle through orders and shout fustian, while the cold-blooded captain called for cavalry support; when a shattered mast exposed our depressant stash, the crew signed a new manifesto.
+As the moon approached perigee, a mutinous drummer in clammy boots began to riffle through orders and shout fustian at the fort, while the cold-blooded captain called for cavalry support; when a shattered medicine chest exposed his secret depressant stash, the crew signed a new manifesto demanding his removal.
 Unit 168
 whim — 心血来潮；奇想
 trivia — 琐事；冷知识
@@ -2181,7 +2181,7 @@ quicksilver — 水银；变化无常的人
 remittent — 间歇性的；时轻时重的
 freckle — 雀斑；斑点
 Interlude on the Gangway
-During a cosmopolitan sea interlude, a veritable prince dropped a silver freckle pin down the gangway on a whim, then paid in quicksilver polish to calm the remittent engine while deckhands traded trivia about ports.
+During an interlude on a cosmopolitan voyage, a veritable prince noticed a freckle of rust on the gangway and, on a whim, ordered a quicksilver deckhand to polish it; nearby, a doctor monitored a passenger's remittent fever while sailors traded trivia about ports.
 Unit 169
 pathogen — 病原体
 district — 地区；行政区
@@ -2194,7 +2194,7 @@ helmet — 头盔；防护帽
 hypodermic — 皮下注射的；皮下注射针
 heliotrope — 天芥菜；浅紫色
 Heliotrope Test Strip
-In the clinic district, an observatory volunteer stood agape as a heliotrope dye flagged a pathogen in river spray, but an otiose official tried to swipe the hypodermic logs under his helmet; his disgust could not daunt the nurses.
+In the clinic district, a volunteer stood agape as a heliotrope dye flagged a pathogen in river spray, but an otiose official tried to swipe the testing logs and hide a hypodermic needle under his helmet; the nurses' disgust did not daunt them.
 Unit 170
 hurl — 猛掷；大声说出
 gaiety — 欢乐；欢快气氛
@@ -2207,7 +2207,7 @@ simulate — 模拟；假装
 obituary — 讣告
 ascendancy — 支配地位；优势
 Obituary Songs at the Pier
-At the memorial fair, a willowy singer in a tattered coat turned obituary verses into gaiety to hearten families indebted to storm relief, yet an insane heckler tried to hurl stones and simulate tears until elders conciliate the crowd and end his brief ascendancy.
+At the memorial fair, a willowy singer in a tattered coat turned obituary verses into gaiety to hearten families indebted to storm relief, yet an insane heckler tried to hurl stones and simulate tears until elders worked to conciliate the crowd and end his brief ascendancy.
 Unit 171
 remnant — 残余；遗迹
 leak — 漏洞；渗漏
@@ -2220,7 +2220,7 @@ sift — 筛选；细查
 winkle — 设法弄出；慢慢探出
 hedonist — 享乐主义者
 Coda from the Pipe Room
-A hedonist composer kept a rectangle notebook on his perch, where he would sift each motif from street noise, winkle a bright coda from a leak in old pipes, and turn jesting scraps into an awe-inspiring suite built from remnant sounds.
+A hedonist composer kept a notebook marked with a rectangle on his high perch, where he would sift each motif from street noise, winkle a bright coda from a leak in old pipes, and turn jesting scraps into an awe-inspiring suite built from each remnant of sound.
 Unit 172
 inaugural — 就职的；开幕的
 chubby — 圆胖的
@@ -2233,7 +2233,7 @@ swagger — 大摇大摆；神气活现
 cane — 手杖；藤条
 funereal — 葬礼般的；阴郁的
 Auction in the Necropolis Wing
-On inaugural night, a chubby auctioneer strutted with swagger and a cane through the necropolis museum, trying to underbid rivals for a railway monopoly, but one funereal fresco would rivet him and reveal his fallibility.
+On inaugural night, a chubby auctioneer strutted with swagger and a cane through the necropolis museum, promising to underbid his rivals for a railway monopoly, but one funereal fresco would rivet him and reveal his fallibility.
 Unit 173
 championship — 锦标赛；冠军头衔
 outwit — 以智取胜；智胜
@@ -2246,7 +2246,7 @@ distention — 膨胀；扩张
 cleft — 裂缝；裂开的
 whittle — 削；逐步减少
 Splint Before the Final
-During the championship semifinal, an optimist coach used genetics charts to outwit stronger teams, yet a spoilsport owner made us defer treatment until a player's distention caused his leg to convulse near a cleft in the turf, so the medic sat down to whittle a splint.
+During the championship semifinal, an optimist coach insisted that tactics could outwit any advantage of genetics, yet a spoilsport owner made us defer treatment until a player's abdominal distention caused him to convulse and fall beside a cleft in the turf, breaking his ankle; the medic then sat down to whittle a splint.
 Unit 174
 peddle — 兜售；沿街叫卖
 insuperable — 无法克服的；不可逾越的
@@ -2259,7 +2259,7 @@ analgesia — 无痛状态；镇痛
 scathe — 伤害；严厉批评
 cognomen — 别名；绰号
 Maze in the Old Quadrangle
-In the college quadrangle, a vendor tried to peddle fragile glass charms engraved with each student's cognomen, and when an inferior map made us vacillate before an insuperable and knotty maze, the nurse used analgesia cream on a twisted ankle and warned that rough stairs could scathe us.
+In the college quadrangle, a vendor tried to peddle fragile glass charms engraved with each student's cognomen, and when an inferior map made us vacillate before a knotty hedge maze that seemed insuperable, the nurse applied a cream to provide analgesia for a twisted ankle and warned that the rough stairs could scathe us.
 Unit 175
 mosque — 清真寺
 response — 回应；反应
@@ -2272,7 +2272,7 @@ stun — 使震惊；击晕
 barter — 以物易物；交易
 gratification — 满足；喜悦
 Armada at the Harbor Mosque
-At the harbor mosque, sailors stood abreast as an armada returned, and the crowd's delirious response would hearten any trader who chose to barter spices and stun children with sea tales, though critics tried to detract from the captain's quiet gratification after months at sea.
+At the harbor mosque, sailors stood abreast as an armada returned, and the crowd's delirious response helped hearten every trader who came to barter spices or stun children with sea tales; critics tried to detract from the welcome, but they could not diminish the captain's quiet gratification after months at sea.
 Unit 176
 jolt — 猛然震动；使震惊
 oatmeal — 燕麦粥；燕麦粉
@@ -2363,7 +2363,7 @@ dwelling — 住宅；住所
 animate — 使活跃；赋予生命
 diagonal — 对角线；斜的
 The Crooked Ticket on the Crag
-A manipulative guide ran a lottery outside a cliff dwelling, claiming that its winner would receive transcendental wisdom atop the crag. A puckish child noticed that every winning ticket bore the same diagonal scratch and exposed the con. Her discovery began to animate the disappointed crowd, who chose to applaud her and refund one another rather than chase the guide uphill.
+A manipulative guide ran a lottery outside a cliff dwelling, claiming that its winner would receive transcendental wisdom atop the crag. A puckish child noticed that every winning ticket bore the same diagonal scratch and exposed the con. Her discovery began to animate the disappointed crowd, who chose to applaud her and help one another recover their ticket money rather than chase the guide uphill.
 Unit 183
 obtainable — 可获得的；可达到的
 ejaculate — 突然喊出；射出
@@ -2597,7 +2597,7 @@ clip — 短片；剪下
 bumble — 笨拙行事；结结巴巴地说
 fragment — 碎片；片段
 The Mosaic in the Mogul's Hall
-At his palatial mansion, a film mogul arranged the secret disposal of a stolen mosaic fragment. A curator arrived to repatriate it and played a documentary clip showing the boor as he began to bumble through the excavation. The evidence did not entrance his guests, and damp packing cloth started to distend around the artifact, so conservators seized it before further damage occurred.
+At his palatial mansion, a film mogul arranged the secret disposal of a stolen mosaic fragment. A curator arrived to repatriate it and played a documentary clip showing the boor as he began to bumble through the excavation. The evidence did not entrance his guests, and a damp packing pouch started to distend around the artifact, so conservators seized it before further damage occurred.
 Unit 201
 skullduggery — 欺诈；诡计
 inflate — 充气；夸大
@@ -2610,7 +2610,7 @@ wrangle — 争吵；争论
 torture — 折磨；拷问
 deluge — 洪水；大量涌来
 The Masks after the Deluge
-After a deluge flooded the puppet workshop, its snappish owner began to wrangle with apprentices over ruined molding and the crudity of their repairs. One mask seemed to ail from trapped moisture, and restoring it became torture until they found a tube designed to inflate its hollow frame. Evidence of insurance skullduggery prompted the owner's resignation, leaving the apprentices to reopen the workshop cooperatively.
+After a deluge flooded the puppet workshop, its snappish owner began to wrangle with apprentices over ruined molding and the crudity of their repairs. The owner began to ail from mold trapped inside one mask, and restoring it became torture until they found a tube designed to inflate its hollow frame. Evidence of insurance skullduggery prompted the owner's resignation, leaving the apprentices to reopen the workshop cooperatively.
 Unit 202
 nutrient — 营养物；养分
 render — 使成为；呈现
@@ -2623,7 +2623,7 @@ penetration — 穿透；深入
 cripple — 使瘫痪；严重损害
 earshot — 听力范围；可听距离
 The Cracked Lattice at Ice Camp
-At an Antarctic research camp, salt penetration cracked the greenhouse lattice and threatened to cripple food production during an epidemic. Within earshot of the alarm, an engineer used coat padding to seal the frame while a botanist added each nutrient in context rather than by guesswork. Their repair helped render the seedlings healthy enough to survive the polar night.
+At an Antarctic research camp, salt penetration cracked the greenhouse lattice and threatened to cripple food production during an epidemic. Within earshot of the alarm, an engineer used coat padding to seal the frame while a botanist adjusted each nutrient according to the context supplied by soil readings. Their repair helped render the seedlings healthy enough to survive the polar night.
 Unit 203
 environs — 周边地区；郊区
 investigate — 调查；研究
@@ -2714,7 +2714,7 @@ periodical — 期刊；定期的
 ethos — 精神特质；价值观
 emergency — 紧急情况；突发事件
 The Silversmith's Rescue Cup
-A periodical praised the valorous characterization of a legendary captain but chose to omit the village coalition that had saved his vessel during an emergency. A silversmith found his forebear's names on a rescue cup and challenged the heroic ethos of the article. The editor printed a correction that finally honored every participant.
+A periodical praised the valorous characterization of a legendary captain but chose to omit the village coalition that had saved his vessel during an emergency. A silversmith found the name of each forebear on a rescue cup and challenged the heroic ethos of the article. The editor printed a correction that finally honored every participant.
 Unit 210
 dilapidate — 使破败；毁坏
 barbecue — 烧烤；烤肉架
@@ -2740,7 +2740,7 @@ liquid — 液体；流动的
 bore — 钻孔；令人厌烦的人
 surrender — 投降；放弃
 The Poet in the Clockwork Gallery
-A maladroit versemonger filled the clockwork gallery with trumpery and opprobrious rhymes, hoping to edify visitors, but a collision made his brass bird bore through a tank of blue liquid. Unable to baffle the spreading stain or endure the curator's glare, he chose to surrender his exhibit.
+A maladroit versemonger filled the clockwork gallery with trumpery and opprobrious rhymes, hoping to edify visitors, but a collision made his brass bird bore a hole through a tank of blue liquid. Unable to baffle the spreading stain or endure the curator's glare, he chose to surrender his exhibit.
 Unit 212
 yokel — 乡巴佬；土包子
 bootless — 无用的；徒劳的
@@ -2766,7 +2766,7 @@ lash — 鞭打；猛烈拍击
 jargon — 行话；术语
 spleen — 脾脏；怒气
 The Chrysanthemum Weather Station
-Mei placed a chrysanthemum beside her cameo in the mountain weather station, where an atmospheric depression made the radio issue apocalyptic jargon. Though the forecast seemed to predestine the valley for ruin, rain merely began to lash the windows; the unexceptionable data chastened her dramatic spleen before dawn.
+Mei placed a chrysanthemum beside her cameo in the mountain weather station, where an atmospheric depression made the radio issue apocalyptic jargon. Though the forecast seemed to predestine the valley to ruin, rain merely began to lash the windows; the unexceptionable data chastened her dramatic spleen before dawn.
 Unit 214
 deduce — 推断；演绎
 opalescence — 乳白光；蛋白石般光泽
@@ -2818,7 +2818,7 @@ repel — 击退；使厌恶
 bonhomie — 亲切友好；和蔼
 discrepancy — 差异；不一致
 The Floating Art School
-At the helm of a floating art school, Sana carried a miscellany of nonflammable paints to an arable island. A sudden squall threw every cluster of brushes into disarray and washed away a student's nude sketch, but the class used bonhomie to repel panic until Sana noticed a discrepancy in the compass and steered them home.
+At the helm of a floating art school, Sana carried a miscellany of nonflammable paints to an arable island. A sudden squall threw every cluster of brushes into disarray and washed away a student's nude sketch, but the class's bonhomie helped repel panic until Sana noticed a discrepancy in the compass and steered them home.
 Unit 218
 sprig — 小枝；嫩枝
 bourgeois — 中产阶级的；世俗物质的
@@ -2844,7 +2844,7 @@ seditious — 煽动叛乱的
 lustrous — 有光泽的；光辉的
 bleak — 荒凉的；无望的
 The Silver Crane on the Salt Flats
-From a bleak salt-flat outpost, Inez used a gracile silver crane to track wind currents and circulate a new perspective on migration. Officials branded her maps seditious, but vindicative photographs showed a lustrous flock following the same route; she would inherit the museum rack where the model now rests.
+From a bleak salt-flat outpost, Inez used a gracile silver crane to track wind currents and circulate a new perspective on migration. Officials branded her maps seditious, but vindicative photographs showed a lustrous flock following the same route; the museum agreed to inherit the model and display it on a rack.
 Unit 220
 intern — 实习生；拘禁
 insolvency — 无力偿债；破产
@@ -2883,7 +2883,7 @@ sewer — 下水道；缝纫者
 locus — 地点；中心
 incorporate — 纳入；合并
 The Mosaic Beneath Lantern Square
-A celebrated archaeologist who abominated any aspersion on the town's mixed lineage found the square in shambles after a touchy sewer repair. She helped scour the mud from a mosaic at the locus of an old market, then asked planners to incorporate its pattern into the new pavement.
+A celebrated archaeologist who abominated any aspersion on the town's mixed lineage found the square in shambles after a touchy dispute over a sewer repair. She helped scour the mud from a mosaic at the locus of an old market, then asked planners to incorporate its pattern into the new pavement.
 Unit 223
 viand — 食物；美味
 mote — 微粒；尘埃
@@ -2896,7 +2896,7 @@ delimit — 划定界限
 thaw — 解冻；融化
 numb — 麻木的；失去知觉的
 The Frozen Field Notebook
-Numb from waiting in a shabby hide, an ornithology student watched each mote of snow settle on an eagle's signature white tail. Her axiom was to delimit observation from interference, but when the bird showed gastric distress after swallowing a frozen viand, she let it thaw in her glove and called the rescue center.
+Numb from waiting in a shabby hide, an ornithology student watched each mote of snow settle on an eagle's signature white tail. Her axiom was to delimit observation from interference, but when the bird showed gastric distress beside a frozen viand, she removed the remaining food, let it thaw for examination, and called the rescue center.
 Unit 224
 tint — 色调；染色
 aberrant — 异常的；偏离常规的
@@ -2909,7 +2909,7 @@ soigne — 精心打扮的；讲究的
 cultivated — 有教养的；栽培的
 patrimony — 祖传遗产；继承物
 The Indigo Pod of Valmera
-In a cultivated valley divided by old hostility, a soigne botanist refused to scrimp on fencing around her family's patrimony, an aberrant indigo pod. Its strange tint drew a skittish fox away from nearby carrion, and the shared wonder finally brought both villages through her gate.
+In a cultivated valley divided by old hostility, a soigne botanist refused to scrimp on fencing around her family's patrimony, an aberrant indigo pod. Its strange tint helped her spot carrion lodged against the fence; after she removed it, a skittish fox stopped circling, and the shared work finally brought both villages through her gate.
 Unit 225
 forward — 向前；冒失的；转交
 grope — 摸索；探寻
@@ -2922,7 +2922,7 @@ tolerance — 宽容；耐受力
 mannered — 矫揉造作的；拘泥礼节的
 curt — 简短生硬的
 The Rooftop Supper Rehearsal
-During the pandemic, a mannered chef moved his play to a rooftop and allowed the cast leeway to improvise while he made a tasty supper. One actor had to grope through blackout scenery, catch a hanging noose, and stumble forward; the director's curt correction tested everyone's tolerance, but opening night earned an ovation.
+During the pandemic, a mannered chef moved his supper-theater production to a rooftop and allowed the cast leeway to improvise while he made a tasty meal. One actor had to grope through blackout scenery, catch a hanging noose, and stumble forward; the director's curt correction tested everyone's tolerance, but opening night earned an ovation.
 Unit 226
 florescence — 开花；花期
 seminary — 神学院；学校
@@ -2948,7 +2948,7 @@ surpass — 超越；胜过
 mend — 修补；改善
 apt — 恰当的；易于
 The Bear Seal of Northpass
-In a brutal winter, villagers accused the new ranger of cronyism when she hired her ursine, bearded cousin to dislodge ice from the pass. The charge threatened to estrange her from them, but his apt plan helped mend the road; they later embossed a bear on a medal to characterize courage that could surpass appearances.
+In a brutal winter, villagers accused the new ranger of cronyism when she hired her ursine, bearded cousin to dislodge ice from the pass. The charge threatened to estrange her from them, but his apt plan helped mend the road; they later embossed a bear on a medal to characterize the courage that could surpass their expectations.
 Unit 228
 offhand — 随口的；即兴的
 justify — 证明合理；为……辩护
@@ -2961,7 +2961,7 @@ immense — 巨大的；极好的
 drench — 浸透；使湿透
 defunct — 不复存在的；失效的
 The Defunct Lido Cookout
-At a cookout in a defunct seaside lido, a fussy actor made an offhand joke about a friend's dipsomania, then tried to justify it as permissive humor. An immense wave arrived to drench the grill before they could broil the fish; forced not to skimp on honesty, he apologized beside the smoking coals.
+At a cookout in a defunct seaside lido, a fussy actor made an offhand joke about a friend's dipsomania, then tried to justify it by claiming their friendship was permissive enough to excuse the insult. An immense wave arrived to drench the grill before they could broil the fish; with no distractions left, he chose not to skimp on honesty and apologized beside the smoking coals.
 Unit 229
 hubbub — 喧闹；骚动
 collateral — 附带的；并行的；抵押品
@@ -2974,7 +2974,7 @@ affected — 做作的；受影响的
 collude — 串通；勾结
 memoir — 回忆录；传记
 The Projector at Platform Nine
-Amid the hubbub of a night train, Lio ran an errand to fetch a bulb that would irradiate his grandmother's memoir on a platform screen. Two affected performers tried to collude and ration rehearsal time, but collateral damage to the projector was reparable, and they finally unbosomed their worries before the audience arrived.
+Amid the hubbub of a night train, Lio ran an errand to fetch a bulb that would irradiate the platform screen with images from his grandmother's memoir. Two affected performers tried to collude to ration rehearsal time, and their quarrel caused collateral damage to the projector; the damage was reparable, and they finally began to unbosom their worries before the audience arrived.
 Unit 230
 consolidation — 合并；巩固
 classify — 分类；归类
@@ -3000,7 +3000,7 @@ unobtrusive — 不显眼的；低调的
 wick — 灯芯；烛芯
 ken — 认知范围；视野
 The Signal beyond the Marsh
-To restrain his huffish guide from marching away, Arun used an unobtrusive probe from his apparatus to test the black marsh water rather than swill it; when the glowing wick revealed an underhanded trap beyond their ken, he chose not to upbraid her and quietly cut the hidden wire.
+To restrain his huffish guide from marching away, Arun used an unobtrusive probe from his apparatus to test the black marsh water and let its pump swill a sample through a filter; when a glowing wick revealed an underhanded trap whose maker was beyond their ken, he chose not to upbraid her and quietly cut the hidden wire.
 Unit 232
 dome — 圆顶；穹顶
 thread — 线；线索
@@ -3091,7 +3091,7 @@ virtuoso — 大师；技艺精湛的人
 tenure — 任期；终身职位
 wallop — 猛击；痛打
 The Fountain Concerto
-During her tenure at the hilltop shrine, a flute virtuoso helped separate ivy from the sacred fountain; beholden to no sponsor, she gave a reporter the scoop that a sneaking developer had blocked the spout, then used her staff to wallop the pipe free and end the drought's scourge.
+During her tenure at the hilltop shrine, a flute virtuoso helped separate ivy from the sacred fountain; beholden to no sponsor, she gave a reporter the scoop that a sneaking developer had blocked the spout, then used her staff to wallop the jammed valve until the pipe ran free, ending the drought's scourge.
 Unit 239
 unfounded — 无根据的
 spectator — 观众；旁观者
@@ -3117,7 +3117,7 @@ defendant — 被告
 unbidden — 未经邀请的；自发的
 alimentary — 消化的；营养的
 The Trial aboard the Resolute
-In a shipshape maritime museum, an ingenuous actor playing the defendant noticed that an unbidden visitor had moved a preposition in the trial script; the levelheaded director traced the phony clue to an alimentary chart in the galley, whose startling verisimilitude had sent the mystery game into parlous confusion.
+In a shipshape maritime museum, an ingenuous actor playing the defendant noticed that an unbidden visitor had moved a preposition in the trial script and planted a phony alimentary chart in the galley; the levelheaded director recognized that the chart's startling verisimilitude was meant to mislead the cast and prevented the mystery game from descending into parlous confusion.
 Unit 241
 illusion — 幻觉；假象
 polarity — 极性；两极分化
@@ -3130,7 +3130,7 @@ eligible — 符合条件的
 responsiveness — 响应能力；敏捷度
 covenant — 契约；盟约
 The Paper Mill Covenant
-After a seismic jolt split the old pulp mill, the town rejected the illusion that convenience should outweigh safety; residents of every political polarity signed a covenant requiring rapid responsiveness, made every tenant eligible for drills, and contrived new escape routes before neglect could fossilize into custom.
+After a seismic jolt split the old pulp mill, the town rejected the illusion that convenience should outweigh safety; despite their political polarity, residents signed a covenant requiring rapid responsiveness, made every tenant eligible for drills, and contrived new escape routes before neglect could fossilize into custom.
 Unit 242
 uptight — 紧张拘谨的；焦虑的
 desirable — 理想的；值得拥有的
@@ -3221,7 +3221,7 @@ despoil — 掠夺；破坏
 granite — 花岗岩
 virtual — 虚拟的；实质上的
 The Quarry Vote
-Admission to the virtual town hall was free, where a crash-test dummy beside a granite block became a vivid metaphor for the proposed quarry; after a monotonous presentation, residents from the adjacent valley rose to implore voters not to despoil the ridge, and the final ballot protected it.
+Admission to the virtual town hall was free; there, a crash-test dummy beside a granite block became a vivid metaphor for the proposed quarry, and after a monotonous presentation, residents from the adjacent valley rose to implore voters not to despoil the ridge before the final ballot protected it.
 Unit 249
 absolute — 绝对的；专制的
 persnickety — 挑剔的；过分讲究的
@@ -3260,7 +3260,7 @@ steep — 陡峭的；浸泡
 phenomenal — 非凡的；惊人的
 seasoning — 调味料；调味
 Supper Above the Firefly Gorge
-On a steep trail above the thermal springs, an exceptional cook watched a firefly settle on his splashy scarf while a stray ram waited for the floodwater to recede; taking the glow as a figurative invitation, he let mountain herbs steep in the stew, added one last seasoning, and served a phenomenal supper beneath the stars.
+On a steep trail above the thermal springs, an exceptional cook watched a firefly settle on his splashy scarf while a stray ram waited for the floodwater to recede; taking the glow as a figurative invitation, he let mountain herbs steep in the stew, added one last pinch of seasoning, and served a phenomenal supper beneath the stars.
 Unit 252
 satanic — 邪恶的；恶魔般的
 pundit — 权威人士；评论家
@@ -3299,7 +3299,7 @@ aesthetic — 审美的；美学的
 muffle — 捂住；使声音减弱
 shamble — 蹒跚而行
 The Last Location Before Dawn
-After a tiff over an exclusive film locale, two scouts resisted the temptation to shamble home and instead followed the odometer to an abandoned mill, where tactile brickwork gave the set its perfect aesthetic; they used blankets to muffle the generator, took control of the dawn shoot, and reconciled over coffee.
+After a tiff over an exclusive film locale, two scouts resisted the temptation to shamble home and instead used the odometer reading to locate an abandoned mill, where tactile brickwork gave the set its perfect aesthetic; they used blankets to muffle the generator, took control of the dawn shoot, and reconciled over coffee.
 Unit 255
 snowdrift — 雪堆；雪丘
 clarify — 澄清；阐明
@@ -3312,7 +3312,7 @@ pact — 协定；契约
 harridan — 凶悍的老妇；泼妇
 finagle — 欺骗取得；设法弄到
 The Fluorescent Flag at White Pass
-Pinned behind a snowdrift, the survey team made a pact to stay alert and let their fluorescent markers commingle with no other signals; an epideictic radio speech did little to clarify their position, but the guide whom rivals called a harridan managed to finagle a snowcat, telling everyone to cling to the towline until they reached the pass.
+Pinned behind a snowdrift, the survey team made a pact to stay alert and not let their fluorescent markers commingle with other signals; an epideictic radio speech did little to clarify their position, but the guide whom rivals called a harridan managed to finagle a snowcat, telling everyone to cling to the towline until they reached the pass.
 Unit 256
 conjunction — 结合；连词
 drill — 钻孔机；训练
@@ -3325,7 +3325,7 @@ potation — 饮酒；酒
 infliction — 施加；痛苦
 centrifugal — 离心的
 The Moonlit Carousel Test
-In conjunction with an exhaustive safety drill, engineers who specialize in centrifugal rides sent an aerial camera above the moonlit carousel; spectators began to gape when the winning prototype spun without a tremor, and the crew marked the end of their noisy infliction on the fairground with a modest potation.
+In conjunction with an exhaustive safety drill, engineers who specialize in centrifugal rides sent an aerial camera above the moonlit carousel; spectators began to gape when the winning prototype spun without a tremor, and the crew marked the end of the noise they had inflicted on the fairground, an unwelcome infliction, with a modest potation.
 Unit 257
 larder — 食品储藏室
 decline — 下降；婉拒
@@ -3351,7 +3351,7 @@ alphabetical — 按字母顺序的
 philistine — 庸俗之人；不重文化者
 midget — 极小的东西；侏儒（旧称）
 The Museum Below the Ice
-A donor gave the polar museum an alphabetical gazetteer, an insulin cylinder from an early expedition, and a spectral photograph of a midget submarine; when an anemic curator heard a visitor blurt that only a philistine would display such scraps, she calmly revealed how each object had saved a life.
+A donor gave the polar museum an alphabetical gazetteer, an insulin vial stored in a metal cylinder from an early expedition, and a spectral photograph of a midget submarine; when an anemic curator heard a visitor blurt that only a philistine would display such scraps, she calmly revealed how each object had saved a life.
 Unit 259
 principal — 校长；主要的
 perk — 福利；振作起来
@@ -3364,7 +3364,7 @@ windy — 多风的；冗长的
 microorganism — 微生物
 inquisitive — 好奇的；爱探究的
 The Petri Dish on the Roof
-At a windy rooftop science fair, an inquisitive child told the principal not to generalize from one smirch on a Petri dish: a harmless microorganism was preponderant in the sample, while the feared species appeared only in a disjunctive chart; even the class rapscallion began to perk up when her careful explanation won first prize.
+At a windy rooftop science fair, an inquisitive child told the principal not to generalize from one smirch on a Petri dish: a harmless microorganism was preponderant in the sample, while a disjunctive chart had misleadingly separated the feared species from the rest; even the class rapscallion began to perk up when her careful explanation won first prize.
 Unit 260
 momentum — 动力；势头
 negation — 否定；否认
@@ -3377,7 +3377,7 @@ revealing — 揭示真相的；暴露的
 expulsion — 驱逐；排出
 rarefaction — 稀薄；稀疏
 The Boxer in the Thin-Air Garden
-A retired pugilist gained momentum climbing to a high-altitude garden, where rarefaction made every breath revealing; unable to dissimulate his fatigue, he watched alpine leaves secrete resin, refused the guide's negation of the litter problem, helped strew clean mulch without letting plastic befoul the soil, and cheered the expulsion of waste from the reserve.
+A retired pugilist gained momentum climbing to a high-altitude garden, where rarefaction made his labored breathing revealing; unable to dissimulate his fatigue, he watched alpine leaves secrete resin, challenged the guide's negation of the litter problem, helped strew clean mulch without letting plastic befoul the soil, and supported the expulsion of waste from the reserve.
 Unit 261
 unrepentant — 不悔改的；顽固的
 plain — 平原；朴素的
@@ -3416,7 +3416,7 @@ shield — 保护；盾牌
 stock — 储备；家畜
 ignominy — 耻辱；不光彩
 The Goats of August Ridge
-An august veterinarian climbed a peak that seemed to dwarf the village, carrying enough stock to inoculate every goat; she would not repine over the heat or let a bystander shield a lazy herder from ignominy, because neglected kids could famish while healthy ones continued to frolic on the ridge.
+An august veterinarian climbed a peak that seemed to dwarf the village, carrying enough vaccine stock to inoculate every goat; she would not repine over the heat or let a bystander shield a lazy herder from ignominy, because neglected kids could famish while healthy ones continued to frolic on the ridge.
 Unit 264
 dash — 猛冲；少量
 limn — 描绘；勾画
@@ -3455,7 +3455,7 @@ stanch — 止住；遏制
 sidereal — 恒星的；星辰的
 grotto — 洞穴；岩洞
 The Observatory in the Grotto
-Inside a homely grotto converted into a functional observatory, the recipient of a sidereal research grant heard bats erupt in apparent rampage; rather than join the hysteria, she used an incubation camera to stanch speculation, and her surmise proved right when the colony settled around its newborn pups.
+Inside a homely grotto converted into a functional observatory, the recipient of a sidereal research grant heard bats erupt in apparent rampage; rather than join the hysteria, she used a camera to monitor incubation and stanch speculation, and her surmise proved right when the colony settled around its newborn pups.
 Unit 267
 veto — 否决；禁止
 stalwart — 坚定的；忠实的人
@@ -3481,7 +3481,7 @@ infinity — 无限；无穷
 sleazy — 肮脏的；不正派的
 fungicide — 杀菌剂；杀真菌剂
 The Greenhouse Without End
-A seasoned botanist with a silver epaulet arrived to renew the greenhouse license and found an omnipresent mildew that made one wing seem a sleazy void; by comparison, untreated seedlings stretched toward infinity, so she used a mild fungicide to rejuvenate the rare orchids and reopen the glasshouse.
+A seasoned botanist with a silver epaulet arrived to renew the greenhouse license and found omnipresent mildew turning one wing into a sleazy void; by comparison with the previous year's records, the damage was severe, though a mirrored wall still made the surviving seedlings appear to stretch toward infinity, so she used a mild fungicide to rejuvenate the rare orchids and reopen the glasshouse.
 Unit 269
 comprehensible — 易懂的；可理解的
 stoop — 弯腰；门廊
@@ -3533,7 +3533,7 @@ scruple — 顾忌；踌躇
 interlace — 交织；交错
 sentry — 哨兵；警卫
 The Living Mosaic at Gate Seven
-At Gate Seven, a sentry helped coordinate a midnight delivery of iodine slides while a cytology team watched luminous cells interlace; their stingy director had no scruple about hiding the specifics, but a technician quoted an aphorism about truth and released the images before secrecy could alienate the island clinic.
+At Gate Seven, a sentry helped coordinate a midnight delivery of iodine and slides while a cytology team watched luminous cells interlace; their stingy director had no scruple about hiding the specifics, but a technician quoted an aphorism about truth and released the images before secrecy could alienate the island clinic.
 Unit 273
 understate — 轻描淡写；少报
 forestry — 林业；森林学
@@ -3546,7 +3546,7 @@ starchy — 含淀粉的；刻板的
 maestro — 大师；名指挥
 billowy — 波浪般的；翻腾的
 The Maestro of the Cloud Forest
-It would understate the surprise to call the visitor unusual: a starchy maestro, hitherto an urban icon, arrived in billowy sleeves to analyze birdsong for a forestry survey, let wet straps chafe his shoulders, and composed a dawn chorus from calls that seemed incongruent only on paper.
+To call the visitor unusual would understate how surprising he was: a starchy maestro, hitherto an urban icon, arrived in billowy sleeves to analyze birdsong for a forestry survey, let wet straps chafe his shoulders, and composed a dawn chorus from calls that seemed incongruent only on paper.
 Unit 274
 deputy — 副手；代理人
 anachronistic — 时代错误的；过时的
@@ -3572,7 +3572,7 @@ undesirable — 不受欢迎的；有害的
 germinate — 发芽；萌生
 fraternity — 兄弟会；同业群体
 Seeds behind the Puppet Stage
-When an old marionette began to prod a hidden panel, a botanical savant used a spatula to retrieve seeds preserved with dried saliva; although the theater fraternity wanted to debar her as an undesirable intruder, she helped schematize the find, and the rare seeds began to germinate backstage.
+When an old marionette's foot began to prod a hidden panel during rehearsal, a botanical savant used a spatula to retrieve seeds preserved with dried saliva; although the theater fraternity wanted to debar her as an undesirable intruder, she helped schematize the find, and the rare seeds began to germinate backstage.
 Unit 276
 dicker — 讨价还价；交易
 legitimate — 合法的；正当的
@@ -3598,7 +3598,7 @@ endemic — 地方性的；特有的
 rigor — 严谨；严酷
 fretwork — 镂空装饰；格子细工
 The Dragonfly Log of Amber Bay
-Despite arthritis, a naturalist kept a log with scientific rigor as endemic dragonflies glide above the estuary; beneath a bridge's wooden fretwork she found an ecdysis shell bright as a mineral lode, proof that the fragile colony could weather another season.
+Despite arthritis, a naturalist kept a log with scientific rigor as endemic dragonflies glided above the estuary; beneath a bridge's wooden fretwork she found a shell left by ecdysis, bright as ore from a mineral lode, proof that the fragile colony could weather another season.
 Unit 278
 flock — 群；聚集
 legislate — 立法；制定法律
@@ -3650,7 +3650,7 @@ vertical — 垂直的；竖直线
 prevision — 预见；先见
 confirm — 证实；确认
 Bread at Zero Gravity
-With remarkable prevision, a baker aboard the orbital station used yeast to leaven dough despite weak gravitational pull, but a vertical oven jam made one queasy cadet retch; sensors confirm the supposedly stationary tray was drifting, so no vengeful cook demanded indemnity, and nobody had to decamp from the galley.
+With remarkable prevision, a baker aboard the orbital station used yeast to leaven dough despite weak gravitational pull, but a vertical oven jam made one queasy cadet retch; sensors confirmed the supposedly stationary tray was drifting, so no vengeful cook demanded indemnity, and nobody had to decamp from the galley.
 Unit 282
 spongy — 海绵状的；松软的
 full-blown — 完全成熟的；全面爆发的
@@ -3663,7 +3663,7 @@ ulcerate — 溃烂；使怨恨加深
 unfailing — 始终可靠的；无穷尽的
 viability — 生存能力；可行性
 The Moss Garden after the Fire
-After a full-blown inferno, two rival gardeners set aside their animus and swear to test the viability of roots beneath spongy moss; one feared the ash would ulcerate his hands, but their patron's munificence supplied gloves, and his unfailing jokes made them unbend as green shoots appeared.
+After a full-blown inferno, two rival gardeners set aside their animus, each willing to swear that roots beneath the spongy moss remained alive, and agreed to test their viability; one feared the ash would ulcerate his hands, but their patron's munificence supplied gloves, and his unfailing jokes made them unbend as green shoots appeared.
 Unit 283
 phonetic — 语音的；音标的
 rehearsal — 排练；预演
@@ -3676,7 +3676,7 @@ dexterous — 灵巧的；熟练的
 mantle — 披风；覆盖层
 ugly — 丑陋的；险恶的
 Ballots beneath the Theater
-During a hurricane rehearsal, a dexterous stagehand found suffrage ballots hidden beneath a velvet mantle and carried them to the shelter facilities; a phonetic roster helped officials discriminate between similar names, and an ugly history emerged without forcing the elderly cast into self-abasement.
+During a hurricane evacuation rehearsal, a dexterous stagehand found suffrage ballots hidden beneath a velvet mantle and carried them to secure facilities inside the shelter; a phonetic roster helped officials discriminate between similar names, and an ugly history emerged without forcing the elderly cast into self-abasement.
 Unit 284
 ruffle — 弄皱；激怒
 desalinize — 淡化；脱盐
@@ -3702,7 +3702,7 @@ announce — 宣布；通报
 deviant — 异常的；偏离常规者
 typographical — 印刷的；排字的
 The Printer beneath the Geyser
-During a jounce across the geyser field, an archivist had the hardihood to leave the wagon when she saw ink bubble from a buried repository; without time to dillydally, she began to indite a notice and announce their encounter with a deviant printing press whose typographical ornaments mapped hidden springs.
+During a jounce across the geyser field, an archivist had the hardihood to leave the wagon when she saw ink bubble from a buried repository; without time to dillydally, she began to indite a notice to announce their encounter with a deviant printing press whose typographical ornaments mapped hidden springs.
 Unit 286
 retreat — 撤退；静修处
 revile — 辱骂；痛斥
@@ -3715,7 +3715,7 @@ smuggle — 走私；偷运
 suspense — 悬念；焦虑
 embargo — 禁运；禁令
 The Cinnamon Voyage
-In the galley of a relief ship, a cook refused an emolument to smuggle cinnamon through an embargo; with a flick of flour he exposed the captain's specious manifest, prompting headquarters to countermand the retreat while the crew waited in suspense, choosing to revile no one until investigators arrived.
+In the galley of a relief ship, a cook refused an emolument to smuggle cinnamon through an embargo; with a flick of his cloth, he brushed flour from the captain's specious manifest and exposed false cargo entries, prompting headquarters to countermand the retreat while the crew waited in suspense, choosing to revile no one until investigators arrived.
 Unit 287
 enamored — 迷恋的；倾心的
 dispensable — 可有可无的；非必需的
@@ -3728,7 +3728,7 @@ indignant — 愤慨的；愤怒的
 chalice — 圣杯；高脚杯
 braggadocio — 自吹自擂；吹牛大王
 The Corn-Cob Concerto
-Enamored of kitchen acoustics, an indignant chef refused to let a critic's braggadocio aggrieve her ensemble; she used a cob as a scraper, made oil emulsify in a silver chalice, and proved that no subtle sound or supposedly dispensable utensil was beneath a concert.
+Enamored of kitchen acoustics, an indignant chef refused to let a critic's braggadocio aggrieve her ensemble; she used a cob as a scraper, made oil and vinegar emulsify in a silver chalice, and proved that no subtle sound or supposedly dispensable utensil was beneath a concert.
 Unit 288
 dyspeptic — 消化不良的；暴躁的
 sweltering — 闷热难耐的
@@ -3741,7 +3741,7 @@ eschew — 避开；戒绝
 petrology — 岩石学
 nutter — 疯子；怪人
 The Singing Basalt of Black Crater
-In a sweltering crater after curfew, a dyspeptic professor dismissed a singing basalt as hallucination and called its finder a nutter; the student chose to eschew an ingratiating reply, used petrology to show that wind caused the tones, and filed a petition before quarry blasts could undercut the discovery.
+In a sweltering crater after curfew, a dyspeptic professor dismissed a singing basalt as a hallucination and called its finder a nutter; the student chose to eschew an ingratiating reply, used petrology to show that wind caused the tones, and filed a petition before quarry blasts could undercut the discovery.
 Unit 289
 propel — 推进；驱使
 sequential — 按顺序的；连续的
@@ -3754,7 +3754,7 @@ gyrate — 旋转；回旋
 saccharine — 甜得发腻的；糖精的
 occupation — 职业；占领
 The Carousel at the Border Fair
-A grumpy mechanic watched painted horses gyrate as sequential bursts of steam propel a border carousel; although an illegal tariff threatened his occupation, he rejected both the inspector's ruthlessness and a vendor's saccharine flattery, and a favorable court ruling kept the fair open.
+A grumpy mechanic watched painted horses gyrate as sequential bursts of steam propelled a border carousel; although an illegal tariff threatened his occupation, he rejected both the inspector's ruthlessness and a vendor's saccharine flattery, and a favorable court ruling kept the fair open.
 Unit 290
 curb — 抑制；路缘
 colossal — 巨大的；庞大的
@@ -3780,7 +3780,7 @@ pout — 撅嘴；闷闷不乐
 clause — 条款；从句
 imperil — 危及；使陷入危险
 The Cipher in the Clock Tower
-Despite her debility, a peripatetic codebreaker used the council recess to decode a message hidden in the clock tower; the vote was unanimous to harness its warning, and although the mayor began to pout when an old clause made the shy apprentice the cynosure, nobody would imperil the town by ignoring her discovery.
+Despite her debility, a peripatetic codebreaker used the council recess to decode a message hidden in the clock tower; the vote was unanimous to harness the clock mechanism and heed its warning, and although the mayor began to pout when an old clause made the shy apprentice the cynosure, nobody would imperil the town by ignoring her discovery.
 Unit 292
 pagan — 异教的；异教徒
 canonical — 权威的；经典的
@@ -3806,7 +3806,7 @@ charm — 魅力；使着迷
 crib — 婴儿床；抄袭
 restored — 修复的；恢复的
 The Printer's Hidden Crib
-In a restored print shop, Mara found a brass die beneath the floor's clay substratum and heard her sardonic interlocutor liken its menthol scent to a ghost's breath; refusing to let his charm bamboozle her, she matched the design to a carved crib and uncovered the printer's secret nursery.
+In a restored print shop, Mara found a brass die beneath the floor's clay substratum and heard her sardonic interlocutor, sucking a menthol lozenge, liken its design to a ghost's seal; refusing to let his charm bamboozle her, she matched the design to a carved crib and uncovered the printer's secret nursery.
 Unit 294
 gloat — 幸灾乐祸；沾沾自喜
 behoove — 理应；对……有必要
@@ -3819,7 +3819,7 @@ diminution — 减少；缩小
 nonradioactive — 非放射性的
 infuse — 注入；泡制
 The Quiet Cable Below
-When a deep-sea cable began to fail, it would behoove the dive chief to splice it before any diminution of the signal could betoken disaster; a rival tried to hector the crew and gloat over the delay, but tests showed the strange beads were nonradioactive, helping dispel fears that would appall the islanders and infuse the repair team with fresh resolve.
+When a deep-sea cable began to fail, it behooved the dive chief to splice it before any diminution of the signal could betoken disaster; a rival tried to hector the crew and gloat over the delay, but tests showed the strange beads were nonradioactive, helping dispel fears that would appall the islanders and infuse the repair team with fresh resolve.
 Unit 295
 arrhythmic — 心律不齐的；无节奏的
 putative — 推定的；公认的
@@ -3897,7 +3897,7 @@ orchard — 果园
 drought — 干旱；旱灾
 lace — 点缀；掺入
 The Moonlit Orchard Stage
-During a drought, a troupe staged a drollery in the orchard with subdued lanterns, refusing to let a water deficit demean the village festival; their overriding concern was safety, so they would lace no drinks with herbs that might nauseate the crowd, yet performed with such fervor that even the thirsty trees seemed to applaud.
+During a drought, a troupe staged a drollery in the orchard with subdued lanterns, refusing to demean the village because of its water deficit; their overriding concern was safety, so they would lace no drinks with herbs that might nauseate the crowd, yet performed with such fervor that even the thirsty trees seemed to applaud.
 Unit 301
 surly — 脾气坏的；粗暴的
 anthem — 颂歌；国歌
@@ -3923,7 +3923,7 @@ descry — 远远看见；察觉
 flagging — 衰弱的；萎靡的
 den — 兽穴；隐蔽处
 Storm over the Mountain Den
-The forecast was grim, yet Mina took a swig of tea and refused to let the radical guide browbeat her, calmly preserving her dignity as she explained that his map was incompatible with the preface to the logbook and that she could descry smoke beyond the flagging pines near the bear's den.
+The forecast was grim, yet Mina took a swig of tea and refused to let the radical guide browbeat her, calmly preserving her dignity as she explained that his map was incompatible with the route described in the preface to the logbook and that she could descry smoke beyond the flagging pines near the bear's den.
 Unit 303
 studied — 刻意的；经过深思熟虑的
 backhanded — 间接讽刺的；反手的
@@ -3936,7 +3936,7 @@ obligation — 义务；责任
 jocular — 诙谐的；爱开玩笑的
 cringing — 畏缩的；卑躬屈膝的
 The Actor in the Snow
-During a perishing night, the studied actor answered a backhanded compliment with a jocular bow, refusing to deify the critic whose frequent hearsay ignored the subtle interplay of duty and fear in his role; he felt an obligation to defend the cringing understudy as well.
+During a perishing night, the studied actor answered a backhanded compliment with a jocular bow, refusing to deify the critic whose frequent reliance on hearsay ignored the subtle interplay of duty and fear in his role; he felt an obligation to defend the cringing understudy as well.
 Unit 304
 erstwhile — 从前的；往昔的
 flaccid — 松弛的；软弱的
@@ -3949,7 +3949,7 @@ artery — 动脉；干道
 spruce — 云杉；整洁漂亮的
 milestone — 里程碑；重大事件
 The Restored Theater
-An erstwhile dancer used a spruce model to delineate how the theater's main artery of corridors could regain cohesion, while a blue sheen helped soothe concerns about each flaccid curtain's age; the architect called her ingenious lighting quirk a milestone in restoration.
+An erstwhile dancer used a model made of spruce to delineate how the corridors forming the theater's main artery could regain cohesion, while a blue sheen helped soothe concerns about each flaccid curtain's age; the architect called her ingenious lighting quirk a milestone in restoration.
 Unit 305
 scorching — 灼热的；严厉的
 deductive — 演绎的；推论的
@@ -3962,7 +3962,7 @@ philology — 语文学；文献学
 assessment — 评估；评价
 libretto — 歌剧剧本
 The Scorched Libretto
-Under the scorching awning, a vendor offered a rumpled libretto wrought in faded ink, and a philology student's deductive assessment exposed an innuendo that would rankle the dean enough to rumple his immaculate collar.
+Under the scorching awning, a vendor offered a rumpled libretto wrought with intricate borders and written in faded ink, and a philology student's deductive assessment exposed an innuendo that would rankle the dean enough to rumple his immaculate collar.
 Unit 306
 contraband — 违禁品；走私货
 accuse — 指控；控告
@@ -3975,7 +3975,7 @@ byline — 署名行
 resentment — 怨恨；愤慨
 oratorio — 清唱剧；宗教剧
 The Warden's Byline
-On impulse, the warden chose not to accuse the inebriate of hiding contraband inside an oratorio score; instead, his byline described the man's agony and resentment without execration, prompting the prison choir to offer help.
+On impulse, the warden chose not to accuse the inebriate of hiding contraband inside an oratorio score; instead, an article under his byline described the man's agony and resentment without execration, prompting the prison choir to offer help.
 Unit 307
 layman — 外行；普通信徒
 retinue — 随行人员；扈从
@@ -4014,7 +4014,7 @@ subvention — 补助金；财政援助
 grace — 优雅；恩典
 oxidize — 氧化
 The Desert Sculpture
-Despite the unsettling news that a subvention had vanished, the unflappable artist used her last purchase to fasten copper leaves onto a desert sculpture, explaining with grace how heat and air interaction would oxidize them and turn constraint into beauty.
+Despite the unsettling news that a subvention had vanished, the unflappable artist used her last purchase, a coil of wire, to fasten copper leaves onto a desert sculpture, explaining with grace how the interaction of heat and air would oxidize them and turn constraint into beauty.
 Unit 310
 surmount — 克服；登上
 diabolic — 恶魔般的；邪恶的
@@ -4079,7 +4079,7 @@ antenna — 天线；触角
 humane — 人道的；仁慈的
 sovereignty — 主权；最高权力
 The Island Signal
-A zephyr carried the smell of fruit beginning to putrefy across the dock, where islanders cooperated to prune storm-battered trees and raise an antique antenna with balled rope, making the humane rescue an assertion of their sovereignty.
+A zephyr carried the smell of fruit beginning to putrefy across the dock, where islanders cooperated to prune storm-battered trees and raise an antique antenna; when a rescue ship answered the signal, their balled fists relaxed, and the humane rescue became an assertion of their sovereignty.
 Unit 315
 stash — 藏匿；储藏物
 nonthreatening — 不具威胁性的
@@ -4092,7 +4092,7 @@ overpowering — 压倒性的；强烈的
 forthright — 直率的；坦诚的
 prop — 支撑；道具
 The Prop Room Confession
-Behind a nonthreatening cardboard prop, the actor found a stash of disposable masks whose cyclical use caused an overpowering sense of dissociation; with a supple gesture and forthright confession, she chose to conquer the fear that each role erased her identity.
+Behind a nonthreatening cardboard prop, the actor found a stash of disposable masks from a cyclical series of plays; their overpowering sameness triggered a sense of dissociation, but with a supple gesture and forthright confession, she chose to conquer the fear that each role erased her identity.
 Unit 316
 abut — 邻接；毗连
 grief — 悲痛；悲伤
@@ -4118,7 +4118,7 @@ boost — 提升；促进
 transience — 短暂；无常
 reprobate — 堕落者；谴责
 The Breakfast Broadcast
-During an intermittent radio signal, a convivial host let a blowhard reprobate blare claims that aliens would invade the cereal factory, but a stellar astronomer used the absurd broadcast to boost public interest in the transience of meteor trails.
+During an intermittent radio signal, a convivial host let a blowhard reprobate blare out claims that aliens would invade the cereal factory, but a stellar astronomer used the absurd broadcast to boost public interest in the transience of meteor trails.
 Unit 318
 evenhanded — 公平的；不偏不倚的
 gratis — 免费地；免费的
@@ -4131,7 +4131,7 @@ squirt — 喷射；喷出
 sedulous — 勤勉的；孜孜不倦的
 nightmare — 噩梦；可怕经历
 The Fairground Rescue
-The evenhanded judge offered admission gratis to a sedulous child who noticed thieves preparing to maraud the fair, and despite her excitability and frightened wheeze, she used a water squirt to spring their snare before it trapped the prize delicacy, ending the vendor's nightmare.
+The evenhanded judge offered admission gratis to a sedulous child who noticed thieves preparing to maraud the fair and set a snare for the vendor carrying the prize delicacy; despite her excitability and frightened wheeze, she sent a squirt of water at the trigger, springing it early and ending the vendor's nightmare.
 Unit 319
 boast — 吹嘘；以拥有……自豪
 tripod — 三脚架
@@ -4144,7 +4144,7 @@ excess — 过量；超额
 surveyor — 测量员；勘测师
 lexicon — 词典；词汇表
 The Surveyor's Lost Lexicon
-A doctrinaire surveyor liked to boast that his ethnology lexicon was flawless, but after a tripod toppled into the river, he refused to perjure himself about the excess expense and promised to reimburse the guide who helped retrieve it.
+A doctrinaire surveyor liked to boast that his ethnology lexicon was flawless, but after a tripod toppled into the river, he refused to perjure himself about the expense in excess of the budget and promised to reimburse the guide who helped retrieve it.
 Unit 320
 bottleneck — 瓶颈；交通堵塞
 toupee — 男用假发
@@ -4183,7 +4183,7 @@ adage — 谚语；格言
 virago — 泼妇；强悍女子
 hangdog — 羞愧的；垂头丧气的
 The Candle Supper
-In the abbey refectory, a hangdog mill boy tried to reserve the last loaf to satisfy his craving, but a stern virago quoted an adage about sharing, used wax to mend the candle, and warned that one careless skewer could impale the bread and make his disgrace irrevocable.
+In the abbey refectory, a hangdog mill boy tried to reserve the last loaf to satisfy his craving, but a stern virago quoted an adage about sharing; as hunger began to wax, she used a skewer to impale roasted onions for a common meal, and he realized that his selfish choice need not be irrevocable.
 Unit 323
 content — 满足的；内容
 grease — 油脂；涂油
@@ -4196,7 +4196,7 @@ settle — 解决；定居
 flammable — 易燃的
 goldbrick — 偷懒者；逃避工作
 The Striped Workshop
-A gadfly inspector arrived with a presentiment that the resident goldbrick had used flammable grease to striate a theater mask, yet the vivid design would ravish the troupe, invigorate their tired director, settle the dispute, and leave everyone content.
+A gadfly inspector arrived with a presentiment that the resident goldbrick had used flammable grease to striate a theater mask; he made the worker settle the safety violation by removing it, and the safe, vivid replacement would ravish the troupe, invigorate their tired director, and leave everyone content.
 Unit 324
 occlude — 堵塞；遮蔽
 knoll — 小丘；圆丘
@@ -4222,7 +4222,7 @@ patrician — 贵族的；贵族
 retard — 延缓；阻碍
 unify — 统一；使联合
 The Tailor's Green Parade
-A verbose patrician demanded a sartorial masterpiece by the next installment of the spring parade, but an insider could divine that debt would straiten the tailor, retard his work, and force the guild to unify around a humbler coat embroidered with a seedling.
+A verbose patrician demanded a sartorial masterpiece by the next annual installment of the spring parade, but an insider could divine that debt would straiten the tailor, retard his work, and force the guild to unify around a humbler coat embroidered with a seedling.
 Unit 326
 grandiose — 浮夸的；宏伟的
 asset — 资产；有用的人
@@ -4248,7 +4248,7 @@ cite — 引用；传唤
 finite — 有限的；有限物
 sacrament — 圣礼；圣事
 The Bell Tower Medicine
-A tightfisted apothecary began to simper when an urchin threatened to cite a statute requiring a free dose for pilgrims; to bolster his plea, the boy invoked the sacrament, warned that mercy was finite, and refused to let sugary flattery cloy his resolve.
+A tightfisted apothecary began to simper when an urchin threatened to cite a statute requiring a free dose for pilgrims; to bolster his plea, the boy invoked the sacrament, warned that the medicine supply was finite but mercy should not be, and refused to let the apothecary's sugary flattery cloy the waiting pilgrims.
 Unit 328
 unmoved — 无动于衷的；坚定的
 calumniate — 诽谤；中伤
@@ -4261,7 +4261,7 @@ gerontocracy — 老人统治；长老政治
 dialect — 方言；地方话
 traceable — 可追溯的；能查出的
 The Vanishing Kettle
-On a balmy evening, steam began to creep from an heirloom kettle through vaporization, and although the village gerontocracy remained unmoved by its impenetrable inscription, a potter recognized the dialect and proved the relic traceable to an ancestor whom rivals once tried to calumniate.
+On a balmy evening, water in an heirloom kettle underwent vaporization and steam began to creep from its spout; although the village gerontocracy remained unmoved by its impenetrable inscription, a potter recognized the dialect and proved the relic traceable to an ancestor whom rivals once tried to calumniate.
 Unit 329
 ratification — 批准；正式认可
 stiff — 僵硬的；严厉的
@@ -4274,7 +4274,7 @@ souvenir — 纪念品
 hallow — 使神圣；尊崇
 ventriloquist — 腹语表演者
 The Puppet and the Pup
-An uncommitted council gathered for the ratification of a plan to hallow the old theater, where a ventriloquist used a stiff wooden fox to advertise a souvenir sale until a stray whelp leaped onto the lot and made the startled audience shudder with delight.
+An uncommitted council gathered for the ratification of a plan to hallow the old theater, where a ventriloquist used a stiff wooden fox to advertise a souvenir sale until a stray whelp leaped onto the theater lot and made the startled audience shudder with delight.
 Unit 330
 decentralize — 分散管理；权力下放
 swarm — 蜂拥；一大群
@@ -4287,7 +4287,7 @@ inequity — 不公平；不公正
 monetary — 货币的；金钱的
 stickler — 坚持细节的人；顽固者
 The Drums of City Hall
-When a swarm filled city hall during a percussion concert, a stickler for safety ordered everyone to evacuate, exposing an imbroglio in which officials tried to court donors with monetary favors; the resulting inequity persuaded the court to decentralize authority before patronage could ensnare another district.
+When a swarm of bees filled city hall during a percussion concert, a stickler for safety ordered everyone to evacuate, exposing an imbroglio in which officials tried to court donors with monetary favors; the resulting inequity persuaded the court to decentralize authority before patronage could ensnare another district.
 Unit 331
 rive — 撕裂；劈开
 cavort — 欢跃；嬉戏
@@ -4313,7 +4313,7 @@ avenge — 为……报仇；雪耻
 blush — 脸红；红润
 cipher — 密码；无足轻重的人
 The Nurse's Hidden Message
-An ambulatory casualty escaped the tedium of recovery by trying to cipher a note sewn beneath his bandage, but chaffing made him blush; a nurse used a slice of leather to hone her needle, decoded his wish to commemorate rather than avenge his fallen friend, and carried it to the chapel.
+An ambulatory casualty escaped the tedium of recovery by trying to decode a cipher in a note sewn beneath his bandage, but his comrades' chaffing made him blush; a nurse used a slice of leather to hone her needle, uncovered his wish to commemorate rather than avenge his fallen friend, and carried it to the chapel.
 Unit 333
 affectation — 做作；装腔作势
 reap — 收割；获得
@@ -4326,7 +4326,7 @@ astigmatic — 散光的；像散的
 tepid — 微温的；不热情的
 helot — 奴隶；受压迫者
 The Desert Stage
-An astigmatic actor playing a helot refused the director's tepid water and acerbic advice after a mild concussion, then dropped his sepulchral affectation to steer the troupe toward a living xerophyte, where they could reap shade and finish the desert scene honestly.
+An astigmatic actor playing a helot refused the director's tepid water and acerbic advice after a mild concussion, then dropped his sepulchral affectation to steer the troupe toward a living xerophyte, where they could reap the benefit of its shade and finish the desert scene honestly.
 Unit 334
 rookie — 新手；菜鸟
 sticky — 黏的；棘手的
@@ -4339,7 +4339,7 @@ disrepute — 坏名声；声名狼藉
 overreach — 做事过头；伸得过远
 hyperactivity — 活动过度；多动
 The Museum's Midnight Rookie
-A rookie guard, the embodiment of hyperactivity, rushed through the stately museum and knocked a sticky label from the fossil collection; fearing disrepute, he tried to overreach his authority with a retroactive rule, only to marvel when the curator calmly helped him restore the display.
+A rookie guard, the embodiment of hyperactivity, rushed through the stately museum and knocked a sticky label from the fossil collection; fearing disrepute, he tried to overreach by imposing a retroactive rule, only to marvel when the curator calmly helped him restore the display.
 Unit 335
 discernible — 可辨认的；明显的
 preoccupation — 全神贯注；心事
@@ -4365,7 +4365,7 @@ propitiate — 安抚；取悦
 theoretical — 理论上的；假设的
 sequela — 后遗症；继发症
 The Observatory Well
-To propitiate residents angry about a new water ordinance, an astronomer made a bid to convert an underutilized crater model into a cistern, arguing that its theoretical capacity would let livestock guzzle safely; a healed sequela allowed him to rejoin the council, where blue flags would signify approval.
+To propitiate residents angry about a new water ordinance, an astronomer made a bid to convert an underutilized crater model into a cistern, arguing that its theoretical capacity would let livestock guzzle safely; recovery from a lingering sequela allowed him to rejoin the council, where blue flags would signify approval.
 Unit 337
 yeast — 酵母；促进因素
 atrocious — 糟糕的；残暴的
@@ -4378,7 +4378,7 @@ strip — 剥去；狭长地带
 antecedent — 前因；先例
 quagmire — 沼泽；困境
 The Baker's Mosaic Trail
-After an atrocious storm left the town in torpor, a baker used yeast as bait and a strip of bright mosaic tiles as a tactic to lead families across a quagmire; no antecedent made the route invulnerable, but their safe arrival brought her vindication.
+After an atrocious storm left the town in torpor, a baker used yeast to make bread and laid a strip of bright mosaic tiles as a tactic to guide families across a quagmire; although no antecedent existed for her plan and the route was hardly invulnerable, their safe arrival brought her vindication.
 Unit 338
 vernacular — 方言；本地话
 acerbity — 尖刻；酸涩
@@ -4404,7 +4404,7 @@ nourish — 滋养；培养
 delectable — 美味的；宜人的
 trawl — 拖网捕捞；搜集
 The Fisher's Healing Feast
-A timid fisher cut the distal joint of his finger while trying to trawl before dawn, but rather than forfeit the catch or let an upstart captain wreak havoc, he took a painkiller and invited the crew to congregate around a delectable stew that would nourish their trust.
+A timid fisher cut the skin over the distal joint of his finger while trying to trawl before dawn; unwilling to forfeit the catch yet determined not to let an upstart captain wreak havoc, he ordered the boat ashore, took a painkiller after bandaging the wound, and invited the crew to congregate around a delectable stew that would nourish their trust.
 Unit 340
 addict — 使沉迷；成瘾者
 charade — 装模作样；猜字游戏
@@ -4430,7 +4430,7 @@ sluice — 水闸；冲洗
 foyer — 门厅；休息厅
 dalliance — 调情；短暂涉足
 The Floodgate in the Painted Foyer
-In the gorgeous foyer of a quaint manor, a self-absorbed heir dismissed a muddy suppliant's warning as dalliance with matters outside her domain, but the visitor produced an original map with ironclad evidence that opening one hidden sluice would save the village from the rising river.
+In the gorgeous foyer of a quaint manor, a self-absorbed heir dismissed a muddy suppliant's warning as a mere dalliance with matters outside her domain, but the visitor produced an original map with ironclad evidence that opening one hidden sluice would save the village from the rising river.
 Unit 342
 enjoin — 命令；禁止
 lapidary — 宝石雕刻的；精炼的
@@ -4443,7 +4443,7 @@ truncate — 截短；删节
 superiority — 优越；优势
 lynch — 私刑处死
 The Signal above Quarry Square
-When an impudent foreman tried to enjoin the crowd to lynch a suspected thief, a lapidary climbed the quarry crane and used wigwag signals to reveal that the man had merely taken an ambrosial pie; her terse words, which no formality could truncate, pulverize the foreman's claim of superiority and restore calm.
+When an impudent foreman tried to enjoin the crowd to lynch a suspected thief, a lapidary climbed the quarry crane and used wigwag signals to reveal that the man had merely taken an ambrosial pie; her terse words, which no formality could truncate, pulverized the foreman's claim of superiority and restored calm.
 Unit 343
 pressing — 紧迫的；急切的
 hemophilia — 血友病
@@ -4456,7 +4456,7 @@ interdict — 禁令；禁止
 folksy — 亲切朴实的；民间风格的
 philately — 集邮；邮票研究
 The Stamp beneath the Tarpaulin
-A folksy curator faced a pressing riddle when rain began to riddle the museum roof: an old interdict barred her from moving the philately exhibit, but a visitor with hemophilia showed enough self-assertion to challenge a lowbred guard, spread a tarpaulin over the stamps, and stop officials from deciding to inter the ruined collection forever.
+A folksy curator faced a pressing riddle as rain poured through holes that riddled the museum roof: an old interdict barred her from moving the philately exhibit, but a visitor with hemophilia showed enough self-assertion to challenge a lowbred guard and spread a tarpaulin over the stamps, freeing the curator to inter a late donor's ashes as planned.
 Unit 344
 wholesome — 有益健康的；健全的
 brassy — 黄铜色的；刺耳张扬的
@@ -4508,7 +4508,7 @@ requite — 回报；报复
 glee — 欢欣；幸灾乐祸
 sting — 刺痛；蜇伤
 The Pastry Chef's Arabesque
-On a nippy festival morning, a gourmand magistrate threatened to persecute a young baker after a snitch blamed her for his allergic sting, but her endearing assistant gave a compelling account of the mislabeled almonds; the judge chose to requite their honesty with a prize, and the baker traced an arabesque in sugar amid the crowd's glee.
+On a nippy festival morning, a gourmand magistrate threatened to persecute a young baker after a snitch blamed her when mislabeled almonds made his throat sting, but her endearing assistant gave a compelling account of the error; the judge chose to requite their honesty with a prize, and the baker traced an arabesque in sugar amid the crowd's glee.
 Unit 348
 polyandry — 一妻多夫制
 severe — 严重的；严厉的
@@ -4521,7 +4521,7 @@ mallet — 木槌
 privilege — 特权；荣幸
 sensible — 明智的；实用的
 The Bell of Three Households
-In a striated canyon settlement founded on polyandry, elders would reminisce about their utopian charter and intersperse each tale with a mallet strike on the council bell, until a severe drought exposed their hypocritical use of water privilege and a sensible shepherd proposed equal rations for every household.
+In a striated canyon settlement founded on polyandry, elders would reminisce about their utopian charter and intersperse each tale with a mallet strike on the council bell, until a severe drought exposed their hypocritical claim of privilege over water and a sensible shepherd proposed equal rations for every household.
 Unit 349
 evict — 驱逐；赶出
 consul — 领事
@@ -4547,7 +4547,7 @@ agglomerate — 聚集；团块
 guilt — 内疚；罪责
 projector — 投影仪
 The Silent Film at Harbor Hall
-A foppish director screened a graphic documentary with a failing projector, but its labored narration and gluttonous appetite for tragedy reduced a storm-stricken town to superficiality; when the soundtrack went mute, images began to agglomerate into an honest portrait, and his guilt prompted him to let the survivors tell their own story.
+A foppish director screened a graphic documentary with a failing projector, but its labored narration and the director's gluttonous appetite for tragedy reduced a storm-stricken town to superficiality; when the soundtrack went mute, images began to agglomerate into an honest portrait, and his guilt prompted him to let the survivors tell their own story.
 Unit 351
 warehouse — 仓库；储存
 grasping — 贪婪的；紧抓的
@@ -4560,7 +4560,7 @@ shear — 剪切；剪羊毛
 manuscript — 手稿
 drain — 排水沟；耗尽
 The Manuscript in Warehouse Nine
-During a frigid flood, a grasping publisher hid a confidential manuscript in a warehouse and tried to dodge its author, but muddy water rose through the drain until a shepherd used his sheep shear to cut open the crate, rescue the pages, and ensure the village poet received full credit.
+During a frigid flood, a grasping publisher hid a confidential manuscript in a warehouse and tried to dodge its author, but muddy water rose through the drain until a shepherd used his sheep shears to cut open the crate, rescue the pages, and ensure the village poet received full credit.
 Unit 352
 elephantine — 巨大的；笨重的
 crevice — 裂缝；缝隙
@@ -4573,7 +4573,7 @@ bracket — 托架；括号
 immune — 免疫的；不受影响的
 pathology — 病理学；病变
 The Hieroglyph below the Waterline
-An elephantine research barge nearly began to capsize when a sere wooden bracket split beside a hull crevice, yet an immune-biology student studying coral pathology found a hieroglyph marking an ancient repair; rather than bowdlerize the captain's log, she recorded the mistake and taught the crew to cultivate reef grass that steadied the shore.
+An elephantine research barge nearly capsized when a sere wooden bracket split beside a hull crevice, yet a student studying immune responses and coral pathology found a hieroglyph marking an ancient repair; rather than bowdlerize the captain's log, she recorded the mistake and taught the crew to cultivate reef grass that steadied the shore.
 Unit 353
 embarrass — 使尴尬；使窘迫
 mettle — 勇气；气质
@@ -4586,7 +4586,7 @@ epidermis — 表皮；外皮
 exhilaration — 兴奋；振奋
 coy — 腼腆的；故作忸怩的
 The Sermon beneath the Orange Trees
-A coy novice feared she would embarrass herself during the festive harvest service, but after a brief preamble on homiletics she showed her mettle by comparing the orange epidermis to courage at their northern latitude; the congregation answered with exhilaration and offered a plentitude of fruit to the shelter.
+A coy novice feared she would embarrass herself during the festive harvest service, but after a brief preamble on homiletics she showed her mettle with a sermon comparing the orange epidermis, tough enough for their northern latitude, to courage; the congregation answered with exhilaration and offered a plentitude of fruit to the shelter.
 Unit 354
 velocity — 速度；速率
 macabre — 恐怖的；与死亡有关的
@@ -4625,7 +4625,7 @@ prophetic — 预言的；有预见性的
 declination — 衰退；赤纬
 pendulum — 摆；钟摆
 The Observatory's Clogged Pipe
-When multiple astronomers felt malaise beneath the observatory pendulum, a plumber followed a prophetic note about the star's declination to a blocked vent, where rotting orange peel made a pipe belch green spatter and a foul miasma; one quick repair cleared both the air and the mystery.
+When multiple astronomers felt malaise while measuring a star's declination beneath the observatory pendulum, a plumber investigated, making the custodian's old warning about a blocked vent seem prophetic; rotting orange peel made a pipe belch green spatter and a foul miasma, but one quick repair cleared both the air and the mystery.
 Unit 357
 blather — 喋喋不休；废话
 sidestep — 回避；侧步躲开
@@ -4664,7 +4664,7 @@ mesh — 网；啮合
 overstate — 夸大
 consonance — 和谐；一致
 The Duet across the Border Mesh
-On a divided continent, a refugee violinist and a border guard played a duet through the wire mesh, letting their melodies interlock in unexpected consonance; an overweening governor tried to overstate the danger and waffle about his partiality, but the gathered families quietly opened the gate.
+On a divided continent, a refugee violinist and a border guard played a duet through the wire mesh, letting their melodies interlock in unexpected consonance; an overweening governor tried to overstate the danger and waffle about his partiality toward keeping the border closed, but the gathered families quietly opened the gate.
 Unit 360
 longing — 渴望；思念
 graze — 吃草；擦伤
@@ -4677,7 +4677,7 @@ pinpoint — 精确指出；针尖大小的
 stilted — 不自然的；生硬的
 rip — 撕裂；猛冲
 The Falconer's Forgotten Word
-An ornithologist felt a deep longing to pinpoint why falcons that graze the cliff wire developed intumescence, but her stilted report offered no clue until a rip in an old falconer's diary revealed the warning “sla no hawk”; beside it, a phial of herbal balm restored the birds and the sanctuary's productivity.
+An ornithologist felt a deep longing to pinpoint why falcons that graze the cliff wire developed intumescence, but her stilted report offered no clue until a rip in the binding of an old falconer's diary exposed the warning “sla no hawk”; a phial of herbal balm restored the birds, while the repaired wire improved the sanctuary staff's productivity.
 Unit 361
 bit — 一点；小块
 superstition — 迷信
@@ -4703,7 +4703,7 @@ millennium — 一千年；千禧年
 oration — 正式演说
 stifle — 抑制；使窒息
 The Silent Arena
-In a serene arena sealed for a millennium, a young gladiator refused to stifle his dissonant doubts during the governor's oration, warning that unbridled spectacle was detrimental to the city; after surviving an intestine wound, he was chosen to instate fairer games.
+In a serene arena sealed for a millennium, a young gladiator refused to stifle his dissonant doubts during the governor's oration, warning that unbridled spectacle was detrimental to the city; after surviving a wound to his intestine, he was chosen to instate fairer judges for the games.
 Unit 363
 fainthearted — 胆怯的；懦弱的
 rebate — 折扣；退还款
@@ -4729,7 +4729,7 @@ ornery — 脾气坏的；难对付的
 cumber — 妨碍；拖累
 chunk — 大块；相当大的部分
 The Lullaby in the Cedar
-A cherubic child heard a lullaby inside a cedar limb after a landslide exposed it, but an ornery ranger called the tale a generality meant to peeve him; unwilling to cumber the rescue, she used sap marks to encipher directions to a trapped hiker beneath a chunk of stone.
+A cherubic child heard a lullaby inside a cedar limb after a landslide exposed it, but an ornery ranger dismissed her story with a generality meant to peeve her; unwilling to cumber the rescue, she used sap marks to encipher directions to a trapped hiker beneath a chunk of stone.
 Unit 365
 consistent — 一致的；始终如一的
 relic — 遗物；遗迹
@@ -4768,7 +4768,7 @@ asphyxiate — 使窒息
 coma — 昏迷
 carat — 克拉
 The Diamond in the Wax
-At a charity workshop, an intercessor tried to distract reporters with prolixity while beetles began to infest the wax room; Mei had to excogitate a vent before fumes could asphyxiate a jeweler in a coma, then watched the cooling wax solidify around a missing one-carat diamond.
+At a charity workshop, an intercessor tried to distract reporters with prolixity while beetles began to infest the wax room; Mei had to excogitate a vent before fumes could asphyxiate a jeweler and leave him in a coma, then watched the cooling wax solidify around a missing one-carat diamond.
 Unit 368
 summarily — 立即地；草率地
 table — 桌子；搁置
@@ -4820,7 +4820,7 @@ exiguous — 极少的；微小的
 aplomb — 沉着；自信
 privy — 知情的；私用厕所
 The Solo in the Drain
-Privy to a rival's plan to plagiarize her exiguous melody, Nia raised an objection with aplomb, then performed the solo beside a fetid drain; the unbecoming venue did not rout the audience, and their cheers restored the whole orchestra's morale.
+Privy to a rival's plan to plagiarize her exiguous melody, Nia raised an objection with aplomb, then performed the solo beside a fetid drain; the unbecoming venue did not deter the audience, and their cheers helped her rout her rival and restore the whole orchestra's morale.
 Unit 372
 bouquet — 花束；香气
 remission — 缓解；赦免
@@ -4846,7 +4846,7 @@ pulse — 脉搏；豆类
 prey — 猎物；捕食
 idiom — 习语；表达方式
 The Turtle's Improvised Signal
-A biologist versant in coastal idiom had to adlib her lecture when a turtle with a flossy strand around its carapace washed ashore; its weak pulse did not dishearten her, and after calcium treatment restored it beyond reach of prey, the mayor agreed to disburse rescue funds.
+A biologist versant in coastal idiom had to adlib her lecture when a turtle with a flossy strand around its carapace washed ashore; its weak pulse did not dishearten her, and after a calcium-rich diet restored its strength enough to avoid becoming prey, the mayor agreed to disburse rescue funds.
 Unit 374
 spartan — 简朴的；斯巴达式的
 lackey — 仆从；走卒
@@ -4859,7 +4859,7 @@ decant — 倾析；倒出
 trunk — 树干；大箱子
 confine — 限制；关押
 The Amulet in the Trunk
-After a spartan fast, the queen's lackey escaped his confine through a tunnel that would debouch beside an ancient trunk; he used a shard to scrape mud from an amulet, decant rainwater into its hollow center, and trim the cord before riding fast toward the border.
+After a spartan fast, the queen's lackey escaped the narrow confine of his cell through a tunnel that would debouch beside an ancient trunk; he used a shard to scrape mud from an amulet, decant clear rainwater from a flask into its hollow center, and trim the cord before riding fast toward the border.
 Unit 375
 retainer — 随从；预聘费
 neolithic — 新石器时代的
@@ -4924,7 +4924,7 @@ cerebral — 大脑的；理性的
 superb — 极佳的；卓越的
 byzantine — 复杂难懂的；拜占庭式的
 The Melon House Labyrinth
-To seclude a superb but fragile melon from its parasite, Ivo followed a byzantine greenhouse manual at a glance, used a thorn prick to test the rind, and monitored the fruit's respiration with a cerebral patience that made humidity, once the crop's bane, easy to control.
+To seclude a superb but fragile melon from its parasite, Ivo studied a byzantine greenhouse manual, identified the relevant diagram at a glance, used a thorn prick to test the rind, and monitored the fruit's respiration with a cerebral patience that made humidity, once the crop's bane, easy to control.
 Unit 380
 taking — 迷人的；取得
 allergic — 过敏的；强烈反感的
@@ -4937,7 +4937,7 @@ rowdy — 喧闹的；粗暴的
 horn — 角；喇叭
 oversight — 疏忽；监督
 The Horn Above the Courthouse
-A taking mural of a horn seemed to foreshadow trouble when a rowdy developer answered public concern with contumely, but an allergic judge spotted the permit oversight; her inspired ruling ended the litigation and preserved the supreme nesting ground above the courthouse.
+A taking mural of a horn seemed to foreshadow trouble when a rowdy developer answered public concern with contumely, but a judge allergic to corruption spotted the permit oversight; her inspired ruling ended the litigation and preserved the supreme nesting ground above the courthouse.
 Unit 381
 ruffian — 恶棍；暴徒
 slump — 暴跌；萎靡
@@ -4976,7 +4976,7 @@ maple — 枫树；枫木
 attrition — 消耗；人员流失
 gainsay — 否认；反驳
 The Astrolabe in the Maple
-No one could gainsay the eighty-decibel applause when Mira used an astrolabe hidden in a hollow maple to find the spiny ridge camp; refusing to endorse the guide's narcissism or reckless libido, she exposed each pitfall that had caused the expedition's slow attrition.
+No one could gainsay the eighty-decibel applause when Mira used an astrolabe hidden in a hollow maple to find the spiny ridge camp; refusing to endorse the guide's narcissism or his reckless displays of libido, she exposed each pitfall that had caused the expedition's slow attrition.
 Unit 384
 instantaneous — 瞬间的；即时的
 colony — 殖民地；群体
@@ -5067,7 +5067,7 @@ bandage — 绷带；包扎
 ferrous — 含铁的；亚铁的
 imp — 小淘气；小恶魔
 The Emerald Compass
-The deadpan museum founder refused to arrogate credit when a fluffy-haired imp found an emerald beside a ferrous compass; after a startled buck caught its leg on the display's meter-wide diameter rail, she used her scarf as a bandage and rescued it.
+The deadpan museum founder refused to arrogate credit when a fluffy-haired imp found an emerald beside a ferrous compass; after a startled buck caught its leg on a circular display rail one meter in diameter, she used her scarf as a bandage and rescued it.
 Unit 391
 nymph — 宁芙；若虫
 nausea — 恶心
@@ -5080,7 +5080,7 @@ deplete — 耗尽
 assemble — 集合；组装
 mottle — 使呈斑驳状；斑点
 The Nymph in the Salt Pool
-A detached wing from a dragonfly nymph began to mottle after overexposure to a strange mineral deposit, so researchers assemble at the salt pool; despite her nausea, Leila traced the intrigue to algae that deplete oxygen without reducing the water's apparent purity.
+A detached wing beside a dragonfly nymph began to mottle after overexposure to a strange mineral deposit, so researchers assembled at the salt pool; despite her nausea, Leila traced the source of the intrigue to algae that deplete oxygen without reducing the water's apparent purity.
 Unit 392
 hibernate — 冬眠；蛰伏
 sheathe — 把……插入鞘；包覆
@@ -5093,7 +5093,7 @@ impenitent — 不悔改的
 retail — 零售；详述
 staid — 稳重的；古板的
 The Bear-Safe Market
-Before the bears hibernate, a staid and trustworthy ranger asked each retail stall to sheathe its knives and secure its food; her espousal of strict rules met clannish resistance and impenitent bravado, but a weighted gate served as a counterbalance and saved the market from a midnight raid.
+Before the bears hibernate, a staid and trustworthy ranger asked every vendor at the retail market to sheathe their knives and secure their food; her espousal of strict rules met clannish resistance and impenitent bravado, but a weighted gate served as a counterbalance and saved the market from a midnight raid.
 Unit 393
 disgruntle — 使不满
 vicar — 教区牧师
@@ -5119,7 +5119,7 @@ compartment — 隔间；车厢
 flaggy — 富含扁石的；像旗帜的
 rigmarole — 冗长复杂的程序；废话
 The Aureole Above Flaggy Moor
-With deference to local custom, Iona skipped the permit rigmarole and took a rescue shuttle across the flaggy moor, where a flare rose like a missile with an aureole; it helped her liberate an owl from a trap compartment and underscore the poachers' depredation.
+With deference to local custom, Iona skipped the permit rigmarole and took a rescue shuttle across the flaggy moor, where a flare rose like a missile with an aureole; it helped her liberate an owl from a compartment of an illegal trap and underscore the poachers' depredation.
 Unit 395
 operative — 工作中的；特工
 distant — 遥远的；疏远的
@@ -5145,7 +5145,7 @@ subsist — 维持生活；存在
 testify — 作证；证明
 conduct — 行为；实施
 The Seamstress of Liberty Orchard
-Accused of trespass after a mistimed picnic, a seamstress offered to testify that local families subsist on fallen fruit from Liberty Orchard; her careful conduct, low absenteeism, and offer to hem the caretaker's torn coat supported the magistrate's benign summation.
+Accused of trespass after a mistimed picnic, a seamstress offered to testify that local families subsist on fallen fruit from Liberty Orchard; her careful conduct and low absenteeism as an orchard worker, along with her offer to hem the caretaker's torn coat, informed the magistrate's benign summation of the case.
 Unit 397
 careworn — 忧悴的；疲惫的
 prepossessing — 讨人喜欢的；有魅力的
@@ -5197,7 +5197,7 @@ critique — 评论；批评
 evoke — 唤起；引起
 bud — 芽；蓓蕾
 The Underdog's Paper Garden
-An individual artist, the underdog in a national contest, folded every paper bud into a synthesis of regional styles; her originality made a pleonastic critique merely annoy the judges, while the quiet garden came to evoke a generous patriotism.
+An individual artist, the underdog in a national contest, folded every paper bud into a synthesis of regional styles; her originality impressed the judges despite a pleonastic critique that merely served to annoy them, while the quiet garden came to evoke a generous patriotism.
 Unit 401
 incision — 切口；切割
 blackmail — 勒索；敲诈
@@ -5210,7 +5210,7 @@ slouch — 懒散站姿；无精打采地走
 shrewd — 精明的；敏锐的
 concession — 让步；特许权
 The Greenhouse Cut
-After an incision exposed sabotage in the greenhouse pipe, Mara refused to yield to blackmail; with a shrewd provision in the lease, she made the culprit grill vegetables for the workers, stoke the boiler, explain how photorespiration harmed the crop, squash his forged complaint, abandon his usual slouch, and accept one final concession.
+After an incision in a greenhouse pipe exposed sabotage, Mara refused to yield to blackmail; while workers used the boiler to grill squash for lunch, she invoked a shrewd provision in the lease to grill the culprit about his forged complaint and his attempt to stoke panic over photorespiration, and his usual slouch vanished when he made a final concession.
 Unit 402
 espy — 窥见；发现
 carve — 雕刻；切开
@@ -5223,7 +5223,7 @@ vintner — 葡萄酒商；酿酒师
 hearken — 倾听
 chaff — 谷壳；戏弄
 The Bell in the Vineyard
-At dusk the vintner could espy a strange glitter beyond the vines, so he paused to hearken, found chaff packed into the bell as a clog, and grew contrite because his boastful plenitude had angered the village; he chose to forswear pride and carve an apology into the old gate.
+At dusk the vintner could espy a strange glitter beyond the vines, so he paused to hearken, found chaff packed into the bell as a clog, and grew contrite because his boasts about the harvest's plenitude had angered the village; he chose to forswear pride and carve an apology into the old gate.
 Unit 403
 visage — 面容；外表
 dictum — 格言；权威意见
@@ -5262,7 +5262,7 @@ malodor — 恶臭
 downpour — 倾盆大雨
 notorious — 臭名昭著的
 The Cloth Mill Storm
-During a downpour, a notorious and rapacious mill owner woke from slumber when a malodor filled the dye room; a stolid apprentice traced it through the fabric filters to an illegitimate gene experiment, and the taxing rescue finally forced the owner to close the laboratory.
+During a downpour, a notorious and rapacious mill owner woke from slumber when a malodor filled the dye room; a stolid apprentice traced it through the fabric filters to an illegitimate experiment involving a gene, and the taxing rescue finally forced the owner to close the laboratory.
 Unit 406
 guru — 大师；权威
 certainty — 确定性；确信
@@ -5275,7 +5275,7 @@ ruminant — 反刍动物
 disfranchise — 剥夺公民权
 pun — 双关语
 The Election at Clover Farm
-The village guru declared with certainty that it was not advisable to disfranchise any farmer, even the contented keeper of a ruminant brood; when debate reached stalemate, she lifted a cornet and ended the tension with a pun about every vote having pasture value.
+The village guru declared with certainty that it was not advisable to disfranchise any farmer, even a contented parent whose brood helped raise ruminant livestock; when debate reached stalemate, she lifted a cornet and ended the tension with a pun about every vote having pasture value.
 Unit 407
 governance — 治理；管理
 arraign — 传讯；控告
@@ -5379,7 +5379,7 @@ metallurgy — 冶金学
 veterinary — 兽医的
 circuitous — 迂回的；绕行的
 The Brocade Elephant
-On a circuitous veterinary mission, Priya had to coax an elephant away from a parade juggernaut draped in brocade; a shard analyzed through metallurgy was found near the bone marrow but did not cause the animal's croak, and the evidence helped exculpate the driver and reconcile two anxious families.
+On a circuitous veterinary mission, Priya had to coax an elephant away from a parade juggernaut draped in brocade; metallurgy identified a shard lodged near the bone marrow, while a handler's warning croak revealed the true danger, and the evidence helped exculpate the driver and reconcile two anxious families.
 Unit 415
 palette — 调色板；色彩范围
 glorify — 颂扬；美化
@@ -5405,7 +5405,7 @@ reflect — 反映；思考
 palmy — 繁荣的；棕榈茂盛的
 unsubstantiated — 未经证实的
 The Shale Door
-An unnoticed sketch displayed superb draftsmanship and showed a crypt beneath layers of shale; though officials tried to minimize the fleeting clue as unsubstantiated, seeds inside proved the valley's ancient fecundity and made scholars reflect on its palmy past.
+An unnoticed sketch displayed superb draftsmanship and showed a crypt beneath layers of shale; though officials tried to minimize the fleeting clue's importance by calling it unsubstantiated, seeds inside proved the valley's ancient fecundity and made scholars reflect on its palmy past.
 Unit 417
 landfill — 垃圾填埋场
 purport — 声称；意图
@@ -5418,7 +5418,7 @@ bungle — 搞砸；笨拙处理
 upswing — 上升；好转
 tear — 撕裂；眼泪
 The Canvas Over the Landfill
-Volunteers covered the landfill with a nonporous canvas, careful not to tear or fold it, while critics who purport to protect the town began to assail the plan and execrate its engineer; when no one managed to bungle the installation, clean-air readings showed a welcome upswing.
+Volunteers covered the landfill with a nonporous canvas, careful not to tear or fold it, while critics who purport to protect the town continued to assail the plan and execrate its engineer; when no one managed to bungle the installation, clean-air readings showed a welcome upswing.
 Unit 418
 deviation — 偏差；偏离
 doldrums — 低迷；赤道无风带
@@ -5457,7 +5457,7 @@ vicissitude — 变迁；兴衰
 tempestuous — 狂暴的；动荡的
 wizened — 干瘪的；苍老的
 The Impervious Model
-With some trepidation, a wizened boatwright showed a sceptical council a model whose third dimension could exemplify the hull's tractability; after every tempestuous vicissitude at sea, its impervious coating needed only a small supplement of resin.
+With some trepidation, a wizened boatwright showed a sceptical council a model whose third dimension could exemplify the design's strength and the material's tractability; after every tempestuous vicissitude at sea, its impervious coating needed only a small supplement of resin.
 Unit 421
 sliver — 薄片；裂片
 superlative — 最高级的；极佳的
@@ -5470,7 +5470,7 @@ suffocate — 窒息；压制
 epic — 史诗；宏大的
 fixate — 使专注；固着
 The Cougar on the Ridge
-An unscrupulous guide tried to jape at a novice and fixate on his own superlative reputation, but she could recall the nutrition lesson that a sliver of dried meat might lure the cougar away; her epic calm kept smoke from the signal fire from making anyone suffocate.
+An unscrupulous guide tried to jape at a novice and fixate on his own superlative reputation, but she could recall a lesson on cougar nutrition and knew that a sliver of dried meat might lure the animal away; her calm during the epic rescue kept smoke from the signal fire from making anyone suffocate.
 Unit 422
 parabola — 抛物线
 chaos — 混乱
@@ -5483,7 +5483,7 @@ fester — 化脓；恶化
 presage — 预示；预兆
 receptacle — 容器；插座
 The Parabolic Seed Vault
-A crack shaped like a parabola seemed to presage chaos in the seed vault, and the director grew apoplectic, but a kinetic test showed the tensile cable intact; before panic could overwhelm the crew or damp fungi could fester, they sealed every receptacle and repaired the plaster.
+A crack shaped like a parabola seemed to presage chaos in the seed vault, and the director grew apoplectic, but a kinetic test showed the tensile cable intact; before panic could overwhelm the crew, fungi could spread, or damp cracks could fester, they sealed every receptacle and repaired the plaster.
 Unit 423
 faze — 使慌乱
 ramify — 分枝；产生分支
@@ -5509,7 +5509,7 @@ forbidding — 令人生畏的；严峻的
 extract — 提取；摘录
 rejoice — 欣喜；庆祝
 The Mirage Pump
-At a forbidding desert station, a somnolent guard mistook steam for a mirage, but an engineer found a contrived valve meant to regulate the pump and extract water unfairly; records could falsify the thief's claim, so the town offered recompense as a tribute to her and gathered to rejoice.
+At a forbidding desert station, a somnolent guard mistook steam for a mirage, but an engineer found a contrived valve rigged to regulate the pump so its owner could extract more than his share; the records would falsify the thief's claim, so the town offered recompense as a tribute to her and gathered to rejoice.
 Unit 425
 rampart — 城墙；防御
 woo — 追求；争取
@@ -5535,7 +5535,7 @@ scissor — 剪；剪刀式移动
 ghastly — 可怕的；惨白的
 defense — 防御；辩护
 The Forage Manual
-An outspoken ranger used a scissor to open a ghastly package and appraise its spoiled forage; despite a captious editor calling the report escapism, she chose to revise the manual with facts about animal digestion and strengthen the reserve's defense.
+An outspoken ranger used a pair of scissor blades to open a ghastly package and appraise its spoiled forage; when a captious editor sought escapism in comforting myths, she chose to revise the manual with facts about animal digestion and strengthen the reserve's defense.
 Unit 427
 pierce — 刺穿；洞察
 codify — 编纂；整理成法典
@@ -5548,7 +5548,7 @@ inhabit — 居住于
 sop — 浸透；湿透的东西
 frumpy — 邋遢的；过时的
 The Fleck on the Fillet Knife
-A fleck of blue paint on a fillet knife helped a frumpy archivist pierce an old mystery: an abusive trader had used a hunk of bread as a sop while forging records about the families who inhabit the island; she would codify the evidence and restore their ancestry.
+A fleck of blue paint on a fillet knife helped a frumpy archivist pierce an old mystery: an abusive trader had used a hunk of bread as a sop while forging records about the families who inhabit the island; she would codify the evidence and restore their ancestry records.
 Unit 428
 gingerly — 小心翼翼地
 immure — 禁闭；嵌入
@@ -5561,7 +5561,7 @@ biennial — 两年一次的；二年生植物
 equity — 公平；资产净值
 declamation — 慷慨陈词；朗诵
 The Biennial Gate
-At the biennial games, officials tried to immure a damaged hurdle behind boards, but a runner stepped gingerly forward with a concise, explicit declamation about equity; her courage had enough gall to force sponsors to indemnify every injured athlete.
+At the biennial games, officials tried to immure a damaged hurdle behind boards, but a runner stepped gingerly forward with a concise, explicit declamation about equity; she had gall enough to force sponsors to indemnify every injured athlete.
 Unit 429
 woodcut — 木刻；木版画
 solicitude — 关怀；挂念
@@ -5574,7 +5574,7 @@ archive — 档案；存档
 gnarled — 多节的；扭曲的
 precipitate — 促成；沉淀物
 The Gnarled Pear Woodcut
-An amateur refused to brag when her woodcut of a gnarled pear tree entered the archive; conservation sensitization had taught her that reciprocal solicitude between artists and keepers could prevent damp from producing a pale precipitate, making no careful repair nugatory.
+An amateur refused to brag when her woodcut of a gnarled pear tree entered the archive; sensitization to conservation needs had taught her that reciprocal solicitude between artists and keepers could prevent damp from producing a pale precipitate, making no careful repair nugatory.
 Unit 430
 hide — 隐藏；兽皮
 mountainous — 多山的；巨大的
@@ -5626,7 +5626,7 @@ spineless — 无骨气的；无脊椎的
 negate — 否定；抵消
 impose — 强加；征收
 The Fawn Before the Fanfare
-Before the festival fanfare, cooks hired to cater found a fawn in temporary custody behind the tent; a malicious critic called its rescuer a spineless crackpot and tried to tease her, but witnesses negate that tale and impose silence until the animal is safely released.
+Before the festival fanfare, cooks hired to cater found a fawn in temporary custody behind the tent; a malicious critic called its rescuer a spineless crackpot and tried to tease her, but witnesses helped negate that tale and impose silence until the animal was safely released.
 Unit 434
 sustain — 维持；支撑
 skeleton — 骨架；梗概
@@ -5652,7 +5652,7 @@ liberality — 慷慨；开明
 slacken — 放松；减缓
 hush — 安静；使沉默
 The Locust Sideshow
-In the muggy fairground, a locust swarm turned the cactus exhibition into a sideshow, but the organizer used the control console to divert fans toward the insects; the crowd's panic began to slacken into a hush, and her liberality toward the frightened vendors brought unexpected catharsis.
+In the muggy fairground, a locust swarm turned the cactus exhibition into a sideshow, but the organizer used the control console to divert the ventilation fans toward the insects; the crowd's panic began to slacken into a hush, and her liberality toward the frightened vendors brought unexpected catharsis.
 Unit 436
 daguerreotype — 银版照片
 cross — 穿过；恼怒的
@@ -5665,7 +5665,7 @@ rudder — 舵
 char — 烧焦；焦炭
 tweak — 微调；扭
 The Daguerreotype by the Rudder
-A daguerreotype hidden beside the rudder showed why the research vessel would totter whenever it tried to cross the bay; the chemist could tweak a filter so microbes metabolize fuel without leaving char, enlighten the crew, and subsume every earlier suspicion under one mechanical explanation.
+A daguerreotype hidden beside the rudder showed why the research vessel would totter whenever it tried to cross the bay; the chemist could tweak a filter so microbes could metabolize fuel without leaving char, enlighten the crew, and subsume every earlier suspicion under one mechanical explanation.
 Unit 437
 doff — 脱下；摘下
 cello — 大提琴
@@ -5691,7 +5691,7 @@ harshly — 严厉地；刺耳地
 disembodied — 脱离躯体的；无形的
 duplicitous — 欺骗的；两面派的
 The Voice Beneath the Obelisk
-In the nipping dawn, a diva heard a disembodied voice beneath the obelisk and harshly accused a guard with a tarnished badge, but her portfolio revealed a duplicitous stage manager had planted a lubricious gel in the vents to vaporize and carry the recording through the square.
+In the nipping dawn, a diva heard a disembodied voice beneath the obelisk and harshly accused a guard with a tarnished badge, but documents in her portfolio revealed that a duplicitous stage manager had coated a hidden speaker with lubricious gel and used a heater to vaporize water, concealing the equipment in fog.
 Unit 439
 scission — 切断；分裂
 dull — 迟钝的；暗淡的
@@ -5743,7 +5743,7 @@ offish — 冷淡的；疏远的
 sibling — 兄弟姐妹
 shiftless — 懒散的；无能的
 The Wispy Signature
-The steward hoped to disabuse an offish fanatic who called a young sibling shiftless; a touching letter with a wispy signature and an acquired ink stain fit the indent in the desk, proving the child had secretly repaired the ship's log.
+The steward hoped to disabuse an offish fanatic who called the steward's young sibling shiftless; a touching letter with a wispy signature described the child's acquired drafting skill, while an ink stain fit the indent in the desk, proving the child had secretly repaired the ship's log.
 Unit 443
 jibe — 符合；嘲讽
 dominant — 占主导的；显性的
@@ -5769,7 +5769,7 @@ exhume — 掘出；发掘
 detonation — 爆炸；引爆
 colt — 小公马；幼驹
 The Colt in the Quarry
-A stowaway colt wandered through a sprawling quarry just before a scheduled detonation; a chivalrous medic used a conciliatory voice rather than proselytize, found it appropriate to medicate the animal, and helped workers exhume its trapped harness from loose gravel.
+A stowaway colt wandered through a sprawling quarry just before a scheduled detonation; a chivalrous preacher refused to proselytize and used a conciliatory voice to calm it, while a medic found it appropriate to medicate the animal and helped workers exhume a buried blasting cable that had snagged its harness.
 Unit 445
 empyrean — 最高天；苍穹
 missive — 信函；公文
@@ -5795,7 +5795,7 @@ assert — 断言；维护
 elaboration — 详细说明；精心制作
 limousine — 豪华轿车
 The Glass Barricade
-As a limousine tried to skirt the barricade, engineers saw a propulsion tank loom behind it and refused to let its owner cajole them; they assert that one infelicity in the permit's elaboration could vitrify nearby soil during a leak, so the road remained closed.
+As a limousine tried to skirt the barricade, engineers saw a propulsion-fuel tank loom on the trailer behind it and refused to let its owner cajole them; they asserted that one infelicity in the owner's elaboration of the permit conditions concealed a leak that could vitrify nearby soil, so the road remained closed.
 Unit 447
 plank — 木板；政纲条目
 even-tempered — 性情平和的
@@ -5821,7 +5821,7 @@ spoil — 破坏；战利品
 freelancer — 自由职业者
 antediluvian — 大洪水前的；极其古老的
 The Antediluvian Automaton
-A freelancer with a hankering for forgotten machines used automation to revive an antediluvian clock; when an inhumane collector tried to accost her and spoil the display by calling its harmless ticking a derangement, she calmly proved it unthreatening and used music to exorcise the crowd's fear.
+A freelancer with a hankering for forgotten machines used automation to revive an antediluvian clock; when an inhumane collector tried to accost her and spoil the display by calling the mechanism evidence of derangement, she calmly proved it unthreatening and used music to exorcise the crowd's fear.
 Unit 449
 bibulous — 嗜酒的；吸水的
 gawky — 笨拙的；瘦长的
@@ -5834,7 +5834,7 @@ valve — 阀门；瓣膜
 gourmet — 美食家；美食的
 cloudburst — 暴雨
 The Gourmet Valve
-During a cloudburst, a gawky but hale gourmet heard a valve hiss beneath the cellar and took cognizance of the flood before his bibulous guests could quaff another toast; he helped align the pipe, saved the pantry, and served dry bread with theatrical pride.
+During a cloudburst, a gawky but hale gourmet heard a valve hiss beneath the cellar and took cognizance of the flood before his bibulous guests could quaff another drink; he helped align the pipe, saved the pantry, and served dry bread with theatrical pride.
 Unit 450
 tidy — 整洁的；整理
 jeopardy — 危险；危局
@@ -5847,7 +5847,7 @@ crouch — 蹲伏；蜷缩
 wizardry — 魔法；非凡技巧
 obeisance — 鞠躬；敬意
 The Cosmic Porcupine
-In a tidy observatory, a lusty alarm put a visiting porcupine in jeopardy and made it crouch beneath the telescope; a keeper used diagnostic wizardry to diagnose harmless adhesive on its quills, freed it under the cosmic dome, and offered a playful obeisance as it departed.
+In a tidy observatory, a lusty alarm put a visiting porcupine in jeopardy and made it crouch beneath the telescope; with impressive wizardry, a keeper used a diagnostic lamp to diagnose harmless adhesive on its quills, freed it under the cosmic dome, and offered a playful obeisance as it departed.
 Unit 451
 frisk — 搜身；轻快跳跃
 anarchy — 无政府状态；混乱
@@ -5860,7 +5860,7 @@ condemn — 谴责；判刑
 tambourine — 铃鼓
 ingrate — 忘恩负义者
 The Walrus at the Checkpoint
-During anarchy, a draggy guard began to frisk a walrus trainer while the bored animal would champ its rope; when conditions deteriorate, a tambourine player announced an armistice, making even the loudest ingrate condemn the chaos.
+During the anarchy, a draggy guard began to frisk a walrus trainer while the bored animal champed at its rope; when conditions deteriorated, a tambourine player announced an armistice between the rival checkpoint crews, making even the loudest ingrate condemn the chaos.
 Unit 452
 disparage — 贬低；诋毁
 crinkle — 起皱；沙沙作响
@@ -5873,7 +5873,7 @@ draconian — 严酷的；苛刻的
 pediatrics — 儿科学
 aloft — 在高处；向上
 Kites above the Memorial
-The marshal asked a pediatrics professor to superintend a memorial for the holocaust; although draconian critics tried to disparage and defame her, she would not let them emasculate the message, and paper cranes rose aloft with every crinkle audible.
+The marshal asked a professor of pediatrics to superintend a memorial for the Holocaust; although draconian critics tried to disparage and defame her, she would not let them emasculate the message, and paper cranes rose aloft with every crinkle audible.
 Unit 453
 disjunction — 分离；脱节
 sock — 短袜；猛击
@@ -5899,7 +5899,7 @@ commute — 通勤；减刑
 kennel — 狗舍
 henpecked — 惧内的
 Blueprint for a Better Kennel
-On his commute, a henpecked architect agreed to oversee a kennel renovation; its grim owner obsessed over every minutia, but a coeval designer made the spatial plan scintillate and removed a poisonous vine.
+On his commute, a henpecked architect agreed to oversee a kennel renovation; its grim owner obsessed over every minutia, but a coeval designer made the presentation scintillate with a clever spatial plan and removed a poisonous vine.
 Unit 455
 smirk — 得意地笑；假笑
 amoral — 不讲道德的
@@ -5912,7 +5912,7 @@ deflated — 泄气的；瘪的
 hoodwink — 欺骗；蒙蔽
 gleam — 微光；闪烁
 The Pumpkin Bet
-An amoral vendor tried to hoodwink us with a deflated pumpkin and an unpalatable pie, but his smirk vanished when no warrant could justify the gamble; we chose to saunter home as moonlight cast a gleam over the loam.
+An amoral vendor tried to hoodwink us with a deflated pumpkin and an unpalatable pie, but his smirk vanished when he could produce no warrant for the gamble; we chose to saunter home as moonlight cast a gleam over the loam.
 Unit 456
 histology — 组织学
 preliminary — 初步的；预备的
@@ -5925,7 +5925,7 @@ expostulate — 劝诫；抗议
 windfall — 意外之财；风吹落果
 palaver — 空谈；喧闹交涉
 The Microscope Windfall
-A preliminary histology test revealed an ulcer, but the clinic's quota threatened to sap morale; when the director went berserk over a windfall grant, nurses began to expostulate until she could modulate her tone and end the palaver.
+A preliminary histology test revealed an ulcer, but the clinic's quota threatened to sap morale; when the director went berserk because a clerical error jeopardized a windfall grant, nurses began to expostulate until she could modulate her tone and end the palaver.
 Unit 457
 scorch — 烧焦；灼伤
 brackish — 微咸的
@@ -5951,7 +5951,7 @@ bland — 平淡的；温和的
 maverick — 特立独行者
 ambience — 氛围；环境
 The Mammoth in the Shack
-A maverick scientist formed a queue outside her shack to disinter a mammoth tusk before decomposition advanced; she would sterilize each tool, ignore undeserved ridicule, and enliven the bland ambience with field songs.
+A queue formed outside a maverick scientist's shack as she prepared to disinter a mammoth tusk before decomposition advanced; she would sterilize each tool, ignore undeserved ridicule, and enliven the bland ambience with field songs.
 Unit 459
 debase — 贬低；降低价值
 delinquency — 违法行为；拖欠
@@ -5964,7 +5964,7 @@ pastoral — 田园的；牧歌式的
 hippopotamus — 河马
 inscribe — 铭刻；题写
 The Hippo Film Reel
-At a roundabout, a director stopped to shoot a pastoral scene with a hippopotamus; no trickery could reconstitute the ruined reel, yet she rejected pessimism, refused to debase her crew over the delinquency, and chose to inscribe their names on the remake.
+At a roundabout, a director stopped to shoot a pastoral scene with a hippopotamus, but the rental company seized her camera over an equipment-account delinquency; no trickery could reconstitute the ruined reel, yet she rejected pessimism, refused to debase her crew, and chose to inscribe their names on the remake.
 Unit 460
 watershed — 分水岭；转折点
 preempt — 抢先；取代
@@ -5977,7 +5977,7 @@ serial — 连续的；连载的
 murmur — 低语；杂音
 violet — 紫罗兰；紫色的
 The Violet Marsh
-Crossing the watershed became a serial adventure when a musky gander emerged as a menace; to preempt an attack, Nia used a reed like a lance, lost her gum, heard the river murmur, and hid among violet flowers.
+Crossing the watershed became a serial adventure when a musky gander emerged as a menace; to preempt an attack, Nia smeared sticky gum from a tree on a reed, held it like a lance to distract the bird, listened to the river murmur, and hid among violet flowers.
 Unit 461
 diverge — 分叉；产生分歧
 fetus — 胎儿
@@ -5990,7 +5990,7 @@ amortize — 分期偿还；摊销
 bludgeon — 大棒；强迫
 tatter — 撕碎；破布
 The Marbled Anatomy Book
-Two teachers diverge over pedagogy when a definitive marbled model shows a fetus beside the esophagus; neither will bludgeon students with jargon, peculate grant money, amortize a trivial purchase, or let the old chart tatter.
+Two teachers diverge over pedagogy when a definitive marbled model shows a fetus on one panel and the esophagus on another; rather than bludgeon students with jargon, they audit the grant so no one can peculate funds, agree to amortize the model's cost, and mend the old chart before it can tatter.
 Unit 462
 unspotted — 无斑点的；清白的
 fume — 烟气；发怒
@@ -6003,7 +6003,7 @@ impeach — 弹劾；质疑诚信
 grateful — 感激的
 invigorating — 令人振奋的
 The Unspotted Seal
-An invigorating breeze cleared the fume as a grateful mechanic used a stamp to mark an unspotted flange; when a pharisaic foreman called the repair sorcery, she chose to flip the evidence board and impeach his account.
+An invigorating breeze cleared the fume-filled workshop as a grateful mechanic used a stamp to mark an unspotted flange; when a pharisaic foreman called the repair sorcery, she chose to flip the evidence board and impeach his account.
 Unit 463
 compliment — 赞美；称赞
 gentle — 温和的；轻柔的
@@ -6016,7 +6016,7 @@ humidity — 湿度
 corpuscle — 血球；微粒
 votary — 信徒；热心追随者
 The Fig Garden Clinic
-A guileless votary offered a fig as a compliment to the gentle doctor, whose lesson used a red corpuscle to redirect attention from humidity, tight girdle myths, and excessive reliance on tonics.
+A guileless votary offered a fig as a compliment to the gentle doctor, who used a model of a red corpuscle to redirect discussion away from myths blaming humidity or a tight girdle for illness and from excessive reliance on tonics.
 Unit 464
 lank — 瘦长的；平直的
 wobble — 摇晃；动摇
@@ -6029,7 +6029,7 @@ justification — 正当理由；辩护
 trickle — 细流；缓慢流动
 solitude — 独处；孤寂
 The Cracked Observatory Pane
-In solitude, a lank astronomer watched the pane wobble as rain began to trickle; the titular director offered no justification for neglect, but an egocentric speech could not sear away the public acclaim for her repair.
+In solitude, a lank astronomer watched the pane wobble as rain began to trickle; the titular director offered no justification for the neglect, and his egocentric speech could not diminish the public acclaim for her repair, which would sear her competence into everyone's memory.
 Unit 465
 magniloquent — 夸夸其谈的
 soil — 土壤；弄脏
@@ -6042,7 +6042,7 @@ gavel — 法槌
 raffish — 放荡不羁的；潇洒的
 calipers — 卡尺；测径器
 The Clockmaker's Hearing
-With a gavel beside his calipers, a raffish clockmaker faced an irksome hearing over a throwback pendulum made to oscillate in soil; he met the panel's incredulity without magniloquent claims and called rigid tradition a form of bondage.
+With a gavel beside his calipers, a raffish clockmaker faced an irksome hearing over a throwback pendulum made to oscillate above a tray of soil; he met the panel's incredulity without magniloquent claims and called rigid tradition a form of bondage.
 Unit 466
 unfeigned — 真诚的；不虚伪的
 scuttle — 急促跑；凿沉
@@ -6055,7 +6055,7 @@ cheeky — 厚脸皮的；俏皮的
 breach — 缺口；违反
 harmony — 和谐；和声
 The Song inside the Mast
-After a cheeky mouse made a breach and began to scuttle through the mast, an unfeigned sailor opened an orifice in its cocoon-like lining; the repair rejected a unidimensional plan and chose to enshrine harmony between safety and mercy.
+After a cheeky mouse made a breach and began to scuttle through the mast, a sailor showed unfeigned concern and opened an orifice in its cocoon-like lining; the crew rejected a unidimensional repair plan and chose to enshrine harmony between safety and mercy.
 Unit 467
 disposed — 乐意的；有倾向的
 breed — 繁殖；品种
@@ -6068,7 +6068,7 @@ bricklayer — 砌砖工
 waylay — 伏击；拦截
 screed — 长篇大论；抹灰条
 The Sloth on the Scaffold
-A bricklayer disposed to kindness bore the brunt of mockery when a sloth tried to waylay him on the scaffold; using pincers, he freed it from static wire rather than enfetter it, then ignored a screed about its breed.
+A bricklayer disposed to kindness bore the brunt of mockery when a sloth tried to waylay him on the scaffold; using pincers, he freed it from a static guy wire rather than enfetter it, then ignored a screed about its breed.
 Unit 468
 aeronautics — 航空学
 equine — 马的；似马的
@@ -6081,7 +6081,7 @@ haunt — 萦绕；常去的地方
 appetizing — 开胃的；诱人的
 inertia — 惰性；惯性
 The Sheriff's Flying Horse
-For a lark, the sheriff entered an equine glider in an aeronautics fair; though critics heckle him and inertia keeps it grounded, its painted lineaments haunt the encyclopedia editor, who rewards the team with an appetizing supper.
+For a lark, the sheriff entered an equine glider in an aeronautics fair; though critics heckled him and inertia kept it grounded, he consulted an encyclopedia of aeronautics, adjusted its painted lineaments, and made the memory of an appetizing victory supper haunt his hungry team.
 Unit 469
 specimen — 标本；样本
 accurate — 准确的
@@ -6107,7 +6107,7 @@ withdraw — 撤回；退出
 spike — 尖钉；激增
 caste — 种姓；社会等级
 The Village Water Conduit
-An untutored mason had an inkling that a spike would impair the conduit; his monotone warning did not suffice until workers of every caste stopped their shuffle, chose to withdraw the drill, and inspected the pipe.
+An untutored mason had an inkling that a spike would impair the conduit; his monotone warning did not suffice until workers of every caste broke their weary shuffle, chose to withdraw the drill, and inspected the pipe.
 Unit 471
 request — 请求；要求
 opacity — 不透明；晦涩
@@ -6120,7 +6120,7 @@ pamper — 纵容；娇养
 mischievous — 淘气的；有害的
 verbal — 言语的；口头的
 The Fox Cub's Request
-At a ranger's request, a waspish guide tried to wean a mischievous fox from snacks rather than pamper it; his wont was verbal scolding, but the pejorative nickname and the opacity of his rules became an unfortunate byproduct.
+At a ranger's request, a waspish guide tried to wean a mischievous fox from snacks rather than pamper it; his wont was to issue verbal commands, but the pejorative nickname and opacity of his rules were unfortunate byproducts of his temper.
 Unit 472
 discomfit — 使尴尬；挫败
 congest — 堵塞；充血
@@ -6133,7 +6133,7 @@ receipt — 收据；收到
 pest — 害虫；讨厌的人
 atone — 赎罪；弥补
 The Pie beneath the Finery
-A plebeian baker wore borrowed finery to discomfit a monstrous critic, but an unprovoked swarm began to congest the hall; to atone for calling each bee a pest, he offered yummy pie and kept the receipt for the beekeeper.
+A plebeian baker wore borrowed finery to discomfit a monstrous critic, but an unprovoked swarm began to congest the hall; to atone for calling each bee a pest, he followed the beekeeper's instructions, moved the yummy pie indoors, paid her invoice, and kept the receipt.
 Unit 473
 settled — 稳定的；解决的
 snobbish — 势利的
@@ -6146,7 +6146,7 @@ ribald — 粗俗幽默的
 anecdote — 轶事
 picayunish — 琐屑的；无足轻重的
 The Shawl beside the River
-Once the rivalry settled, a snobbish geologist wrapped an enormous shawl around her guide and traded a ribald anecdote for his soporific lecture on fluvial sand, admitting that their picayunish quarrel had wasted the morning.
+Once the rivalry was settled, a snobbish geologist wrapped an enormous shawl around her guide and traded a ribald anecdote for his soporific lecture on fluvial sand, admitting that their picayunish quarrel had wasted the morning.
 Unit 474
 ferocious — 凶猛的；激烈的
 connotation — 含义；隐含意义
@@ -6224,7 +6224,7 @@ smattering — 略知；少量
 indelible — 不可磨灭的
 truss — 桁架；捆扎
 Fire on the Commonwealth Bridge
-A gust drove sparks across the commonwealth bridge, where a loose truss and a dribble of oil constitute real danger; volunteers with only a smattering of training stopped their nibble, helped extinguish the blaze, and left an indelible lesson without needing to incarcerate anyone.
+A gust drove sparks across the commonwealth bridge, where a loose truss and a dribble of oil constituted real danger; volunteers with only a smattering of training abandoned a quick nibble, helped extinguish the blaze, and left an indelible lesson without needing to incarcerate anyone.
 Unit 480
 sheath — 鞘；护套
 flummox — 使困惑
@@ -6250,7 +6250,7 @@ gormandize — 狼吞虎咽
 chaperone — 陪护；监护人
 compulsory — 强制的；必修的
 The Packed Civic Pageant
-In a packed hall, a waggish chaperone watched actors gormandize before a compulsory pageant: banners emblazon the demand to manumit captives, never disfranchise voters, and extradite tyrants, while exhausted singers exhale together.
+In a packed hall, a waggish chaperone watched actors gormandize before a compulsory pageant: banners emblazoned the demand to manumit captives, never disfranchise voters, and extradite tyrants, while exhausted singers exhaled together.
 Unit 482
 torpid — 迟钝的；蛰伏的
 uphold — 支持；维持
@@ -6263,7 +6263,7 @@ thicket — 灌木丛
 insentient — 无知觉的
 wag — 摇摆；诙谐的人
 Water beneath the Thicket
-A coltish dog began to wag beside a torpid lizard in the thicket; an authentic dowser felt the dorsal ridge of an insentient stone, found water to dowse the fire, and earned patronage by helping uphold the village well.
+A coltish dog began to wag beside a torpid lizard in the thicket; an authentic dowser traced the lizard's dorsal ridge, set an insentient stone aside, found water to dowse the fire, and earned patronage by helping uphold the village well.
 Unit 483
 smart — 聪明的；刺痛
 dire — 可怕的；紧急的
@@ -6302,7 +6302,7 @@ bulldoze — 推平；强迫
 deliberate — 深思熟虑的；故意的
 maculated — 有斑点的；弄污的
 The Maculated Mask
-During a masquerade raffle, a maculated mask on a stone torso concealed glucose tablets; guards could not comprehend why anyone would raid the perimeter, so they made a deliberate choice not to bulldoze the fragile exhibit.
+During a masquerade raffle, a maculated mask on a stone torso concealed glucose tablets; guards could not comprehend why anyone would breach the perimeter to raid the exhibit, so they made a deliberate choice not to bulldoze the fragile display.
 Unit 486
 almond — 杏仁；杏仁状物
 arachnid — 蛛形纲动物
@@ -6341,7 +6341,7 @@ hunker — 蹲下；坚持
 obsessive — 痴迷的；强迫性的
 descent — 下降；血统
 The Garden of Descent
-A gardener of the aristocracy, uneasy about his privileged descent, chose to hunker beside a distinctive weed and oppose plans to foreclose the public plot; after a kidney illness ended his obsessive labor, neighbors tended it in gratitude.
+A gardener from the aristocracy, uneasy about his privileged descent, chose to hunker beside a distinctive weed and oppose plans to foreclose the public plot; after a kidney illness ended his obsessive labor, neighbors tended it in gratitude.
 Unit 489
 offstage — 台下的；幕后
 disenchant — 使不再抱幻想
@@ -6354,7 +6354,7 @@ tenor — 男高音；主旨
 obtrude — 强加；闯入
 mobility — 流动性；活动能力
 The Tenor's Flying Denture
-Offstage, a tornado threatened the tenor's mobility and sent his denture flying; stagehands began to gab and bandy rumors that could disenchant fans, but he would not obtrude panic or potentiate the confusion.
+Offstage, a tornado threatened the tenor's mobility and sent his denture flying; stagehands began to gab and bandy rumors that could disenchant fans, obtrude on rescue work, and potentiate the confusion, but he remained calm.
 Unit 490
 athletics — 体育运动；田径
 plausible — 看似合理的
@@ -6380,7 +6380,7 @@ relenting — 变宽容的；减弱的
 balm — 香膏；慰藉
 puddle — 水坑
 The Icing Trail
-To navigate around a puddle, a baker with floury tresses left a jot of icing on each stone; the relenting prosecution admitted she had been unjustly accused of extravagance, and the apology became a balm.
+To help pedestrians navigate around a puddle, a baker with floury tresses used a stick to jot directions in icing on the pavement; the relenting prosecution admitted she had been unjustly accused of extravagance, and the apology became a balm.
 Unit 492
 devotee — 爱好者；信徒
 deferential — 恭敬的
@@ -6393,7 +6393,7 @@ sedative — 镇静剂；使镇静的
 stupendous — 惊人的；巨大的
 dune — 沙丘
 The Hallowed Dune
-A deferential biosphere devotee led students from puberty studies past an infant seal on a hallowed dune; a sedative was unnecessary, for the stupendous sunset calmed everyone before the group chose to disband.
+A deferential biosphere devotee led students researching puberty past an infant seal on a hallowed dune; a sedative was unnecessary, for the stupendous sunset calmed everyone before the group chose to disband.
 Unit 493
 repartee — 机智应答
 turpitude — 卑鄙；道德败坏
@@ -6406,7 +6406,7 @@ recession — 经济衰退；退去
 leery — 警惕的；猜疑的
 haughty — 傲慢的
 The Ferret in the Crate
-During a recession, a leery reporter heard a rumble inside a speculative art crate and began to peer through a crack; a ferret emerged, puncturing the haughty dealer's repartee and exposing his turpitude.
+During a recession, a leery reporter heard a rumble inside a crate of speculative art and began to peer through a crack; a ferret emerged, puncturing the haughty dealer's repartee and exposing his turpitude.
 Unit 494
 promenade — 散步道；散步
 tan — 晒黑；棕褐色
@@ -6445,7 +6445,7 @@ obfuscate — 使模糊；混淆
 rider — 骑手；附加条款
 exaltation — 兴奋；提升
 The Neutron Cavalcade
-A rider conversant with physics led a cavalcade beneath a trapeze shaped like a neutron; officials tried to obfuscate a counterproductive fee and bilk spectators, but the crowd could infer the scheme, replacing exaltation with protest.
+A rider conversant with physics led a cavalcade beneath a trapeze decorated with a neutron symbol; officials tried to obfuscate a counterproductive fee and bilk spectators, but the crowd could infer the scheme, replacing exaltation with protest.
 Unit 497
 probity — 正直；廉洁
 relent — 变宽容；减弱
@@ -6458,7 +6458,7 @@ rag — 破布；嘲弄
 stubborn — 顽固的
 germicide — 杀菌剂
 The Stubborn Stain
-A genteel archivist used germicide and a rag on a stubborn stain, then asked an intern to transcribe the faded note; its facts illuminate the author's probity, so critics could not extrapolate scandal or lambaste her, and eventually chose to relent.
+A genteel archivist used germicide and a rag on a stubborn stain, then asked an intern to transcribe the faded note; its facts illuminated the author's probity, so critics could not extrapolate scandal or lambaste her, and eventually chose to relent.
 Unit 498
 engrave — 雕刻；铭记
 transfuse — 输血；灌输
@@ -6471,7 +6471,7 @@ oblation — 供品；奉献
 spiritual — 精神的；宗教的
 pollster — 民意调查员
 The Microscopic Inscription
-At a spiritual jamboree, a pollster watched a delegate with a weary gait engrave a microscopic oblation cup; sated guests volunteered to transfuse blood after the ceremony.
+At a spiritual jamboree, a pollster watched a delegate with a weary gait engrave a microscopic inscription on an oblation cup; after the sated guests donated blood, clinicians prepared to transfuse it into patients.
 Unit 499
 quest — 探索；追寻
 choir — 合唱团
@@ -6484,7 +6484,7 @@ recessive — 隐性的；退缩的
 seraphic — 天使般的
 recast — 重塑；改写
 The Greenhouse Choir
-On a quest to recast its initial program, a choir met in a greenhouse and chose a seraphic soloist with a recessive trait; no one could premeditate the presumable confusion when guards tried to confiscate their seed packets.
+On a quest to recast its initial program, a choir met in a greenhouse and chose a seraphic soloist with a recessive trait; the presumable owner had tried to premeditate a theft, so guards moved to confiscate his seed packets.
 Unit 500
 moat — 护城河
 existential — 存在主义的；关乎存在的
@@ -6497,7 +6497,7 @@ presupposition — 预设；前提
 buoy — 浮标；使振奋
 lubricant — 润滑剂
 The Buoy in the Moat
-Beside a moat, a feckless inventor challenged the presupposition that every termite caused an existential crisis; after one lapse, she used lubricant on an intuitive wooden buoy and sang a paean when it floated.
+Beside a moat, a feckless inventor challenged the presupposition that every termite caused an existential crisis; after one lapse, she applied lubricant to the release mechanism of a wooden buoy, whose intuitive design inspired a paean when it floated.
 Unit 501
 loophole — 漏洞；空子
 submit — 提交；屈服
@@ -6510,7 +6510,7 @@ eclat — 辉煌；喝彩
 liaison — 联络；联系
 leash — 牵引绳；束缚
 The Refractory Statue
-Mara used a legal loophole to submit a design that would superimpose a bronze mask on an incrustation-covered statue, but her liaison kept the refractory sculptor on a leash until he stopped trying to idolatrize calibre and unveiled the work with eclat.
+Mara used a legal loophole to submit a design that would superimpose a bronze mask on an incrustation-covered statue, but her liaison kept the refractory sculptor on a short leash until he stopped trying to idolatrize artists of supposed calibre and unveiled the work with eclat.
 Unit 502
 oak — 橡树；橡木
 prorogue — 休会；中止会期
@@ -6536,7 +6536,7 @@ steadfast — 坚定的；忠实的
 oath — 誓言；宣誓
 drawn — 憔悴的；拉出的
 The Flooded Conclave
-At a soggy riverside conclave, an audacious but drawn envoy felt the pulsation beneath a satiny map and used her retentive memory to consolidate the clans, remaining steadfast to her oath as the waters rose.
+At a soggy riverside conclave, an audacious but drawn envoy felt the river's pulsation beneath the floorboards, spread out a satiny map, and used her retentive memory to consolidate the clans, remaining steadfast to her oath as the waters rose.
 Unit 504
 toil — 辛劳；苦干
 irreducible — 不可简化的；根本的
@@ -6549,7 +6549,7 @@ dally — 磨蹭；调情
 archipelago — 群岛
 apostate — 叛教者；变节者
 The Apostate's Itinerary
-An engaged cartographer began her toil across the archipelago with an irreducible hope, ignoring a curmudgeon's fatuity, refusing to dally on any cushion, and hiding an apostate's name inside her itinerary.
+An engaged cartographer began her toil across the archipelago with irreducible hope, ignoring the fatuity of a curmudgeon who lounged on a cushion, refusing to dally, and hiding an apostate's name inside her itinerary.
 Unit 505
 scan — 扫描；细看
 anaerobic — 厌氧的
@@ -6562,7 +6562,7 @@ envision — 想象；展望
 victimize — 迫害；使受害
 theses — 论文；论点
 The Gilded Microscope
-In a mournful trance, Ivo used a laser to scan an anaerobic culture, felt his hands quiver, and wrote discursive theses that refused to gild the truth, envision progress, or victimize the patients.
+In a mournful trance, Ivo used a laser to scan an anaerobic culture and felt his hands quiver; his discursive theses refused to gild the truth or victimize the patients, yet still managed to envision progress.
 Unit 506
 dabble — 涉猎；嬉水
 dissect — 解剖；剖析
@@ -6588,7 +6588,7 @@ calorie — 卡路里
 rhapsody — 狂想曲；热情赞颂
 caldron — 大锅；鼎
 Rhapsody above the Caldron
-Atop a skyscraper, the chef would utter a rhapsody as he watched yeast excrete gas into a vast caldron, then wend downstairs with his consort, calling each calorie the personification of vanity.
+Atop a skyscraper, the chef would utter lines from a rhapsody as he watched yeast excrete gas into a vast caldron, then wend downstairs with his consort, who called his obsession with every calorie the personification of vanity.
 Unit 508
 asunder — 分离地；裂开
 serried — 密集排列的
@@ -6614,7 +6614,7 @@ quartet — 四重奏；四人组
 royalty — 王室；版税
 proceeds — 收益；款项
 The Quartet's Proceeds
-An impartial doctor refused to misrepresent how a clot could excruciate the violinist; despite critics who nag, she helped resuscitate him, erase the concert debt, and direct the quartet's proceeds and royalty to a rural clinic.
+An impartial doctor refused to misrepresent how the pain from a clot could excruciate the violinist; despite critics who continued to nag her, she helped resuscitate him, erase the concert debt, and direct the quartet's proceeds and royalty payments to a rural clinic.
 Unit 510
 pestle — 杵；研磨棒
 malinger — 装病逃避
@@ -6627,7 +6627,7 @@ doctrine — 学说；信条
 erect — 建立；直立的
 amass — 积聚；收集
 The Suffragist's Porcelain Bell
-A pavid clerk tried to malinger when an uproarious suffragist used a pestle to ring a porcelain bowl, but her thrifty campaign would amass enough coins to erect a hall where equality was doctrine.
+A pavid clerk tried to malinger when an uproarious suffragist used a pestle to ring a porcelain bowl, but her thrifty campaign would amass enough coins to erect a hall where equality was the guiding doctrine.
 Unit 511
 uniform — 制服；一致的
 enact — 制定；演出
@@ -6653,7 +6653,7 @@ allegory — 寓言；讽喻
 munition — 军需品；弹药
 pillage — 掠夺
 The Prim Specter's Brochure
-A prim curator found a brochure beside a cadaver display and began to flush when an illusive specter offered an allegory about kings who wage war, stockpile munition, and pillage their own future.
+A prim curator found a brochure beside a cadaver display and began to flush when an illusive specter offered an allegory about kings who wage war, stockpile munitions, and pillage their own future.
 Unit 513
 temper — 脾气；缓和
 resplendent — 辉煌的；华丽的
@@ -6666,7 +6666,7 @@ tentative — 试探性的；暂定的
 hinder — 阻碍
 chip — 碎片；芯片
 The Nethermost Madrigal
-At the tentative denouement of a resplendent madrigal, the heir found a chip in the nethermost stair; nothing could hinder her from using it to temper the council's rage before they ordain a new singer.
+At the tentative denouement of a resplendent madrigal, the heir found a music chip beneath the nethermost stair; nothing could hinder her from playing it to temper the council's rage before they could ordain that a new singer take her place.
 Unit 514
 critical — 关键的；批判的
 burrow — 洞穴；钻进
@@ -6692,7 +6692,7 @@ simultaneous — 同时的
 expiration — 到期；呼气
 protract — 延长；拖延
 The Understudy and the Scorpion
-The understudy used tongs to lift a scorpion from the stage, ending a squabble just before the simultaneous phenomena of the curtain rise and the permit's expiration; despite flak, her safeguard ensured no one could protract the show.
+The understudy used tongs to lift a scorpion from the stage, ending a squabble as two simultaneous phenomena puzzled the cast: the creature glowed and the scenery hummed; despite flak over the permit's expiration, her safeguard kept the incident from protracting the show.
 Unit 516
 primate — 灵长类动物；大主教
 reportage — 新闻报道；报道文学
@@ -6705,7 +6705,7 @@ carafe — 玻璃水瓶
 cohesive — 有凝聚力的；连贯的
 associate — 同事；联系
 The Primate Reportage
-A temp academic spilled a carafe while trying to devise cohesive reportage about a primate; it became obvious that he would incur ridicule unless his associate supplied the missing field notes.
+A temp at an academic journal spilled a carafe while trying to devise cohesive reportage about a primate; it became obvious that he would incur ridicule unless his associate supplied the missing field notes.
 Unit 517
 coven — 女巫聚会；女巫团
 enfeeble — 使衰弱
@@ -6718,7 +6718,7 @@ redoubtable — 令人敬畏的；强大的
 gratuitous — 无端的；免费的
 forsake — 抛弃；离弃
 The Coven's Autonomy
-A redoubtable coven refused to withhold credible evidence that the duke used gratuitous curses to enfeeble villagers; they would not forsake their autonomy, so they unleash a guardian owl to prowl his tower.
+A redoubtable coven refused to withhold credible evidence that the duke used gratuitous curses to enfeeble villagers; they would not forsake their autonomy, so they unleashed a guardian owl to prowl his tower.
 Unit 518
 veracity — 真实性；诚实
 hack — 劈砍；雇佣文人
@@ -6731,7 +6731,7 @@ compile — 汇编；编纂
 sawdust — 锯末
 undulate — 起伏；波动
 The Undulating Grain
-To test the veracity of a vicissitudinous family legend, a clinical archivist hired a hack to collate letters and compile dates while a loop in the wooden floor made spilled sawdust undulate against the grain.
+To test the veracity of a vicissitudinous family legend, a clinical archivist hired a hack to collate letters and compile dates while a draft made sawdust undulate over a loop in the wooden floor's grain.
 Unit 519
 pacify — 平息；安抚
 sedition — 煽动叛乱
@@ -6744,7 +6744,7 @@ salutation — 问候；称呼
 maritime — 海事的；沿海的
 callus — 老茧；胼胝
 The Maritime Potter
-A maritime potter with a callus on each palm used a courteous salutation to pacify sailors accused of sedition, then let artificial fire metamorphose clay into pottery bearing a villainous captain's face so the crew could drub it with spoons.
+A maritime potter with a callus on each palm used a courteous salutation to pacify sailors accused of sedition, then let kiln fire metamorphose clay into pottery painted with artificial colors and bearing a villainous captain's face, which the crew could drub with spoons.
 Unit 520
 omelet — 煎蛋卷
 squeeze — 挤压；榨取
@@ -6757,7 +6757,7 @@ tatty — 破旧的；寒酸的
 scope — 范围；余地
 unregulated — 未受监管的
 The Omelet in Cubicle Nine
-From a tatty cubicle, an unregulated machine would squeeze eggs through a duct to make an omelet, but its limited intellect caused it to misperceive orders to procreate hens, far beyond the scope of breakfast.
+From a tatty cubicle, an unregulated machine would squeeze eggs through a duct to make an omelet, but its limited intellect caused it to misperceive orders that hens should procreate, far beyond the scope of breakfast.
 Unit 521
 muddle — 混乱；糊涂
 jesting — 开玩笑的
@@ -6783,7 +6783,7 @@ debut — 首次亮相
 denizen — 居民；常客
 demand — 要求；需求
 The Truant's Debut
-Intent on her debut, a truant denizen tied a crimson sash above the orchard, ignored the tumult and every precipitant demand that might trammel her, and played a melody said to fructify barren trees.
+Intent on her debut, a truant who was a denizen of the orchard tied a crimson sash above it, ignored the tumult and every precipitant demand that might trammel her, and played a melody said to fructify barren trees.
 Unit 523
 denominate — 命名；以某单位表示
 tare — 皮重；野豌豆
@@ -6796,7 +6796,7 @@ prosperous — 繁荣的；富裕的
 overdose — 过量服用
 farce — 闹剧；荒唐事
 The Bauble of Parity
-An estranged merchant tried to denominate a bauble as royal currency and ignored its tare, but a prosperous weasel trainer began to grouse that the scheme made parity a farce and warned that greed, like medicine, could overdose a town.
+An estranged merchant tried to denominate a bauble as royal currency and ignored the tare of its display box, but a prosperous weasel trainer began to grouse that the scheme made parity a farce and warned that greed could make a town overdose on luxury.
 Unit 524
 chameleon — 变色龙；善变者
 inception — 开端；创立
@@ -6809,7 +6809,7 @@ titanic — 巨大的；强大的
 monumental — 巨大的；纪念碑式的
 superannuated — 年老退休的；过时的
 The Superannuated Chameleon
-From the inception of the race, a superannuated chameleon tried to secure a monumental trophy, but a titanic branch would obstruct the path; only a dullard ignored the clouds that portend the consequence of delay.
+From the inception of the race, a superannuated chameleon tried to secure a monumental trophy, but a titanic branch would obstruct the path; only a dullard ignored the clouds that portended serious consequences for anyone who delayed.
 Unit 525
 depravity — 堕落；邪恶
 hovel — 陋屋；棚屋
@@ -6848,7 +6848,7 @@ bode — 预示
 industrious — 勤劳的
 flatten — 压平；击倒
 The Cranky Glassmaker
-An industrious but cranky glassmaker would browse old manuals, conjoin odd minerals, and liquefy them over putrid fuel; bubbles that roughen each pane bode a bathetic finale unless he could flatten the glass by dawn.
+An industrious but cranky glassmaker would browse old manuals, conjoin odd minerals, and liquefy them over putrid-smelling fuel; bubbles that roughen each pane bode a bathetic finale unless he could flatten the glass by dawn.
 Unit 528
 tutor — 导师；辅导
 thespian — 演员；戏剧的
@@ -6861,7 +6861,7 @@ dislocate — 使脱臼；扰乱
 notable — 显著的；名人
 submission — 提交；屈服
 The Incorporeal Tutor
-An incorporeal tutor taught a notable thespian to produce each movement with zest, wait for applause to subside, and revise her submission without trying to dislocate a shoulder for dramatic effect.
+An incorporeal tutor taught a notable thespian to produce a lively performance, execute each movement with zest, wait for applause to subside, and revise her submission without trying to dislocate a shoulder for dramatic effect.
 Unit 529
 girder — 大梁；钢梁
 understated — 低调的；朴素的
@@ -6887,7 +6887,7 @@ laxative — 泻药；通便的
 caucus — 核心会议；党团会议
 scurvy — 坏血病；卑鄙的
 The Scurvy Caucus
-At a sailors' caucus, no imbecile dared contest the medic's claim that osmosis could not cure scurvy; after a tendinous wrist made him groan, he hid a laxative in one pleat and vowed never to transgress again.
+At a sailors' caucus, no imbecile dared contest the medic's claim that osmosis could not cure scurvy; a sailor with a tendinous wrist injury began to groan when he found a laxative hidden in one pleat of his coat, and the culprit vowed never to transgress again.
 Unit 531
 yearn — 渴望；思念
 dedication — 奉献；题献
@@ -6926,7 +6926,7 @@ stir — 搅动；引起轰动
 repercussion — 反响；后果
 hemisphere — 半球
 The Unicorn Cell
-In the southern hemisphere's arboretum, a demure guide in a natty coat ignored a snide remark and used every sinew to open a cell; the escaped unicorn caused a stir whose repercussion crossed the city.
+In an arboretum in the southern hemisphere, a demure guide in a natty coat ignored a snide remark and strained every sinew to open a cell; the escaped unicorn caused a stir whose repercussions spread across the city.
 Unit 534
 prejudice — 偏见；损害
 treaty — 条约；协定
@@ -6965,7 +6965,7 @@ slanderous — 诽谤性的
 audible — 听得见的
 lucubrate — 刻苦钻研；挑灯写作
 The Epicure's Poster
-A fraternal escort led an epicure across the slick plaza, where a hideous poster made a slanderous accusation audible to all; she chose to lucubrate overnight and answer it with a feast of quiet splendor.
+A fraternal escort led an epicure across the slick plaza, where a hideous poster bore a slanderous accusation and provoked an audible gasp; she chose to lucubrate overnight and answer it with a feast of quiet splendor.
 Unit 537
 delectation — 愉悦；享受
 gestate — 孕育；构思
@@ -6978,7 +6978,7 @@ mulish — 顽固的；骡子般的
 dreary — 沉闷的；凄凉的
 prospect — 前景；勘察
 The Dictator's Empty Slot
-For his own delectation, a mulish dictator tried to bully farmers into planting a dreary patch, but they used the empty broadcast slot to gestate a revolt and explain why his nonviable plan offered no prospect of harvest.
+For his own delectation, a mulish dictator tried to bully farmers into planting a dreary patch, but they used months of secret meetings to gestate a revolt, then took an empty broadcast slot to explain why his nonviable plan offered no prospect of harvest.
 Unit 538
 daze — 使茫然；迷乱
 demography — 人口统计学
@@ -6991,7 +6991,7 @@ podiatrist — 足病医生
 hunch — 预感；弓背
 fissure — 裂缝
 The Podiatrist's Hunch
-A rebarbative podiatrist had a hunch that usury drove the village's demography, so she climbed to the crest, found a fissure full of contracts, and used their spark to negotiate reforms that left the lenders in a daze.
+A rebarbative podiatrist had a hunch that usury was reshaping the village's demography, so she climbed to the crest, found a fissure full of contracts, and used them to spark outrage and negotiate reforms that left the lenders in a daze.
 Unit 539
 pregnant — 怀孕的；意味深长的
 reinforce — 加强；加固
@@ -7017,7 +7017,7 @@ clam — 蛤蜊；沉默寡言的人
 freak — 怪人；反常事件
 providential — 幸运的；天意的
 The Providential Colon
-In the prologue, a functionary spoke like a clam until a providential freak made every colon blur; forced to alliterate, he began to rave about each silver spoke on the royal carriage.
+During the prologue, a functionary clammed up after a providential freak accident made every colon on his script blur; forced to alliterate and improvise, he began to rave about each silver spoke on the royal carriage.
 Unit 541
 fallow — 休耕的；闲置的
 libelous — 诽谤性的
@@ -7030,7 +7030,7 @@ exceed — 超过；超越
 purgatory — 炼狱；暂时苦难
 flustered — 慌乱的；不安的
 The Writ in the Fallow Field
-A flustered courier crossed a fallow field with a writ that could beleaguer an acquisitive baron; his libelous claims about hidden bullion would exceed belief, but the villagers saw justice reach fruition after years of purgatory.
+A flustered courier crossed a fallow field with a writ that could beleaguer an acquisitive baron; his libelous claims alleged that the hidden bullion would exceed all credible estimates, but the villagers saw justice reach fruition after years of purgatory.
 Unit 542
 conifer — 针叶树
 sloppy — 草率的；泥泞的
@@ -7069,7 +7069,7 @@ interpolate — 插入；内插
 giddy — 眩晕的；轻浮的
 supernova — 超新星
 The Bleary Supernova Cipher
-At the onset of a supernova, a bleary astronomer used pithiness to interpolate a warning: a quisling planned to perforate the shield, deflect the telescope, and convince the giddy crew that danger was merely immanent.
+At the onset of a supernova, a bleary astronomer used admirable pithiness to interpolate a warning into the log: a quisling planned to perforate the shield, deflect the telescope, and convince the giddy crew that courage immanent in every sailor would make them invulnerable.
 Unit 545
 garrulity — 喋喋不休；多嘴
 camouflage — 伪装；迷彩
@@ -7095,7 +7095,7 @@ slither — 滑行；蜿蜒
 commit — 承诺；犯下
 controvert — 反驳；争辩
 The Slithering Treatise
-Apropos of a missing treatise, two librarians conspire to isolate the archive, rifle every drawer, and follow a ribbon that seemed to slither; they would controvert the mayor's claim before powers devolve or frightened guards commit violence at each rattle.
+Apropos of a missing treatise, two librarians conspired to isolate the archive, rifle every drawer, and follow a ribbon that seemed to slither; they would controvert the mayor's claim before power could devolve to him or frightened guards could commit violence at each rattle.
 Unit 547
 portray — 描绘；扮演
 bassoon — 巴松管；大管
@@ -7121,7 +7121,7 @@ detonate — 引爆；爆炸
 immerse — 沉浸；浸入
 halting — 迟疑的；不流畅的
 The Confection Postscript
-In an expansive metropolis, a halting baker gave a ceremonious speech over an earthly confection, then added a postscript asking guests to immerse it in tea before incessant fireworks detonate along the river.
+In an expansive metropolis, a halting baker gave a ceremonious speech over an earthly confection, then added a postscript asking guests to immerse it in tea before incessant fireworks detonated along the river.
 Unit 549
 illuminati — 自称先觉者；秘密精英集团
 grounded — 有根据的；停飞的
@@ -7173,7 +7173,7 @@ prig — 自命不凡者
 bark — 树皮；吠叫
 imbibe — 饮用；吸收
 The Forager's Forest Circuit
-A genetic researcher helped a forager rig a forest circuit to kindle interest in gastronomy, but a prig began to protest when guests imbibe birch tea and grind bark beside a barking dog.
+A genetic researcher helped a forager rig cooking stations along a forest circuit to kindle interest in gastronomy, but a prig began to protest when guests started to imbibe birch tea and grind bark beside a barking dog.
 Unit 553
 captivate — 迷住；吸引
 prescience — 预知；先见
@@ -7199,7 +7199,7 @@ relinquish — 放弃；交出
 invoke — 援引；祈求
 equator — 赤道
 The Equator Spice Pact
-At two contiguous farms near the equator, an exacting aunt would invoke family accountability before she would relinquish a silver clasp from an old dowry, while cooks used its secret flavoring to fatten the wedding geese.
+At two contiguous farms near the equator, an exacting aunt would invoke family accountability before she would relinquish a silver clasp from an old dowry, while cooks used a secret flavoring to fatten the wedding geese.
 Unit 555
 antibody — 抗体
 illicit — 非法的；违禁的
@@ -7212,7 +7212,7 @@ ductile — 有延展性的；柔韧的
 bin — 箱；垃圾桶
 inured — 习惯于的；能忍受的
 The Stamp in the Copper Bin
-An inured philatelist found an illicit antibody label in a bin beneath his market stall; rather than let the discovery sadden or inflame him, he bent a ductile wire into a foothold and retrieved the rare stamp.
+An inured philatelist found an illicit antibody label in a bin beneath his market stall; rather than let the discovery sadden or inflame him, he stepped onto a foothold, bent a ductile wire into a hook, and retrieved the rare stamp.
 Unit 556
 antiseptic — 防腐剂；消毒的
 adventitious — 偶然的；外来的
@@ -7251,7 +7251,7 @@ glimmer — 微光；隐约显现
 coarsen — 变粗糙；使粗俗
 muzzy — 迷糊的；模糊的
 The Pulsating Desert Lecture
-In a populous desert hall, a muzzy scholar began a bewildering disquisition on why lakes evaporate; to answer one query, she could adduce a glimmer of salt crystals that coarsen as heat waves pulsate.
+In a populous desert hall, a muzzy scholar began a bewildering disquisition on why lakes evaporate; to answer one query, she could adduce evidence from salt crystals that coarsen as the water recedes, while a glimmer of heat makes the horizon pulsate.
 Unit 559
 ringlet — 小卷发；卷须
 hobble — 跛行；束缚
@@ -7290,7 +7290,7 @@ slosh — 晃荡；泼溅
 crimp — 压褶；阻碍
 maunder — 唠叨；漫无目的地走
 The Tardy Explorer's Grant
-An illustrious explorer arrived tardy and sulky to accept a grant, then told a gripping tale: she had to stride through slosh, unfasten a trapped boot, crimp a torn map, and maunder home through fog.
+An illustrious explorer arrived tardy and sulky to accept a grant, then told a gripping tale: she had to stride through mud that would slosh over her boots, unfasten a trapped foot, endure a torn map that put a crimp in her plans, and maunder home through fog.
 Unit 562
 encomiastic — 赞颂的；颂扬的
 buxom — 丰满健美的
@@ -7329,7 +7329,7 @@ double-cross — 欺骗；出卖
 perky — 活泼的；自信的
 enrage — 激怒
 The Perky Runner's Appeal
-A perky runner with asthma gave a magnificent appeal against a regressive club rule; its impolitic attempt to blackball athletes with lymphatic conditions would enrage the town and give fresh impetus to anyone planning a double-cross.
+A perky runner with asthma gave a magnificent appeal against a regressive club rule; the board's impolitic attempt to blackball athletes with lymphatic conditions would enrage the town and give fresh impetus to members ready to double-cross its president.
 Unit 565
 institution — 机构；制度
 attune — 使协调；使适应
@@ -7342,7 +7342,7 @@ rapt — 全神贯注的；欣喜的
 swallow — 吞咽；燕子
 literal — 字面上的；如实的
 The Swallow on the Axis
-From a high vantage in the institution's dome, rapt students watched a swallow attune its flight to Earth's axis; their literal-minded tutor would deduct points for calling the abysmal old map a record of territorial cession.
+From a high vantage in the institution's dome, rapt students watched a swallow while adjusting the telescope's axis to attune the instrument to its flight; their literal-minded tutor would deduct points for calling the abysmal old map a record of territorial cession.
 Unit 566
 germ — 细菌；萌芽
 lucre — 钱财；不义之财
@@ -7355,7 +7355,7 @@ montage — 蒙太奇；拼贴画
 explicable — 可解释的
 resilient — 有韧性的；能复原的
 The Resilient Spacefarer's Montage
-Driven by wanderlust rather than lucre, a resilient pilot refused to interlope near a cosmic singularity; her navigation implant suffered a relapse after a germ damaged its casing, but every glitch became explicable in the voyage montage.
+Driven by wanderlust rather than lucre, a resilient pilot refused to interlope near a cosmic singularity; she suffered a relapse after a germ infected the site of her navigation implant, but every glitch became explicable in the voyage montage.
 Unit 567
 multitude — 众多；群众
 culmination — 顶点；高潮
@@ -7368,7 +7368,7 @@ unrequited — 得不到回应的
 nestling — 雏鸟；巢中幼鸟
 annul — 废除；取消
 The Nestling's First Flight
-At the culmination of a stringent rescue, a multitude watched a nestling grip the ledge with one talon and refuse to budge; its unrequited attachment could infatuate the keeper, who used her travel allowance to annul plans for leaving.
+At the culmination of a stringent rescue, a multitude watched a nestling grip the ledge with one talon and refuse to budge; the keeper became infatuated with the bird despite knowing that her affection might remain unrequited, so she used her travel allowance to annul her plans for leaving.
 Unit 568
 penultimate — 倒数第二的
 snip — 剪；小片
@@ -7381,7 +7381,7 @@ combustible — 易燃的；可燃物
 attire — 服装；给穿衣
 mutate — 变异；变化
 The Penultimate Spring Exhibit
-At the penultimate vernal exhibit, a tailor used a discretionary snip to keep heavy attire from encumbering a dancer; reporters who eavesdrop heard plans to publicize fabric that could mutate in color yet remain non-combustible.
+At the penultimate vernal exhibit, a tailor used his discretionary authority to make one snip and keep heavy attire from encumbering a dancer; reporters who eavesdropped heard plans to publicize fabric that could mutate into new colors yet remain non-combustible.
 Unit 569
 countrified — 乡村气的；质朴的
 citation — 引文；嘉奖
@@ -7394,7 +7394,7 @@ wiggle — 扭动；摆动
 diligence — 勤奋；用功
 serenade — 小夜曲；演奏小夜曲
 The Countrified Anagram Contest
-With countrified charm, a fiddler used an anagram as the prerequisite clue to a lost violin's provenance; after days of diligence, children saw its bow wiggle, heard a serenade scatter the crows, and gave her a citation that could slay any doubt.
+With countrified charm, a fiddler used an anagram as the prerequisite clue to a lost violin's provenance; after days of diligence, children saw its bow wiggle, heard a serenade scatter the crows, and gave her a citation for a performance that could slay even the sternest critic.
 Unit 570
 pushy — 咄咄逼人的；强求的
 effluvia — 臭气；排放物
@@ -7498,7 +7498,7 @@ moan — 呻吟；抱怨
 colloquy — 对话；会谈
 spawn — 产卵；引发
 The Sovereign's River Colloquy
-On the verge of spring, a sovereign held a colloquy beside a serviceable fish ladder; hearing a plaintive moan, she would exclaim that pollution could spawn disaster, reject every sophism, and forbid officials to derogate the fishers.
+On the verge of spring, a sovereign held a colloquy beside a serviceable fish ladder; hearing a plaintive moan, she exclaimed that pollution could spawn disaster, rejected every sophism, and forbade officials to derogate the fishers' work.
 Unit 578
 dogma — 教条；信条
 pontifical — 教皇的；自负的
@@ -7537,7 +7537,7 @@ chandelier — 枝形吊灯
 bazaar — 集市；义卖会
 friction — 摩擦；冲突
 The Bazaar Chandelier Sprint
-At a crowded bazaar, scads of shoppers saw a chandelier sway and began to sprint; a blustering guard tried to conflate panic with guilt, but a mechanic used friction marks to verify that the cracked hook, now locked in a safe, was an inexpiable maintenance failure.
+At a crowded bazaar, scads of shoppers saw a chandelier sway and began to sprint; a blustering guard tried to conflate panic with guilt, but a mechanic used friction marks to verify that the cracked hook, now locked in a safe, revealed an inexpiable act of negligence.
 Unit 581
 restitution — 归还；赔偿
 subjective — 主观的
@@ -7563,7 +7563,7 @@ heal — 治愈；愈合
 acrophobia — 恐高症
 sparing — 节俭的；少量的
 The Polar Garden Transplant
-An outgoing botanist with acrophobia packed her belongings for a polar greenhouse, where sparing heat and conventional transplantation could heal damaged roots; she studied leaf abscission and bred a hardy fusion species without climbing the gantry.
+An outgoing botanist with acrophobia packed her belongings for a polar greenhouse, where sparing heat and conventional transplantation could heal damaged roots; she studied leaf abscission and used cell fusion to breed a hardy species without climbing the gantry.
 Unit 583
 lout — 粗人；笨拙的人
 overflow — 溢出；充满
@@ -7589,7 +7589,7 @@ buggy — 小车；多故障的
 galaxy — 星系；群英
 scaffold — 脚手架；刑台
 The Galaxy Stencil Scaffold
-An epicurean figurehead climbed a scaffold to stencil a galaxy of hexagon tiles above the market; his sermon on preserving the unspoiled square ended when a buggy cart exposed broken drainage beneath the feast tables.
+An epicurean figurehead climbed a scaffold to stencil a galaxy of hexagon-shaped tiles above the market; his sermon on preserving the unspoiled square ended when a buggy exposed broken drainage beneath the feast tables.
 Unit 585
 incriminate — 使负罪；牵连
 indulge — 沉溺；满足
@@ -7602,7 +7602,7 @@ matriarchy — 母系社会；女权统治
 intermediary — 中间人；媒介
 olfaction — 嗅觉
 The Ersatz Perfume Bout
-During a sparring match in a matriarchy, a dermatologist served as intermediary when a crook sold ersatz perfume; unusual rashes could denote fraud and incriminate him, though spectators continued to indulge their olfaction from a distance.
+During a sparring match in a matriarchy, a dermatologist served as intermediary when a crook sold ersatz perfume; unusual rashes could denote fraud and incriminate him, though spectators continued to indulge their fondness for fragrance, relying on olfaction from a distance.
 Unit 586
 gerrymander — 不公正划分选区
 argot — 行话；暗语
@@ -7615,7 +7615,7 @@ rabble — 乌合之众；暴民
 insignia — 徽章；标志
 syllabus — 教学大纲
 The Cemetery Studio Syllabus
-A critic opened a studio beside the cemetery and wrote a syllabus decoding campaign argot; students traced an insignia used to gerrymander districts, watched rumors multiply among the rabble, and hailed their fearless teacher as a nonesuch.
+A critic opened a studio beside the cemetery and wrote a syllabus decoding campaign argot; students traced an insignia to operatives who used voter data to gerrymander districts, watched rumors multiply among the rabble, and hailed their fearless teacher as a nonesuch.
 Unit 587
 indurate — 使硬化；变得麻木
 sandal — 凉鞋
@@ -7667,7 +7667,7 @@ lineal — 直系的；线状的
 colossus — 巨像；巨人
 cull — 挑选；剔除
 The Ballerina and the Marble Colossus
-A ballerina with vim danced around a marble colossus while curators bicker over restoration terminology; she traced its lineal history, watched a pigeon peck the core of an apple, and helped cull legends from facts.
+A ballerina with vim danced around a marble colossus while curators bickered over restoration terminology; she traced the sculptor's lineal descent, watched a pigeon peck the core of an apple, and helped cull facts from legends.
 Unit 591
 fault — 过错；断层
 debate — 辩论；讨论
@@ -7680,7 +7680,7 @@ fender — 挡泥板；护舷
 overdue — 逾期的；早该有的
 evildoer — 作恶者
 The Overdue Podium Debate
-During an overdue debate, a farmer placed ancient muniments on the podium and blamed a profiteer for fencing a public enclosure; an evildoer tried to toss the papers behind a dented fender, but a survey exposed the boundary fault.
+During an overdue debate, a farmer placed ancient muniments on the podium and blamed a profiteer for fencing a public enclosure; an evildoer tried to toss the papers into a truck with a dented fender, but a survey exposed the boundary fault.
 Unit 592
 engaging — 迷人的；吸引人的
 putter — 慢条斯理地做；推杆
@@ -7706,7 +7706,7 @@ moron — 笨蛋
 numinous — 神秘庄严的；神圣的
 fiscal — 财政的；财务的
 The Numinous Border Tempo
-Along coterminous provinces, a fiscal envoy followed a jagged trail toward a numinous shrine; rising bile made him call his guide a moron, but she changed tempo, spotted a decoy, and chose to intervene when they found a comatose pilgrim.
+Along coterminous provinces, a fiscal envoy followed a jagged trail toward a numinous shrine; rising bile made him call his guide a moron, but she changed her tempo, spotted a decoy, and chose to intervene when they found a comatose pilgrim.
 Unit 594
 vulpine — 狐狸的；狡猾的
 lope — 大步慢跑
@@ -7719,7 +7719,7 @@ stupefy — 使目瞪口呆；使麻木
 startle — 使惊吓；吃惊
 contact — 接触；联系
 The Vulpine Revue
-A vulpine actor stopped to primp before a woodland revue, then began to lope headlong toward the stage; a stench would startle the audience, contact with smoke could stupefy them, and only rain seemed able to sanctify the chaotic finale.
+A vulpine actor stopped to primp before a woodland revue, then began to lope headlong toward the stage; a stench would startle the audience, contact with smoke could stupefy them, and a priest hurried to sanctify the stage before the chaotic finale.
 Unit 595
 prudish — 过分拘谨的；一本正经的
 agitate — 搅动；煽动
@@ -7810,7 +7810,7 @@ canon — 准则；经典作品
 gregariousness — 合群；爱交际
 entangle — 缠住；卷入
 The Cellar Manifesto
-During her formative summer, Lian found a minatory note in the cellar warning visitors not to trample the curator's conspectus of surrealism; her gregariousness helped entangle the stern canon in lively debate and transcend its narrow rules.
+During her formative summer, Lian found a minatory note in the cellar warning visitors not to trample the curator's conspectus of surrealism; her gregariousness helped entangle the stern curator in a lively debate about canon and transcend its narrow rules.
 Unit 602
 sentiment — 情感；观点
 spear — 矛；刺穿
@@ -7823,7 +7823,7 @@ provincial — 外省的；狭隘的
 detergent — 洗涤剂
 sledgy — 像雪橇的；沉重拖行的
 The Sinuous Ice Parade
-A provincial band followed a sinuous, sledgy trail while a fledgling heron began to fledge beside a spear-shaped marker; despite radio interference and a periphrastic speech about detergent, local sentiment rose to a joyful crescendo.
+A provincial band followed a sinuous trail with a sledgy, dragging rhythm while a young heron began to fledge beside a spear-shaped marker; despite radio interference and a periphrastic speech about detergent, local sentiment rose to a joyful crescendo.
 Unit 603
 stratify — 分层；使分级
 ordeal — 磨难；严峻考验
@@ -7836,7 +7836,7 @@ infatuation — 迷恋；痴迷
 conserve — 保护；节约
 badinage — 打趣；诙谐调侃
 The Blue Incubator
-To conserve a rare moth after vandals tried to vandalize its incubator, Bo used a screwdriver and blue glass to stratify a protective collage; his infatuation survived the ordeal, softened by the badinage of his helpers.
+To conserve a rare moth after vandals tried to vandalize its incubator, Bo used a screwdriver to stratify pieces of blue glass by thickness before assembling a protective collage; his infatuation survived the ordeal, softened by the badinage of his helpers.
 Unit 604
 tether — 拴绳；束缚
 rotate — 旋转；轮换
@@ -7875,7 +7875,7 @@ chipper — 兴高采烈的；碎木机
 provender — 饲料；粮秣
 numismatic — 钱币学的
 The Coin beneath the Frond
-A chipper numismatic student found a coin beneath a frond beside the provender shed; when a fraud tried to palter, she used an ewer to reveal his dye, giving the guard an incentive to spank the alarm button before thieves could torpedo the fair.
+A chipper numismatic student found a coin beneath a frond beside the provender shed; when a fraud tried to palter, she used an ewer to reveal his dye, giving the guard an incentive to sound the alarm before thieves could torpedo the fair and allowing the court to spank the culprit with a heavy fine.
 Unit 607
 jerk — 猛拉；蠢人
 accompany — 陪伴；伴奏
@@ -7888,7 +7888,7 @@ insouciant — 漫不经心的；无忧无虑的
 miraculous — 奇迹般的
 gloaming — 黄昏；暮色
 The Bicycle at Gloaming
-At gloaming, an insouciant poet offered to accompany the literati by bicycle, but an incogitant jerk made a cruel slur and bent the pedal; a misshapen wheel then carried her home with miraculous steadiness.
+In the gloaming, an insouciant poet offered to accompany the literati on a bicycle tour, but an incogitant jerk made a cruel slur and bent her pedal; the misshapen wheel then carried her home with miraculous steadiness.
 Unit 608
 herald — 预示；使者
 bombardment — 轰击；连番质问
@@ -7901,7 +7901,7 @@ conservatory — 温室；音乐学院
 composure — 镇静；沉着
 applicant — 申请人
 The Crayon Audition
-A canny applicant entered the conservatory carrying a crayon receipt for her remittance; a huffy xenophobe began a bombardment of questions, but her composure and bright recital herald a fairer admissions season.
+A canny applicant entered the conservatory carrying a receipt marked in crayon for her remittance; a huffy xenophobe began a bombardment of questions, but her composure and bright recital herald a fairer admissions season.
 Unit 609
 homeostasis — 体内平衡；稳态
 tend — 照料；往往会
@@ -7914,7 +7914,7 @@ floodgate — 水闸；抑制屏障
 stunning — 惊人的；极美的
 filch — 偷窃；顺手牵羊
 The Floodgate Garden
-To revitalize a grave riverside garden, volunteers tend reeds that preserve ecological homeostasis; after a halfhearted guard ignored the code, a thief tried to filch a stunning statue, but paused to meditate when the floodgate suddenly opened.
+To revitalize a riverside garden beside a grave, volunteers tended reeds that preserved ecological homeostasis; after a halfhearted guard ignored the code, a thief tried to filch a stunning statue but paused to meditate when the floodgate suddenly opened.
 Unit 610
 repugnance — 厌恶；抵触
 measly — 少得可怜的；微不足道的
@@ -7927,7 +7927,7 @@ smudge — 污迹；弄脏
 proscenium — 舞台前部；台口
 barrage — 火力网；连珠炮般的话
 The Smudge on the Proscenium
-An angular respondent faced a barrage of questions beneath the proscenium about a measly grant for gasification research; refusing to sway, she wiped away a smudge and met public odium with calm despite her repugnance for the hearing.
+An angular respondent faced a barrage of questions on the proscenium about a measly grant for gasification research; refusing to sway, she wiped away a smudge and calmly endured public odium despite her repugnance for the hearing.
 Unit 611
 sacrilege — 亵渎；冒犯
 scraggly — 蓬乱的；参差不齐的
@@ -7940,7 +7940,7 @@ implement — 实施；工具
 meander — 蜿蜒；漫步
 patriot — 爱国者
 The Scraggly Memorial Path
-A novice conservator used nippers to implement repairs where a scraggly path began to meander toward a patriot's memorial; crowds converge there to combat rumors that testing its fissile stone would be sacrilege.
+A novice conservator used nippers to implement repairs where a scraggly path began to meander toward a patriot's memorial; crowds converged there to combat rumors that testing its fissile stone would be sacrilege.
 Unit 612
 malice — 恶意；怨恨
 gnomic — 格言式的；晦涩的
@@ -8005,7 +8005,7 @@ exponentially — 指数级地；迅猛地
 backslide — 倒退；故态复萌
 toxic — 有毒的；恶劣的
 The Canorous Matriculation
-Before she could matriculate, Ava faced a tickler about a toxic pond where algae congeal exponentially; in scientific parlance her report needed no ellipsis, and its canorous presentation helped evidence prevail so officials would not backslide.
+Before she could matriculate, Ava faced a tickler about a toxic pond where algae multiplied exponentially and would congeal into thick mats; in scientific parlance, her report needed no ellipsis, and its canorous presentation helped evidence prevail so officials would not backslide.
 Unit 617
 contravene — 违反；抵触
 sparse — 稀疏的；稀少的
@@ -8031,7 +8031,7 @@ refrain — 克制；副歌
 skein — 一绞纱线；错综复杂的事物
 mesmerize — 迷住；使着迷
 The Skein and the Refrain
-A visiting contingent watched a weaver iterate a mordant refrain while turning a tangled skein into a phoenix incarnate; to everyone's dismay, latecomers tried to cram inside, but no guest was exempt from the rule to refrain from noise, and the quiet colors mesmerize all.
+A visiting contingent watched a weaver iterate a mordant refrain while turning a tangled skein into a phoenix incarnate; to everyone's dismay, latecomers tried to cram inside, but no guest was exempt from the rule to refrain from noise, and the quiet colors would mesmerize them all.
 Unit 619
 sophistication — 老练；精密
 magnate — 巨头；大亨
@@ -8096,7 +8096,7 @@ bacchanal — 狂欢；酒神节
 anorexia — 厌食症
 contagious — 传染性的；有感染力的
 The Gnat at the Bacchanal
-A lucid correspondent noticed a gnat circling the glacial centerpiece at a bacchanal and reported a preternatural variance in its ice; officials tried to stonewall her, but her contagious concern redirected leftovers to an anorexia clinic.
+A lucid correspondent noticed a gnat circling the glacial centerpiece at a bacchanal and reported a preternatural variance in its ice; officials tried to stonewall her, but her contagious concern redirected the banquet budget to an anorexia clinic.
 Unit 624
 reside — 居住；存在于
 derivative — 派生物；缺乏原创的
@@ -8109,7 +8109,7 @@ reprieve — 暂缓；缓刑
 enumerate — 列举
 herbicide — 除草剂
 The Reprieve for the Wilted Field
-Biologists who reside near the farm enumerate each cephalic deformity in tadpoles after herbicide drift; their report, no derivative simile, helped dictate a new tack and won the wilt meadow a reprieve.
+Biologists who reside near the farm enumerate each cephalic deformity in tadpoles after herbicide drift; their report, no derivative simile, helped dictate a new tack before crops could wilt and won the meadow a reprieve.
 Unit 625
 impression — 印象；压痕
 additive — 添加剂；附加的
@@ -8122,7 +8122,7 @@ bulb — 球茎；灯泡
 ripen — 成熟；使成熟
 carbohydrate — 碳水化合物
 The Majestic Community Bulb
-To inaugurate a down-to-earth food lab, a majestic chef planted each bulb where grains would ripen; his additive-free carbohydrate stew overcame the village's lethargy without letting ceremony whelm the warm impression.
+To inaugurate a down-to-earth food lab, a majestic chef planted each bulb and inspected the grains as they began to ripen; his additive-free carbohydrate stew overcame the village's lethargy, leaving a warm impression without letting ceremony whelm the guests.
 Unit 626
 surge — 激增；涌动
 bend — 弯曲；拐弯
@@ -8135,7 +8135,7 @@ canto — 诗章；长诗的一节
 sodden — 湿透的；浸透的
 slobber — 流口水；过分感伤
 The Sodden Canto
-After a surge bent the river around a sodden stage, a quixotic poet recited a canto against annexation; officials called it piddling and procrustean, but even a dog ceased to slobber as the crowd refused to disperse at the bend.
+After a surge flooded a bend in the river beside a sodden stage, a quixotic poet recited a canto against annexation; officials called it piddling and procrustean, but even a dog ceased to slobber as the crowd refused to disperse.
 Unit 627
 soar — 翱翔；猛增
 gadget — 小器具；装置
@@ -8148,7 +8148,7 @@ howler — 大错；嚎叫者
 cult — 崇拜；邪教
 queasy — 恶心的；不安的
 The Typo That Made a Kite Soar
-A calculated typo in a convoluted manual told Niko to etch a cult symbol on a gadget and designate it a howler; feeling queasy, he corrected the label and watched the harmless weather kite soar.
+A calculated typo in a convoluted manual told Niko to etch a cult symbol on a gadget and designate it as a howler; feeling queasy, he corrected the label and watched the harmless weather kite soar.
 Unit 628
 ritzy — 豪华的；时髦的
 complaisance — 殷勤；顺从
@@ -8161,7 +8161,7 @@ ogle — 色眯眯地盯着；凝视
 stab — 刺；尝试
 vital — 至关重要的；有活力的
 The Stray at the Ritzy Cafe
-At a ritzy cafe, a stray dog exposed a guest's treachery by dragging out stolen plans; the manager took a stab at a coherent account, refused to ogle the scandal, brewed a vital pot of tea, and chose to reinstate a waiter whose complaisance had been exploited.
+At a ritzy cafe, a stray dog exposed a guest's treachery by dragging out stolen plans; the manager took a stab at a coherent account, refused to let patrons ogle the accused waiter, began to brew a pot of tea that was vital to restoring calm, and chose to reinstate him after his complaisance had been exploited.
 Unit 629
 inquiry — 调查；询问
 matte — 无光泽的；哑光
@@ -8187,7 +8187,7 @@ thrust — 猛推；要旨
 holograph — 亲笔文稿
 insolent — 傲慢无礼的
 The Holograph beneath the Sapling
-A columnist found a healer's holograph beneath a sapling and drew a parallel between old capitation fees and an insolent modern scheme; public revulsion gave her article thrust, ending an unproductive, sadistic policy.
+A columnist found a healer's holograph beneath a sapling and drew a parallel between old capitation fees and an insolent modern scheme; public revulsion gave thrust to her article, ending an unproductive, sadistic policy.
 Unit 631
 unjustified — 无正当理由的；未调整的
 gustatory — 味觉的；品尝的
@@ -8200,7 +8200,7 @@ doodle — 涂鸦；随手画
 condiment — 调味品
 incidence — 发生率；影响范围
 The Condiment Doodle
-Feeling peckish, a gustatory researcher took a nip of sauce and caught a glimpse of a coded doodle on its label; a subpoena brought the factory owner from the vicinity to explain the unjustified incidence of a banned condiment.
+Feeling peckish, a gustatory researcher took a nip of sauce and caught a glimpse of a coded doodle on its label; a subpoena brought the factory owner from the vicinity to explain the high incidence of contamination and the unjustified use of a banned condiment.
 Unit 632
 multiplicity — 多样性；众多
 dogmatism — 教条主义
@@ -8226,7 +8226,7 @@ bluster — 咆哮；虚张声势
 sampler — 样品集；刺绣样本
 congruent — 全等的；一致的
 The Monochrome Sampler
-An accommodating curator displayed a monochrome sampler whose muted triangles were congruent, but a critic began to bluster about its tackiness; every beholder saw the artist clench her jaw, ending his torment with silent resolve.
+An accommodating curator displayed a monochrome sampler whose muted triangles were congruent, but a critic began to bluster about its tackiness; every beholder saw the artist clench her jaw and end the torment with silent resolve.
 Unit 634
 closet — 壁橱；隐秘的
 patronize — 屈尊对待；光顾
@@ -8252,7 +8252,7 @@ cautionary — 警示的
 jumpy — 神经紧张的；跳跃的
 meet — 相遇；适宜的
 The Blooming Genealogy
-At a family meet, a jumpy child found a shred of genealogy beneath a blooming rose; an equable aunt used the discovery to furbish a cautionary tale about naivety, then held a poll on preserving the archive.
+At a family gathering, a jumpy child chanced to meet an equable aunt after finding a shred of genealogy beneath a blooming rose; she used the discovery to furbish a cautionary tale about naivety, then held a poll on preserving the archive.
 Unit 636
 steeple — 尖塔；尖顶
 radius — 半径；范围
@@ -8265,7 +8265,7 @@ unearthly — 怪异的；超凡的
 pastry — 油酥点心；糕点
 imprecation — 诅咒；咒骂
 The Pastry beneath the Steeple
-Within the steeple's shadow radius, scrappy festival personnel chased a paper chimera along convergent lanes; an unearthly imprecation proved to be an unpretentious baker calling after the thief of his last pastry.
+Within the radius of the steeple's shadow, scrappy festival personnel chased a paper chimera along convergent lanes; an unearthly imprecation proved to be an unpretentious baker calling after the thief of his last pastry.
 Unit 637
 simpleton — 傻瓜；笨蛋
 overrule — 否决；驳回
@@ -8278,7 +8278,7 @@ sizzler — 炙热天；精彩之物
 damper — 抑制因素；阻尼器
 tonsorial — 理发的；剃须的
 The Tonsorial Sizzler
-An avuncular barber refused to overrule a child who wanted a fang shaved into his hair for a school sizzler; while adults speculate, the supposed simpleton recited a stanza about a corn kernel and put a damper on their tonsorial snobbery.
+An avuncular barber refused to overrule a child who wanted a fang design shaved into his hair for a school sizzler; while adults continued to speculate, the supposed simpleton recited a stanza about a corn kernel and put a damper on their tonsorial snobbery.
 Unit 638
 gospel — 福音；信条
 squab — 雏鸽；鸽肉
@@ -8304,7 +8304,7 @@ elongate — 拉长；延伸
 sensation — 感觉；轰动
 jigsaw puzzle — 拼图游戏
 The Azure Falcon Puzzle
-An azure falcon became a sensation when it carried a jigsaw puzzle from a litter-strewn deck; sailors straggle after it while a mutineer hides his holster, but the captain calls the threat a figment and uses the pieces to elongate a map home.
+An azure falcon became a sensation when it carried a jigsaw puzzle from a litter-strewn deck; sailors began to straggle after it while a mutineer hid his holster, but the captain called the threat a figment and used the pieces to elongate a map home.
 Unit 640
 comedienne — 女喜剧演员
 befuddlement — 困惑；迷糊
@@ -8330,7 +8330,7 @@ sling — 投掷；吊带
 homogeneous — 同质的；均匀的
 coloration — 着色；色彩特征
 The Willow on the Outskirts
-On the outskirts, insects of unusual coloration cohabit in a willow threatened by a defoliator; passive observation was not sufficient, so residents embrace a homogeneous clay treatment and sling protective nets across the branches.
+On the outskirts, insects of unusual coloration began to cohabit in a willow threatened by a defoliator; passive observation was not sufficient, so residents chose to embrace a homogeneous clay treatment and sling protective nets across the branches.
 Unit 642
 igneous — 火成岩的；火成的
 shrink — 收缩；退缩
@@ -8343,7 +8343,7 @@ pitiful — 可怜的；不足的
 ignorant — 无知的；不了解的
 spoor — 足迹；踪迹
 The Spoor across Igneous Stone
-A botanist followed spoor across igneous stone to a pitiful greenhouse where centralization had left staff ignorant of repairs; she used spackle on each crease, restored capillary watering, and watched no leaf shrink as photosynthesis resumed.
+A botanist followed spoor across igneous stone to a pitiful greenhouse where centralization had left staff ignorant of repairs; she smoothed each crease in the torn sheeting, used spackle on cracks in the walls, restored capillary watering, and watched no leaf shrink as photosynthesis resumed.
 Unit 643
 adobe — 土坯；土坯房
 communicate — 交流；传达
@@ -8369,7 +8369,7 @@ refinery — 炼油厂；精炼厂
 vulgar — 粗俗的；庸俗的
 polarize — 使两极分化；使偏振
 The Refinery Margin
-At a refinery forum, an engineer used eloquence and practical know-how to score support for a safety feat; although a vulgar heckler tried to polarize the room, a precursor accident in the agenda left no margin for delay.
+At a refinery forum, an engineer used eloquence and practical know-how to score support for a safety feat; although a vulgar heckler tried to polarize the room, an accident that was the precursor to the safety agenda left no margin for delay.
 Unit 645
 renascent — 复兴的；再生的
 brindled — 有斑纹的
@@ -8382,7 +8382,7 @@ doting — 溺爱的；宠爱的
 offspring — 后代；子女
 enchant — 使着迷；施魔法
 The Brindled Surrogate
-A brindled surrogate wolf watched her offspring hurtle through a renascent forest; a distrait, doting keeper bruised his wrist on a gouge in the gate, yet the pups continued to enchant him.
+A brindled surrogate wolf watched her offspring hurtle through a renascent forest; a distrait, doting keeper bruised his wrist while using a gouge to repair the gate, yet the pups continued to enchant him.
 Unit 646
 tumble — 跌倒；翻滚
 memento — 纪念品
@@ -8408,7 +8408,7 @@ tumid — 肿胀的；浮夸的
 glade — 林间空地
 rival — 对手；媲美
 The Fern Pillar in the Glade
-A qualified botanist with encyclopedic knowledge came to renovate a dowdy pillar in the glade; beneath a tumid fern she found a purgative herb that could rival the museum's rarest specimen.
+A qualified botanist with encyclopedic knowledge came to renovate a dowdy pillar in the glade; beneath a fern with a tumid stem, she found a purgative herb that could rival the museum's rarest specimen.
 Unit 648
 despot — 暴君；专制者
 alms — 施舍物；救济金
@@ -8421,7 +8421,7 @@ gloomy — 阴郁的；悲观的
 psychology — 心理学；心理
 protagonist — 主角；倡导者
 The Scalpel and the Sledgehammer
-In a gloomy play, the protagonist used psychology rather than a sledgehammer to defeat a diabolical despot; a sturdy healer raised alms with a scalpel demonstration, giving the finale far-reaching hope.
+In a gloomy play, the protagonist used psychology rather than a sledgehammer to defeat a diabolical despot; a sturdy healer wielded a scalpel while villagers offered alms, giving the finale far-reaching hope.
 Unit 649
 corpus — 语料库；文集
 contain — 包含；控制
@@ -8434,7 +8434,7 @@ disaffect — 使疏远；使不满
 candidacy — 候选资格；参选
 weather — 经受住；天气
 The Preliterate Sailcloth Corpus
-To support her candidacy, a linguist promised her corpus would contain preliterate sea songs that previous scholars ignored; she could weather attempts to disaffect elders, baste torn sailcloth, and keep the recording boat from yaw rather than let fashion supplant memory.
+To support her candidacy, a linguist promised her corpus would contain preliterate sea songs that previous scholars ignored; she could weather attempts to disaffect elders, baste torn sailcloth, and keep the recording boat from falling into a dangerous yaw rather than let fashion supplant memory.
 Unit 650
 overthrow — 推翻；掀翻
 ginger — 姜；姜黄色的
@@ -8447,7 +8447,7 @@ standstill — 停顿；停滞
 mate — 伙伴；配偶
 affront — 冒犯；公开侮辱
 The Panther at the Ginger Dock
-A fleet panther and its mate brought a ginger shipment to a standstill when vines began to choke the dock; the delay might irk captains, but their familiarity with wildlife prevented an affront and helped crews overthrow panic.
+A fleet panther and its mate brought a ginger shipment to a standstill when vines began to choke the dock; the delay might irk captains, but their familiarity with wildlife kept them from treating the animals as an affront and helped the crews overthrow panic.
 Unit 651
 timidity — 胆怯；羞怯
 cineaste — 电影爱好者；电影人
@@ -8499,7 +8499,7 @@ malapropism — 词语误用
 expediency — 权宜之计；便利
 velvety — 天鹅绒般的；柔和的
 The Filigree Testimony
-In a chaste courtroom with velvety curtains, a filigree brooch served as a reminder to hydrate; the judge demanded an exact recantation of each malapropism and refused, for mere expediency, to disbar an honest lawyer.
+In a chaste courtroom with velvety curtains, a witness's filigree medical brooch served as a reminder to hydrate; the judge demanded an exact recantation of each malapropism and refused, for mere expediency, to disbar an honest lawyer.
 Unit 655
 flabby — 松弛的；软弱的
 frothy — 起泡的；轻浮的
@@ -8512,7 +8512,7 @@ bough — 大树枝
 reek — 散发臭味；臭气
 constringe — 使收缩；压紧
 The Sextant in the Storm Tree
-Frothy waves scud below as a sailor with flabby knees sees a bough beckon like an arm; he begins to scutter toward a stone buttress, where smoke will reek, cold will constringe his fingers, and a dry sextant will still guide him home.
+Frothy waves began to scud below as a sailor with flabby knees saw a bough beckon like an arm; he began to scutter toward a stone buttress, where smoke began to reek, cold began to constringe his fingers, and a dry sextant could still guide him home.
 Unit 656
 tart — 酸的；果馅饼
 dissection — 解剖；剖析
@@ -8538,7 +8538,7 @@ retaliation — 报复；反击
 finesse — 技巧；巧妙处理
 accessory — 配件；从犯
 The Meteoric Garden Cart
-A resident accused of vagrancy used an accessory gear and great finesse to steer a cart through herbaceous beds; when its meteoric descent made spectators veer aside, he answered bombast without retaliation and repaired the brake.
+A resident accused of vagrancy used an accessory gear and great finesse to steer a cart through herbaceous beds; when its meteoric descent made spectators veer aside, he answered their bombast without retaliation and repaired the brake.
 Unit 658
 apocrypha — 伪经；真伪可疑的故事
 substantial — 大量的；实质的
@@ -8564,7 +8564,7 @@ remunerative — 有报酬的；有利可图的
 counterpart — 对应的人或物
 dissolve — 溶解；解散
 The Kangaroo and the Concrete Geyser
-An imperial engineer would interlard a concrete lecture with offensive jokes until a kangaroo struck a model gusher; its remunerative alchemy exhibit began to dissolve, and his counterpart quietly saved the molds.
+An imperial engineer would interlard a concrete lecture with offensive jokes until a kangaroo struck a model gusher; the once remunerative alchemy exhibit began to dissolve, and his counterpart quietly saved the molds.
 Unit 660
 polemic — 论战；激烈争辩
 accentuate — 强调；使突出
@@ -8590,7 +8590,7 @@ hilt — 刀柄；全然
 prototype — 原型；样品
 stipple — 点刻；点画
 The Stippled Air Filter
-A hasty litigant blamed orchard blight on a prototype filter, but a stipple pattern revealed each trapped molecule; a subsidy funded repairs before fumes could cause asphyxia, and water began to cascade over the sword-shaped hilt of the test rig.
+A hasty litigant blamed orchard blight on a prototype filter, but a stipple pattern revealed each trapped molecule; a subsidy funded repairs before fumes could cause asphyxia, and a technician gripped the hilt of a cutting tool to clear a pipe so water could cascade again.
 Unit 662
 memorandum — 备忘录；便笺
 snarl — 咆哮；缠结
@@ -8616,7 +8616,7 @@ gravity — 重力；严肃性
 investiture — 授职仪式；授权
 appreciate — 欣赏；理解
 The Troll at the Investiture
-During an investiture, a needy troll chose to perambulate beneath the balcony; a braggart who claimed to dote on folklore failed to appreciate the gravity of the moment, so guards collaborate to prevent disaster.
+During an investiture, a needy troll chose to perambulate beneath the balcony; a braggart who claimed to dote on folklore failed to appreciate the gravity of the moment, so guards began to collaborate to prevent disaster.
 Unit 664
 blasphemy — 亵渎神明；亵渎言论
 placebo — 安慰剂；宽慰话
@@ -8629,7 +8629,7 @@ torrent — 洪流；倾泻
 improvise — 即兴创作；临时凑成
 impassioned — 慷慨激昂的
 The Charter beneath the Flood Bell
-Above the din of a torrent, an impassioned mayor used a blueprint to improvise a civil shelter; calling the old charter blasphemy was no placebo for fear, but admitting the enormity of the flood united the town.
+Above the din of a torrent, an impassioned mayor rejected a placebo proposal and used a blueprint to improvise a civil shelter; critics called the old charter blasphemy, but admitting the enormity of the flood united the town.
 Unit 665
 stature — 身高；声望
 violate — 违反；侵犯
@@ -8642,7 +8642,7 @@ paunchy — 大腹便便的
 whistle — 口哨；鸣笛
 appoint — 任命；安排
 The Totem in the Garret
-A paunchy curator of pronounced stature climbed to the garret after a whistle sounded; he would appoint a perfervid restorer to clamp the cracked totem without letting haste violate its painted surface.
+A paunchy curator of considerable stature climbed to the garret after a whistle sounded and revealed a pronounced crack in the totem; he would appoint a perfervid restorer to clamp it without letting haste violate its painted surface.
 Unit 666
 apologize — 道歉；谢罪
 detain — 扣留；耽搁
@@ -8668,7 +8668,7 @@ rubble — 瓦砾；碎石
 reactionary — 反动的；保守派
 cast — 投掷；演员阵容
 The Waxed Plane in the Rubble
-A fair-minded cast gathered in a hangar to reincarnate a plane found beneath rubble; one reactionary entity wanted to simonize it for display, but votes to carry foodstuff would preponderate.
+A fair-minded documentary cast gathered in a hangar to reincarnate a plane found beneath rubble; one reactionary entity on the museum council wanted to simonize it for display, but votes to use it to carry foodstuff would preponderate.
 Unit 668
 sonorous — 洪亮的；铿锵的
 impoverish — 使贫困；使枯竭
@@ -8681,7 +8681,7 @@ suffuse — 充满；遍布
 fiend — 恶魔；狂热者
 choleric — 易怒的；暴躁的
 The Piebald Horse's Layover
-During a mountain layover, a choleric fitness fiend gave a sonorous lecture on every hormone; sunset began to suffuse a piebald horse, whose dynamic leap and hardihood proved that travel need not impoverish the spirit.
+During a mountain layover, a choleric fitness fiend gave a sonorous lecture on every hormone; sunset began to suffuse a piebald horse with gold, and its dynamic leap and hardihood proved that travel need not impoverish the spirit.
 Unit 669
 broach — 提出；开孔
 brake — 刹车；制动器
@@ -8694,7 +8694,7 @@ ecumenical — 普世教会的；广泛包容的
 enliven — 使活跃；使有生气
 mature — 成熟的；到期
 The Lexicographer's Brake Manual
-Beset by errors, an adaptable lexicographer chose to broach the need to proofread a brake manual; an ecumenical reading club helped enliven the prose before volunteers could vegetate, and the mature edition prevented accidents.
+Beset by errors, an adaptable lexicographer chose to broach the problems in a brake manual and proofread it; rather than let volunteers vegetate, an ecumenical reading club helped enliven the prose, and the mature edition prevented accidents.
 Unit 670
 boding — 预兆；凶兆
 porcine — 猪的；似猪的
@@ -8707,7 +8707,7 @@ slog — 艰难跋涉；苦干
 fake — 假货；伪造
 treason — 叛国罪；背叛
 The Porcine Parcel at the Terminal
-A boding alarm at the terminal made a sapient guard slog through filth toward a porcine crate; the obligatory search found a fake explosive, and careless reporters wrongly cried treason.
+A boding alarm at the terminal made a sapient guard slog through filth toward a crate of porcine specimens; the obligatory search found a fake explosive, and careless reporters wrongly cried treason.
 Unit 671
 soulful — 深情的；充满感情的
 ennoble — 使高尚；授予爵位
@@ -8720,7 +8720,7 @@ literate — 有读写能力的；通晓的
 antic — 滑稽动作；古怪的
 anticipate — 预料；期待
 The Groom and the Vibrant Windmill
-A literate groom began a soulful speech beside a vibrant windmill blade; guests who posit that an unexceptional antic cannot ennoble a wedding failed to anticipate his goat's perfect bow.
+A literate groom began a soulful speech beside a vibrant windmill blade; some guests would posit that an unexceptional antic could not ennoble a wedding, but they failed to anticipate his goat's perfect bow.
 Unit 672
 whimper — 呜咽；啜泣
 derivation — 起源；派生
@@ -8733,7 +8733,7 @@ meddlesome — 爱管闲事的
 doggerel — 打油诗；蹩脚诗
 unprincipled — 不讲原则的；无耻的
 The Doggerel Contract on the Delta
-On a delta ferry, a rambunctious poet signed a contract in doggerel; a meddlesome and unprincipled broker tried to overlook its derivation as inconsequential, but one passenger's whimper exposed the fraud.
+On a delta ferry, a rambunctious poet signed a contract in doggerel; a meddlesome and unprincipled broker tried to overlook its dubious derivation by calling it inconsequential, but one passenger's whimper exposed the fraud.
 Unit 673
 racketeer — 敲诈者；从事非法勾当
 pell-mell — 匆忙混乱地
@@ -8759,7 +8759,7 @@ folklore — 民间传说；民俗
 tension — 紧张；张力
 stagger — 蹒跚；使震惊
 The Acrobat and the Corrugated Barn
-A gnawing suspicion made an acrobat stagger toward a garish barn, where a rustler used folklore songs to mask a jarring saw; police corrugate a metal patch, insulate the wire, and release the rope tension around the calves.
+A gnawing suspicion made an acrobat stagger toward a garish barn, where a rustler used folklore songs to mask a jarring saw; police ordered workers to corrugate a metal patch, insulate the wire, and release the tension in the rope around the calves.
 Unit 675
 untapped — 未开发的；未利用的
 mope — 闷闷不乐；忧郁的人
@@ -8772,7 +8772,7 @@ bulk — 大部分；体积
 satire — 讽刺作品；讽刺
 narcissist — 自恋者
 The Untapped Satire Contest
-An untapped comic used elocution to articulate a satire about a narcissist who would defalcate the bulk of a potato fund; after one gaffe, she did not mope but turned the ruined mash into the finale.
+A comic with untapped talent used elocution to articulate a satire about a narcissist who would defalcate the bulk of a potato fund; after one gaffe, she did not mope but turned the ruined mash into the finale.
 Unit 676
 canyon — 峡谷
 befuddle — 使迷惑；使昏沉
@@ -8798,7 +8798,7 @@ splint — 夹板；薄木条
 musty — 霉臭的；陈腐的
 prissy — 过分拘谨的；挑剔的
 The Lumberjack's Chic Odyssey
-A prissy photographer threw a tantrum when a musty cabin spoiled her chic odyssey, but a lumberjack used a splint configuration to capture sunlight before it could fade and repaired her broken tripod.
+A prissy photographer threw a tantrum when a musty cabin spoiled her chic odyssey, but a lumberjack used a splint to repair her broken tripod, restoring its configuration in time to capture the sunlight before it could fade.
 Unit 678
 bullish — 乐观的；牛市的
 disregard — 忽视；漠视
@@ -8824,7 +8824,7 @@ extricable — 可解脱的；可摆脱的
 ligneous — 木质的；似木的
 convertible — 敞篷车；可转换的
 The Ligneous Convertible
-At forty degrees centigrade, an untrammeled carpenter pulled a ligneous convertible from her rucksack; rain would souse its clever carpentry, but the extricable wheels held, giving judges reason to felicitate her rather than enflame debate.
+At forty degrees centigrade, an untrammeled carpenter pulled a model ligneous convertible from her rucksack; rain threatened to souse its clever carpentry, but its wheels made it extricable from the mud, giving judges reason to felicitate her rather than enflame debate.
 Unit 680
 prescribe — 开处方；规定
 curvaceous — 曲线优美的
@@ -8837,7 +8837,7 @@ incense — 香；激怒
 butt — 对接；烟蒂
 eminence — 显赫；高地
 The Curvaceous Rescue Sled
-On a snowy eminence, a prominent medic refused to prescribe incense that might besot an injured skier; she used an outmoded butt joint to meld a curvaceous rescue sled and brought him down safely.
+On a snowy eminence, a prominent medic refused to prescribe a sedative that might besot an injured skier, while incense burned nearby; she used an outmoded butt joint to meld the runners of a curvaceous rescue sled and brought him down safely.
 Unit 681
 brisk — 轻快的；兴旺的
 unwonted — 不寻常的；不习惯的
@@ -8850,7 +8850,7 @@ forfeiture — 没收；丧失
 commence — 开始；着手
 marital — 婚姻的
 The Interlocking Wedding Arch
-A brisk, unwonted wind made an intractable arch sway before a marital ceremony could commence; an opportune prompt helped builders accomplish an interlocking repair and avoid forfeiture of the garden deposit.
+A brisk, unwonted wind made an intractable arch sway before a ceremony celebrating marital vows could commence; an opportune prompt helped builders accomplish an interlocking repair and avoid forfeiture of the garden deposit.
 Unit 682
 retrace — 原路返回；追溯
 pawn — 典当；棋子
@@ -8863,7 +8863,7 @@ inroad — 侵袭；进展
 piazza — 广场；柱廊
 leer — 色迷迷地看；斜眼看
 The Cub's Elliptical Trail
-During a film preview in the piazza, a lost cub made an inroad through the crowd with a chirp; a guard ignored a vendor's leer, refused his opiate bait, moved a giant chess pawn, and used an elliptical map to retrace the animal's path.
+During a film preview in the piazza, a lost cub made an inroad on the crowd's attention with a chirp; a guard ignored a vendor's leer, refused his opiate bait, moved a giant chess pawn, and used an elliptical map to retrace the animal's path.
 Unit 683
 mottled — 斑驳的；杂色的
 touchstone — 试金石；检验标准
@@ -8876,7 +8876,7 @@ hedgehog — 刺猬；防御物
 slit — 狭缝；切开
 reiterate — 重申；反复说
 The Hedgehog Panorama
-A passionate painter cut a slit in a screen to reveal a mottled hedgehog against a panorama; she would reiterate that the timid animal was no poltroon, reject every cruel imputation, and use compassion as her touchstone rather than distain its shelter.
+A passionate painter cut a slit in a screen to reveal a mottled hedgehog against a panorama; she would reiterate that the timid animal was no poltroon, reject every cruel imputation, and use compassion as her touchstone rather than let contempt distain its shelter.
 Unit 684
 maintenance — 维护；保养
 supplicate — 恳求；祈求
@@ -8889,7 +8889,7 @@ baroque — 巴洛克式的；繁复的
 nucleate — 形成核；成核的
 reptile — 爬行动物；卑鄙者
 The Amethyst Reptile Backdrop
-During maintenance of a baroque theater, workers found an amethyst reptile behind the backdrop; a curator began to expatiate on how crystals nucleate, while the owner chose to supplicate for help before damp could corrode it, making panic unwarranted.
+During maintenance of a baroque theater, workers found an amethyst reptile sculpture behind the backdrop; a curator began to expatiate on how crystals nucleate, while the owner had to supplicate her for help before damp could corrode its metal frame, making panic unwarranted.
 Unit 685
 permeate — 渗透；弥漫
 gangrene — 坏疽
@@ -8915,7 +8915,7 @@ resurge — 再度兴起；复苏
 barbarian — 野蛮人；粗野的人
 instigate — 煽动；促使
 The Crooning Plane Mechanic
-After a plane began to strand its crew on a sandbar, a mechanic showed initiative and began to croon an orthodontics jingle; she would detach a bent cable, ignore a licentious barbarian trying to instigate panic, and make hope resurge.
+After an engine failure threatened to strand the crew of a plane on a sandbar, a mechanic showed initiative and began to croon an orthodontics jingle; she would detach a bent cable, ignore a licentious barbarian trying to instigate panic, and make hope resurge.
 Unit 687
 tenacity — 坚韧；固执
 pygmy — 侏儒；矮小的事物
@@ -8928,7 +8928,7 @@ admire — 钦佩；欣赏
 pulpit — 讲坛；布道坛
 grievous — 严重的；令人悲痛的
 The Pygmy Owl in the Pulpit
-An indecisive keeper found a pygmy owl wounded inside a pulpit; her intelligible instructions showed tenacity, telling helpers to cauterize a grievous cut, incinerate dirty gauze, abridge the ceremony, and admire the bird from afar.
+An indecisive keeper found a pygmy owl wounded inside a pulpit but showed tenacity as she gave intelligible instructions, telling helpers to cauterize a grievous cut, incinerate dirty gauze, abridge the ceremony, and admire the bird from afar.
 Unit 688
 lumber — 木材；笨重行进
 traitor — 叛徒；背叛者
@@ -8941,7 +8941,7 @@ geyser — 间歇泉；热水器
 predominant — 占主导的；显著的
 ethnic — 民族的；族群的
 The Song beneath the Geyser Veil
-As an ethnic choir carried lumber past a geyser, its predominant tenor sang with an alluring timbre; a minuscule crack made a distinct steam veil, and no traitor was needed to explain the leak.
+As an ethnic choir carried lumber past a geyser, its predominant tenor sang with an alluring timbre; although a foreman accused a worker of being a traitor, a minuscule crack produced a distinct veil of steam and explained the leak.
 Unit 689
 ordnance — 军械；大炮
 ignite — 点燃；激起
@@ -8954,7 +8954,7 @@ recoil — 后坐；畏缩
 tapestry — 挂毯；丰富画卷
 criteria — 标准；准则
 The Pistol behind the Tapestry
-A reportorial intern found a pistol and old ordnance behind a sybaritic tapestry; safety criteria required her to recoil, avoid sparks that might ignite powder, and report the cache before workers could pasteurize milk nearby, preventing malpractice.
+A reportorial intern found a pistol and old ordnance behind a sybaritic tapestry; she began to recoil, followed safety criteria by avoiding sparks that might ignite powder, and reported the cache before hospital workers could pasteurize donor milk nearby, since ignoring it would have been malpractice.
 Unit 690
 winding — 蜿蜒的；绕组
 tackle — 处理；用具
@@ -8980,7 +8980,7 @@ reshuffle — 改组；重新洗牌
 fallible — 会犯错的
 smut — 污迹；黑穗病
 The Rhinestone Fire Dance
-An aboriginal troupe used a rhinestone and earplug in a dance meant to foster constitutional debate; a fallible technician let sparks singe the curtain and leave smut, but the cast refused to retaliate and chose to reshuffle the finale.
+An aboriginal troupe used a rhinestone costume and an earplug as props in a dance meant to foster debate over constitutional rights; a fallible technician let sparks singe the curtain and leave smut, but the cast refused to retaliate and chose to reshuffle the finale.
 Unit 692
 snicker — 窃笑；暗笑
 induct — 正式就职；使入门
@@ -8993,7 +8993,7 @@ amplitude — 振幅；广大
 testiness — 易怒；暴躁
 embolden — 鼓励；使大胆
 The Auricular Bell Test
-To induct a disinterested engineer, students chant beside an auricular bell; its wild amplitude could constrain the test, but her calm answer to every snicker and flash of testiness would embolden them to circumscribe the vibration zone.
+To induct a disinterested engineer, students began to chant beside an auricular bell; its wild amplitude threatened to constrain the test, but her calm answer to every snicker and flash of testiness would embolden them to circumscribe the vibration zone.
 Unit 693
 lurch — 蹒跚；突然倾斜
 stouthearted — 勇敢的；坚毅的
@@ -9019,7 +9019,7 @@ pillory — 颈手枷；使受公众嘲弄
 redundant — 多余的；被裁减的
 reprove — 责备；谴责
 The Birth beneath the Cape
-A contumacious shepherd began to doze in his cape while gulls hover above a ewe in parturition; a vet's proposition to help was not redundant, and she chose to reprove his neglect without using shame to pillory him as she asked him to relate what happened.
+A contumacious shepherd began to doze in his cape while gulls began to hover above a ewe in parturition; a vet rejected his proposition that her help was redundant and chose to reprove his neglect without using shame to pillory him as she asked him to relate what had happened.
 Unit 695
 commensurate — 相称的；相应的
 blizzard — 暴风雪；大量涌来
@@ -9032,7 +9032,7 @@ plush — 豪华的；长毛绒
 assure — 保证；使确信
 sport — 运动；炫耀
 The Plush Lodge Blockade
-A blizzard formed a reticulation of ice around a plush lodge under lease; despite his oafishness, a winter sport guide used a lever to break the blockade and assure guests that the effort was commensurate with the danger.
+A blizzard formed a reticulation of ice around a plush lodge under lease; despite his oafishness, a guide for winter sport used a lever to break the blockade and assure guests that the effort was commensurate with the danger.
 Unit 696
 suspicious — 可疑的；怀疑的
 pivot — 枢轴；转向
@@ -9058,7 +9058,7 @@ aggregate — 总计；聚集
 univocal — 单义的；明确的
 sustenance — 食物；支撑
 The Ferry Rope Verdict
-On a crowded ferry, a niggard refused sustenance to a deckhand whose rigid posture warned of strangulation by a rope; the odds of rescue improved when passengers aggregate, giving a univocal order that the captain not abdicate duty, lest delay beget disaster.
+On a crowded ferry, a niggard refused sustenance to a deckhand whose rigid posture warned of strangulation by a rope; the odds of rescue improved when passengers began to aggregate, giving a univocal order that the captain not abdicate duty, lest delay beget disaster.
 Unit 698
 fragrance — 芳香；香味
 intellectual — 知识分子；智力的
@@ -9071,7 +9071,7 @@ convulsion — 抽搐；剧烈震动
 garnish — 装饰；配菜
 tact — 机智；分寸
 The Mechanical Chef's Script
-An intellectual chef used tact to script a mechanical banquet, letting guests fondle herbs before their fragrance became a garnish; when a motor convulsion shook the table, futile panic gave way to triumph after she pulled the plug.
+An intellectual chef used tact to script a mechanical banquet, letting guests gently fondle sprigs of herbs to release their fragrance before using them as a garnish; when a motor convulsion shook the table, futile panic gave way to triumph after she pulled the plug.
 Unit 699
 arena — 竞技场；活动领域
 constant — 持续的；常量
@@ -9149,7 +9149,7 @@ maelstrom — 大漩涡；极度混乱
 disclaimer — 免责声明；否认声明
 impediment — 障碍；妨碍
 Testimony from the Maelstrom
-Before the maritime tribunal, a sailor began an excursive drawl about how he would slurp soup near the rail, but the judge's disclaimer made clear that no one would coerce him; he then named a plankton bloom as the proximate cause of the maelstrom and a broken rudder as the fatal impediment.
+Before the maritime tribunal, a sailor began an excursive drawl about how he would slurp soup near the rail and offered a disclaimer about his poor memory; the judge made clear that no one would coerce him, so he named a plankton bloom as the proximate cause of the maelstrom and a broken rudder as the fatal impediment.
 Unit 705
 cosmopolitanism — 世界主义；国际性
 scarp — 陡坡；悬崖
@@ -9162,7 +9162,7 @@ huddle — 挤作一团；蜷缩
 medium — 媒介；中等的
 hazardous — 危险的；冒险的
 The Wraith on the Scarp
-A diffident medium and a hardbitten guide climbed the hazardous scarp, where shepherds huddle for subsistence, and met a wraith warning that fear would sunder the valley unless its growing cosmopolitanism united the old villages.
+A diffident medium and a hardbitten guide climbed the hazardous scarp, where shepherds living at subsistence level huddle together, and met a wraith warning that fear would sunder the valley unless its growing cosmopolitanism united the old villages.
 Unit 706
 wardrobe — 衣柜；全部服装
 resilience — 韧性；恢复力
@@ -9170,4 +9170,4 @@ indifferent — 漠不关心的；一般的
 retract — 撤回；缩回
 aseptic — 无菌的；防腐的
 The Coat in the Aseptic Ward
-An indifferent curator tried to retract her claim that an old coat from a hospital wardrobe lacked resilience, for its aseptic wrapping had preserved the fabric through decades of neglect.
+No longer indifferent, the curator had to retract her claim that an old coat from a hospital wardrobe lacked resilience, for its aseptic wrapping had preserved the fabric through decades of neglect.
