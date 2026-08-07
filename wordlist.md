@@ -9169,5 +9169,3156 @@ resilience — 韧性；恢复力
 indifferent — 漠不关心的；一般的
 retract — 撤回；缩回
 aseptic — 无菌的；防腐的
+contiguity — 接触；邻接
+version — 版本；说法
+indiscernible — 难以辨认的；无法分辨的
+homologous — 同源的；结构相应的
+insignificant — 无关紧要的；微不足道的
 The Coat in the Aseptic Ward
-No longer indifferent, the curator had to retract her claim that an old coat from a hospital wardrobe lacked resilience, for its aseptic wrapping had preserved the fabric through decades of neglect.
+In the aseptic conservation ward, the contiguity of two homologous coats in a sealed wardrobe had caused fibers to pass between them. The differences between the two versions were nearly indiscernible and seemed insignificant, but one showed remarkable resilience; no longer indifferent to the evidence, the curator had to retract her claim that both were replicas.
+Unit 707
+valid — 有效的；合理的
+scintilla — 一星半点；微量
+quietus — 终止；解脱
+benignity — 仁慈；温和
+disbeliever — 不相信者
+confluent — 汇合的；融合的
+octagon — 八边形
+glazier — 玻璃匠
+optic — 眼睛；光学的
+lingo — 行话；术语
+The Octagonal Observatory
+The glazier, a disbeliever in local lingo about haunted windows, found not a scintilla of valid evidence in the confluent reflections of the octagon; a flaw in the optic glass explained them, and his benignity toward the frightened caretaker brought the rumor a welcome quietus.
+Unit 708
+forejudge — 预先判断
+Christ — 基督；天啊
+virulence — 毒性；恶意
+patronymic — 源自父名的姓氏
+monosyllable — 单音节词
+semiannual — 每半年一次的
+dissimilar — 不相似的
+anxious — 焦虑的；渴望的
+prattle — 闲聊；孩子气地说
+inwardly — 内心里；向内
+The Name on the Parish Register
+At the semiannual parish meeting, Mara was anxious not to forejudge two dissimilar entries bearing the same patronymic; while a child began to prattle and an old man muttered “Christ” in surprise, she inwardly rejected the virulence of the dispute and settled it with a single monosyllable: “Wait.”
+Unit 709
+absence — 缺席；不存在
+physiography — 自然地理学；地貌
+rearrange — 重新安排
+clothier — 服装商；制衣商
+material — 材料；重要的
+bosom — 胸怀；亲密的
+dragoon — 强迫；龙骑兵
+propellant — 推进剂
+demobilize — 复员；遣散
+obvert — 将正面转向；翻转
+The Map Inside the Uniform
+In the absence of its owner, a clothier found a physiography map sewn into the bosom of a uniform; rather than let an officer dragoon him into silence, he chose to obvert the material, rearrange its coded strips, identify a hidden propellant depot, and help demobilize the last militia unit.
+Unit 710
+altitude — 海拔；高度
+synod — 宗教会议
+ambulate — 行走；走动
+brimstone — 硫黄
+befog — 使困惑；使模糊
+rebut — 反驳；驳回
+thesis — 论文；论点
+heritage — 遗产；传统
+overproduction — 生产过剩
+conformation — 构造；形态
+The Sulfur Path Debate
+At high altitude, delegates to the synod had to ambulate along a brimstone-stained path to inspect their heritage site; smoke could befog the issue, but Lina used her thesis on the rock’s conformation to rebut claims that industrial overproduction alone had caused the yellow deposits.
+Unit 711
+percolator — 渗滤式咖啡壶
+adieu — 告别；再会
+wintry — 寒冷的；冬天的
+reconstruct — 重建；还原
+intensive — 密集的；深入的
+superabundance — 过多；极其丰富
+differentiate — 区分；使不同
+kinsfolk — 亲属；族人
+judgment — 判断；判决
+infamy — 恶名；罪恶
+Coffee at the Ruined Station
+On a wintry morning, Ada set a percolator beside the ruined station and began an intensive effort to reconstruct her kinsfolk’s final journey; a superabundance of rumors made it hard to differentiate courage from infamy, so she withheld judgment and whispered adieu only after finding the conductor’s diary.
+Unit 712
+necrology — 讣告集；死者名录
+divagation — 离题；漫游
+out-of-the-way — 偏僻的；不寻常的
+claimant — 申请人；声称者
+paly — 竖条纹状的
+duteous — 忠实尽责的
+pentathlon — 五项全能
+orator — 演说家
+diacritical — 区别性的；变音符号的
+expectorate — 咳出；吐痰
+The Athlete in the Necrology
+In an out-of-the-way archive, a duteous claimant noticed that a diacritical mark had placed a living pentathlon champion in the necrology; despite the orator’s comic divagation about a paly family crest and his need to expectorate into a handkerchief, the hearing ended with the record corrected.
+Unit 713
+sensorium — 感觉中枢；感知系统
+palsy — 麻痹；瘫痪
+nomination — 提名；任命
+continuance — 持续；延期
+bomb — 炸弹；轰炸
+covey — 一小群鸟；一群
+dialogue — 对话；对白
+inconceivable — 难以置信的
+disenfranchise — 剥夺选举权
+waif — 流浪儿；无主之物
+The Waif’s Radio Play
+The waif’s radio dialogue described how a bomb blast, a startled covey, and a case of palsy had overwhelmed his sensorium; it seemed inconceivable that officials would disenfranchise him for lacking papers, so the council granted a continuance and accepted his nomination as the shelter’s youth representative.
+Unit 714
+confinement — 限制；禁闭
+sanguineous — 血的；血红色的
+extremity — 末端；极端困境
+actuality — 现实；事实
+extensible — 可扩展的；可延伸的
+tiresome — 烦人的；令人厌倦的
+effect — 影响；实现
+invaluable — 极宝贵的
+predicate — 断言；以……为前提
+microscopy — 显微镜检查术
+The Flexible Splint
+During confinement in a remote clinic, microscopy revealed a sanguineous lesion at the patient’s injured extremity; the tiresome delay was in actuality invaluable, because the finding prompted an extensible splint whose effect contradicted the surgeon’s gloomy predicate that amputation was inevitable.
+Unit 715
+antipathize — 厌恶；反感
+transferrer — 转让人；传递者
+fusible — 可熔的
+exit — 出口；离开
+distemper — 犬瘟热；坏脾气
+Calvinize — 使皈依加尔文教
+modification — 修改；改变
+pyx — 圣饼盒；硬币检验盒
+bulbous — 球茎状的；膨大的
+boll — 棉铃；种荚
+The Silversmith’s Pyx
+The transferrer of a bulbous silver pyx tried to exit the auction before a conservator found a fusible repair beside an engraved boll; although rival bidders antipathize toward one another and quarrel over any modification, the curator blamed their distemper on pride when one used “Calvinize” as an insult and withdrew the object.
+Unit 716
+sentence — 句子；判决
+treble — 三倍；高音
+Parisian — 巴黎人；巴黎的
+incident — 事件；插曲
+happy-go-lucky — 随遇而安的
+mane — 鬃毛
+element — 要素；自然力
+lifetime — 一生；寿命
+insurgence — 起义；暴动
+foresail — 前帆
+The Parisian and the Foresail
+A happy-go-lucky Parisian spent a lifetime painting ships, but one incident changed his work: during an insurgence, a horse with a singed mane broke free as the wind tore the foresail, and that raw element of panic gave every sentence in his memoir a treble force.
+Unit 717
+inhuman — 不人道的；非人的
+broadcast — 广播；广泛传播
+absent-minded — 心不在焉的
+lifelike — 栩栩如生的
+solar — 太阳的；太阳能的
+oaken — 橡木制的
+dermatology — 皮肤病学
+thermoelectricity — 温差电
+sequence — 顺序；一连串
+patriarch — 家长；族长
+The Solar Clinic Broadcast
+An absent-minded patriarch leaned against an oaken desk during a live broadcast from the solar clinic, where a lifelike model illustrated a dermatology procedure; the orderly sequence of images and a thermoelectricity-powered cooler exposed the inhuman conditions endured by patients at the old facility.
+Unit 718
+selective — 有选择的；挑剔的
+vegetal — 植物的；植物性的
+primitive — 原始的；简陋的
+sarcasm — 讽刺；挖苦
+came — 来；到达
+brogue — 粗革鞋；浓重口音
+hernia — 疝气
+fluent — 流利的；流畅的
+numerical — 数字的；数值的
+inference — 推断；结论
+The Healer’s Numbers
+When a fluent guide with a soft brogue came to the primitive hill clinic for a hernia treatment, the doctor made a selective study of vegetal remedies; without sarcasm, she explained that numerical improvement in three patients did not justify the inference that every herb was effective.
+Unit 719
+immiscible — 不相混溶的
+sinuosity — 蜿蜒；曲折
+protuberance — 隆起；凸出物
+asexual — 无性的；无性繁殖的
+regretful — 遗憾的；后悔的
+abnormal — 异常的
+irresistible — 无法抗拒的
+brogan — 粗皮工作鞋
+obsequies — 葬礼；丧仪
+occupant — 占用者；居住者
+The Boot in the Tide Pool
+After the obsequies, a regretful occupant of the lighthouse followed the coast’s sinuosity and found an old brogan beside an abnormal protuberance in a tide pool; beneath two immiscible films, an asexual anemone spread in patterns so irresistible that she postponed selling the station.
+Unit 720
+influential — 有影响力的
+electrolysis — 电解；电解脱毛
+self-respect — 自尊
+grantee — 受让人；获资助者
+coronet — 小王冠；冠冕
+bigamy — 重婚罪
+animadversion — 批评；谴责
+epicycloid — 外摆线
+misogamy — 厌恶婚姻
+ado — 忙乱；费事
+The Coronet Patent
+An influential grantee restored a coronet by electrolysis and traced an epicycloid beneath its tarnish; amid much ado, gossip about bigamy and misogamy drew harsh animadversion, but she kept her self-respect by presenting the patent records and refusing to discuss the donor’s marriage.
+Unit 721
+aerostatics — 空气静力学
+consignor — 发货人；委托人
+apothecary — 药剂师；药房
+pulmonary — 肺部的
+quackery — 江湖医术；骗术
+inadmissible — 不可接受的；不准采纳的
+beneficent — 慈善的；有益的
+magnificence — 华丽；壮观
+hydrodynamics — 流体动力学
+submerge — 淹没；潜入水中
+The Balloonist’s Medicine Chest
+The consignor claimed the apothecary chest had crossed a lake beneath a balloon, but an aerostatics expert said the load would force the basket to submerge; hydrodynamics supported her, pulmonary “cures” exposed the seller’s quackery, and the inadmissible tale lost its magnificence when a beneficent museum returned the chest to its village.
+Unit 722
+odorous — 有气味的；芳香的
+akin — 相似的；有亲缘的
+inexpressible — 难以言表的
+narrator — 叙述者；旁白
+financial — 财务的；金融的
+exhaustible — 可耗尽的
+evolution — 演变；进化
+success — 成功；成就
+corollary — 推论；必然结果
+foolery — 愚蠢行为；胡闹
+The Perfumer’s Radio Tale
+The narrator traced the evolution of an odorous marsh plant into a perfume akin to amber, calling its success inexpressible; the financial corollary was less romantic, because the flower was exhaustible, and harvesting it without a renewal plan would be pure foolery.
+Unit 723
+hypnosis — 催眠
+divination — 占卜；预言
+temporary — 临时的；暂时的
+frivolity — 轻浮；无聊事
+inarticulate — 说不清的；口齿不清的
+juridical — 司法的；法律的
+foreordination — 预定；宿命
+botanize — 采集并研究植物
+rightful — 合法的；正当的
+tutorship — 辅导；导师职位
+The Botanist’s Rightful Claim
+Under the temporary tutorship of a retired judge, an inarticulate student learned to botanize and defend her rightful discovery; rivals dismissed her field notes as hypnosis, divination, or frivolity, but juridical review showed that evidence, not foreordination, had secured her authorship.
+Unit 724
+aural — 听觉的；耳的
+inure — 使习惯；使适应
+forehead — 前额
+nuisance — 麻烦事；讨厌的人
+faulty — 有缺陷的；错误的
+aura — 气氛；先兆
+octavo — 八开本；八开
+decaliter — 十升
+dogmatic — 武断的；教条的
+mastery — 精通；掌握
+The Bellmaker’s Octavo
+An aural test exposed a faulty bell whose harsh note made every decaliter jar vibrate; the dogmatic founder called the complaint a nuisance, but an apprentice with soot on her forehead used an octavo manual and quiet mastery to retune it, giving the workshop a calmer aura before anyone could inure themselves to the noise.
+Unit 725
+continence — 节制；自制
+vegetative — 植物性的；无意识的
+sibilate — 发咝声；咝声说
+statuette — 小雕像
+nit — 虱卵；小节
+protuberate — 隆起；突出
+impulsion — 冲动；推动力
+penurious — 吝啬的；贫困的
+indestructible — 坚不可摧的
+necessity — 必需品；必要性
+The Hissing Statuette
+When heat made a resin vein protuberate from the statuette and sibilate like a kettle, a penurious dealer called the flaw indestructible proof of age; the conservator exercised continence, removed a nit of vegetative fiber, and resisted the impulsion to accuse him until chemical testing became a necessity.
+Unit 726
+sacrificial — 祭祀的；牺牲性的
+azalea — 杜鹃花
+alternative — 替代方案；另一种的
+recrudescence — 复发；再度活跃
+vincible — 可战胜的
+mishap — 小事故；不幸
+liable — 可能的；负有责任的
+incitement — 煽动；刺激
+alder — 桤木
+recreate — 再现；娱乐
+The Firebreak Garden
+After a mishap burned the sacrificial altar beside an alder, villagers feared a recrudescence of the old feud; the gardener offered an alternative, using azalea beds to recreate the boundary as a firebreak, proving the danger vincible and making anyone who treated the blaze as incitement liable for new damage.
+Unit 727
+batten — 板条；靠损人肥己
+subtrahend — 减数
+depositor — 存放者；储户
+radiate — 辐射；散发
+datum — 数据；资料
+alto — 女低音；中音部
+recapture — 重新捕获；重现
+acquiescence — 默许；顺从
+emphasize — 强调
+recognize — 认出；承认
+The Alto’s Hidden Datum
+To recapture the chapel’s lost acoustics, an alto sang while an engineer tapped each wooden batten; one datum made the pattern radiate clearly, and by treating background noise as a subtrahend, they could recognize the depositor’s recorded voice and emphasize that the archive had accepted the tape without acquiescence to its claims.
+Unit 728
+clan — 家族；宗族
+catholicity — 广泛性；包容性
+indivisible — 不可分割的
+misanthropy — 厌世；厌恶人类
+typography — 字体设计；排印
+diphthong — 双元音
+indistinct — 模糊的；不清楚的
+sentience — 感知能力；知觉
+correlative — 相关物；相互关联的
+witchcraft — 巫术；魔法
+The Printer’s Indistinct Mark
+A clan historian mistook an indistinct diphthong in antique typography for a sign of witchcraft, but a linguist with intellectual catholicity found its correlative in a neighboring dialect; the discovery replaced misanthropy with curiosity and showed that language and sentience were indivisible in the old songs.
+Unit 729
+determinate — 确定的；限定的
+arboriculture — 树木栽培学
+theological — 神学的
+diplomat — 外交官
+ballad — 民谣；歌谣
+vituperable — 应受斥责的
+perhaps — 也许
+dispossess — 剥夺财产；逐出
+glorious — 辉煌的；壮丽的
+centenary — 百年纪念；百年的
+The Centenary Orchard
+At the orchard’s centenary, a diplomat sang a glorious ballad while experts in arboriculture dated its oldest pear tree; a theological trust had tried to dispossess the tenants on perhaps the most vituperable reading of a deed, but the tree rings supplied determinate proof of their century-long care.
+Unit 730
+protective — 保护的；防护的
+excusable — 可原谅的
+recur — 再发生；重现
+altruist — 利他主义者
+Scriptural — 圣经的；依据经典的
+omission — 遗漏；省略
+discountenance — 使窘迫；反对
+mealy-mouthed — 含糊其词的；不直率的
+preestablish — 预先确立
+superheat — 使过热；过热
+The Kiln Safety Clause
+The altruist who funded the pottery school used a Scriptural motto but was never mealy-mouthed about safety: protective valves must preestablish airflow before workers superheat the kiln, because an excusable omission once may recur, and clear rules discountenance the habit of hiding mistakes.
+Unit 731
+participant — 参与者
+relevant — 相关的
+frigidarium — 古罗马浴场冷水室
+assassin — 刺客；暗杀者
+dogmatize — 武断地宣称
+ampersand — 与号
+violation — 违反；侵犯
+wholly — 完全地；全部
+dolesome — 悲伤的；凄凉的
+physics — 物理学
+The Ampersand in the Bathhouse
+Each participant in the physics seminar examined the frigidarium inscription, where an ampersand joined two names; a dolesome guide began to dogmatize about an assassin, but wholly relevant tool marks showed a later mason’s violation of the original spacing, not evidence of murder.
+Unit 732
+regicide — 弑君；弑君者
+pleasant — 令人愉快的
+inject — 注射；注入
+abominable — 可恶的；糟糕的
+coniferous — 针叶树的
+outlaw — 歹徒；宣布非法
+signification — 含义；意义
+sextuple — 六倍的；六重的
+pharmacy — 药房；药剂学
+compression — 压缩；挤压
+The Outlaw’s Pine Remedy
+In a pleasant coniferous valley, an outlaw carried a pharmacy vial said to inject courage and sextuple strength; its royal seal suggested regicide, but under compression the wax revealed a mundane signification, and the supposedly abominable poison proved to be cough syrup.
+Unit 733
+foreign — 外国的；陌生的
+free trade — 自由贸易
+caitiff — 卑鄙小人；懦夫
+triumvir — 三人执政之一
+insensible — 无知觉的；不敏感的
+ridiculous — 荒谬的；可笑的
+possible — 可能的
+sensibility — 感受力；敏感性
+efficacious — 有效的
+bolero — 波莱罗舞曲；短上衣
+The Bolero at the Trade Fair
+At a free trade fair, a foreign triumvir dismissed the village bolero as ridiculous and called its composer a caitiff; the crowd was not insensible to the insult, but her sensibility kept the musicians calm, and the most efficacious reply possible was a flawless encore.
+Unit 734
+advisory — 咨询的；警告
+orgies — 狂欢；纵饮
+positive — 积极的；明确的
+laborious — 费力的；勤勉的
+potion — 药水；魔药
+humanize — 使人性化；使温和
+magnet — 磁铁；有吸引力的人物
+kind-hearted — 好心的
+benevolence — 仁慈；善意
+batter — 连续猛击；面糊
+The Baker’s Storm Advisory
+Despite a storm advisory, a kind-hearted baker became a magnet for stranded travelers by serving fritters whose batter required laborious whisking and a warming potion of ginger; her positive humor helped humanize strangers whom tabloids had associated with holiday orgies, and quiet benevolence replaced suspicion.
+Unit 735
+bailiff — 法警；管家
+parentage — 出身；血统
+reservoir — 水库；储藏器
+transfusible — 可输注的
+mead — 蜂蜜酒；草地
+transact — 办理；交易
+subtend — 对着；构成弦
+darkling — 在黑暗中；渐暗的
+partible — 可分割的
+foreground — 前景；突出
+The Darkling Reservoir
+A bailiff arrived darkling at the reservoir to transact the sale of a partible estate, but a transfusion kit labeled “transfusible blood” and a flask of mead in the foreground of an old photograph revealed the owner’s parentage; survey lines that subtend the eastern shore confirmed her heir’s claim.
+Unit 736
+irrigant — 冲洗液；灌溉剂
+prescriptible — 可依法取得的；可规定的
+divergent — 分歧的；发散的
+insistence — 坚持；强求
+disobedient — 不服从的
+burgess — 市民；自治市议员
+morphology — 形态学；构词法
+foppery — 纨绔习气；浮华装扮
+sebaceous — 皮脂的；脂肪质的
+heifer — 小母牛
+The Burgess and the Heifer
+At the burgess’s insistence, a veterinarian examined a disobedient heifer whose sebaceous swelling had resisted every irrigant; divergent opinions about its morphology displaced the councilor’s foppery, and the farmer established a prescriptible right to lead livestock across the common for treatment.
+Unit 737
+disparity — 差异；不平等
+pestilential — 致疫的；有害的
+Pan-American — 泛美洲的
+philanthropy — 慈善；博爱
+wampum — 贝壳珠；贝壳珠串
+sapid — 有滋味的；有趣的
+conformity — 遵从；一致
+admittance — 进入；准入
+bole — 树干
+excellence — 卓越；优秀
+The Wampum Beneath the Bole
+At a Pan-American exhibition, a curator denied admittance to a pestilential storage room until conservators found wampum beneath a cedar bole; its excellence and sapid history exposed the disparity between public philanthropy and private neglect, prompting new standards of conformity for every collection.
+Unit 738
+intimacy — 亲密；熟悉
+manor — 庄园；领地
+head first — 头朝前地
+muleteer — 骡夫
+philologist — 语文学家
+contingency — 意外；应急措施
+electrotype — 电铸版；电版
+accordion — 手风琴
+preferment — 晋升；优先权
+adulterant — 掺杂物；掺假剂
+The Accordion Plate
+At the manor, a muleteer tripped head first over an electrotype hidden beneath an accordion case; a philologist whose intimacy with the household made its dialect familiar identified the inscription, while testing found an adulterant in its ink, defeating a contingency plan to win preferment through a forged dedication.
+Unit 739
+ichthyosaurs — 鱼龙
+psychiatry — 精神病学
+paramour — 情人
+carcass — 尸体；骨架
+inoffensive — 无害的；不冒犯的
+lieu — 代替；场所
+reestablish — 重建；恢复
+prima — 首要的；第一的
+vacuum — 真空；空白
+actuary — 精算师
+The Actuary’s Fossil
+An actuary studying in lieu of her absent sister found a specimen labeled prima among the ichthyosaurs: an almost complete carcass sealed in a vacuum chamber; an inoffensive joke about a curator’s paramour unsettled the lab, but training in psychiatry helped her apologize and reestablish trust.
+Unit 740
+intolerant — 不宽容的；不能耐受的
+errant — 犯错的；游荡的
+hexapod — 六足动物；六足的
+loch — 湖；狭长海湾
+metempsychosis — 灵魂转生
+Baconian — 培根的；培根学说的
+diffusion — 扩散；传播
+peddler — 小贩；传播者
+herbarium — 植物标本馆
+protomartyr — 第一位殉道者
+The Beetle by the Loch
+An errant peddler reached the loch with a hexapod preserved in a Baconian herbarium and claimed it embodied metempsychosis; the intolerant curator mocked him, but pigment diffusion linked the wrapper to a chapel mural of the protomartyr, giving the humble package genuine historical value.
+Unit 741
+immature — 不成熟的；幼稚的
+acidify — 使酸化
+kilometer — 千米；公里
+theorist — 理论家
+kingling — 小国王；小王
+zodiac — 黄道带；十二宫图
+courser — 骏马；猎犬
+persuadable — 可说服的
+emeritus — 荣休的；名誉退休的
+supposition — 假设；推测
+The Kingling’s Zodiac Cup
+An emeritus theorist walked a kilometer to inspect a cup showing a kingling, a courser, and the zodiac; an immature assistant wanted to acidify the tarnish, but proved persuadable when a harmless test overturned the supposition that the vessel was solid gold.
+Unit 742
+requiem — 安魂曲；悼念
+disquiet — 不安；使忧虑
+centimeter — 厘米
+primeval — 原始的；远古的
+demulcent — 缓和剂；润滑的
+vociferate — 大声叫喊
+misty — 多雾的；模糊的
+rapid — 湍流；迅速的
+shrinkage — 收缩；缩水
+proletarian — 无产者；工人的
+The Requiem by the Rapid
+Beside a misty rapid, a proletarian choir sang a requiem for miners lost in a primeval forest; when a singer began to vociferate about a centimeter of shrinkage in the memorial cloth, the conductor calmed the disquiet with a demulcent tea and promised a rapid repair.
+Unit 743
+metonymy — 转喻
+neural — 神经的；神经网络的
+declamatory — 雄辩腔的；朗诵式的
+technography — 技术描述；工艺学
+verification — 核实；验证
+giver — 给予者；捐赠者
+abscess — 脓肿
+illuminant — 光源；照明剂
+determination — 决心；测定
+supramundane — 超世俗的；天界的
+The Illuminant Manuscript
+The giver described the manuscript in declamatory prose as a supramundane cure, but technography describing its illuminant and neural imaging of a patient’s abscess provided sober verification; with quiet determination, the editor marked “the crown” as metonymy rather than a literal medical ingredient.
+Unit 744
+seize — 抓住；没收
+endanger — 危及
+hosiery — 袜类；针织袜
+decimal — 小数；十进制的
+tutelar — 守护的；保护神的
+overpass — 天桥；越过
+somnolence — 嗜睡；困倦
+effective — 有效的；生效的
+benefice — 圣俸；有俸圣职
+conduce — 有助于；导致
+The Hosiery Parcel
+On the overpass, customs officers tried to seize a hosiery parcel marked with a decimal code from a tutelar charity; the vicar showed that proceeds from his benefice funded an effective driver-rest program, whose quiet rooms conduce to sleep without the somnolence that can endanger morning commuters.
+Unit 745
+outstretch — 伸出；延展
+perversity — 任性；反常
+oculist — 眼科医生
+dendroid — 树枝状的
+embolism — 栓塞；闰日插入
+mouthful — 一口；冗长难念的词
+prospectus — 简章；说明书
+stagnate — 停滞；淤积
+myth — 神话；错误观念
+translate — 翻译；转化
+The Dendroid Scan
+An oculist asked the patient to outstretch one hand while she studied a dendroid shadow in his eye; the clinic prospectus was a mouthful to translate, but it dispelled the myth that treatment could stagnate indefinitely and showed that ignoring a possible embolism would be perversity.
+Unit 746
+contributor — 投稿人；贡献者
+rapine — 掠夺；劫掠
+epode — 长短句；抒情诗末节
+habitual — 惯常的；习惯性的
+imitator — 模仿者
+plurality — 多数；多样性
+iciness — 冰冷；冷淡
+well-doer — 行善者
+countryman — 同胞；乡下人
+edible — 可食用的
+The Epode in the Seed Vault
+A countryman and habitual contributor to the seed vault wrote an epode condemning wartime rapine; an imitator copied its cadence but not its warmth, and the iciness of his version vanished when a well-doer shared a plurality of edible grains with the hungry village named in the original.
+Unit 747
+ante — 赌注；事先
+bureau — 办公局；书桌
+acetate — 醋酸盐；透明胶片
+arrangement — 安排；排列
+chancery — 衡平法院；大法官署
+man-trap — 捕人陷阱；危险装置
+effectual — 奏效的；有效的
+irreligious — 不信宗教的；不虔诚的
+seminar — 研讨会
+optometry — 验光学
+The Acetate Map
+Before an optometry seminar, a bureau clerk found an acetate map in a chancery desk; its arrangement exposed a man-trap near the archive, and an irreligious groundskeeper raised the ante by proposing an effectual redesign that protected pilgrims and skeptics alike.
+Unit 748
+legitimacy — 合法性；正当性
+cycloid — 摆线
+resonate — 产生共鸣；共振
+hypocrisy — 虚伪；伪善
+linguist — 语言学家；通晓多语者
+contradiction — 矛盾；反驳
+insignificance — 微不足道；无意义
+breaker — 碎浪；断路器
+consanguineous — 血亲的；同源的
+wavelet — 小波；微波
+The Breaker’s Family Song
+A linguist recorded a song above a roaring breaker and mapped each wavelet as a cycloid; its consanguineous dialects seemed to contradict the chief’s claim of insignificance, and when the melody began to resonate across the islands, the contradiction exposed his hypocrisy and restored the singers’ legitimacy.
+Unit 749
+committal — 收监；下葬；承诺
+intromit — 使进入；干预
+inaudible — 听不见的
+stringency — 严格；紧迫
+forefather — 祖先；先辈
+eclipse — 日食；使黯然失色
+bass — 低音；鲈鱼
+besmear — 涂抹；弄脏
+idiosyncrasy — 特质；癖好
+freshness — 新鲜；清新
+The Bass Beneath the Eclipse
+During the eclipse, an inaudible bass note marked the committal of a fisher’s forefather; ritual stringency forbade anyone to intromit a new verse or besmear the boat with paint, yet one child’s melodic idiosyncrasy gave the ancient lament unexpected freshness.
+Unit 750
+gestation — 妊娠；酝酿
+competitive — 有竞争力的；竞争的
+sequel — 续集；后续
+inedible — 不可食用的
+by-law — 章程；附则
+armory — 军械库；纹章学
+insolence — 傲慢；无礼
+angelic — 天使般的；善良的
+physicist — 物理学家
+foreman — 领班；工头
+The Armory’s Sugar Glass
+A competitive physicist persuaded the foreman to let her film a sequel inside the armory, where months of gestation produced angelic figures made of inedible sugar glass; a new by-law curbed one actor’s insolence after he tried to smash them for a dramatic scene.
+Unit 751
+vocable — 词；可发音的词
+overeat — 吃得过量
+enthuse — 热情谈论；使热心
+purveyor — 供应商；传播者
+unspeakable — 难以言表的；糟透的
+studious — 勤奋的；刻意的
+differentia — 区分特征
+proverb — 谚语
+preferable — 更可取的
+tercentenary — 三百周年纪念
+The Tercentenary Proverb
+At the inn’s tercentenary, a studious purveyor began to enthuse about a proverb containing an obsolete vocable; its differentia was a vowel no guest could mimic, but laughter was preferable to an unspeakable lecture, and the cook warned everyone not to overeat while they practiced.
+Unit 752
+cajolery — 花言巧语；哄骗
+pharmacopoeia — 药典
+requital — 回报；报答
+heathenish — 异教的；不文明的
+crystallize — 结晶；使明确
+transatlantic — 横跨大西洋的
+Madonna — 圣母像；圣母
+discrepant — 不一致的；有差异的
+brae — 山坡；斜坡
+nunnery — 女修道院
+The Madonna on the Brae
+A transatlantic scholar reached the nunnery on the brae and found a Madonna dusted with crystals; discrepant entries in the pharmacopoeia supported a heathenish origin story, but patient testing helped the truth crystallize, and her honest report was requital for the abbess’s hospitality, not cajolery.
+Unit 753
+rondo — 回旋曲
+triplicity — 三重性；三位一体
+foggy — 有雾的；模糊的
+habitant — 居民；加拿大农民
+incoherence — 不连贯；语无伦次
+ferocity — 凶猛；猛烈
+perceptible — 可察觉的
+periodicity — 周期性
+metaphysician — 形而上学家
+accouter — 装备；装束
+The Rondo in the Fog
+On a foggy quay, a habitant helped accouter three musicians for a rondo whose triplicity echoed the lighthouse beam; a metaphysician praised its periodicity until the storm’s ferocity made his incoherence perceptible and everyone sensibly moved the concert indoors.
+Unit 754
+waistcoat — 马甲；背心
+light-hearted — 轻松愉快的
+distiller — 蒸馏器；酿酒者
+distillation — 蒸馏；提炼
+enthusiastic — 热情的
+Catholicism — 天主教
+referrer — 推荐人；转诊者
+ultimatum — 最后通牒
+formula — 配方；公式
+nomic — 法则的；格言式的
+The Formula in the Waistcoat
+An enthusiastic distiller found a nomic saying about Catholicism stitched inside his grandfather’s waistcoat and traced its formula to a monastic distillation manual; the referrer who sent him to the archive issued a light-hearted ultimatum: credit the monks before selling the revived cordial.
+Unit 755
+inspector — 检查员；巡视员
+mausoleum — 陵墓；大型墓室
+convalescence — 康复期
+omniscience — 全知
+pentagon — 五边形
+passible — 能感受的；易受影响的
+resistance — 抵抗；阻力
+coquette — 卖弄风情的女子
+mantel — 壁炉架
+depth — 深度；深奥
+The Pentagon on the Mantel
+During her convalescence, an inspector studied a pentagon carved into the mantel of a mausoleum; a portrait labeled its subject a coquette, but the depth of her wartime resistance belied the insult, reminding the passible visitor that no historian possesses omniscience.
+Unit 756
+chateau — 城堡；庄园宅邸
+transposition — 调换；移项
+effulgence — 灿烂；光辉
+brazier — 火盆；黄铜匠
+narration — 叙述；旁白
+diplomacy — 外交手腕；外交
+misplace — 放错；遗失
+imaginable — 可想象的
+indiscreet — 不谨慎的；轻率的
+facility — 设施；熟练
+The Brazier at the Chateau
+At the chateau, an indiscreet guide managed to misplace a brass plate beside the brazier, and its transposition altered the narration of every exhibit; with admirable diplomacy and facility, the curator restored the most accurate sequence imaginable before sunset gave the hall its famous effulgence.
+Unit 757
+officiate — 主持仪式；担任裁判
+kimono — 和服
+infrequence — 罕见；稀少
+tangent — 切线；离题的话
+comprehension — 理解力；领悟
+expect — 预期；期待
+logic — 逻辑；推理
+granular — 颗粒状的；细致的
+hindmost — 最后面的
+abhorrence — 憎恶；令人厌恶之物
+The Hindmost Guest
+Asked to officiate at a tea ceremony, Mira wore a blue kimono and used granular salt to mark a tangent on the floor; despite the infrequence of such rituals, she did not expect the hindmost guest's initial abhorrence to yield, through calm logic and patient explanation, to genuine comprehension.
+Unit 758
+vale — 山谷；谷地
+deterrent — 威慑物；遏制因素
+vegetarian — 素食者；素食的
+venous — 静脉的
+overweight — 超重的；体重过重
+foreigner — 外国人
+miter — 主教冠；斜接
+theologian — 神学家
+inconvenient — 不方便的；棘手的
+meliorate — 改善；缓和
+The Clinic in the Vale
+In a remote vale, an overweight foreigner who was vegetarian arrived with venous swelling, and although the timing was inconvenient, a theologian set aside his miter and helped the village doctor meliorate the man's condition while their prompt care proved a better deterrent to panic than any stern warning.
+Unit 759
+scoundrel — 无赖；恶棍
+generally — 通常；大体上
+misrule — 暴政；治理不当
+deformity — 畸形；变形
+academician — 院士；学者
+dissonance — 不和谐；认知冲突
+uppermost — 最上面的；首要的
+inchoative — 表示动作开始的；起始的
+conjugation — 动词变位；结合
+feudalism — 封建制度
+The Grammar of Misrule
+An academician studying feudalism found that a scoundrel had altered the uppermost line of a charter; the textual deformity created dissonance in an inchoative verb's conjugation, and although such errors are generally accidental, exposing this one made the baron's deliberate misrule plain.
+Unit 760
+aliment — 食物；营养品
+physiocracy — 重农主义
+furlough — 休假；准假
+pavilion — 亭子；展馆
+intercession — 求情；调解
+vivisection — 活体解剖
+anemometer — 风速计
+polemics — 论战；辩论术
+reunite — 重聚；使团聚
+non-existent — 不存在的
+Wind at the Pavilion
+During his furlough, Elias visited a farm pavilion to reunite with his sister, whose talk on physiocracy turned into fierce polemics when a guest proposed vivisection as a source of knowledge; her intercession restored civility, an anemometer supplied a welcome distraction, and a shared aliment awakened their previously non-existent appetite for compromise.
+Unit 761
+Jingo — 好战分子；沙文主义者
+irradiance — 辐照度；光辉
+intension — 内涵；强度
+grantor — 授予人；让与人
+hanger-on — 依附者；食客
+derrick — 起重机；井架
+steppe — 大草原
+energetic — 精力充沛的；有力的
+perversion — 歪曲；反常行为
+technique — 技巧；技术
+The Derrick on the Steppe
+On the steppe, an energetic grantor demonstrated a solar derrick whose efficiency depended on irradiance, but a Jingo and his hanger-on used a clever rhetorical technique to make its peaceful intension sound like a military threat; the engineer exposed that perversion before fear halted the project.
+Unit 762
+Hibernian — 爱尔兰的；爱尔兰人
+unfavorable — 不利的；负面的
+negligent — 疏忽的；玩忽职守的
+thoroughbred — 纯种马；优秀的
+demurrage — 滞期费；逾期费
+disappoint — 使失望
+intolerable — 无法忍受的
+docket — 案件清单；摘要
+admissible — 可采纳的；获准的
+proselyte — 改宗者；新信徒
+The Hibernian's Appeal
+A Hibernian proselyte arrived on a thoroughbred to contest an unfavorable port charge, arguing that a negligent clerk had placed intolerable demurrage on the docket; the judge ruled his receipts admissible, and the fair decision did not disappoint the crowded gallery.
+Unit 763
+minority — 少数；少数群体
+antecede — 先于；居前
+reform — 改革；改良
+head foremost — 头朝前地
+syllabic — 音节的；按音节的
+instant — 瞬间；立即的
+aldermanship — 市议员职位
+unnecessary — 不必要的
+regenerate — 使复兴；再生
+futurist — 未来主义者；未来学家
+The Futurist Candidate
+A futurist seeking an aldermanship promised to regenerate the harbor district, but the instant he rushed head foremost onto the stage, a minority choir began a syllabic chant whose ancient words antecede the city itself; he abandoned his unnecessary spectacle and let their call for reform frame his speech.
+Unit 764
+hemorrhoids — 痔疮
+attorney-general — 总检察长；司法部长
+bursar — 财务主管；奖学金生
+writhe — 扭动；痛苦挣扎
+monitory — 警告的；告诫的
+confident — 自信的；确信的
+preparatory — 准备的；预备的
+beck — 小溪
+modernize — 使现代化
+penitence — 悔过；忏悔
+Confession by the Beck
+During a preparatory retreat beside a beck, the bursar confessed with evident penitence that he had ignored a monitory letter about plans to modernize the clinic; confident that candor mattered, he even admitted that hemorrhoids had made him writhe through his meeting with the attorney-general.
+Unit 765
+excitation — 兴奋；激发
+sibilance — 咝咝声；齿擦音
+baritone — 男中音；男中音歌手
+migrant — 移民；候鸟
+colleague — 同事
+auburn — 赤褐色的
+culvert — 涵洞；排水渠
+incandescent — 白炽的；热情洋溢的
+dragnet — 拉网；大规模搜捕
+dissipation — 消散；放荡
+Song Beneath the Culvert
+An auburn-haired migrant and her baritone colleague hid beneath a culvert during a police dragnet, where the sibilance of rain and the incandescent glow of a dropped lantern heightened their excitation; when the storm's dissipation revealed the real thief upstream, they emerged singing.
+Unit 766
+pinchers — 钳子；夹具
+foretell — 预言；预示
+inventive — 善于创造的；有创意的
+anonymous — 匿名的
+meditation — 冥想；沉思
+corrosion — 腐蚀；侵蚀
+ultramontane — 教皇至上主义的；山那边的
+contemporary — 当代的；同时代的人
+adjuration — 郑重请求；恳求
+misbehave — 行为不端；捣乱
+The Anonymous Bellmaker
+An anonymous contemporary bellmaker used inventive pinchers to remove corrosion from an ultramontane abbey's oldest bell; after meditation and an abbot's solemn adjuration not to misbehave, the apprentices worked quietly, and the bell's clear note seemed to foretell peace.
+Unit 767
+possessor — 持有人；拥有者
+pentavalent — 五价的；有五个化合价的
+terrify — 使恐惧；吓坏
+outburst — 爆发；迸发
+variable — 可变的；变量
+importation — 进口；输入品
+assessor — 评估员；估税员
+impregnate — 使充满；使受孕
+imbrue — 浸染；沾染
+keepsake — 纪念品
+The Chemist's Keepsake
+An assessor reviewing the importation of a pentavalent compound found a variable concentration high enough to terrify the warehouse staff, but the possessor explained that it was meant to impregnate ceramic glaze, not imbrue anyone's hands; after his nervous outburst subsided, he offered a fired tile as a keepsake.
+Unit 768
+progression — 进展；数列
+effeminacy — 柔弱；女性化气质
+disinherit — 剥夺继承权
+whereupon — 随即；于是
+loiterer — 闲逛者；游手好闲者
+undersell — 低价出售；以低价击败
+overstride — 跨过；大步越过
+poignancy — 辛酸；深刻感染力
+frizzle — 卷曲；把头发烫卷
+explosion — 爆炸；激增
+The Loiterer at the Salon
+A loiterer watched a barber frizzle an actor's hair for a play about effeminacy and inheritance, whereupon an explosion rattled the salon; the actor chose to overstride the fallen sign and continue rehearsing the scene in which a merchant tries to disinherit his daughter and undersell her shop, giving the drama's progression unexpected poignancy.
+Unit 769
+reciprocity — 互惠；相互性
+principality — 公国；侯国
+intolerance — 不容忍；不耐受
+excitable — 易激动的；易兴奋的
+erroneous — 错误的
+physiology — 生理学；生理机能
+repentance — 悔悟；忏悔
+inceptive — 起始的；表示开始的
+orthopedic — 骨科的；矫形的
+ravine — 峡谷；沟壑
+Rescue in the Ravine
+An excitable prince crossed a ravine to deliver orthopedic supplies to a neighboring principality, correcting an erroneous rumor that its people showed intolerance toward outsiders; the mission began with this inceptive gesture of reciprocity, which reflected genuine repentance for an old border feud and taught him more about human physiology than court physicians ever had.
+Unit 770
+continuous — 连续的；持续的
+discomfort — 不适；不安
+autopsy — 尸检；验尸
+malaria — 疟疾
+inopportune — 不合时宜的
+derisible — 可嘲笑的；荒谬的
+countercharge — 反诉；反指控
+reckless — 鲁莽的；不计后果的
+moonbeam — 月光
+forethought — 事先考虑；深谋远虑
+The Moonbeam Diagnosis
+By the light of a moonbeam, a reckless officer made the derisible claim that malaria caused a traveler's death, but an autopsy revealed continuous poisoning; despite her discomfort at the inopportune accusation, the physician answered his countercharge with evidence and the forethought to preserve every sample.
+Unit 771
+probation — 试用期；缓刑
+medial — 中间的；内侧的
+accursed — 可憎的；受诅咒的
+travail — 艰苦劳动；阵痛
+idealize — 把……理想化
+weak-kneed — 软弱的；膝盖发软的
+outskirt — 市郊；边缘
+freethinker — 自由思想家
+inhume — 埋葬
+manliness — 男子气概；刚毅
+The Grave on the Outskirt
+While on probation, a weak-kneed clerk followed a freethinker to the outskirt of town to inhume an accursed relic; an inscription on the stone's medial face described generations of travail, and its warning not to idealize manliness gave him the courage to admit his fear rather than conceal it.
+Unit 772
+vinery — 葡萄园；葡萄温室
+liquefacient — 液化剂；使液化的
+trimness — 整洁；匀称
+mislay — 放错；遗失
+alliance — 联盟；同盟
+illogical — 不合逻辑的
+cabalism — 阴谋政治；神秘主义
+antistrophe — 回舞歌；对句
+disunion — 分裂；不和
+warlike — 好战的；战争的
+The Antistrophe in the Vinery
+In a vinery prized for its trimness, two poets formed an alliance against a warlike faction, but one managed to mislay both a liquefacient for frozen ink and the final antistrophe of their peace ode; accusations of cabalism deepened the disunion until they recognized how illogical their suspicions were.
+Unit 773
+pupilage — 学生时期；监护期
+decorous — 得体的；端庄的
+fishmonger — 鱼贩
+bromine — 溴
+dialectician — 辩证学家；善辩者
+distrust — 不信任；怀疑
+death's-head — 骷髅图案；鬼脸天蛾
+buffoonery — 滑稽行为；胡闹
+wherewith — 用以；拿什么
+entomology — 昆虫学
+The Fishmonger's Moth
+During her pupilage in entomology, a decorous young dialectician found a death's-head moth beside a fishmonger who used bromine to sanitize his stall; his buffoonery inspired distrust, but she lacked any evidence wherewith to accuse him and soon discovered that the moth had flown from her own specimen box.
+Unit 774
+courtesy — 礼貌；礼遇
+further — 进一步的；促进
+primer — 入门书；底漆
+oral — 口头的；口腔的
+monition — 警告；告诫
+lough — 湖；海湾
+cornice — 檐口；飞檐
+legislator — 立法者；议员
+lewd — 淫秽的；下流的
+lowly — 卑微的；地位低的
+The Primer by the Lough
+A lowly mason repairing a cornice beside the lough showed a visiting legislator an old primer whose lewd marginal drawings concealed an oral monition about unsafe stonework; common courtesy led the official to listen, and a further inspection prevented the roof from collapsing.
+Unit 775
+syllabication — 音节划分
+quite — 相当；完全
+moccasin — 鹿皮鞋；噬鱼蛇
+specie — 硬币；铸币
+convex — 凸面的
+doubly — 加倍地；双重地
+antitoxin — 抗毒素
+heteromorphic — 异形的；多形态的
+declension — 词形变化；衰退
+nebula — 星云；角膜云翳
+The Convex Lens
+Wearing one torn moccasin, a linguist paid in specie for a convex lens and found it quite useful: it made the heteromorphic shapes in a nebula doubly clear, aided the syllabication of their catalog names, and revealed that the apparent declension in image quality came from a vial of antitoxin spilled on the glass.
+Unit 776
+opinion — 意见；看法
+detrude — 推下；挤出
+cosmography — 宇宙志；宇宙描述
+Decameron — 《十日谈》
+evangelical — 福音派的；热衷倡导的
+countervail — 抵消；抗衡
+reflexible — 可反射的；可折回的
+maltreat — 虐待；粗暴对待
+hydrometer — 液体比重计
+uncommon — 不寻常的；罕见的
+The Hydrometer Debate
+In my opinion, it was uncommon for an evangelical bookseller to use a hydrometer while lecturing on the Decameron, but he used reflexible light to read the instrument as a plunger showed how pressure can detrude liquid; the lucid experiment helped countervail rumors that he would maltreat any volume on cosmography.
+Unit 777
+frizz — 使卷曲；鬈发
+editorial — 社论；编辑的
+blithesome — 愉快的；无忧无虑的
+employer — 雇主
+indivertible — 不可转移的；不可改变方向的
+univalence — 单价；一价性
+intermediate — 中间的；中级的
+esthetic — 审美的；美学的
+cadenza — 华彩乐段
+compressible — 可压缩的
+The Compressible Concertina
+A blithesome musician used a compressible concertina to accompany an intermediate violinist's cadenza, while her employer tried to frizz her hair for esthetic effect; an editorial later praised the performance's indivertible momentum and compared its single recurring theme to chemical univalence.
+Unit 778
+lithotype — 石版印刷品；石印版
+peninsular — 半岛的；半岛居民
+rejuvenescence — 返老还童；复兴
+tricolor — 三色旗；三色的
+clamorous — 喧闹的；吵嚷的
+Martian — 火星的；火星人
+nectarine — 油桃
+redound — 促进；有助于
+contagion — 传染；感染力
+locative — 方位格；表示位置的
+The Martian Lithotype
+A peninsular museum displayed a lithotype of a Martian holding a nectarine beneath a tricolor sky, and its rejuvenescence began when a clamorous school group debated the locative caption; their enthusiasm spread by contagion and would redound to the neglected gallery's benefit.
+Unit 779
+sextet — 六重奏；六人组
+philogynist — 尊重女性者；爱慕女性者
+mobocracy — 暴民统治
+christen — 为……命名；施洗
+flue — 烟道；烟管
+drowsy — 困倦的
+emergence — 出现；兴起
+commitment — 承诺；投入
+Protestant — 新教徒；新教的
+faun — 农牧神；半人半羊的神
+The Faun in the Flue
+A drowsy Protestant composer heard a faun cough in the flue and summoned his sextet; their music prompted the creature's emergence, and a local philogynist proposed they christen it Liberty, expressing his commitment to reason over the mobocracy gathering outside.
+Unit 780
+succeed — 成功；继任
+transcript — 抄本；文字记录
+upturn — 好转；向上翻
+sanguinary — 血腥的；嗜血的
+confederate — 同盟者；共犯
+vulgarity — 粗俗；庸俗
+ought — 应该
+acknowledgment — 承认；致谢
+geology — 地质学
+erudition — 博学；学识
+The Transcript in the Quarry
+A scholar of geology found a transcript proving that a sanguinary duke and his confederate had seized the quarry, and after an economic upturn made the papers valuable, their heirs tried to succeed them as owners by resorting to vulgarity and threats; her erudition won public acknowledgment, as it ought to have done.
+Unit 781
+comparable — 可比较的；类似的
+conversion — 转变；改建
+impotent — 无力的；阳痿的
+exigency — 紧急情况；迫切需要
+outcast — 被排斥者；流浪者
+genital — 生殖器的
+pertinacity — 坚持不懈；顽固
+polysyllable — 多音节词
+objector — 反对者
+unction — 涂油礼；油膏
+The Outcast Physician
+An outcast physician met an objector to the conversion of a chapel into a clinic, but an exigency changed the debate when a child arrived with a genital injury; with remarkable pertinacity, she requested an unction, explained each polysyllable in comparable everyday terms, and made the once impotent council act.
+Unit 782
+prescript — 规定；命令
+secession — 脱离；退出
+disconnect — 断开；使分离
+superintendence — 监督；管理
+aggravation — 加重；恼怒
+barcarole — 船歌
+superintendent — 主管；负责人
+henchman — 亲信；走狗
+cosmology — 宇宙学
+kerchief — 头巾；方巾
+The Barcarole of Secession
+Under the superintendent's superintendence, a henchman tried to disconnect the observatory radio just as a scientist in a red kerchief broadcast a barcarole about cosmology and secession; her refusal to obey his prescript caused him aggravation but kept the island informed.
+Unit 783
+tempt — 引诱；诱使
+dauntless — 无畏的；勇敢的
+subaquatic — 水下的；水生的
+thearchy — 神权统治；诸神体系
+expansion — 扩张；扩大
+stimulate — 刺激；促进
+satiate — 使满足；使厌腻
+irreverence — 不敬；无礼
+necessitate — 使成为必要；迫使
+immigrate — 移居入境
+The Subaquatic Temple
+A dauntless diver found a subaquatic temple whose murals showed a thearchy inviting mortals to immigrate beneath the sea; curiosity might tempt scholars to disturb it, but expansion of the protected reserve would stimulate research, satiate public interest, and not necessitate any irreverence toward the culture that built it.
+Unit 784
+antipodes — 对跖地；截然相反者
+bombardier — 炮兵；投弹手
+ground — 地面；理由
+horde — 一大群；游牧部落
+procrastination — 拖延；耽搁
+maniac — 狂人；狂热者
+naval — 海军的
+perfumery — 香水制造；香水店
+vassal — 封臣；附庸
+soldier — 士兵
+The Perfumery at the Antipodes
+At a naval outpost near the antipodes, a bombardier and a soldier found a horde surrounding the only perfumery; fearing its vassal owner was held by a maniac, they entered without procrastination, only to learn that the crowd had good ground to celebrate a rare fragrance's launch.
+Unit 785
+recurrent — 反复出现的；周期性的
+introversion — 内向；内倾
+dolor — 悲痛；哀伤
+riddance — 摆脱；清除
+diverse — 多样的；不同的
+antemundane — 创世以前的；远古的
+imminence — 临近；迫近
+archaism — 古语；古风
+phonic — 声音的；语音的
+cathode — 阴极
+The Cathode's Ancient Voice
+A scientist known for introversion used a cathode array to capture recurrent phonic pulses from diverse rock layers, and the imminence of a breakthrough freed her from years of dolor; the signal was no antemundane voice but an archaism encoded by an early radio operator, and its decoding brought welcome riddance from speculation.
+Unit 786
+seignior — 领主；封建贵族
+reluctance — 不情愿；磁阻
+actionable — 可诉讼的；可采取行动的
+assassinate — 暗杀；诋毁
+reseat — 使重新就座；重装
+diffusible — 可扩散的
+adulterate — 掺假；掺杂
+overleap — 跳过；跃过
+buoyancy — 浮力；乐观
+patter — 急促轻响；顺口溜
+The Seignior's Fountain
+A seignior heard the patter of rain and watched a courier overleap the fountain with surprising buoyancy to deliver actionable proof of a plot to assassinate him; despite his reluctance, he ordered his steward to reseat a gas valve and test whether a diffusible toxin had been used to adulterate the palace air.
+Unit 787
+refract — 折射；使折光
+playwright — 剧作家
+benignant — 仁慈的；良性的
+proclamation — 公告；宣布
+psychic — 通灵者；心灵的
+precision — 精确；精准
+disconsolate — 悲痛的；郁郁寡欢的
+cat-o-nine-tails — 九尾鞭
+quintet — 五重奏；五人组
+deviltry — 恶作剧；恶行
+The Playwright's Proclamation
+A disconsolate playwright consulted a psychic after a cat-o-nine-tails vanished from his prop room, but her benignant smile and precise proclamation blamed no deviltry: a glass prism could refract light around the whip and displace its shadow, while the quintet rehearsing next door had moved the actual prop with comic precision.
+Unit 788
+definite — 明确的；一定的
+playful — 爱玩的；轻松有趣的
+difference — 差异；分歧
+pyrotechnic — 烟火的；绚丽的
+potency — 效力；力量
+hydromechanics — 流体力学
+liquor — 酒；液体
+illimitable — 无限的；无边无际的
+neglectful — 疏忽的；玩忽的
+moderator — 主持人；调节器
+The Moderator's Fountain
+At a playful debate on hydromechanics, the moderator poured colored liquor through a fountain to show the definite difference between pressure and flow; a neglectful assistant then triggered a pyrotechnic burst whose potency seemed illimitable until the safety valve ended the display.
+Unit 789
+acquisition — 获得；收购
+semiconscious — 半清醒的
+defensive — 防御的；戒备的
+legislative — 立法的
+debatable — 有争议的；未定的
+betimes — 及时；早早地
+dramatist — 剧作家
+upheave — 举起；隆起
+palinode — 撤回前言的诗文
+disburden — 卸下负担；吐露
+The Dramatist's Palinode
+A dramatist awoke semiconscious beneath a fallen legislative banner and grew defensive when guards questioned its acquisition; he had arrived betimes to rehearse a palinode, but a debatable stage mechanism had begun to upheave the platform, so he chose to disburden himself of every embarrassing detail.
+Unit 790
+dramatize — 戏剧化；改编成剧本
+adjudge — 判定；宣判
+arrival — 到达；到来者
+usurious — 高利贷的；利率过高的
+mistrust — 不信任；怀疑
+lying — 说谎的；躺着的
+enamor — 使倾心；使迷恋
+phonogram — 录音；表音符号
+pitiable — 可怜的；令人同情的
+dendrology — 树木学
+The Phonogram in the Arboretum
+Upon her arrival, a student of dendrology found a pitiable caretaker lying beneath an oak and heard a phonogram expose the usurious lender who had attacked him; rather than dramatize the evidence to enamor a crowd already prone to mistrust, the magistrate waited for testimony before he would adjudge the case.
+Unit 791
+professor — 教授
+gyroscope — 陀螺仪
+insistent — 坚持的；迫切的
+conscious — 清醒的；意识到的
+infrequent — 不常见的；稀少的
+incomprehensible — 难以理解的
+accusation — 指控；责备
+receivable — 可接受的；应收的
+quarrelsome — 好争吵的
+lawmaker — 立法者；议员
+The Gyroscope Hearing
+An insistent professor demonstrated a gyroscope to a quarrelsome lawmaker, who made the incomprehensible accusation that its infrequent wobble proved fraud; conscious that only receivable evidence belonged in the hearing, the chair dismissed the claim and asked for a proper calibration report.
+Unit 792
+hesitant — 犹豫的；迟疑的
+thereabout — 在那附近；大约
+percipient — 有洞察力的；感知者
+tribune — 护民官；论坛
+procedure — 程序；步骤
+advertiser — 广告商；广告客户
+indefinitely — 无限期地；不明确地
+curtsy — 行屈膝礼
+Arthurian — 亚瑟王的；亚瑟王传说的
+desistance — 停止；中止
+The Arthurian Tribune
+A hesitant advertiser staged an Arthurian pageant in the town tribune, asking each actor to curtsy thereabout without any clear procedure; a percipient stage manager warned that rehearsals could not continue indefinitely, and her demand for desistance ended the chaos.
+Unit 793
+suggestive — 暗示性的；引起联想的
+knighthood — 骑士身份；骑士团
+prehension — 抓握；理解
+neopaganism — 新异教主义
+disyllable — 双音节词
+apostle — 使徒；倡导者
+oblong — 长方形的；椭圆形的
+fungible — 可替代的；可互换的
+parlor — 客厅；店堂
+vindicatory — 辩护的；证明清白的
+The Oblong Token
+In a candlelit parlor, an apostle of neopaganism gave a vindicatory lecture on a forgotten knighthood, displaying an oblong token whose suggestive design aided prehension of its oath; although each token was fungible, the engraved disyllable made the ritual memorable.
+Unit 794
+able-bodied — 身体健全的；强壮的
+pungency — 刺鼻；辛辣
+probate — 遗嘱认证；验证
+anatomy — 解剖学；结构
+squatter — 擅自占地者；蹲坐者
+neocracy — 新贵统治；青年掌权
+sphericity — 球形；球度
+decameter — 十米；十米尺
+mutation — 变异；变化
+intention — 意图；目的
+The Decameter Greenhouse
+An able-bodied squatter entered a greenhouse during probate proceedings, claiming the late botanist's intention was to oppose neocracy; a decameter-long chart of floral anatomy showed how one mutation altered petal sphericity, while the pungency of a rare bloom led the heirs to the hidden will.
+Unit 795
+orthopedist — 骨科医生
+loot — 战利品；抢劫
+sergeant-at-arms — 警卫官；纠察长
+promontory — 海角；岬
+undue — 过度的；不适当的
+grenadier — 掷弹兵；高大士兵
+unanimity — 一致同意
+legging — 裹腿；护腿
+furtherance — 促进；推动
+immaterial — 不重要的；非物质的
+The Grenadier's Legging
+On a windy promontory, an orthopedist examined a grenadier whose torn legging concealed museum loot; the sergeant-at-arms avoided undue force, and the council reached unanimity that the soldier's rank was immaterial to justice and that recovery of the relics served the furtherance of peace.
+Unit 796
+remodel — 改造；重塑
+mannerism — 习性；矫揉造作
+ill-natured — 脾气坏的；刻薄的
+depreciation — 贬值；折旧
+investor — 投资者
+microscope — 显微镜
+confessor — 忏悔神父；坦白者
+punitive — 惩罚性的
+inversion — 倒置；反转
+oddity — 怪事；怪人
+The Inverted Observatory
+An ill-natured investor wanted to remodel an observatory after its depreciation, calling its inverted microscope an oddity, but a soft-spoken confessor explained that the inversion corrected a known optical mannerism; the discovery changed the investor's punitive terms into a grant.
+Unit 797
+alderman — 市议员；市政官
+consistency — 一致性；稠度
+misdeed — 恶行；过错
+submergence — 淹没；浸没
+verily — 的确；确实
+livelihood — 生计；谋生手段
+feminine — 女性的；阴性的
+adherence — 坚持；依附
+Anglo-Saxon — 盎格鲁-撒克逊的；盎格鲁-撒克逊人
+donee — 受赠人
+The Donee of the Sunken Mill
+An alderman investigating the submergence of an Anglo-Saxon mill found that its donee had maintained strict adherence to the preservation code; “verily,” said the feminine voice on an old recording, “consistency protects our livelihood,” and the evidence cleared her descendant of every alleged misdeed.
+Unit 798
+domesticity — 家庭生活；家务
+philosophize — 进行哲学思考；说理
+consecutive — 连续的；依次的
+forepeak — 船首舱
+resistant — 抵抗的；耐……的
+efficient — 高效的；能干的
+polycracy — 多头统治；多权力中心政体
+aristocrat — 贵族；贵族主义者
+folio — 对开本；页码
+similar — 相似的
+The Folio in the Forepeak
+For three consecutive nights, an efficient sailor searched the forepeak for a water-resistant folio in which an aristocrat compared domesticity aboard ship to polycracy; although several journals looked similar, only this one made the captain stop to philosophize about shared command.
+Unit 799
+militate — 产生不利影响；妨碍
+wee — 很小的；很早的
+dyne — 达因
+globular — 球状的
+inbred — 近亲繁殖的；根深蒂固的
+successor — 继任者；接替物
+proportionate — 成比例的；相称的
+luxuriate — 尽情享受；茂盛生长
+hesitation — 犹豫；踌躇
+audition — 试演；听觉
+The Wee Sphere Audition
+At an audition held in the wee hours, a physicist's successor used one dyne of force to roll a globular prop, then let an inbred stage cat luxuriate on the cushion; without hesitation, the judges found the simple effect proportionate to the scene and ruled that its modest cost would not militate against the production.
+Unit 800
+subjacent — 位于下方的；下伏的
+lawgiver — 立法者；制定法律者
+Unitarian — 一神论者；一神教派的
+Britannia — 不列颠尼亚；英国拟人像
+necrosis — 坏死
+tangency — 相切；密切关联
+pentahedron — 五面体
+isochronous — 等时的；同步的
+day-man — 白班工人
+impersuadable — 无法说服的；固执的
+The Pentahedron Beneath Britannia
+A Unitarian day-man restoring a statue of Britannia found a pentahedron in a subjacent vault, where an isochronous clock stood beside a diagram showing the tangency of five circles; an impersuadable lawgiver dismissed the find until stone dust caused necrosis in a conservator's hand and forced the chamber's closure.
+Unit 801
+immoral — 不道德的；邪恶的
+isobar — 等压线；同量异位素
+pendant — 吊坠；悬挂的
+tincture — 酊剂；微量
+overhang — 悬垂；突出部分
+polyhedron — 多面体
+irruption — 突然闯入；猛增
+enthrone — 使登基；尊为至高
+choral — 合唱的；圣咏
+lassie — 少女；小姑娘
+The Lassie and the Isobar
+A lassie wearing a silver pendant traced an isobar across a weather map just before a sudden irruption of rain drove the choral festival under an overhang; there she used an herbal tincture on a cut sustained while righting a fallen polyhedron sculpture and refused the mayor's immoral proposal to enthrone him as its sole rescuer.
+Unit 802
+hydroelectric — 水力发电的
+predatory — 捕食性的；掠夺成性的
+disfavor — 不赞成；冷遇
+metronome — 节拍器
+beau — 男友；花花公子
+dead-heat — 不分胜负；平局
+biology — 生物学
+confluence — 汇流处；汇合
+synchronism — 同步；同时发生
+inseparable — 不可分离的；亲密无间的
+The Dead-Heat at the Confluence
+At the confluence below a hydroelectric dam, a biology student and her beau timed two inseparable otters with a metronome; their dives ended in a dead-heat, and the perfect synchronism won public favor while casting disfavor on a predatory tour operator who had tried to separate them.
+Unit 803
+despondent — 沮丧的；失望的
+coxswain — 舵手；赛艇队长
+dismount — 下马；下来
+man-eater — 食人者；食人兽
+peaceful — 和平的；宁静的
+machinist — 机械师；机工
+decapod — 十足目动物；十足的
+extraordinary — 非凡的；特别的
+pectoral — 胸部的；胸饰
+well-to-do — 富裕的；小康的
+The Decapod Rescue
+A despondent coxswain saw an extraordinary decapod tangled beside a peaceful island rumored to shelter a man-eater; a well-to-do machinist helped him dismount after the rescue crane stalled, then treated his strained pectoral muscle before they freed the creature and proved the warning false.
+Unit 804
+Darwinism — 达尔文主义；进化论
+inundation — 洪水；泛滥
+Augustinian — 奥古斯丁派的；奥古斯丁修士
+airy — 通风的；轻快的
+gynecocracy — 女性统治；女权政治
+landlord — 房东；地主
+indispensable — 必不可少的
+seduce — 引诱；诱使
+conductible — 可传导的
+cynicism — 犬儒主义；愤世嫉俗
+The Augustinian's Airy Hall
+After an inundation, an Augustinian lecturer rented an airy hall from a skeptical landlord to debate Darwinism and gynecocracy; refusing to let rhetoric seduce either faction, he used a conductible copper model to show that evidence was indispensable, and his candor softened the landlord's cynicism.
+Unit 805
+bibliomania — 藏书狂；嗜书癖
+putrescent — 正在腐烂的；易腐烂的
+municipal — 市政的；市立的
+inexpensive — 便宜的；价廉的
+syneresis — 元音缩合；脱水收缩
+utilitarianism — 功利主义
+assignee — 受让人；受托人
+latish — 稍晚的；较迟的
+species — 物种；种类
+novellette — 小说；中短篇小说
+The Latish Library Delivery
+A municipal assignee with bibliomania arrived latish to collect an inexpensive novellette on utilitarianism, but a putrescent smell led her to a rare fungal species growing on the binding gel; observing syneresis as liquid separated from the gel, she preserved the specimen and forgot the book entirely.
+Unit 806
+moderation — 适度；节制
+effusion — 涌出；感情流露
+remonstrant — 抗议者；规劝的
+discussion — 讨论；商议
+repetition — 重复；重演
+gumption — 进取心；勇气
+expanse — 广阔区域；辽阔
+clangor — 铿锵声；喧闹声
+courageous — 勇敢的
+miscount — 数错；误计
+The Miscount Across the Expanse
+Across the frozen expanse, a courageous remonstrant showed enough gumption to halt a convoy when the clangor of loose chains revealed a dangerous miscount of fuel drums; after an effusion of thanks, the drivers held a calm discussion, avoided repetition by assigning each count once, and continued with moderation.
+Unit 807
+physiognomy — 面相；外貌特征
+treasonable — 叛国的；不忠的
+auditory — 听觉的；听众席
+hackney — 出租马车；陈腐之物
+kilowatt — 千瓦
+olive-branch — 橄榄枝；和解姿态
+phosphorescence — 磷光；冷光
+crevasse — 冰隙；裂缝
+repertory — 保留剧目；全部技能
+vocative — 呼格的；呼格
+The Signal in the Crevasse
+By the phosphorescence in a crevasse, an auditory researcher recognized the physiognomy of a missing actor from a repertory company; rejecting a hackney driver's treasonable allegation, she powered a one-kilowatt beacon, called his name in the vocative, and lowered an olive-branch as a marker for rescuers.
+Unit 808
+telepathy — 心灵感应；传心术
+mileage — 里程；耗油里程
+conjugate — 使结合；动词变位
+torturous — 折磨人的；曲折的
+offshoot — 分支；旁系
+knavery — 欺诈；无赖行为
+navigable — 可通航的；可航行的
+inmost — 最内心的；最深处的
+donator — 捐赠者
+emigrant — 移民；移居者
+The Emigrant's River Map
+An emigrant with astonishing mileage behind her became the donator of a map showing a navigable offshoot of the river; no telepathy revealed it, but her inmost suspicion of a guide's knavery led her through a torturous canyon, where she learned to conjugate local verbs while charting the channel.
+Unit 809
+assassination — 暗杀；行刺
+antiphon — 轮唱圣歌；应答短诗
+assonance — 元音和谐；类韵
+benefit — 益处；使受益
+imaginary — 想象的；虚构的
+presentient — 有预感的；预知的
+heptagon — 七边形
+reverent — 虔敬的；恭敬的
+possess — 拥有；具有
+permanence — 永久性；持久
+The Seven-Sided Sanctuary
+A presentient chorister noticed that the reverent antiphon used assonance to encode seven names around a heptagon; the imaginary threat of assassination proved a diversion, but the singers did possess evidence of theft, and exposing it brought lasting benefit and secured the sanctuary's permanence.
+Unit 810
+disagree — 不同意；不一致
+telephony — 电话技术；电话通信
+ramose — 多枝的；分枝状的
+reflection — 反射；沉思
+sympathize — 同情；赞同
+monocracy — 独裁统治；一人统治
+deliquesce — 潮解；溶化
+redolence — 芳香；令人联想的气息
+absorption — 吸收；专注
+manufacturer — 制造商
+The Ramose Receiver
+A telephony manufacturer unveiled a ramose receiver whose salts would deliquesce in humid air; engineers disagree about its absorption of moisture, but the redolence of cedar, a clear reflection in its casing, and the inventor's warning made the board sympathize with workers resisting the owner's monocracy.
+Unit 811
+galvanic — 电流的；令人振奋的
+bumper — 保险杠；特大杯
+coalescence — 合并；融合
+descendent — 下降的；降落的
+nutriment — 营养物；养料
+radix — 基数；根值
+awaken — 唤醒；醒来
+disappear — 消失
+hospitality — 好客；款待
+pseudonymity — 使用假名；匿名状态
+The Descendent Signal
+A descendent probe struck the rover's bumper with a galvanic snap, making its tracks disappear beneath dust; the crew's hospitality helped awaken the shaken pilot, while warm nutriment and the coalescence of two radio signals exposed the radix of a code that had protected her pseudonymity.
+Unit 812
+alluvion — 冲积物；冲积地
+disservice — 伤害；帮倒忙
+landholder — 土地所有者；地主
+atonement — 弥补；赎罪
+somniferous — 催眠的；使人困倦的
+existence — 存在；生活
+durance — 禁锢；监禁
+dutiable — 应纳税的
+separable — 可分离的；可区分的
+numeration — 计数；命数法
+The Boundary in the Silt
+After years of durance, a landholder sought atonement by proving that new alluvion was separable from an old estate; his meticulous numeration of dutiable cargo spared villagers a disservice, while a somniferous courtroom speech nearly obscured the evidence and threatened their existence.
+Unit 813
+semicircle — 半圆；半圆形
+unisonant — 同音的；和谐的
+infinite — 无限的；无穷的
+machinery — 机械；机构
+punctual — 准时的；精确的
+disown — 否认；断绝关系
+inland — 内陆的；向内陆
+forerun — 预示；先于
+episode — 插曲；一集
+viol — 维奥尔琴
+The Viol at the Inland Mill
+A punctual musician arranged workers in a semicircle beside the inland mill, where her viol and the unisonant machinery seemed to forerun an infinite storm; during one tense episode, the owner tried to disown the cracked turbine, but her recording proved whose neglect caused it.
+Unit 814
+satyr — 萨堤尔；好色之徒
+incombustible — 不燃的；耐火的
+outbreak — 爆发；突然发生
+aggress — 攻击；挑衅
+risible — 可笑的；引人发笑的
+theism — 有神论
+advocacy — 拥护；倡导
+witling — 自作聪明者；傻瓜
+undergarment — 内衣；贴身衣物
+discolor — 使变色；褪色
+The Fireproof Satyr
+During an outbreak of sparks backstage, a witling in a satyr costume tried to aggress upon the fire marshal with risible claims about theism; her advocacy of incombustible scenery prevailed when his synthetic undergarment began to discolor, and the cast evacuated safely.
+Unit 815
+decagram — 十克；十克重
+perusal — 细读；审阅
+apparent — 明显的；表面上的
+retrogression — 倒退；退化
+invalid — 无效的；病弱者
+salvo — 齐射；一阵喝彩
+constable — 警员；治安官
+pervasion — 遍布；渗透
+foreshore — 前滩；海滩
+eject — 驱逐；弹出
+The Decagram on the Foreshore
+After a decagram of rare powder washed onto the foreshore, its apparent pervasion through the tide pools alarmed an invalid naturalist; her perusal of the label revealed an invalid permit, so a constable moved to eject the smugglers despite a salvo of protests and political retrogression at city hall.
+Unit 816
+overpay — 多付；支付过多
+interrogatory — 质问的；书面询问
+resurrection — 复活；复兴
+reproduce — 复制；繁殖
+assonant — 元音和谐的；类韵的
+excretion — 排泄；排泄物
+tortious — 侵权的；构成侵权的
+satiric — 讽刺的；挖苦的
+suppressible — 可抑制的；可隐瞒的
+sisterhood — 姐妹情谊；妇女团体
+The Satiric Sisterhood
+A satiric sisterhood staged the resurrection of a banned play, using assonant chants to reproduce testimony about tortious dumping; an interrogatory revealed that managers would overpay guards to hide toxic excretion, but the evidence was neither suppressible nor funny.
+Unit 817
+contusion — 挫伤；撞伤
+statuesque — 雕像般优美的；高挑端庄的
+well-bred — 有教养的；良种的
+poesy — 诗歌；诗艺
+maidenhood — 少女时期；处女状态
+acetic — 醋酸的；似醋的
+conservatism — 保守主义；守旧
+truculence — 好斗；凶狠
+refringency — 折射力；折光性
+Americanism — 美式用语；美国特色
+The Prism and the Poet
+A statuesque, well-bred lecturer on poesy recalled how maidenhood, conservatism, and one disputed Americanism shaped her verse; when a critic's truculence caused a contusion, she calmly used an acetic solution and a prism's refringency to identify the broken bottle that had struck her.
+Unit 818
+refer — 提及；转交
+merciless — 无情的；残酷的
+abduction — 绑架；诱拐
+postdate — 填迟日期；晚于
+valedictorian — 毕业致辞生；优秀毕业生
+spinster — 未婚女子；纺纱女工
+uproot — 连根拔起；根除
+fixture — 固定装置；常客
+pentad — 五人组；五个一组
+persuade — 说服；劝服
+The Pentad's Missing Fixture
+The valedictorian asked police to refer to a spinster who had been a fixture at every ceremony; records that postdate her apparent abduction helped a pentad of classmates persuade detectives to uproot a merciless rumor and find her volunteering safely across town.
+Unit 819
+resemblance — 相似；相像
+abomination — 可憎之物；厌恶
+wherever — 无论哪里；究竟哪里
+divisor — 除数；约数
+geniality — 和蔼；亲切
+preengage — 预先聘用；预先占用
+melodious — 悦耳的；旋律优美的
+hesitancy — 犹豫；踌躇
+brokerage — 经纪业；佣金
+ingratitude — 忘恩负义；不知感恩
+The Melodious Divisor
+A brokerage firm tried to preengage a teacher whose melodious rhyme explained each divisor; her geniality overcame hesitancy wherever students saw a resemblance between mathematics and coded trades, and she condemned the firm's ingratitude toward its former tutor as an abomination.
+Unit 820
+complement — 补充；相配之物
+financier — 金融家；资助者
+forcible — 强有力的；强制的
+ligament — 韧带
+gnash — 咬牙；磨牙
+nauseous — 令人恶心的；恶心的
+sequent — 随后的；结果
+minute — 微小的；分钟
+tactics — 策略；战术
+Milky Way — 银河；银河系
+The Financier Under the Milky Way
+Beneath the Milky Way, a financier tore a ligament during a forcible climb and began to gnash his teeth at a nauseous smell; minute tracks and sequent flashes complemented the guide's tactics, leading rescuers to him before dawn.
+Unit 821
+indulgent — 宽容的；纵容的
+betrothal — 订婚；婚约
+epizootic — 动物流行病；动物疫病的
+undeceive — 使醒悟；揭露真相
+evert — 使外翻；翻出
+symmetrical — 对称的；匀称的
+quadrate — 方形的；使适合
+antiphony — 轮唱；应答吟唱
+infirmary — 医务室；医院
+denominator — 分母；共同特征
+The Antiphony at the Infirmary
+An indulgent veterinarian left her betrothal feast when an epizootic filled the infirmary; to undeceive a farmer, she used a symmetrical, quadrate chart whose common denominator was contaminated feed, then had him evert each sack while workers kept calm through antiphony.
+Unit 822
+masterpiece — 杰作；名著
+pentagram — 五角星形；五线谱
+consumptive — 肺病患者；消耗性的
+amatory — 爱情的；恋爱的
+revisal — 修订；校订
+innumerable — 无数的；数不清的
+perturbation — 不安；扰动
+transmission — 传输；传播
+lacteal — 乳白色的；乳糜管
+orate — 演说；高谈阔论
+The Lacteal Pentagram
+A consumptive painter completed a lacteal pentagram as the centerpiece of his masterpiece, but an amatory inscription caused perturbation among patrons; after a careful revisal, he chose to orate on its astronomical meaning, and the transmission reached innumerable students.
+Unit 823
+liniment — 擦剂；搽药
+adoration — 崇拜；爱慕
+anew — 重新；再度
+arborescent — 树状的；枝状的
+knickknack — 小摆设；小玩意
+salutatory — 致意的；欢迎词
+lascivious — 淫荡的；好色的
+excel — 擅长；胜过
+supplementary — 补充的；追加的
+exhaustion — 筋疲力尽；耗尽
+The Arborescent Knickknack
+Despite exhaustion, a student delivered a salutatory address about an arborescent knickknack found backstage; she rejected a lascivious collector's professed adoration, applied liniment to her sore wrist, and began anew with supplementary evidence that helped her excel in the museum competition.
+Unit 824
+bowler — 圆顶礼帽；投球手
+genealogist — 系谱学家；族谱研究者
+impetuosity — 冲动；急躁
+rationalism — 理性主义；唯理论
+proviso — 附带条件；限制条款
+antiquary — 古物研究者；古董收藏家
+reconcilable — 可调和的；可和解的
+extradition — 引渡
+controller — 控制器；主管
+incompetence — 无能；不胜任
+The Bowler in the Archive
+A genealogist found a bowler belonging to a fugitive antiquary, but rationalism checked her impetuosity: the controller's records showed that two dates were reconcilable under a travel proviso, defeating an extradition request based on official incompetence.
+Unit 825
+joust — 骑士比武；竞争
+reaction — 反应；反作用
+knight errant — 游侠骑士；侠客
+flection — 弯曲；词形变化
+overpower — 制服；压倒
+autonomous — 自治的；自主的
+neology — 新词创造；新词
+sophisticate — 使世故；老于世故者
+hypnotism — 催眠术
+hawthorn — 山楂；山楂树
+The Knight Errant's Neology
+At an autonomous village fair, a self-styled knight errant coined a neology before a joust beneath the hawthorn; his exaggerated flection and stage hypnotism failed to overpower a young sophisticate, whose amused reaction exposed the contest as theater.
+Unit 826
+millet — 小米；粟
+crucible — 坩埚；严峻考验
+pantoscope — 全景镜；广角观察仪
+syndicate — 辛迪加；联合组织
+biography — 传记
+synonym — 同义词
+reformer — 改革者
+biograph — 早期电影放映机；传记作者
+piccolo — 短笛
+intoxicant — 致醉物；酒类
+The Piccolo and the Biograph
+A reformer screened a biography on a battered biograph while a piccolo accompanied scenes of millet farmers facing a trading syndicate; through a pantoscope, viewers saw an intoxicant hidden in a crucible, and no polite synonym could soften the evidence of sabotage.
+Unit 827
+commissariat — 军需部门；粮秣供应
+deform — 使变形；损毁
+exorbitance — 过度；价格过高
+prediction — 预测；预言
+abrasion — 擦伤；磨损
+juggle — 耍把戏；篡改
+percipience — 洞察力；感知能力
+freemason — 共济会会员；石匠
+tilth — 耕作状况；耕地
+promiscuous — 混杂的；随意的
+The Freemason's Prediction
+A freemason serving the commissariat used uncommon percipience to predict that promiscuous dumping would deform the tilth; when suppliers tried to juggle invoices and blame abrasion on farm tools, his prediction exposed both the damage and the exorbitance of their charges.
+Unit 828
+dissentient — 持异议者；反对的
+fraudulence — 欺诈性；不诚实
+tactician — 战术家；谋略家
+outright — 完全地；直截了当地
+scholarly — 学术的；博学的
+linear — 线性的；直线的
+burgher — 市民；城镇居民
+frankincense — 乳香
+defiant — 挑衅的；不服从的
+chivalry — 骑士精神；彬彬有礼
+The Frankincense Route
+A dissentient burgher challenged the fraudulence of a defiant merchant's claim to an ancient frankincense route; a scholarly tactician plotted its linear milestones, proved the forgery outright, and showed more chivalry in victory than the council expected.
+Unit 829
+logician — 逻辑学家；善于推理者
+acquittance — 清偿证明；债务解除
+tense — 紧张的；时态
+outdo — 胜过；超越
+sapiential — 智慧的；表达智慧的
+Newtonian — 牛顿的；牛顿学说的
+Anglophobia — 恐英症；反英情绪
+refragable — 可反驳的；可驳倒的
+thoroughfare — 大道；通道
+niggardly — 吝啬的；小气的
+The Logician on the Thoroughfare
+A tense logician displayed an acquittance on the crowded thoroughfare, answering a niggardly lender's Anglophobia with sapiential restraint; her Newtonian demonstration did not merely outdo his spectacle but proved his refragable argument false.
+Unit 830
+zealot — 狂热者；热心者
+resource — 资源；机智
+garrison — 驻军；守备部队
+sufferance — 容忍；默许
+navel — 肚脐；中心
+trebly — 三倍地；以高音
+physique — 体格；体形
+penetrable — 可穿透的；可理解的
+amphitheater — 圆形露天剧场；竞技场
+whereabouts — 下落；所在之处
+The Echo in the Amphitheater
+A zealot escaped the garrison by sufferance and hid near the navel of an old amphitheater, but his whereabouts emerged when echoes trebly amplified his song; despite his imposing physique, the penetrable reed screen offered no refuge, and the captain's chief resource was patience.
+Unit 831
+Iliad — 《伊利亚特》
+preexistence — 先存；前世
+reducible — 可简化的；可还原的
+prophesy — 预言；预示
+hussar — 轻骑兵
+creed — 信条；纲领
+sergeant — 中士；警佐
+nationality — 国籍；民族身份
+witless — 愚蠢的；无知的
+confectionery — 糖果店；甜食
+The Hussar's Confectionery
+A retired hussar opened a confectionery where a sergeant read the Iliad aloud; no creed or nationality determined who received sweets, and although a witless critic claimed the poems prophesy preexistence, the owner said their grief was reducible to ordinary human loss.
+Unit 832
+gigantic — 巨大的；庞大的
+genitive — 所有格；属格的
+decalogue — 十诫；十条准则
+Achillean — 阿喀琉斯的；英勇的
+territorial — 领土的；地域性的
+abbess — 女修道院院长
+translucence — 半透明；透光性
+encyclical — 教皇通谕；通告的
+rigorous — 严谨的；严格的
+inestimable — 无法估量的；极宝贵的
+The Translucent Decalogue
+An abbess conducted a rigorous study of a gigantic translucent tablet, whose translucence revealed a genitive ending beneath an Achillean scene; an encyclical had mislabeled it a territorial decalogue, but her correction gave the fragment inestimable value.
+Unit 833
+corrigible — 可改正的；能改善的
+allot — 分配；拨给
+invasion — 入侵；侵袭
+protector — 保护者；保护装置
+resonance — 共鸣；回响
+salience — 显著性；突出
+suggestible — 易受暗示的
+dissension — 分歧；争执
+stagnation — 停滞；不流动
+illumine — 照亮；启发
+The Resonant Floodgate
+To end stagnation after an invasion by weeds, the protector of the marsh used resonance to locate a blocked floodgate; its salience helped illumine a corrigible design flaw, and she refused to allot blame to suggestible volunteers, preventing further dissension.
+Unit 834
+callosity — 老茧；冷酷无情
+lordling — 小贵族；傲慢的年轻贵族
+codicil — 遗嘱附录
+non-resident — 非居民；不常住的
+dun — 催款；灰褐色的
+deist — 自然神论者
+realism — 现实主义；务实态度
+judiciary — 司法机构；法官系统
+mordacious — 尖刻的；爱咬人的
+ruth — 怜悯；同情
+The Dun Codicil
+A mordacious lordling tried to dun a non-resident deist over a disputed codicil, but the judiciary valued realism over rank; seeing the laborer's callosity, the judge showed ruth and ruled that the debt had already been paid.
+Unit 835
+righteousness — 正义；正直
+predict — 预测；预言
+mentality — 心态；思维方式
+litigious — 好诉讼的；诉讼的
+dissatisfy — 使不满；未满足
+fancier — 爱好者；行家
+accession — 就职；增加
+belay — 系牢；停止
+reprehension — 谴责；非难
+encamp — 扎营；露营
+The Fancier's Belay
+A litigious bird fancier chose to encamp below the cliffs after the new mayor's accession; his mentality of righteousness drew reprehension when he tried to belay a public trail, and rangers predict that any closure without evidence will dissatisfy hikers.
+Unit 836
+recollect — 回忆；想起
+Christendom — 基督教世界
+recognizance — 保证书；具结
+immeasurable — 不可估量的；无限的
+prosody — 韵律学；诗体学
+brethren — 弟兄；同道
+masonry — 砖石结构；共济会
+inconstant — 多变的；不忠的
+declarative — 陈述的；宣告的
+demonstrator — 示范者；示威者
+The Mason's Declarative Verse
+Released on recognizance, a demonstrator asked his brethren to recollect how masonry had preserved poems across Christendom; his declarative lesson in prosody gave immeasurable comfort, though an inconstant echo made every final syllable waver.
+Unit 837
+multiform — 多种形式的；多形的
+deject — 使沮丧；使低落
+inquire — 询问；调查
+votive — 还愿的；奉献的
+dissever — 分开；割裂
+incoercible — 不可强制的；不受约束的
+low-spirited — 情绪低落的；沮丧的
+decagon — 十边形
+adhesion — 黏附；依附
+obstruction — 阻碍；堵塞
+The Votive Decagon
+A low-spirited conservator came to inquire why a votive decagon had cracked; multiform salts had weakened its adhesion, and although the obstruction would deject the trustees, she warned that any attempt to dissever the tiles by force would meet the incoercible resistance of the old mortar.
+Unit 838
+creak — 嘎吱作响；吱嘎声
+urgency — 紧迫；急迫性
+endear — 使受喜爱；使亲近
+foresee — 预见；预知
+inextensible — 不可伸长的；不能扩展的
+mythology — 神话；神话学
+misapprehend — 误解；误会
+felonious — 重罪的；邪恶的
+differential — 差别的；微分
+inapprehensible — 无法理解的；不可领会的
+The Creak Beneath the Mythology Hall
+A differential creak gave engineers enough urgency to foresee failure in an inextensible cable above the mythology hall; visitors could initially misapprehend the evacuation as theater, but the curator's calm humor helped endear her to them, and inspection revealed felonious damage whose motive remained inapprehensible.
+Unit 839
+frightful — 可怕的；极糟的
+barograph — 气压记录仪
+overrun — 泛滥；占领
+drachma — 德拉克马；打兰
+tolerable — 可容忍的；尚可的
+Antichrist — 反基督者；大恶人
+inapt — 不合适的；不善于的
+irritant — 刺激物；恼人之事
+philander — 玩弄女性；调情
+amply — 充分地；宽敞地
+The Barograph in the Tavern
+A barograph amply documented the frightful storm as it began to overrun a tavern, where an inapt actor tried to philander while playing the Antichrist; smoke became an irritant, but a drachma bought a tolerable room upstairs until the flood receded.
+Unit 840
+inflexible — 不灵活的；不妥协的
+endurance — 耐力；忍耐
+judicature — 司法；司法机构
+lovable — 可爱的；讨人喜欢的
+skeptic — 怀疑者；怀疑论者
+forby — 此外；在附近
+pledgee — 质权人；受质人
+incomparable — 无与伦比的；不可比的
+inefficiency — 低效；无效率
+prohibitory — 禁止的；禁制的
+The Pledgee Forby the Court
+A lovable skeptic waited forby the old judicature as a pledgee challenged an inflexible, prohibitory order; her incomparable endurance exposed the clerk's inefficiency, and the court restored the pledged violin before sunset.
+Unit 841
+impracticable — 不切实际的；行不通的
+volitive — 意志的；表示意愿的
+sufficiency — 充足；足量
+workmanship — 工艺；手艺
+inglorious — 不光彩的；可耻的
+circumnavigate — 环航；绕行
+vaudeville — 杂耍歌舞；综艺演出
+exclusion — 排除；拒绝
+submersible — 潜水器；可潜水的
+exegesis — 注释；诠释
+The Vaudeville Submersible
+A vaudeville troupe tried to circumnavigate the island in a handmade submersible, but an engineer's exegesis of its poor workmanship showed the plan impracticable; a volitive declaration of courage could not ensure oxygen sufficiency, so their exclusion from the harbor prevented an inglorious disaster.
+Unit 842
+laudation — 赞美；颂词
+impersonal — 非个人的；冷淡的
+specialty — 专长；特色产品
+troublesome — 麻烦的；棘手的
+fernery — 蕨类园；蕨类温室
+duplex — 双层住宅；双工的
+transferable — 可转让的；可迁移的
+technic — 技术；技巧
+penitential — 忏悔的；赎罪的
+rotary — 旋转的；转盘式的
+The Rotary Fernery
+In a duplex fernery, a botanist's specialty was a rotary irrigation technic whose transferable parts made repairs easy; after an impersonal inspector issued a troublesome citation, his penitential correction earned less laudation than the plants deserved.
+Unit 843
+liege — 君主；臣属的
+manumission — 解放奴隶；脱离奴役
+disallow — 不准许；驳回
+extensive — 广泛的；大量的
+wretchedness — 苦难；悲惨
+tannery — 制革厂
+lactation — 泌乳；哺乳期
+consignee — 收货人；受托人
+saline — 盐水；含盐的
+continuation — 延续；续篇
+The Consignee's Petition
+A consignee petitioned her liege to disallow the continuation of forced labor at an extensive tannery; saline waste had caused wretchedness among nursing families by disrupting livestock lactation, and her evidence finally secured their manumission.
+Unit 844
+poetic — 诗意的；诗歌的
+cantonment — 驻军地；兵营
+violator — 违反者；侵犯者
+annual — 每年的；年刊
+breech — 后膛；臀位
+manlike — 有男子气概的；像人的
+premier — 首相；首要的
+bestrew — 撒满；散布
+inconsistent — 不一致的；反复无常的
+outlast — 比……持久；熬过
+The Annual at the Cantonment
+At the cantonment, a poetic annual portrayed a manlike automaton loading a breech; the premier called it inconsistent with peace, but its editor argued that pages bestrew the archive with warnings, and that honest art would outlast both the weapon and its violator.
+Unit 845
+peaceable — 和平的；温和的
+disputation — 争论；辩论
+degeneracy — 堕落；退化
+peter — 逐渐枯竭；渐渐消失
+possessive — 占有欲强的；所有格
+afoot — 在进行中；步行地
+polygamy — 一夫多妻制；多配偶制
+poetaster — 蹩脚诗人
+significance — 重要性；意义
+insufficiency — 不足；不充分
+The Poetaster's Disputation
+A peaceable disputation was afoot when a possessive poetaster claimed that polygamy proved cultural degeneracy; his argument began to peter out once a historian exposed the insufficiency of his sources and explained the true significance of the marriage records.
+Unit 846
+becalm — 使平静；使停航
+prominence — 突出；声望
+quarto — 四开本；四开
+pollute — 污染；玷污
+calculable — 可计算的；可预料的
+reminiscence — 回忆；追忆
+chiffon — 雪纺绸；薄绸
+transfusion — 输血；输液
+correlate — 相互关联；相关物
+vigilance — 警觉；警戒
+The Chiffon Quarto
+A sailor's quarto held a chiffon ribbon and a reminiscence of the storm that had becalmed his ship; his vigilance helped doctors correlate polluted water with a calculable fall in blood counts, and his emergency transfusion brought the quiet witness unexpected prominence.
+Unit 847
+avidity — 渴望；贪婪
+joggle — 轻摇；榫接
+theology — 神学
+urbanity — 彬彬有礼；城市生活
+emporium — 商场；大商店
+reproduction — 复制品；繁殖
+perfectible — 可完善的；能改进的
+preordain — 预先注定；预定
+lyre — 里拉琴；竖琴
+pauperism — 贫困；贫民状态
+The Lyre at the Emporium
+At a crowded emporium, a scholar of theology showed urbanity when a child began to joggle a reproduction of an ancient lyre; rejecting the idea that birth must preordain pauperism, she praised his avidity to learn and called every talent perfectible.
+Unit 848
+Canaanite — 迦南人；迦南的
+competent — 胜任的；有能力的
+infidel — 异教徒；不信宗教者
+adjutant — 副官；助手
+makeup — 构成；化妆品
+incipience — 开端；初始
+append — 附加；增补
+seismograph — 地震仪
+esquire — 先生；乡绅
+apposition — 同位关系；并置
+The Canaanite Tablet
+A competent adjutant asked the curator, Esquire Hale, to append seismograph readings to a report on a Canaanite tablet; at the incipience of the tremor, its mineral makeup shifted, placing “king” in apposition to a name once dismissed as infidel graffiti.
+Unit 849
+counting-house — 账房；会计室
+left-handed — 左撇子的；笨拙的
+felicity — 幸福；恰当
+protoplasm — 原生质
+dishabille — 衣冠不整；便服
+auricle — 耳廓；心耳
+comparative — 比较的；相对的
+gradient — 坡度；梯度
+enfranchise — 给予选举权；解放
+unlawful — 非法的；不合法的
+The Left-Handed Clerk
+A left-handed clerk rushed into the counting-house in dishabille, carrying a comparative chart of toxin gradients in fish protoplasm; with admirable felicity, she linked a torn auricle to unlawful dumping and helped enfranchise dockworkers who had been denied a vote on the cleanup.
+Unit 850
+Norman — 诺曼人的；诺曼人
+jugglery — 戏法；欺骗
+precedential — 可作先例的；有先例作用的
+contender — 竞争者；争夺者
+priory — 小修道院；修道院
+venereal — 性病的；性交的
+liberalism — 自由主义；开明思想
+sympathetic — 同情的；交感神经的
+paralysis — 瘫痪；停顿
+impliable — 可暗示的；可由含义推出的
+The Norman Priory Hearing
+A Norman contender accused a priory clinic of jugglery after a venereal infection caused paralysis, but a sympathetic judge found that fault was not impliable from the records; her precedential ruling joined liberalism with strict evidence and preserved care for the poor.
+Unit 851
+transalpine — 阿尔卑斯山以北的；越过阿尔卑斯山的
+vegetation — 植被；植物生长
+medallion — 大奖章；圆形饰物
+toleration — 宽容；容忍
+constituency — 选区；支持群体
+intrusion — 闯入；侵扰
+enkindle — 点燃；激起
+immovable — 不可移动的；坚定的
+subconscious — 潜意识的；下意识
+missal — 弥撒经书
+The Missal Beneath the Medallion
+A transalpine scholar found a missal beneath an immovable medallion, where vegetation concealed signs of intrusion; the discovery would enkindle her constituency's subconscious fears, so she urged toleration and published the evidence without accusation.
+Unit 852
+Elizabethan — 伊丽莎白时代的；伊丽莎白一世的
+ceremonial — 仪式的；典礼
+loneliness — 孤独；寂寞
+eccentricity — 古怪；偏心率
+bric-a-brac — 小古董；杂物
+collegian — 大学生；学院成员
+mulatto — 黑白混血者
+resistive — 抵抗的；电阻的
+excrescence — 赘生物；多余之物
+indolence — 懒惰；懒散
+The Elizabethan Cabinet
+A collegian cataloging Elizabethan bric-a-brac found a ceremonial mask depicting a mulatto courtier; beneath an excrescence of wax, a resistive wire recorded the artist's eccentricity and loneliness, overturning claims that indolence had left the cabinet unfinished.
+Unit 853
+abidance — 遵守；持续
+inadvisable — 不明智的；不可取的
+necromancer — 巫师；招魂者
+privity — 私下知情；法律关系
+mystification — 迷惑；故弄玄虚
+pamphleteer — 小册子作者；宣传册撰写者
+theocrasy — 神性融合；神体混合
+surround — 包围；环绕
+therefor — 为此；作为其交换
+revoke — 撤销；废除
+The Pamphleteer's Revocation
+A pamphleteer in privity with a supposed necromancer exposed the mystification surrounding a sect's doctrine of theocrasy; strict abidance by its oath was inadvisable, so the council voted to revoke the grant and return the land received therefor.
+Unit 854
+paternal — 父亲的；父系的
+deponent — 宣誓作证者；异相动词
+coincident — 同时发生的；一致的
+federate — 结盟；联邦的
+persecution — 迫害；骚扰
+abdomen — 腹部
+apology — 道歉；辩护
+harmonious — 和谐的；协调的
+graceless — 不优雅的；粗鲁的
+unavoidable — 不可避免的；必然的
+The Deponent's Apology
+A deponent described how a paternal governor tried to federate villages after coincident raids; his graceless apology could not erase persecution or the scar across her abdomen, but a harmonious settlement became unavoidable once every witness spoke.
+Unit 855
+revocation — 撤销；废除
+sublingual — 舌下的
+unutterable — 难以言表的；完全的
+invariable — 不变的；恒定的
+centiliter — 厘升
+divisible — 可整除的；可分割的
+incapacity — 无能力；无资格
+elasticity — 弹性；灵活性
+desiccant — 干燥剂
+polyarchy — 多头统治；多元政治
+The Sublingual Dose
+During a polyarchy's emergency session, a physician measured one centiliter of sublingual medicine beside a ruptured desiccant packet; the dose was divisible, but its invariable strength and the patient's incapacity made dosage elasticity unsafe, prompting revocation of the order amid unutterable relief.
+Unit 856
+beatify — 宣福；使幸福
+statics — 静力学；静电学
+inexcusable — 不可原谅的；无可辩解的
+bier — 棺架；灵柩
+louse — 虱子；卑鄙小人
+trinity — 三位一体；三人组
+strait — 海峡；困境
+alienable — 可转让的；可让渡的
+fez — 土耳其毡帽
+refringent — 折射的；使折射的
+The Fez Beside the Bier
+At a funeral beside the strait, a trinity of engineers used statics and a refringent lens to prove that a fez had fallen from the bier before the procession; blaming a mourner for the louse found inside was inexcusable, for dignity is not alienable and rumor cannot beatify the dead.
+Unit 857
+spinous — 多刺的；棘状的
+seclusion — 隐居；隔绝
+leonine — 狮子般的；威严的
+defensible — 可辩护的；可防守的
+radiance — 光辉；容光
+hydrostatics — 流体静力学
+gourd — 葫芦；葫芦科植物
+indicant — 指示物；标志
+kingship — 王权；君主身份
+obstetrics — 产科学
+The Midwife's Royal Test
+Emerging from seclusion with leonine confidence, the royal physician used hydrostatics and a hollow gourd to demonstrate a spinous birthing tool; its gentle design was an indicant of sound obstetrics, and the mother's radiance made his argument that kingship should protect life seem defensible.
+Unit 858
+anticlimax — 扫兴的结局；虎头蛇尾
+finality — 终结性；定局
+reliquary — 圣物匣；遗物盒
+narrate — 叙述；讲述
+aborigines — 土著居民；原住民
+counter-claim — 反诉；相反主张
+antilogy — 自相矛盾；前后矛盾
+suppression — 压制；隐瞒
+nowadays — 如今；现今
+occasion — 场合；时机
+The Empty Reliquary
+On the occasion of the museum's reopening, Mara agreed to narrate how aborigines had protected the reliquary, but a descendant's counter-claim exposed an antilogy in the official account: nowadays the supposed theft is known to have been an act of suppression, and opening the empty box was an anticlimax rather than an act of finality.
+Unit 859
+plea — 请求；抗辩
+septennial — 七年一次的；持续七年的
+inhospitable — 荒凉的；不友好的
+foot-note — 脚注；附注
+preferential — 优先的；优惠的
+gendarme — 宪兵；警察
+corruptible — 易腐化的；可收买的
+bestride — 跨坐；横跨
+nowhere — 无处；哪里都不
+colloquialism — 口语表达；俗语
+The Pass at Seven Years
+At the septennial border review, a gendarme seemed to bestride the inhospitable pass like a statue, but Lina's plea cited a treaty foot-note granting preferential passage; her local colloquialism got her nowhere until she proved that the seemingly corruptible guard had actually refused every bribe.
+Unit 860
+payee — 收款人；受款人
+speculator — 投机者；推测者
+Renaissance — 文艺复兴；复兴
+noiseless — 无声的；安静的
+contribution — 贡献；捐款
+curable — 可治愈的
+alley — 小巷；球道
+propeller — 螺旋桨；推进器
+wizen-faced — 面容干瘪的
+later — 后来；较晚的
+The Workshop in Lantern Alley
+A wizen-faced speculator entered the alley seeking the payee of his contribution, only to find a noiseless propeller turning above a Renaissance fountain; later, its inventor showed that the device powered a clinic where a once-fatal fever was now curable.
+Unit 861
+misogyny — 厌女；仇视女性
+transcontinental — 横贯大陆的
+nameless — 无名的；不可名状的
+lifelong — 终身的；毕生的
+obsolescent — 逐渐淘汰的；即将过时的
+concurrence — 同意；同时发生
+telescope — 望远镜；缩短
+alienation — 疏离；转让
+diversion — 消遣；改道
+bight — 海湾；绳圈
+The Telescope at Crescent Bight
+At a bight along the transcontinental route, a nameless astronomer's lifelong work rescued an obsolescent telescope from neglect; with the council's concurrence, she turned the station into a public diversion and challenged the misogyny and alienation that had erased her predecessor.
+Unit 862
+fungus — 真菌；菌类
+philharmonic — 爱乐乐团；爱乐的
+operate — 操作；运作
+metaphysical — 形而上学的；玄学的
+abstinence — 节制；戒除
+presentment — 呈现；正式陈述
+productive — 富有成效的；多产的
+arbor — 凉亭；藤架
+impropriety — 不当行为；不得体
+fluctuation — 波动；起伏
+Music Beneath the Arbor
+When a fungus forced the philharmonic to perform beneath an arbor, the conductor treated the move as a metaphysical test of abstinence from comfort; despite a voltage fluctuation, the crew managed to operate the lights, and the productive rehearsal ended with the presentment of a plan to correct an earlier impropriety.
+Unit 863
+abridgment — 节本；删节
+resurgent — 复兴的；再度活跃的
+compute — 计算；估算
+omnipotence — 全能；无限权力
+modernity — 现代性；现代世界
+similitude — 相似；相似物
+disobedience — 不服从；违抗
+nihilist — 虚无主义者
+assonate — 形成元音和韵
+luminous — 发光的；明晰的
+The Poet and the Machine
+A resurgent poet asked a machine to compute the similitude between his luminous epic and its abridgment; when the verses failed to assonate, he called the result a nihilist insult to modernity, but the machine's quiet disobedience reminded him that authors possess no omnipotence over readers.
+Unit 864
+animalcule — 微小动物；微生物
+course — 过程；航向
+overseer — 监督者；工头
+itinerate — 巡回；游历
+instigator — 煽动者；发起人
+close-hauled — 迎风航行的
+surety — 保证；担保人
+inflammation — 炎症；激愤
+extension — 延伸；延期
+underlie — 构成基础；位于下方
+The Close-Hauled Clinic
+As the close-hauled clinic sailed its coastal course, its overseer chose to itinerate among fishing villages, tracing the animalcule that seemed to underlie a rash of inflammation; the voyage's instigator offered his boat as surety for an extension of the mission.
+Unit 865
+lune — 月牙形；弓形
+onrush — 奔涌；突进
+impure — 不纯的；不洁的
+inadequate — 不足的；不胜任的
+moralize — 说教；作道德评判
+egotism — 自负；自我中心
+epiphany — 顿悟；显现节
+off — 离开；不对劲的
+heptarchy — 七国时代；七王国
+athirst — 渴望的；口渴的
+The Map of Seven Springs
+Athirst after the onrush of battle, a scout found a lune marked on a map of the heptarchy and had an epiphany: the spring was not impure, merely sealed off; rather than moralize about the kings' egotism, she showed that their inadequate wells had driven the war.
+Unit 866
+lodgment — 住处；嵌入
+monolith — 巨石；庞然大物
+anesthetic — 麻醉剂；麻醉的
+propaganda — 宣传；宣传材料
+afire — 燃烧着；激动的
+extensor — 伸肌
+qualify — 使合格；限定
+bethink — 考虑；想起
+ardor — 热情；炽热
+polytheism — 多神教；多神信仰
+The Surgeon at the Monolith
+Near a monolith sacred to polytheism, a surgeon secured lodgment for her field hospital and used an anesthetic while repairing a dancer's extensor; when hostile propaganda set the camp afire, her ardor made the elders bethink themselves and qualify their ban on foreign medicine.
+Unit 867
+dissentious — 好争论的；引起纷争的
+acquire — 获得；习得
+conferee — 与会者；受授予者
+bombard — 轰击；连番质问
+pommel — 鞍头；用拳猛击
+divertible — 可转移的；可改道的
+juror — 陪审员
+ampere — 安培
+cholera — 霍乱
+secondary — 次要的；中等教育的
+The Pump-House Hearing
+At a dissentious hearing, each conferee tried to bombard the engineer with questions until a juror gripped the saddle's pommel and asked whether a one-ampere supply of divertible current could power the secondary pump; the answer showed how the village might acquire clean water and stop cholera.
+Unit 868
+quarter — 四分之一；地区
+position — 位置；立场
+contradictory — 矛盾的；对立的
+proscription — 禁止；放逐
+prefatory — 序言的；开场的
+cudgel — 棍棒；用棍打
+fiducial — 基准的；可信赖的
+efflorescence — 开花；风化结晶
+spherometer — 球面计
+accustom — 使习惯
+The Instrument in the Old Quarter
+In the old quarter, a prefatory plaque stated a position contradictory to the standing proscription of scientific tools, so Nia used a fiducial mark and a spherometer to identify the royal lens beneath an efflorescence of salt; the discovery helped accustom the guards to instruments other than the cudgel.
+Unit 869
+immutable — 不可改变的；永恒的
+collapsible — 可折叠的；会倒塌的
+betide — 发生；降临
+recidivist — 惯犯；累犯
+legalize — 使合法化
+noticeable — 显著的；引人注目的
+octave — 八度音；八行诗节
+indigestion — 消化不良
+auriferous — 含金的；产金的
+migrate — 迁徙；移居
+The Miner's Folding Piano
+Whatever might betide, the recidivist miner swore that his habits were immutable, yet a collapsible piano changed him: each octave eased his indigestion and made a noticeable improvement in camp life, so he urged the council to legalize concerts before workers began to migrate from the auriferous valley.
+Unit 870
+invincible — 不可战胜的；无敌的
+magician — 魔术师；魔法师
+militarism — 军国主义；尚武思想
+nominate — 提名；任命
+botanical — 植物学的；植物制成的
+juicy — 多汁的；有趣的
+elusion — 逃避；躲避
+prudence — 谨慎；审慎
+bronchitis — 支气管炎
+hypnotize — 催眠；使着迷
+The Magician's Orchard
+An invincible stage magician claimed he could hypnotize any audience, but prudence led him to cancel when bronchitis roughened his voice; his quiet elusion of fame impressed a botanical society, which chose to nominate him for an award after he replaced a show about militarism with an orchard feast of juicy pears.
+Unit 871
+dentifrice — 牙膏；洁牙剂
+midsummer — 仲夏；盛夏
+luminescence — 发光；冷光
+involve — 涉及；使参与
+outride — 骑得比……快；安然渡过
+galore — 大量；丰富
+orthogonal — 正交的；互不相关的
+intramural — 校内的；机构内部的
+perturb — 使不安；扰乱
+perspiration — 汗；出汗
+The Glowing Midsummer Race
+At the intramural midsummer race, cyclists found obstacles galore arranged in an orthogonal grid, but neither the course nor her perspiration could perturb Mei; she managed to outride the champion, and the prize ceremony would involve demonstrating a dentifrice whose harmless luminescence revealed missed plaque.
+Unit 872
+prepossession — 偏爱；先入之见
+opportunity — 机会；时机
+continuity — 连续性；连贯性
+topography — 地形；地形学
+recover — 恢复；找回
+participate — 参与；参加
+complex — 复杂的；建筑群
+degenerate — 恶化；堕落的
+almanac — 年鉴；历书
+crematory — 火葬场；焚化炉
+The Almanac's Hidden Path
+Her prepossession for old maps gave Inez an opportunity to recover an almanac showing the topography beneath a crematory complex; to preserve continuity with local custom, she invited residents to participate before the abandoned tunnels could degenerate further.
+Unit 873
+anticyclone — 反气旋；高压区
+taxation — 征税；税制
+outlive — 比……活得久；经受住
+plenteous — 丰富的；充足的
+merciful — 仁慈的；幸运的
+rookery — 鸟群栖息地；群居区
+antemeridian — 午前的；上午的
+simplify — 简化；使易懂
+referable — 可归因于；可查阅的
+resistless — 不可抗拒的；无法抵挡的
+The Rooks Before Noon
+During an antemeridian survey, a resistless anticyclone carried plenteous dust toward the rookery, but the merciful shift in wind let the oldest birds outlive the storm; officials agreed to simplify taxation for repairs, since the damage was referable to weather rather than neglect.
+Unit 874
+inquisition — 审讯；宗教裁判
+finally — 最后；终于
+autocracy — 独裁统治；专制政体
+metric — 衡量标准；公制的
+barring — 除非；阻拦
+administrator — 管理者；行政官
+euphony — 悦耳；和谐音韵
+origin — 起源；出身
+earthenware — 陶器；土陶
+fete — 庆典；盛宴款待
+The Potter's Forbidden Song
+Barring interference from the palace administrator, the village planned to fete a potter whose earthenware drums produced remarkable euphony; an inquisition into their origin finally exposed the autocracy's absurd metric for judging art.
+Unit 875
+ingraft — 嫁接；灌输
+collective — 集体的；共同体
+narrow-minded — 心胸狭窄的
+factious — 好纷争的；派系的
+profligacy — 挥霍；放荡
+affluence — 富裕；充裕
+successful — 成功的；圆满的
+separatist — 分离主义者
+aurora — 极光；曙光
+digraph — 二合字母；有向图
+Letters Under the Aurora
+To ingraft trust into a factious school collective, a former separatist taught children from both districts how one digraph could represent a shared sound; the successful lesson beneath the aurora challenged their narrow-minded elders and showed that affluence without fellowship was merely profligacy.
+Unit 876
+incompressible — 不可压缩的；坚定的
+inconsiderable — 微不足道的；很小的
+demerit — 缺点；过失
+bemoan — 哀叹；惋惜
+unbearable — 难以忍受的
+inchmeal — 一点一点地；逐寸地
+sepulcher — 坟墓；墓穴
+sapience — 智慧；睿智
+improper — 不合适的；不正当的
+supernumerary — 额外的；临时演员
+The Extra Stonecutter
+A supernumerary stonecutter moved inchmeal through an ancient sepulcher, using water as an incompressible support while others began to bemoan the unbearable heat; his pay was inconsiderable, but his sapience exposed an improper brace whose single demerit could have collapsed the roof.
+Unit 877
+divinity — 神性；神学
+abed — 在床上；卧床
+service — 服务；服役
+momentary — 短暂的；瞬间的
+hydra — 九头蛇；复杂祸患
+beneficial — 有益的；有利的
+misdemeanor — 轻罪；不当行为
+decasyllable — 十音节词；十音节诗行
+abundant — 丰富的；充裕的
+flag-officer — 海军将官；旗舰指挥官
+The Admiral's Ten-Syllable Cure
+While a flag-officer lay abed after years of service, a poet compared his fever to a hydra and prescribed one decasyllable at dawn; the momentary laughter proved beneficial, and abundant good humor persuaded the admiral to forgive the young sailor's misdemeanor without invoking divinity.
+Unit 878
+conveyance — 运输工具；转让
+lithograph — 石版画；用石版印刷
+immortalize — 使不朽；永载
+apiary — 养蜂场
+depress — 使沮丧；按下
+recrudescent — 复发的；再度活跃的
+distrain — 扣押财物；强制征收
+eventual — 最终的；最后的
+madden — 使发狂；激怒
+doe — 母鹿；雌兔
+The Doe Beside the Apiary
+An eventual plan to distrain the beekeeper's conveyance threatened to madden the village and depress trade, but a recrudescent campaign used a lithograph of a doe sheltering beside the apiary to immortalize her conservation work and save the wagon.
+Unit 879
+glacier — 冰川
+unbelief — 不信；怀疑
+possession — 拥有；财物
+parliament — 议会；国会
+vignette — 小品文；装饰图案
+ichthyology — 鱼类学
+anthracite — 无烟煤
+psychopathic — 精神变态的；缺乏同理心的
+disreputable — 声名狼藉的；不体面的
+bronchus — 支气管
+The Fish Beneath Black Ice
+Parliament met amid public unbelief after a disreputable magnate claimed possession of a glacier; an ichthyology expert arrived with anthracite dust in her bronchus and presented a vignette of poisoned fish, making his psychopathic disregard for the valley impossible to ignore.
+Unit 880
+braze — 铜焊；钎焊
+personal — 个人的；私人的
+economize — 节约；有效利用
+writing — 写作；书面材料
+perseverance — 毅力；坚持
+fidelity — 忠诚；精确度
+dissuasion — 劝阻；劝止
+malevolence — 恶意；怨恨
+vociferance — 喧嚷；叫喊
+trisect — 把……三等分
+The Bellmaker's Three Lines
+Despite the guild's vociferance and malevolence, a young bellmaker used her personal savings to economize on bronze, trisect each mold, and braze the sections with fidelity to her teacher's writing; neither dissuasion nor failure overcame her perseverance.
+Unit 881
+inhibit — 抑制；阻止
+annuity — 年金；年金保险
+underman — 暗中破坏；削弱
+ally — 盟友；联合
+demagnetize — 使退磁
+cataract — 白内障；大瀑布
+indomitable — 不屈不挠的
+legionary — 军团士兵；军团的
+cosmogony — 宇宙起源论
+suppress — 压制；隐瞒
+The Compass Beyond the Cataract
+An indomitable former legionary used his annuity to ally with a scholar whose cosmogony the court sought to suppress; agents tried to underman their expedition and demagnetize its compass, but neither sabotage could inhibit their passage beyond the cataract.
+Unit 882
+altercate — 争论；争吵
+effluvium — 臭气；流出物
+hypercritical — 吹毛求疵的；苛评的
+archangel — 大天使
+anteroom — 前厅；候见室
+overdo — 做得过火；使过度劳累
+ichthyic — 鱼类的；似鱼的
+curio — 古玩；珍奇物
+ache — 疼痛；渴望
+extempore — 即兴地；无准备地
+The Fish-Shaped Curio
+In the palace anteroom, two hypercritical experts began to altercate over an ichthyic curio said to depict an archangel; its effluvium made the guard's eyes ache, so he spoke extempore and warned them not to overdo the authentication before cleaning it.
+Unit 883
+sidelong — 斜着的；侧面的
+outrigger — 舷外浮架；支腿
+lithesome — 柔软轻盈的
+devilry — 恶作剧；邪恶行径
+bevel — 斜面；把……切成斜角
+tranquilize — 使镇静；使安宁
+priggish — 自命清高的；一本正经的
+hard-hearted — 铁石心肠的；冷酷的
+florist — 花商；花艺师
+matter of fact — 事实；实际情况
+The Florist's River Rescue
+A priggish passenger cast a sidelong glance at the lithesome florist balancing on the outrigger and called her rescue plan devilry, but as a matter of fact she knew how to bevel a broken paddle and tranquilize the supposedly hard-hearted ferryman with calm instructions before bringing everyone ashore.
+Unit 884
+Gordian knot — 戈尔迪之结；棘手难题
+irreverent — 不敬的；无礼的
+accredit — 认可；委派
+macadamize — 用碎石铺路
+altar — 祭坛；圣坛
+phonology — 音系学；语音体系
+secretary — 秘书；部长
+impermissible — 不允许的；不可接受的
+stiletto — 细高跟鞋；短剑
+neo-Latin — 新拉丁语；近代拉丁语的
+The Secretary's Roadside Riddle
+To solve a bureaucratic Gordian knot, the secretary asked the academy to accredit a scholar of neo-Latin phonology; meanwhile, an irreverent mason found the permit beneath an altar and used a stiletto to mark a map showing where workers could macadamize, though his shortcut remained impermissible.
+Unit 885
+reck — 在意；顾虑
+forfend — 防止；避开
+dispensation — 特许；分配
+virtu — 艺术品鉴赏；古玩
+menagerie — 动物园；动物群
+fungous — 真菌的；海绵状的
+indigestible — 难消化的；难理解的
+undersized — 尺寸过小的；矮小的
+monogram — 花押字；字母组合
+absolution — 赦免；免罪
+The Curator's Tiny Seal
+To forfend an outbreak in the royal menagerie, a curator who did not reck the cost rejected an indigestible, fungous feed cake; an undersized monogram proved the supplier lacked a proper dispensation, and even his celebrated knowledge of virtu could not win him absolution.
+Unit 886
+prospector — 勘探者；淘金者
+incomplete — 不完整的；未完成的
+naphtha — 石脑油；轻质油
+bodice — 女式紧身上衣
+orthodoxy — 正统观念；正统性
+handwriting — 笔迹；书写
+predominance — 优势；主导地位
+collector — 收藏家；收税员
+afterthought — 事后想法；后来添加物
+optician — 眼镜商；光学仪器商
+The Note Sewn into the Bodice
+An optician and a prospector challenged the collector's predominance in the inquiry when naphtha revealed faint handwriting inside a bodice; the message was incomplete and its final line an obvious afterthought, yet it overturned the town's orthodoxy about the missing expedition.
+Unit 887
+literacy — 读写能力；素养
+mutiny — 叛变；哗变
+personality — 个性；名人
+external — 外部的；表面的
+luxuriance — 茂盛；丰富
+typical — 典型的；一贯的
+Briticism — 英式用语；英国特色
+misanthropic — 厌世的；不合群的
+laureate — 获奖者；桂冠诗人
+liner — 邮轮；班轮
+The Laureate on Deck Seven
+A misanthropic laureate aboard the liner dismissed the crew's cheerful personality as a typical Briticism, but the luxuriance of their multilingual literacy campaign prevented a mutiny by turning every external warning label into clear instructions.
+Unit 888
+perform — 表演；履行
+verity — 真理；事实
+likelihood — 可能性；概率
+monsieur — 先生；法国绅士
+equitable — 公平的；合理的
+slothful — 懒惰的；怠惰的
+matricide — 弑母；弑母者
+supernatural — 超自然的；神奇的
+utmost — 最大限度；极度的
+grindstone — 磨刀石；苦差事
+The Actor at the Grindstone
+“Monsieur, perform the matricide scene with the utmost restraint,” the director told a slothful actor leaning on a grindstone; in all likelihood, an equitable reading of the play's supernatural events would reveal the verity of the son's innocence.
+Unit 889
+daring — 大胆的；勇气
+unlimited — 无限的；不受限的
+luminescent — 发光的；荧光的
+systematic — 系统的；有条理的
+galvanism — 电流作用；伽伐尼学说
+insuppressible — 压制不住的；抑制不了的
+interpreter — 口译员；解释程序
+hydrous — 含水的；水合的
+corps — 军团；专业队伍
+sterling — 优秀的；英镑的
+The Cave That Answered in Light
+A daring interpreter joined the survey corps for a systematic study of galvanism in hydrous caves, where luminescent crystals seemed to offer unlimited energy; her insuppressible delight and sterling field notes persuaded the skeptical commander to protect the site.
+Unit 890
+entrails — 内脏；内部结构
+irrefragable — 无可辩驳的；不能否认的
+blaspheme — 亵渎；辱骂
+fief — 封地；领地
+macrocosm — 宏观世界；大宇宙
+condensation — 凝结；浓缩
+privateer — 私掠船；私掠船船长
+believe — 相信；认为
+inaccurate — 不准确的；错误的
+litigate — 提起诉讼；打官司
+The Map in the Ship's Entrails
+Deep in the entrails of a captured privateer, condensation revealed a map of the duke's fief; although priests called it inaccurate and threatened to blaspheme its maker, the irrefragable coastal measurements led villagers to believe they could litigate their claim and make their small harbor matter in the wider macrocosm.
+Unit 891
+vainglory — 虚荣；自负
+liturgy — 礼拜仪式；礼拜文
+intelligence — 智力；情报
+convolve — 卷绕；使盘旋
+subjection — 屈从；隶属
+precaution — 预防措施；谨慎
+reticence — 沉默寡言；保留
+embezzle — 挪用；侵吞
+recreant — 胆怯的；背信弃义者
+citadel — 城堡；堡垒
+The Cipher in the Liturgy
+Inside the citadel, an intelligence officer noticed that repeated phrases in the liturgy seemed to convolve into a cipher; her reticence was a necessary precaution, for the recreant governor planned to embezzle relief funds and keep the province in subjection while monuments fed his vainglory.
+Unit 892
+forth — 向前；以后
+precedence — 优先；先后顺序
+parricide — 弑亲；弑亲者
+quiet — 安静的；平息
+admonition — 告诫；警告
+second-rate — 二流的；平庸的
+arrear — 欠款；拖欠
+gentile — 非犹太人；异教徒
+cohere — 连贯；黏合
+exemplar — 典范；范本
+The Actor Who Refused the Crown
+From that night forth, a gentile actor became an exemplar of courage when he ignored the director's admonition and refused to let a second-rate parricide drama take precedence over news that workers were in arrear; his speech made their scattered demands cohere and brought the restless theater to a quiet standstill.
+Unit 893
+hillock — 小丘；土堆
+intervale — 河谷低地；冲积平原
+quiescence — 静止；沉寂
+influence — 影响；势力
+baize — 台布；粗呢
+misbehavior — 不当行为；胡闹
+outweigh — 比……更重要；超过
+purl — 潺潺流动；锁边
+Occident — 西方；欧美国家
+persist — 坚持；持续
+The Green Cloth on the Hillock
+On a hillock above the intervale, a geographer spread a baize map and listened to the river purl after winter quiescence; although students from the Occident let youthful misbehavior influence their survey, their reasons to persist soon began to outweigh their embarrassment.
+Unit 894
+outrageous — 骇人的；无法容忍的
+antonym — 反义词
+soliloquy — 独白；自言自语
+triple — 三倍的；使成三倍
+unicellular — 单细胞的
+sinus — 窦；湾
+sanctity — 神圣；不可侵犯
+aide-de-camp — 副官；侍从武官
+consumption — 消耗；肺结核
+anthropology — 人类学
+The General's Microscopic Enemy
+An aide-de-camp interrupted the general's outrageous soliloquy on the sanctity of conquest to explain that anthropology was no antonym of medicine: a unicellular parasite in his sinus could triple the army's water consumption and defeat them without firing a shot.
+Unit 895
+quarterly — 每季度的；季刊
+magistracy — 地方法官职位；司法行政
+vacate — 腾出；撤销
+naturally — 自然地；当然
+comprise — 包含；由……组成
+luminosity — 光度；亮度
+beneficiary — 受益人；受惠者
+befriend — 与……为友；帮助
+impudence — 无礼；厚颜
+balsam — 香脂；香膏
+The Greenhouse Judgment
+At a quarterly hearing, the magistracy ordered a landlord to vacate a greenhouse that should naturally comprise public plots; the chief beneficiary was a widow who had dared to befriend migrant gardeners, and her supposed impudence yielded beds of balsam whose luminosity at dusk delighted the town.
+Unit 896
+aforesaid — 上述的；前述的
+deceitful — 欺骗的；不诚实的
+bitterness — 苦味；怨恨
+peerage — 贵族；贵族爵位
+qualification — 资格；限定条件
+ordinal — 序数；序数的
+soothsayer — 预言家；占卜者
+likely — 可能的；有希望的
+prevention — 预防；阻止
+chastity — 贞洁；节制
+The Soothsayer's Fourth Condition
+A deceitful soothsayer promised a place in the peerage to anyone displaying chastity, but the ordinal “fourth” in the aforesaid prophecy introduced a qualification: prevention of bitterness was more likely through honest service than through titles.
+Unit 897
+secondly — 第二；其次
+bullock — 阉牛；小公牛
+complication — 并发症；复杂情况
+presumptuous — 自以为是的；冒昧的
+reconsider — 重新考虑
+diffidence — 缺乏自信；羞怯
+leviathan — 巨兽；庞然大物
+resumption — 恢复；重新开始
+wantonness — 恣意妄为；放纵
+vaporizer — 蒸发器；雾化器
+The Bullock and the Steam Leviathan
+First, a presumptuous engineer called the frightened bullock an obstruction; secondly, when a broken vaporizer turned his locomotive into a hissing leviathan, the animal's diffidence vanished as it pulled passengers clear, forcing him to reconsider his wantonness and prevent another complication upon the resumption of service.
+Unit 898
+symphonic — 交响乐的；和谐的
+accusatory — 指责的；控告的
+undervalue — 低估；轻视
+ascendant — 占优势的；上升的
+proxy — 代理人；代理权
+promissory — 承诺付款的；约定的
+reassure — 使安心；打消疑虑
+secrecy — 保密；秘密状态
+forecourt — 前院；前场
+psychotherapy — 心理治疗
+The Concert in the Forecourt
+In the hospital forecourt, an ascendant young conductor used a proxy to sign a promissory note for a symphonic concert; she refused to let accusatory whispers about the secrecy of her psychotherapy cause others to undervalue her achievement, and her candid program note helped reassure the players.
+Unit 899
+expectancy — 期待；预期
+sarcophagus — 石棺
+ordination — 授职礼；排列
+wiry — 瘦而结实的；金属丝般的
+viceroy — 总督；代理君主
+skepticism — 怀疑；怀疑论
+opposite — 相反的；对面
+liqueur — 利口酒；甜酒
+amour — 恋情；爱情
+stanchion — 支柱；栏杆
+The Viceroy's Empty Sarcophagus
+With tense expectancy, a wiry archaeologist leaned against a stanchion opposite the viceroy's sarcophagus; despite court skepticism, she found a liqueur bottle and an ordination ring inside, evidence that his secret amour had arranged an escape rather than a burial.
+Unit 900
+equalize — 使相等；扳平
+archdeacon — 副主教；会吏长
+antispasmodic — 解痉药；解痉的
+imperfectible — 无法臻于完美的
+hexangular — 六角形的
+ministry — 部；神职
+workmanlike — 技艺熟练的；扎实的
+lingua — 舌；语言
+allotment — 分配；小块菜地
+athwart — 横跨；与……相反
+The Hexangular Garden
+When a fallen beam lay athwart the clinic allotment, an archdeacon made a workmanlike repair to its hexangular greenhouse and asked the ministry to equalize access; although his lingua remained numb from an antispasmodic, he argued that an imperfectible design could still serve everyone.
+Unit 901
+gaily — 欢快地；鲜艳地
+underexposed — 曝光不足的
+impatience — 不耐烦；急切
+morality — 道德；伦理
+regnant — 占主导地位的；在位的
+antechamber — 前厅；候见室
+epicycle — 本轮；周转圆
+dimly — 昏暗地；隐约地
+insecure — 不安全的；缺乏信心的
+crustacean — 甲壳动物
+The Crab in the Royal Photograph
+In the regnant queen's antechamber, an underexposed photograph dimly showed a crustacean drawn beside an epicycle; an insecure scholar gaily decoded the emblem despite the council's impatience, proving that morality, not astronomy, had guided the old maritime law.
+Unit 902
+ripplet — 小涟漪；细浪
+heredity — 遗传；世袭
+archbishop — 大主教
+brine — 盐水；海水
+technicality — 技术性细节；法律细节
+frontier — 边疆；前沿
+boorish — 粗野的；无礼的
+autarchy — 专制统治；经济自给
+preeminence — 卓越；优势地位
+pleasurable — 愉快的；令人满足的
+The Ripplet at Salt Frontier
+As a ripplet crossed the brine at the frontier, the archbishop rejected the boorish governor's claim that heredity guaranteed his preeminence; no technicality could turn autarchy into justice, yet the crowd found the peaceful verdict deeply pleasurable.
+Unit 903
+viscount — 子爵
+divulgence — 泄露；公布
+inherence — 内在；固有属性
+aye — 是；赞成票
+amusement — 娱乐；乐趣
+affirmative — 肯定的；赞成
+disarrange — 弄乱；扰乱
+inlet — 小湾；入口
+distrainor — 扣押财物者
+cryptogram — 密码文；暗号
+The Viscount's Vote at the Inlet
+At the inlet, a distrainor threatened to disarrange the viscount's library, but the accidental divulgence of a cryptogram turned public amusement into alarm; its affirmative “aye” revealed the inherence of consent in an old charter and stopped the seizure.
+Unit 904
+telltale — 泄密的；警示标志
+introductory — 入门的；开场的
+unyoke — 卸下轭；解除束缚
+eatable — 可食用的；好吃的
+depopulate — 使人口锐减；迁空
+collusion — 串通；勾结
+defamation — 诽谤；中伤
+sociology — 社会学
+triplicate — 一式三份；复制三份
+ascension — 上升；升天
+The Telltale Orchard Survey
+An introductory sociology survey, filed in triplicate, found that officials planned to depopulate the valley through collusion with a mine; their telltale memo dismissed local fruit as barely eatable, but that defamation inspired farmers to unyoke their carts before a defiant ascension along the mountain road.
+Unit 905
+furlong — 弗隆；八分之一英里
+superadd — 额外添加；再加上
+boatswain — 水手长
+gamester — 赌徒；赌戏者
+moralist — 道德家；说教者
+weal — 福祉；鞭痕
+severely — 严重地；严厉地
+aerostat — 轻于空气的飞行器；气球
+utility — 功用；公用事业
+tricycle — 三轮车
+The Aerostat Above the Pier
+A reformed gamester challenged a stern moralist to race a tricycle for one furlong beneath an aerostat, while a boatswain promised to superadd the entry fees to the sailors' weal fund; when a wheel bent severely, the odd contest proved its utility by bringing the whole harbor together.
+Unit 906
+outpost — 前哨；边远据点
+coincidence — 巧合；同时发生
+solicitor — 律师；事务律师
+truthful — 诚实的；真实的
+infidelity — 不忠；不信宗教
+pseudapostle — 伪使徒；假传道者
+canine — 犬的；犬齿
+appellate — 上诉的；受理上诉的
+conformance — 符合；一致
+streamlet — 小溪；细流
+The Dog Beside the Streamlet
+At a remote outpost, a solicitor found it no coincidence that a pseudapostle had accused a truthful ranger of infidelity just as a canine unearthed forged deeds beside a streamlet; the appellate court ruled that ritual conformance could not outweigh evidence.
+Unit 907
+tolerant — 宽容的；耐受的
+gladden — 使高兴；使欣喜
+indescribable — 难以形容的；无法描述的
+disavowal — 否认；拒绝承认
+solecism — 语法错误；失礼
+innovate — 创新；革新
+philanthropist — 慈善家
+prudery — 假正经；过分拘谨
+cosmetic — 化妆品；表面的
+secant — 割线；正割
+The Geometry of an Open Stage
+A tolerant philanthropist hoped to gladden the town by funding an open-air theater whose aisles followed a secant, but a critic's prudery treated one comic solecism as an indescribable scandal; the troupe's disavowal was more than cosmetic, and its resolve to innovate won the audience back.
+Unit 908
+rebuild — 重建；改造
+concurrent — 同时发生的；并行的
+typify — 作为典型；代表
+transplant — 移植；移居
+severance — 切断；离职补偿金
+option — 选择；选项
+vociferous — 大声疾呼的；喧嚷的
+derision — 嘲笑；嘲弄
+aqueous — 水的；水溶液的
+maintain — 维护；坚持
+Rebuilding the Riverside Greenhouse
+To rebuild the storm-damaged greenhouse, Mara chose the option of running concurrent repairs while volunteers worked to transplant the surviving orchids; although a vociferous critic greeted the aqueous sealant with derision and predicted the crew's severance, their patience came to typify the town's resolve to maintain its public garden.
+Unit 909
+spheroid — 椭球体；扁球体
+disciplinary — 纪律的；惩戒性的
+saponaceous — 肥皂质的；滑腻的
+logical — 合乎逻辑的；逻辑上的
+solstice — 至日；冬至或夏至
+preoccupy — 使全神贯注；预先占据
+protrusion — 突出物；隆起
+laudatory — 赞美的；颂扬的
+employee — 雇员；员工
+undercharge — 少收费用；充电不足
+The Solstice Soap Display
+For the solstice fair, an employee carved a saponaceous block into a spheroid, using one small protrusion as a sundial pointer; worries that the shop might undercharge visitors began to preoccupy her, but her logical pricing plan prevented any disciplinary dispute and earned a laudatory notice in the local paper.
+Unit 910
+Artesian well — 自流井；承压井
+submersion — 浸没；潜水
+contuse — 挫伤；撞伤
+matrimony — 婚姻；婚配
+necessary — 必要的；必需品
+isothermal — 等温的；恒温的
+anthropomorphous — 人形的；似人的
+repressible — 可抑制的；可压制的
+triad — 三人组；三联体
+deficient — 缺乏的；不足的
+Vows beside the Desert Well
+A triad of engineers restored an Artesian well before Lina and Omar celebrated their matrimony beside it; because the old pump was deficient in pressure, submersion in an isothermal testing tank was necessary, and when a falling anthropomorphous statue threatened to contuse a diver, the crew proved that panic was repressible.
+Unit 911
+clarion — 嘹亮的；号角
+polytechnic — 理工学院；多技术的
+caret — 脱字符；插入符号
+refusal — 拒绝；回绝
+executor — 遗嘱执行人；执行者
+contraposition — 逆否命题；对置
+introspect — 反省；内省
+distensible — 可膨胀的；可扩张的
+homophone — 同音词
+retrospective — 回顾展；回顾的
+The Professor's Final Puzzle
+At the polytechnic retrospective, a clarion recording summoned alumni to solve the late professor's final puzzle: his executor found that a caret distinguished one homophone from another, while contraposition unlocked a diagram of a distensible chamber; after an initial refusal to introspect, the professor's estranged son recognized the apology hidden in the proof.
+Unit 912
+infusion — 浸剂；注入
+unaccountable — 无法解释的；不负责任的
+triennial — 三年一度的；持续三年的
+profession — 职业；声明
+pestilence — 瘟疫；祸害
+upcast — 排气井；向上投掷
+fanciless — 缺乏想象的；朴实的
+prohibitionist — 禁酒主义者
+proficiency — 熟练；精通
+oakum — 麻絮；填隙麻丝
+Air beneath the Mining Museum
+During the triennial inspection of a mining museum, an unaccountable draft carried the scent of herbal infusion through the upcast shaft; a fanciless engineer relied on her proficiency to trace it to oakum smoldering behind a wall, while the curator, whose profession demanded caution and whose prohibitionist convictions demanded sobriety, evacuated the guests before smoke could spread like a pestilence.
+Unit 913
+sergeant-major — 军士长；军士长鱼
+suasion — 劝说；说服
+transmissible — 可传播的；可传递的
+mockery — 嘲弄；拙劣仿制
+hibernal — 冬季的；冬眠期的
+encourage — 鼓励；促进
+neuter — 使失去作用；中性的
+expressive — 富有表现力的；传神的
+picayune — 微不足道的；吝啬的
+Calvary — 髑髅地；受难之地
+The Winter Pageant at Calvary Chapel
+At Calvary Chapel, a retired sergeant-major used gentle suasion to encourage teenagers rehearsing a hibernal pageant; he rejected their picayune quarrels and any mockery of the story, helped neuter the effect of a transmissible rumor about favoritism, and guided each actor toward an expressive, dignified performance.
+Unit 914
+rhetorician — 修辞学家；雄辩家
+vivacity — 活泼；生气
+renunciation — 放弃；摒弃
+mismanage — 管理不善；处理不当
+brigade — 旅；队
+tipsy — 微醉的；摇摇晃晃的
+intermit — 暂停；间歇
+deprave — 使堕落；败坏
+adjacency — 邻接；毗邻
+endurable — 可忍受的；持久的
+The Debate beside the Fire Station
+The adjacency of the debating hall to the fire station proved fortunate when a tipsy caterer began to mismanage a stove: a volunteer brigade contained the blaze, and the young rhetorician, who had opened with vivacity, knew to intermit the debate, lead everyone outside, and resume with a moving renunciation of habits that deprave public life, making an uncomfortable evening endurable.
+Unit 915
+clearance — 清理；许可
+sylph — 空气精灵；苗条女子
+laundress — 洗衣女工；洗衣妇
+pervious — 可渗透的；能通过的
+misinterpret — 曲解；误解
+undulous — 波状的；起伏的
+transference — 转移；转让
+creamery — 奶油厂；乳品店
+paleontology — 古生物学
+tendency — 倾向；趋势
+The Fossil beneath the Creamery
+When a laundress found an undulous fossil beneath the old creamery, its delicate outline reminded her of a sylph; officials had a tendency to misinterpret the discovery as debris during site clearance, but a paleontology student showed that the pervious limestone had preserved a fern and arranged its transference to the county museum.
+Unit 916
+submarine — 潜艇；水下的
+syllable — 音节；只言片语
+negligee — 女式晨衣；轻便睡衣
+micrometer — 千分尺；测微计
+non-combatant — 非战斗人员；平民
+contemporaneous — 同时期的；同时发生的
+prelate — 高级教士；主教
+disapprove — 不赞成；反对
+heedless — 疏忽的；不留心的
+planisphere — 平面星图；天球投影图
+Stars over the Harbor Archive
+A prelate visiting the harbor archive was ready to disapprove of a heedless guide's decision to display a negligee beside a submarine blueprint, but the curator explained that both were contemporaneous gifts from a non-combatant code clerk; a hidden syllable on her planisphere matched a mark only a micrometer could measure and revealed where she had recorded a wartime rescue.
+Unit 917
+bedaub — 涂抹；弄脏
+infirmity — 虚弱；疾病
+leisure — 闲暇；从容
+islet — 小岛；胰岛
+noisy — 嘈杂的；喧闹的
+subordinate — 下属；次要的
+grapple — 努力解决；扭打
+vitality — 活力；生命力
+annalist — 编年史家；史册编者
+disqualify — 使丧失资格；取消资格
+The Annalist's Island Race
+An elderly annalist refused to let infirmity disqualify her from the islet's annual boat race; while a noisy rival tried to bedaub her hull with mud, his subordinate stopped him, and she used her leisure to grapple with a torn sail, finishing with enough vitality to record both the race and the apology in the island chronicle.
+Unit 918
+insufficient — 不足的；不充分的
+prudential — 谨慎的；审慎的
+unsophisticated — 质朴的；不复杂的
+beatitude — 至福；八福
+stripling — 青年；小伙子
+protection — 保护；防护
+auspice — 赞助；吉兆
+regalia — 礼服；徽章
+heterogeneity — 多样性；异质性
+immersion — 沉浸；浸没
+The River Blessing
+Under the auspices of the village council, a stripling in ceremonial regalia prepared for ritual immersion in the river, but an unsophisticated rope offered insufficient protection against the current; for prudential reasons, an elder replaced it, then spoke of beatitude as the crowd celebrated the community's heterogeneity rather than demanding a single tradition.
+Unit 919
+optics — 光学；观感
+gynecology — 妇科学
+creamy — 奶油般的；柔滑的
+proceed — 继续；着手
+reluctant — 不情愿的；勉强的
+interposition — 介入；插入
+hustle — 奔忙；催促
+permutation — 排列；置换
+promoter — 发起人；推广者
+sense — 感觉；意义
+The Clinic's Colored Windows
+The promoter of a new gynecology clinic wanted creamy glass in every window, but an optics specialist was reluctant to proceed because one permutation of the panes distorted diagnostic colors; her interposition made sense, and after a week of hustle the builders installed clear glass while preserving the warm design in the lobby.
+Unit 920
+corruption — 腐败；败坏
+Sol — 太阳神；太阳
+plenipotentiary — 全权代表；全权大使
+translator — 翻译者；译员
+armful — 一抱之量
+bilateral — 双边的；双方的
+furrier — 毛皮商；毛皮加工者
+efficiency — 效率；功效
+accompanist — 伴奏者
+guess — 猜测；估计
+The Embassy's Sun Mosaic
+When a plenipotentiary unveiled a mosaic of Sol during bilateral talks, her translator noticed that a furrier had donated an armful of antique pelts for the curtain; the accompanist could only guess why, but greater heating efficiency made the pelts unnecessary, and auctioning them openly prevented any suspicion of corruption.
+Unit 921
+subservience — 屈从；谄媚
+henpeck — 不断数落；支配
+tempter — 诱惑者；引诱者
+exterior — 外部；外表
+lea — 草地；牧场
+imply — 暗示；意味着
+ashen — 灰白的；苍白的
+expense — 费用；代价
+superannuate — 使退休；淘汰
+forego — 放弃；摒弃
+The Shepherd's Last Fair
+On the lea, an ashen shepherd decided to forego the county fair and repair his cottage exterior at his own expense rather than let a smooth tempter imply that age should superannuate him; rejecting both subservience and relatives who tried to henpeck him, he quietly proved that independence need not end with retirement.
+Unit 922
+concordance — 词语索引；一致
+network — 网络；关系网
+literature — 文学；文献
+inactive — 不活跃的；闲置的
+junta — 军政府；小集团
+introspection — 内省；反思
+neo-Darwinism — 新达尔文主义
+inflammable — 易燃的；可燃的
+lexicography — 词典编纂；词典学
+quadruple — 变为四倍；四倍的
+The Dictionary in the Closed Embassy
+An inactive radio network flickered to life in an embassy abandoned by the junta, leading a scholar of lexicography to a hidden concordance of prison literature; amid inflammable papers she found a censor's introspection on neo-Darwinism, and publication would quadruple the archive's readership without excusing the regime that had suppressed it.
+Unit 923
+discontinuance — 中止；终止
+corpse — 尸体；死尸
+antenatal — 产前的；孕期的
+discover — 发现；查明
+facial — 面部的；面部护理
+antislavery — 反奴隶制的
+unnatural — 不自然的；反常的
+amphibious — 两栖的；水陆两用的
+dominance — 支配；优势
+trestle — 栈桥；支架
+The Midwife's Trestle Diary
+After the discontinuance of ferry service, an amphibious rescue crew searched beneath a ruined trestle only to discover a corpse with an unnatural facial scar; in her satchel they found an antenatal diary containing antislavery testimony, evidence that challenged the planter family's dominance of local history.
+Unit 924
+indefensible — 无法辩护的；站不住脚的
+alteration — 改动；变更
+opportunist — 机会主义者；投机者
+overtone — 泛音；暗示
+underworld — 黑社会；阴间
+seer — 预言家；先知
+suspension — 暂停；悬架
+normalcy — 常态；正常状态
+floe — 浮冰；大块浮冰
+irresponsible — 不负责任的；不可靠的
+The Seer on the Ice Floe
+A self-styled seer stranded on a floe blamed the ferry's suspension on the underworld, but a subtle alteration in the engine's overtone led a mechanic to discover a cracked belt; the opportunist captain's attempt to restore normalcy without repairs was irresponsible and indefensible, so the mechanic refused to sail until the fault was fixed.
+Unit 925
+preemption — 优先权；先发制人
+collide — 碰撞；冲突
+despite — 尽管；不顾
+chattel — 动产；奴隶
+tireless — 不知疲倦的；坚持不懈的
+pentameter — 五音步诗行
+annunciation — 宣告；天使报喜
+educe — 引出；推导出
+irritancy — 刺激性；刺激程度
+stallion — 种马；公马
+The Poem in the Stable Wall
+Despite the irritancy of dust, a tireless conservator searched a stable wall before developers could invoke preemption and seize the site, finding an annunciation painted above a stallion; from a damaged line of pentameter she could educe its date and show that the estate had treated a gifted painter as chattel, forcing heritage plans to collide with an uncomfortable truth.
+Unit 926
+readjust — 重新调整；适应
+ministration — 援助；服侍
+bodily — 身体的；整体地
+redundance — 冗余；多余
+reminiscent — 使人联想的；怀旧的
+essence — 本质；精髓
+atrocity — 暴行；骇人之举
+cardiac — 心脏的；心脏病患者
+maharaja — 印度大君；土邦君主
+brotherhood — 兄弟情谊；同业团体
+The Maharaja's Traveling Hospital
+In a carriage reminiscent of a maharaja's court, a medical brotherhood operated a traveling cardiac clinic; when a survivor described an atrocity, the physicians paused their bodily examinations to readjust the program, strip the ceremony of redundance, and make compassionate ministration the essence of the memorial.
+Unit 927
+powerless — 无力的；无权的
+parish — 教区；堂区
+subversion — 颠覆；破坏
+extrajudicial — 法外的；未经司法程序的
+bulrush — 芦苇；香蒲
+irreverential — 不敬的；不恭的
+diplomatist — 外交家；外交能手
+statecraft — 治国之道；外交手腕
+acreage — 英亩数；土地面积
+conspirator — 阴谋者；共谋者
+The Parish Map in the Reeds
+A retired diplomatist found a parish map hidden beneath a bulrush mat, showing acreage seized after an extrajudicial arrest; though officials dismissed his irreverential questions as subversion and called him a conspirator, he used patient statecraft to unite once-powerless families and secure a public inquiry.
+Unit 928
+interact — 互动；相互作用
+midwife — 助产士；促成者
+introgression — 基因渗入；渐渗杂交
+medicine — 医学；药物
+apprehensible — 可理解的；可领会的
+interpolation — 插入内容；插值法
+outcry — 强烈抗议；疾呼
+dissolution — 解散；溶解
+lunacy — 疯狂；愚蠢行为
+irrefrangible — 不可违背的；无可争辩的
+The Hearing at Marsh Clinic
+At a hearing on the dissolution of a rural clinic, a midwife made the medicine apprehensible to local families, explaining how genes interact through introgression; when an interpolation in the official report branded the program lunacy, her outcry prompted a review, and the original data provided irrefrangible proof that the clinic had saved lives.
+Unit 929
+instance — 例子；实例
+afresh — 重新；从头
+paternity — 父亲身份；父系血统
+prelacy — 高级教士职位；主教制度
+diagnosis — 诊断；判断
+incidentally — 顺便；偶然地
+indicator — 指标；指示物
+brigadier — 准将；旅长
+efflorescent — 开花的；泛霜的
+pedagogics — 教育学；教学法
+The Schoolhouse Inscription
+Restoring an old schoolhouse afresh, a brigadier found an efflorescent patch hiding an inscription about his paternity; incidentally, it offered the first instance of a village teacher challenging the prelacy, and an expert in pedagogics used the date as an indicator in her diagnosis of why the school had abruptly closed.
+Unit 930
+domineer — 盛气凌人；专横支配
+intestacy — 未留遗嘱死亡；无遗嘱继承
+complacence — 自满；沾沾自喜
+belle — 美女；交际花
+diatomic — 双原子的；二原子组成的
+pneumatic — 气动的；充气的
+cartridge — 弹药筒；墨盒
+frailty — 脆弱；弱点
+bigamist — 重婚者
+paronymous — 同源近形的；名称相近的
+The Names on the Cylinder
+After the town belle, a chemistry lecturer, died in intestacy, a bigamist tried to domineer over both households, trusting in the clerk's complacence; his plan exposed its own frailty when a pneumatic cartridge from her lecture on diatomic gases opened to reveal two marriage records filed under paronymous surnames.
+Unit 931
+liking — 喜爱；嗜好
+preexist — 先于……存在；预先存在
+disrobe — 脱衣；脱去礼服
+prescient — 有先见之明的；预知的
+journalize — 记入日志；写日记
+messieurs — 诸位先生
+reclusory — 隐居的；与世隔绝的
+habitude — 习性；惯常状态
+plasticity — 可塑性；适应能力
+foursome — 四人组；四人比赛
+Four at the Tidal Cave
+“Messieurs, disrobe behind the screen and change into your dry suits,” said the prescient guide before the foursome entered a tidal cave; his reclusory habitude had sharpened his liking for silence, but he agreed to journalize the expedition, arguing that courage did not preexist experience and that the mind's plasticity could turn fear into judgment.
+Unit 932
+inefficient — 效率低的；无效能的
+ogre — 食人魔；凶恶可怕的人
+abyss — 深渊；绝境
+corroboration — 证实；佐证
+vendible — 可出售的；适销的
+convolution — 盘绕；错综复杂
+consulate — 领事馆；领事职位
+excellency — 阁下；显赫
+out-and-out — 彻头彻尾的；完全的
+evanesce — 逐渐消失；消散
+The Mask at the Consulate
+At the consulate, a dealer assured “Your Excellency” that an ogre mask was vendible antiquity, but the inefficient dealer's forgery contained a convolution of modern wire; with corroboration from a conservator, the ambassador called the sale an out-and-out fraud, and the dealer's confidence began to evanesce as he contemplated the legal abyss ahead.
+Unit 933
+depository — 存放处；保管机构
+obesity — 肥胖；肥胖症
+laddie — 小伙子；男孩
+cranium — 颅骨；头盖骨
+acid — 酸；酸性的
+reflectible — 可反射的；可反映的
+sirocco — 西洛可风；热燥风
+landscape — 风景；地貌
+inexperience — 缺乏经验；生疏
+evidential — 证据的；可作证据的
+The Desert Scan Archive
+When a sirocco swept across the desert landscape, a young technician's inexperience nearly cost an obesity research team its mobile depository: “Steady, laddie,” the radiologist said, moving an acid container away from the cranium scanner and unfolding a reflectible heat shield, whose intact seal later had evidential value in proving that no samples were contaminated.
+Unit 934
+repulsive — 令人厌恶的；排斥的
+reflector — 反射器；反光板
+anachronism — 时代错误；不合时宜之物
+abdominal — 腹部的；腹腔的
+assailant — 袭击者；攻击者
+polygon — 多边形
+wittingly — 有意地；明知地
+irreversible — 不可逆的；无法挽回的
+cadaverous — 面如死灰的；骨瘦如柴的
+photometer — 光度计
+The Light Meter's Testimony
+After a cadaverous assailant inflicted an abdominal wound on an actor on a film set, detectives noticed an anachronism in the assailant's costume: a modern polygon reflector; readings from a photometer showed that the assailant had wittingly moved it before the attack, turning a repulsive prank into a crime with irreversible consequences.
+Unit 935
+taxidermy — 动物标本剥制术；剥制标本
+adversity — 逆境；苦难
+isle — 小岛；岛屿
+impassable — 无法通行的；难以逾越的
+intracellular — 细胞内的
+despair — 绝望；失去希望
+redemption — 救赎；挽回
+unwise — 不明智的；欠考虑的
+poetics — 诗学；诗歌理论
+emergent — 新兴的；浮现的
+The Specimen on Gull Isle
+Stranded on a remote isle when the cliff path became impassable, a scholar of poetics found an intracellular parasite in an old taxidermy specimen; although it seemed unwise to work through the storm, adversity gave way to redemption when her emergent discovery replaced despair with a practical warning for the islanders.
+Unit 936
+humanitarian — 人道主义者；人道主义的
+preparation — 准备；制剂
+kiloliter — 千升
+accompaniment — 伴奏；伴随物
+overlord — 最高领主；霸主
+philosophy — 哲学；人生观
+precession — 进动；岁差
+theorize — 建立理论；推测
+misunderstand — 误解；曲解
+persistence — 坚持；持续存在
+Lessons beside the Relief Tank
+During preparation for a humanitarian convoy, a teacher marked each kiloliter on the water tank while children sang to a drum accompaniment, then used Earth's precession to illustrate her philosophy that knowledge should accompany aid; when their local overlord began to theorize that the lesson encouraged defiance, she asked him not to misunderstand and won him over through persistence.
+Unit 937
+recure — 治愈；使恢复
+forecastle — 前甲板；船员舱
+analyst — 分析师；分析者
+aeronaut — 飞行员；气球驾驶员
+affect — 影响；假装
+inaccessible — 无法到达的；难以接近的
+tyrannical — 专横的；暴虐的
+emphasis — 强调；重点
+pledgeor — 出质人；抵押人
+semicivilized — 半文明的；文明程度较低的
+The Bond in the Forecastle
+An aeronaut landed beside the forecastle of a survey ship carrying an analyst to an inaccessible island, where a tyrannical governor had dismissed the residents as semicivilized; the ship's surgeon managed to recure an elder's fever, while the captain, named as pledgeor on a relief bond, placed new emphasis on evidence and refused to let the governor's slur affect the rescue.
+Unit 938
+limitation — 限制；局限
+icily — 冷淡地；冰冷地
+viola — 中提琴；堇菜
+fluential — 流畅的；流动的
+reliant — 依赖的；信赖的
+chronology — 年代顺序；年表
+tableau — 场景；舞台造型
+insight — 洞察力；深刻见解
+authenticity — 真实性；可靠性
+papacy — 教皇职位；教皇制度
+The Viola behind the Tableau
+When a curator icily questioned the authenticity of a tableau about the papacy, a viola player offered unexpected insight: its fluential musical notation belonged to a later century, a limitation that made the painted chronology reliant on theatrical invention rather than historical fact.
+Unit 939
+feudal — 封建的；领地制的
+vendition — 出售；买卖
+crustaceous — 甲壳状的；硬壳的
+domination — 支配；统治
+ambitious — 有抱负的；宏大的
+proximately — 直接地；近似地
+unbiased — 公正的；无偏见的
+transferee — 受让人；承让方
+symphonious — 和谐悦耳的；协调的
+photometry — 光度测量；测光学
+The Mural under the Varnish
+After the vendition of a feudal mural, the transferee began an ambitious restoration, but crustaceous varnish flaked under intense lamps; an unbiased conservator used photometry to show that the lighting had proximately caused the damage, ending the former owner's domination of the dispute and allowing a symphonious ensemble to play at the reopening under softened light.
+Unit 940
+pedigree — 家谱；血统
+matinee — 日场演出；午后场
+prevalence — 普遍；流行程度
+investigator — 调查员；研究者
+birthright — 与生俱来的权利；继承权
+guinea — 几尼；珍珠鸡
+practicable — 可行的；可实施的
+scribe — 抄写员；书记员
+transverse — 横向的；横切的
+chronometer — 精密计时器；航海钟
+The Chronometer at the Matinee
+During a matinee, an investigator spotted a transverse scratch on a stage chronometer and traced it to a scribe who had hidden a pedigree inside the case; the document showed that a forgotten actor had sold his birthright for one guinea, a clue that made further inquiry practicable given the prevalence of such private bargains in the touring company.
+Unit 941
+up-keep — 维护；保养费用
+pluperfect — 过去完成时；过去完成的
+mountaineer — 登山者；山地居民
+photoelectric — 光电的；光电效应的
+coercive — 强制的；胁迫的
+statistician — 统计学家；统计员
+ambulance — 救护车；救护船
+obstetrician — 产科医生
+butte — 孤峰；平顶山
+dishonest — 不诚实的；欺诈的
+The Logbook below Red Butte
+At a clinic below Red Butte, a statistician found dishonest entries in the ambulance up-keep account and resisted a coercive manager's demand for silence; when the vehicle's photoelectric relay failed, a mountaineer fetched an obstetrician, and the forged log's pluperfect claim that the ambulance “had arrived” exposed the fraud before the baby was safely delivered.
+Unit 942
+explode — 爆炸；激增
+microphone — 麦克风；话筒
+Calvinism — 加尔文主义
+postgraduate — 研究生；研究生阶段的
+arrange — 安排；整理
+magnetize — 使磁化；吸引
+outreach — 外展服务；拓展活动
+recitation — 朗诵；背诵
+metal — 金属；金属制品
+atomizer — 雾化器；喷雾器
+The Lecture Hall Demonstration
+For a university outreach evening, a postgraduate helped arrange a recitation on Calvinism beside a physics display; just as she took the microphone, a faulty atomizer misted the metal needles that students meant to magnetize, making the demonstration explode into harmless confusion and unexpected applause.
+Unit 943
+nevertheless — 然而；尽管如此
+working-man — 劳动者；工人
+subacid — 微酸的；略带酸味的
+evangelist — 福音传道者；热情倡导者
+regality — 王室身份；帝王气派
+globose — 球状的；近球形的
+appertain — 属于；与……有关
+competitor — 竞争者；参赛者
+collier — 煤矿工人；运煤船
+aberration — 偏差；异常现象
+The Miner's Orchard Prize
+A collier entered the royal orchard show as its only working-man competitor, offering globose apples with a pleasant subacid bite; a retired evangelist challenged his eligibility, but the rules that appertain to the prize revealed an aberration in the registry, so the judges nevertheless honored both his fruit and its quiet regality.
+Unit 944
+remembrance — 回忆；纪念
+misuse — 误用；滥用
+operator — 操作员；经营者
+osculate — 接吻；相切
+yearling — 一岁动物；一岁幼畜
+violoncello — 大提琴
+monstrosity — 怪物般的东西；丑陋之物
+reorganize — 重新组织；改组
+doublet — 紧身上衣；同源词
+homonym — 同音异义词；同形异义词
+The Museum Label Rehearsal
+To reorganize a remembrance exhibition, a museum operator placed a bronze yearling beside a violoncello and called the result a monstrosity; worse, the misuse of a geometry label claimed that two carved arcs osculate, while a language panel confused a doublet with a homonym, so the curator corrected both errors before opening night.
+Unit 945
+variation — 变化；变体
+excellent — 优秀的；极好的
+neutral — 中立的；中性的
+nominee — 被提名者；候选人
+permissible — 允许的；可接受的
+anode — 阳极；正极
+misadventure — 意外事故；不幸遭遇
+denunciation — 谴责；告发
+scholastic — 学校的；学术的
+abhorrent — 令人憎恶的；可恶的
+The Science Prize Appeal
+The scholastic prize nominee built an excellent battery variation with a neutral electrolyte and a recycled anode, but a minor misadventure prompted an abhorrent accusation of cheating; her calm denunciation of the rumor led judges to confirm that every material was permissible and restore her place in the final.
+Unit 946
+submittal — 提交；呈交文件
+garrote — 绞索；用绞索勒死
+berth — 铺位；泊位
+Narcissus — 纳西索斯；水仙花
+usage — 用法；惯例
+memorable — 难忘的；值得纪念的
+intemperance — 放纵；酗酒
+variant — 变体；不同版本
+socialism — 社会主义
+effuse — 涌出；散发
+The Dockside Play's Final Draft
+At final submittal, an editor corrected the usage in a dockside play where Narcissus wakes in a cramped berth, escapes a garrote, and debates socialism with a sailor ruined by intemperance; the director chose that variant ending, and amber lamps seemed to effuse enough warmth to make the unlikely scene memorable.
+Unit 947
+importunate — 纠缠不休的；急切要求的
+autumnal — 秋天的；秋季特有的
+dejection — 沮丧；情绪低落
+impiety — 不虔诚；不敬
+contrivance — 装置；巧妙办法
+conformable — 符合的；一致的
+thermoelectric — 热电的；温差电的
+martyrdom — 殉难；长期受苦
+socialist — 社会主义者；社会主义的
+quantity — 数量；量
+Heat for the Autumn Pageant
+During an autumnal pageant, an importunate sponsor demanded that a socialist playwright remove every mention of impiety and martyrdom; despite her dejection, she devised a thermoelectric contrivance that converted a small quantity of stage heat into light, and its design proved conformable to safety rules, giving her the leverage to preserve the script.
+Unit 948
+packet — 小包；一小袋
+blaze — 大火；熊熊燃烧
+inquisitor — 审问者；调查者
+floral — 花卉的；花朵图案的
+herder — 牧人；放牧者
+grazing — 放牧；吃草
+brickwork — 砖结构；砌砖工程
+carousel — 旋转木马；行李传送带
+mulch — 覆盖物；用覆盖物覆盖
+munch — 大声咀嚼；津津有味地吃
+The Carousel Fire
+While his goats were grazing beyond a village fair, a herder paused to munch almonds from a packet and noticed a blaze racing through dry mulch toward the carousel; acting like an inquisitor, he questioned a vendor in a floral apron, learned where the water valve was hidden behind the brickwork, and stopped the fire before anyone was hurt.
