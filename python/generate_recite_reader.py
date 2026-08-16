@@ -226,8 +226,10 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
     const pauseButton = document.getElementById('pause');
     const stopButton = document.getElementById('stop');
     const audio = new Audio();
+    const speech = window.speechSynthesis;
     let activeButton = null;
     let activeSegment = null;
+    let activeUtterance = null;
     let monitor = null;
 
     function escapeHtml(value) {{
@@ -263,6 +265,7 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
       }}
       activeButton = null;
       activeSegment = null;
+      activeUtterance = null;
       if (monitor) cancelAnimationFrame(monitor);
       monitor = null;
       pauseButton.textContent = 'Ⅱ';
@@ -270,13 +273,38 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
 
     function stopReading() {{
       audio.pause();
+      if (speech) speech.cancel();
       resetActiveButton();
+    }}
+
+    function speakStory(number, button) {{
+      const story = stories.find(item => item.number === number);
+      if (!story || !speech) {{
+        status.textContent = 'Audio is unavailable. Add the story MP3 files and reload this page.';
+        return;
+      }}
+      const utterance = new SpeechSynthesisUtterance(`${{story.title}}. ${{story.story}}`);
+      activeButton = button;
+      activeUtterance = utterance;
+      button.textContent = '■';
+      button.setAttribute('aria-pressed', 'true');
+      status.textContent = 'MP3 unavailable; reading with the browser voice.';
+      utterance.addEventListener('end', resetActiveButton, {{ once: true }});
+      utterance.addEventListener('error', resetActiveButton, {{ once: true }});
+      speech.speak(utterance);
     }}
 
     async function readStory(number, button) {{
       const segment = audioSegments[number];
-      if (!segment) return;
       stopReading();
+      if (!segment) {{
+        speakStory(number, button);
+        return;
+      }}
+      activeButton = button;
+      button.textContent = '■';
+      button.setAttribute('aria-pressed', 'true');
+      try {{
       if (!audio.src.endsWith(segment.src)) {{
         audio.src = segment.src;
         await new Promise((resolve, reject) => {{
@@ -286,10 +314,12 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
       }}
       audio.currentTime = segment.start;
       activeSegment = segment;
-      activeButton = button;
-      button.textContent = '■';
-      button.setAttribute('aria-pressed', 'true');
       await audio.play();
+      }} catch (error) {{
+        resetActiveButton();
+        speakStory(number, button);
+        return;
+      }}
       const watch = () => {{
         if (!activeSegment) return;
         if (audio.currentTime >= activeSegment.end || audio.ended) {{
@@ -313,6 +343,16 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
     search.addEventListener('input', () => {{ stopReading(); render(search.value); }});
     stopButton.addEventListener('click', stopReading);
     pauseButton.addEventListener('click', () => {{
+      if (activeUtterance) {{
+        if (speech.paused) {{
+          speech.resume();
+          pauseButton.textContent = 'Ⅱ';
+        }} else {{
+          speech.pause();
+          pauseButton.textContent = '▶';
+        }}
+        return;
+      }}
       if (!activeSegment) return;
       if (audio.paused) {{
         audio.play();
