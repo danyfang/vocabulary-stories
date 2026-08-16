@@ -1,0 +1,146 @@
+1. roam             1. destructive      1. discard          1. adolescence      1. curb             1. laconic          1. hapless          1. intimidate
+2. rugged           2. trait            2. soberly          2. rural            2. hazard           2. accost           2. irate            2. feint
+3. teem             3. preserve         3. gravely          3. urban            3. ban              3. reticent         3. furtive          3. alacrity
+4. desolate         4. cultivate        4. paraphernalia    4. dense            4. eliminate        4. throng           4. plethora         4. belligerent
+5. spectacular      5. faculty          5. ritual           5. characteristic   5. campaign         5. intrepid         5. felon            5. disdain
+6. immigrant        6. replete          6. vigilant         6. drudgery         6. prognosticate    6. compound         6. generate         6. promulgate
+7. persecute        7. eminent          7. adroit           7. badger           7. automaton        7. annals           7. swirl            7. brash
+8. prolific         8. steep            8. fabricate        8. perceive         8. matron           8. paradox          8. convert          8. scoff
+9. commercial       9. voracious        9. pretext          9. implore          9. abound           9. tinge            9. disturbance      9. pugnacious
+10. fashion         10. indiscriminate  10. gesticulate     10. interminable    10. technology      10. realm           10. status          10. belittle
+11. incur           11. survey          11. incipient       11. rudimentary     11. relic           11. ominous         11. impassible      11. laceration
+12. issue           12. reconcile       12. infamous        12. cajole          12. fascinate       12. repudiate       12. unique          12. tangible
+13. allegiance      13. casual          13. dupe            13. enhance         13. credit          13. bristle         13. treacherous     13. castigate
+14. renounce        14. poll            14. jostle          14. nuance          14. conceive        14. tremulous       14. freak           14. octogenarian
+15. culminate       15. reveal          15. inadvertent     15. avid            15. descendant      15. cessation       15. vanish          15. sordid
+16. pose            16. distinction     16. genuine         16. accuse          16. wrest           16. stipulate       16. cargo           16. scurrilous
+17. pioneer         17. assume          17. forgery         17. navigation      17. lackluster      17. euphemism       17. terrestrial     17. aspirant
+18. migration       18. certify         18. lessen          18. neglect         18. caustic         18. condolence      18. evidence        18. frenzy
+19. deposit         19. convey          19. circulation     19. grand           19. loathe          19. mundane         19. attribute       19. dregs
+20. barrier         20. province        20. prosper         20. plot            20. reprimand       20. incongruous     20. malfunction     20. solace
+
+1. rampant          1. sally            1. implacable       1. emaciate         1. extortion        1. peruse           1. poignant         1. diatribe
+2. clandestine      2. affluent         2. jurisdiction     2. tranquil         2. impresario       2. premonition      2. garble           2. ilk
+3. ethics           3. consternation    3. paroxysm         3. sanctuary        3. bigot            3. desist           3. fruitless        3. incoherent
+4. inane            4. feasible         4. skirmish         4. surge            4. asset            4. recoil           4. inundate         4. fortuitous
+5. concur           5. discern          5. reprehensible    5. ascend           5. adverse          5. inclement        5. sanguine         5. inhibition
+6. culprit          6. precocious       6. fray             6. sinister         6. entourage        6. obsess           6. phlegmatic       6. placard
+7. inexorable       7. perfunctory      7. indigent         7. besiege          7. virulent         7. mastiff          7. zealous          7. prestigious
+8. duress           8. deride           8. arbitrary        8. afflict          8. spew             8. doleful          8. comprehensive    8. remuneration
+9. admonish         9. perverse         9. monolithic       9. malnutrition     9. venom            9. pertinent        9. coerce           9. nominal
+10. flagrant        10. chagrin         10. harass          10. privation       10. blatant         10. wan             10. corroborate     10. integral
+11. egregious       11. laudable        11. effigy          11. ubiquitous      11. loath           11. frustrate       11. elapse          11. utopia
+12. acrimonious     12. disparage       12. stymie          12. remote          12. solicit         12. interject       12. sporadic        12. schism
+13. duplicity       13. masticate       13. cognizant       13. harbinger       13. astute          13. histrionics     13. domicile        13. anathema
+14. paucity         14. fiasco          14. flout           14. thwart          14. advocate        14. elusive         14. lax             14. flamboyant
+15. distraught      15. eschew          15. turbulent       15. malignant       15. ineffectual     15. symptomatic     15. meticulous      15. expunge
+16. impunity        16. dubious         16. terminate       16. excruciating    16. vexatious       16. imminent        16. conjecture      16. truncate
+17. elicit          17. quell           17. forthwith       17. reverberate     17. amicable        17. squeamish       17. lurid           17. jaunty
+18. tolerate        18. confidant       18. oust            18. fretful         18. malady          18. engross         18. rash            18. ostentatious
+19. construe        19. obsolescence    19. revert          19. respite         19. nefarious       19. salient         19. obviate         19. timorous
+20. pernicious      20. voluble         20. exacerbate      20. succumb         20. scrutinize      20. inert           20. quip            20. fractious
+
+1. importune        1. nettle           1. complicity       1. cursory          1. fallacious       1. innate           1. profligate       1. nebulous
+2. haven            2. aspire           2. liquidation      2. indigenous       2. consummate       2. abortive         2. strife           2. revile
+3. subjugate        3. inveigh          3. culpable         3. interloper       3. concoct          3. modify           3. legion           3. indict
+4. surreptitious    4. overt            4. recant           4. habitat          4. perpetrate       4. spontaneous      4. coup             4. pesky
+5. incontrovertible 5. relegate         5. accomplice       5. gregarious       5. subterfuge       5. accommodate      5. megalomania      5. derogatory
+6. eventuate        6. supine           6. preclude         6. prolific         6. manifold         6. crave            6. mendacious       6. repose
+7. subterranean     7. raze             7. allege           7. antithesis       7. fraught          7. myriad           7. exonerate        7. abstemious
+8. emit             8. repulse          8. abrogate         8. sedentary        8. impeccable       8. irrelevant       8. expatriate       8. redolent
+9. ultimate         9. mammoth          9. invalidate       9. frugal           9. resourceful      9. urbane           9. fiat             9. omnivorous
+10. viable          10. havoc           10. access          10. bulwark         10. assiduous       10. veneer          10. amnesty         10. disparate
+11. premise         11. incisive        11. extrinsic       11. cache           11. hoax            11. deem            11. dismantle       11. extant
+12. incredulous     12. scurry          12. persevere       12. cupidity        12. component       12. buff            12. sumptuous       12. vicissitude
+13. jeopardize      13. lethal          13. landmark        13. altruistic      13. labyrinth       13. romp            13. parsimonious    13. edifice
+14. permeate        14. precipitate     14. declaim         14. coterie         14. evaluate        14. latent          14. pecuniary       14. sultry
+15. propitious      15. stereotype      15. fetter          15. embellish       15. murky           15. inherent        15. underwrite      15. trenchant
+16. curtail         16. sinecure        16. nomadic         16. amorous         16. gullible        16. tortuous        16. restrictive     16. lugubrious
+17. cryptic         17. stentorian      17. paragon         17. virtuosity      17. deploy          17. conjugal        17. blunt           17. puissant
+18. repress         18. valor           18. controversial   18. progeny         18. attest          18. peregrination   18. nostalgia       18. unabated
+19. surmise         19. singular        19. asperity        19. temerity        19. exult           19. itinerant       19. rife            19. maudlin
+20. inchoate        20. bias            20. epithet         20. saturate        20. enigma          20. barometer       20. balk            20. levity
+
+1. opulence         1. juxtapose        1. maladjusted      1. inanimate        1. eruption         1. hostile          1. array            1. propinquity
+2. scion            2. incompatibility  2. heterogeneous    2. artifact         2. puny             2. prevalent        2. culminate        2. vulnerable
+3. obsequious       3. cope             3. perspicacious    3. fetish           3. debris           3. lethargic        3. pinnacle         3. cacophony
+4. indoctrinate     4. plight           4. analogous        4. anthropologist   4. awesome          4. paramount        4. ardent           4. exploit
+5. fulsome          5. covert           5. gamut            5. bizarre          5. disperse         5. remiss           5. obscure          5. bedlam
+6. lush             6. fabricate        6. neurotic         6. taint            6. conflagration    6. aversion         6. bereave          6. disgruntled
+7. ponder           7. connubial        7. decade           7. prohibition      7. obliterate       7. superficial      7. exultation       7. panacea
+8. destitution      8. demur            8. mortality        8. imprudent        8. rue              8. rebuke           8. constrict        8. eradicate
+9. supplication     9. appellation      9. susceptible      9. taboo            9. initiate         9. evince           9. prodigy          9. infallible
+10. decadence       10. incapacitate    10. phenomenon      10. imperative      10. deplorable      10. vogue           10. falter          10. impede
+11. disciple        11. escalation      11. enunciate       11. contemptuous    11. hoard           11. tussle          11. invective       11. sedate
+12. metamorphosis   12. indifference    12. irascible       12. absurd          12. sage            12. intrinsic       12. voluminous      12. serenity
+13. penance         13. potential       13. introspective   13. bigot           13. congenial       13. jettison        13. besmirch        13. equanimity
+14. ascetic         14. cumulative      14. pedagogue       14. abhor           14. aegis           14. inevitable      14. retrospect      14. compatible
+15. desultory       15. recondite       15. inordinate      15. universal       15. detriment       15. lucrative       15. vitriolic       15. revere
+16. nurture         16. acknowledge     16. perpetuate      16. originate       16. senile          16. acute           16. inveterate      16. avarice
+17. bona            17. delude          17. catastrophic    17. entreaty        17. longevity       17. transient       17. pungent         17. insatiable
+18. salvation       18. palliate        18. neutralize      18. inviolable      18. dodder          18. gist            18. adamant         18. nadir
+19. nirvana         19. prelude         19. mandate         19. vulnerable      19. imbibe          19. terse           19. humility        19. irrational
+20. materialism     20. chimerical      20. compensatory    20. tradition       20. virile          20. cogent          20. egotist         20. moribund
+
+1. adherent         1. gaudy            1. fervid           1. expedite         1. complacent       1. cumbersome       1. lampoon          1. degrade
+2. lithe            2. encumbrance      2. heresy           2. celerity         2. debilitate       2. interrogate      2. whimsical        2. venial
+3. pathetic         3. extinct          3. prudent          3. profound         3. occult           3. vigil            3. parable          3. genre
+4. obese            4. idyllic          4. ostensible       4. alleviate        4. somber           4. divulge          4. sanctimonious    4. unsavory
+5. bliss            5. galvanize        5. spurious         5. prodigious       5. impetuous        5. site             5. countenance      5. candid
+6. apathy           6. condescend       6. propagate        6. bizarre          6. foment           6. unmitigated      6. nonentity        6. grotesque
+7. exhort           7. malign           7. milieu           7. paltry           7. slovenly         7. commodious       7. effrontery       7. compassion
+8. inebriate        8. jocose           8. anomaly          8. usurp            8. quarry           8. antiquate        8. equanimity       8. epitome
+9. fracas           9. candor           9. innocuous        9. condone          9. discreet         9. fluctuate        9. flabbergast      9. repugnant
+10. adversary       10. mortify         10. surfeit         10. trivial         10. glean           10. dishevel        10. debacle         10. dexterity
+11. gusto           11. zenith          11. concomitant     11. venerable       11. penitent        11. tenacious       11. mien            11. acme
+12. banal           12. omnipotent      12. strident        12. ambiguous       12. evanescent      12. calumny         12. refute          12. depict
+13. platitude       13. precedent       13. lassitude       13. succinct        13. reproach        13. grimace         13. hirsute         13. naive
+14. indolent        14. fledgling       14. deleterious     14. menial          14. tantamount      14. asinine         14. vivacious       14. copious
+15. garrulous       15. peremptory      15. efficacy        15. extraneous      15. abjure          15. facade          15. gaunt           15. vehemently
+16. dilettante      16. wheedle         16. incumbent       16. salubrious      16. connoisseur     16. au courant      16. stupor          16. ingratiate
+17. atypical        17. charlatan       17. ferment         17. archaic         17. allay           17. pittance        17. cliche          17. covet
+18. nondescript     18. rustic          18. dissent         18. facetious       18. propensity      18. unkempt         18. wince           18. penury
+19. wane            19. decorum         19. attenuate       19. rabid           19. wary            19. noisome         19. whet            19. perfidious
+20. pique           20. jubilant        20. arbiter         20. emulate         20. deter           20. fastidious      20. pensive         20. ignominious
+
+1. servile          1. glib             1. saga             1. clique           1. succulent        1. negligible       1. ameliorate       1. futility
+2. sojourn          2. trend            2. imperturbable    2. rhetoric         2. intrinsic        2. quandary         2. roster           2. technology
+3. confront         3. legerdemain      3. belated          3. facile           3. curry            3. expedient        3. stunt            3. nullify
+4. volition         4. malleable        4. decrepit         4. extol            4. satiety          4. callous          4. atrophy          4. carnage
+5. antipathy        5. homogenous       5. vacillate        5. mentor           5. pall             5. blase            5. maim             5. deluge
+6. tenable          6. fatal            6. opprobrium       6. vilify           6. sanction         6. diversity        6. unctuous         6. canard
+7. austere          7. passe            7. Machiavellian    7. cant             7. insidious        7. ennui            7. cynic            7. defamatory
+8. superfluous      8. facet            8. unconscionable   8. magnanimous      8. allude           8. comely           8. benevolent       8. plaintiff
+9. felicitous       9. procrastinate    9. pandemonium      9. umbrage          9. potpourri        9. artifice         9. subservient      9. libel
+10. halcyon         10. stagnant        10. staunch         10. elucidate       10. denote          10. frenetic        10. iniquity        10. deprecate
+11. iconoclast      11. capitulate      11. vindicate       11. proximity       11. spate           11. artless         11. largess         11. excoriate
+12. therapy         12. stigmatize      12. flay            12. lassitude       12. advent          12. expurgate       12. mercenary       12. frail
+13. motivate        13. audacity        13. demeanor        13. vapid           13. propriety       13. qualm           13. criterion       13. potent
+14. rationalize     14. foist           14. heinous         14. unwieldy        14. proffer         14. gratuity        14. mollify         14. reputed
+15. nascent         15. tantalize       15. delineation     15. vitiate         15. impious         15. begrudge        15. repent          15. devout
+16. phobia          16. chicanery       16. infraction      16. fatuous         16. nutritive       16. delve           16. vestige         16. impromptu
+17. erudite         17. docile          17. callous         17. repertoire      17. raucous         17. replenish       17. pariah          17. malevolent
+18. vertigo         18. tacit           18. vituperation    18. imperceptible   18. shibboleth      18. manifest        18. aloof           18. profuse
+19. conducive       19. reticent        19. redress         19. contort         19. bogus           19. capricious      19. guise           19. diminutive
+20. germane         20. retort          20. turpitude       20. augment         20. substantiate    20. requisite       20. pragmatic       20. dulcet
+
+1. raiment          1. burgeon
+2. rail             2. ascertain
+3. corpulent        3. disseminate
+4. wistful          4. dormant
+5. brigand          5. potentate
+6. rift             6. internecine
+7. raconteur        7. derive
+8. sullen           8. nepotism
+9. emissary         9. prerogative
+10. ruminate        10. dearth
+11. livid           11. tyro
+12. taut            12. obloquy
+13. martinet        13. sophistry
+14. yen             14. factitious
+15. bagatelle       15. encomium
+16. decapitate      16. hyperbole
+17. penchant        17. prevarication
+18. termagant       18. munificent
+19. appall          19. charisma
+20. callow          20. vie
