@@ -28,6 +28,7 @@ def parse_stories(source: str) -> list[dict[str, str | int]]:
         stories.append(
             {
                 "number": int(match["number"]),
+            "vocabulary": " ".join(match["vocabulary"].split()),
                 "title": match["title"].strip(),
                 "story": " ".join(match["story"].split()),
             }
@@ -148,7 +149,7 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
       font-size: 20px;
     }}
     .icon-button:hover {{ border-color: var(--accent); color: var(--accent); }}
-    .icon-button:focus-visible, .play:focus-visible, input:focus-visible, select:focus-visible {{
+    .icon-button:focus-visible, .play:focus-visible, summary:focus-visible, input:focus-visible, select:focus-visible {{
       outline: 3px solid color-mix(in srgb, var(--focus) 35%, transparent);
       outline-offset: 2px;
     }}
@@ -179,6 +180,9 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
       letter-spacing: 0;
     }}
     .story p {{ margin: 13px 0 0; font-family: Georgia, serif; font-size: 18px; line-height: 1.7; }}
+    .word-list {{ margin-top: 14px; color: var(--muted); }}
+    .word-list summary {{ width: fit-content; cursor: pointer; font-weight: 700; }}
+    .word-list p {{ margin-top: 8px; font-family: "Avenir Next", "Trebuchet MS", sans-serif; font-size: 15px; line-height: 1.6; }}
     .play {{
       flex: 0 0 auto;
       width: 42px;
@@ -243,6 +247,7 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
       const filtered = stories.filter(item => !needle ||
         String(item.number).includes(needle) ||
         item.title.toLowerCase().includes(needle) ||
+        item.vocabulary.toLowerCase().includes(needle) ||
         item.story.toLowerCase().includes(needle));
       status.textContent = `${{filtered.length.toLocaleString()}} of ${{stories.length.toLocaleString()}} stories`;
       list.innerHTML = filtered.length ? filtered.map(item => `
@@ -253,6 +258,10 @@ def render(stories: list[dict[str, str | int]], audio_segments: dict) -> str:
               <h2>${{escapeHtml(item.title)}}</h2>
               <button class="play" type="button" data-story="${{item.number}}" aria-label="Read Story ${{item.number}}: ${{escapeHtml(item.title)}}" aria-pressed="false" title="Read story">▶</button>
             </div>
+            <details class="word-list">
+              <summary>Word list</summary>
+              <p>${{escapeHtml(item.vocabulary)}}</p>
+            </details>
             <p>${{escapeHtml(item.story)}}</p>
           </div>
         </article>`).join('') : '<p class="empty">No stories match your search.</p>';
