@@ -39,7 +39,7 @@
 - absconded prisoners — 潜逃的囚犯
 - absent from school — 不在学校
 - his absent mind — 心不在焉
-- flight the dark absolutism - 反抗黑暗专权
+- fight the dark absolutism — 反抗黑暗专权
 - absolve the criminals — 赦免罪犯
 - cannot absorb those costs — 无法承受那样的成本
 - an absorbing story — 吸引人的故事
@@ -93,25 +93,25 @@
 - set up a business on her own account — 独立创业
 - account for half of health care spending — 占了半数的医疗保险支出
 - account for his mistake — 为他的错误负责
-- be accountable to their  customers — 对顾客负责
+- be accountable to their customers — 对顾客负责
 - get the accountant license — 获得会计师资格
 - an internationally accredited business school — 国际认证的商学院
 - accretion of economic interests — 经济利益的增长
 - his wealth accrues — 财富增加
-- accumulate wealth
+- accumulate wealth — 积累财富
 - accuse the president of media interference — 谴责总统左右媒体
 - raise an accusatory question — 提出指责的问题
 - accustom himself to a simple life — 习惯简朴的生活
 - his accustomed behaviors — 习惯性的行为
-- an acerbic criticism - 尖刻的评论
+- an acerbic criticism — 尖刻的评论
 - acid rains — 酸雨
-- an acid humor - 尖酸的幽默
+- an acid humor — 尖酸的幽默
 - acknowledge his achievement — 承认他的成就
 - the acme of art — 艺术的巅峰
 - the acoustic of the music hall — 音乐厅的声学结构
 - send acoustic signals — 发出信号
 - acquaint herself with Traffic Rules — 熟悉交通规则
-- a helpful acquaintarice — 帮忙的熟人
+- a helpful acquaintance — 帮忙的熟人
 - her acquaintance with Chinese history — 熟悉中国历史
 - acquiesce in her daughter's demands — 默许女儿的要求
 - take acquiescent attitude towards corruptions — 对腐败采取默许的态度
@@ -129,7 +129,7 @@
 - her business acumen — 商业的精明
 - adamant freedom fighters — 坚定不移的自由战士
 - adapt to the new social order — 适应新的社会秩序
-- adapt his novel for the screen - 把他的小说改编搬上银幕
+- adapt his novel for the screen — 把他的小说改编搬上银幕
 - adaptable explorers — 适应能力强的探险家们
 - a movie addict — 影迷（看电影成瘾的人）
 - addictive drugs — 上瘾的药品
@@ -176,7 +176,7 @@
 - the president's political adversary — 总统的政敌
 - fight against adverse conditions — 与逆境做斗争
 - a job advert on the window of the shop — 商店的窗户上贴的招聘广告
-- advocate free market - 主张自由市场经济
+- advocate free market — 主张自由市场经济
 
 - advertise the next generation iPhone — 宣传下一代的苹果手机
 - animal rights advocates — 动物保护组织的代言人
@@ -202,12 +202,12 @@
 - a new movement afoot in education — 一场新的运动正在教育界展开
 - the aftermath of financial crisis — 金融危机的后果
 - with mouth agape — 张大着嘴
-- dispute between principal and agent - 委托人和代理人之间的纠纷
+- dispute between principal and agent — 委托人和代理人之间的纠纷
 
 - historical agent for social changes — 社会变化的历史动因
 - cleaning agents — 清洁剂
 - an employment agency — 职业中介
-- Central Intelligence Agency - 中央情报局
+- Central Intelligence Agency — 中央情报局
 
 - an agglomeration of best practices — 最优秀的集合
 - his aggrandized power — 壮大的权势
@@ -254,7 +254,7 @@
 - make allowance for different level of earnings — 考虑到收入水平的差异
 - an idealism alloyed with political skills — 理想辅以政治手腕
 - an alloy of selfishness and pride — 自私和傲慢的结合
-- allude to the complaint about Japanese textbooks  — 略示了对日本教科书的指责
+- allude to the complaint about Japanese textbooks — 略示了对日本教科书的指责
 - allusive social drama — 含沙射影的社会伦理片
 - the allure of the Grand Canyon — 大峡谷的魅力
 - seek support from the allies — 寻求盟国的支持
@@ -267,10 +267,10 @@
 - an alternative plan — 备选方案
 - an altruistic teacher — 无私的老师
 - notable alumni of Yale Law School — 耶鲁法学院的杰出校友
-- modern architectural styles  — 传统和现代的建筑风格的融合
+- modern architectural styles — 现代建筑风格
 - amalgamate with an American company — 与一家美国公司合作
 - amass money — 攒钱
-- amateur actors - 业余演员
+- amateur actors — 业余演员
 
 - an amateurish photographer — 业余的摄影师
 - amazed by the magician's tricks — 对魔术师的技艺感到惊奇
@@ -308,7 +308,7 @@
 - logical analogy — 符合逻辑的类比
 - the anarchy of India's public life — 混乱无序的印度公共生活
 - a well-known anarchist poet — 著名的无政府主义诗人
-- Japanese people's anathema to nuclear weapons  — 日本人民对核武器的厌恶
+- Japanese people's anathema to nuclear weapons — 日本人民对核武器的厌恶
 - human anatomy for walking upright — 人类直立行走的身体结构
 - the anatomy of business structure — 业务结构的剖析
 - their ancient ancestry — 他们古老的祖先
@@ -321,7 +321,7 @@
 - an operation under an anesthetic — 麻醉下的手术
 - start his career anew — 重新开始事业
 - her angelic face — 她天使般的面容
-- a cry of anguish rangwill — 哀哭
+- a cry of anguish rang out — 一声痛苦的哀号响起
 - an angular cancer patient — 骨瘦嶙峋的癌症患者
 - see the animate world — 观察生命的世界
 - animated discussions — 热烈的讨论
@@ -336,7 +336,7 @@
 - the annoying tests — 烦人的测验
 - annual NBA All-Star Game — 一年一度的NBA全明星比赛
 - annual family income — 家庭年收入
-- annulthe contract — 废除合同
+- annul the contract — 废除合同
 - anoint the next king — 选定下一个国王
 - social anomalies — 社会畸形
 - the boy's anomalous behaviors — 孩子的反常举动
@@ -373,7 +373,7 @@
 - appalling street violence — 令人惊骇的街头暴力
 - an apparent shortcoming — 明显的缺点
 - the apparition of his dead wife — 死去的妻子的亡灵
-- appeal for help from the international community  — 向国际社会请求援助
+- appeal for help from the international community — 向国际社会请求援助
 - appeal to my interest — 引起了我的兴趣
 - appease heated protesters — 安抚热烈的抗议者
 - append a note to his letter — 在信上附了一张便条
@@ -397,7 +397,7 @@
 - apprehend the power of love — 领会了爱的力量
 - apprehension for her safety — 担心她的安全
 - his business apprentice — 跟他学业务的学徒
-- apprise the customers of new products  — 告知客户新产品
+- apprise the customers of new products — 告知客户新产品
 - the approaching GRE exam — 临近的GRE考试
 - approach investors for more money — 找投资人洽谈投资的事宜
 - approach legal problems — 处理法律问题
@@ -428,7 +428,7 @@
 - ardent supporters of euros — 欧元热切的支持者
 - his ardor for football — 对足球的热情
 - an arduous desert journey — 艰苦的沙漠之旅
-- compete to excel in the Olympic arena - 奥运赛场，追求卓越
+- compete to excel in the Olympic arena — 奥运赛场，追求卓越
 - active in the political arena — 活跃在政治舞台
 - arguable problems — 有争议的问题
 - the argumentative critic — 毒舌的评论家
@@ -438,7 +438,7 @@
 - flower aromas — 芳草鲜美
 - arouse people to fight — 激起人民奋起反抗
 - arouse a sleeping lion — 唤醒了沉睡的雄狮
-- an array of paintings displayed in order - 一排有序的展出的油画
+- an array of paintings displayed in order — 一排有序展出的油画
 - arrest the economic development — 阻碍经济发展
 - the killer under arrest — 被捕的杀手
 - the king's arrogant attitude — 国王不可一-世的态度
@@ -492,8 +492,8 @@
 - assimilate new ideas — 吸收新思想
 - assist the boss with any of her needs — 帮助老板满足她的各种需要
 - associate China with densely populated cities — 提到中国就想起人口密集的城市
-- assorted colors - 五颜六色(各式各样的颜色)
-- assuage her broken heart - — 抚慰她受伤的心
+- assorted colors — 五颜六色（各式各样的颜色）
+- assuage her broken heart — 抚慰她受伤的心
 - assume a perfect condition — 假设一个完美的条件
 - assume their parental duty — 承担父母的责任
 - assume a significant importance — 有显著的重要性
@@ -505,7 +505,7 @@
 - the astronomy of solar system — 太阳系的天文学
 - girls' interest in astrology — 女孩对占星术的兴趣
 - astute business decisions — 精明的商业决策
-- the world breaking asunder - 四分五裂的世界
+- the world breaking asunder — 四分五裂的世界
 - provide political asylum to Snowden — 向斯诺登提供政治庇护
 - symmetric dress style — 对称的着装风格
 - atheistic communists — 无神论的共产主义者
@@ -526,7 +526,7 @@
 - a copyright attorney — 知识产权法的律师
 - attribute their success to ability — 把成功归因于能力
 - a common attribute of great leaders — 伟大领袖的共同特征
-- attune students to future business requirement  — 让学生适应将来商业的需求
+- attune students to future business requirements — 让学生适应未来的商业需求
 - an atypical Chinese schoolboy — 一个非典型的中国学生
 - audacious freedom fighters — 无畏的自由斗士
 - audible baby cry — 能听得见的孩子哭声
@@ -560,7 +560,7 @@
 - an avid collector of art — 热切的艺术品收藏家
 - an avocation after work — 业余的工作
 - avow an official decision — 宣布官方的决定
-- his avuncular sponsor - 他慈爱的资助者
+- his avuncular sponsor — 他慈爱的资助者
 - awake at midnight — 半夜醒来
 - awaken his interest in pop culture — 唤起了他对流行文化的兴趣
 - awaken the ignorant public — 唤醒无知的群众
@@ -606,7 +606,7 @@
 - bash the president's failure — 抨击总统的失误
 - a bashful young girl — 害羞的女孩儿
 - bask on the sandy beach — 在沙滩上晒太阳
-- the spiritual bastion of Western civilization  — 西方文明的精神支柱
+- the spiritual bastion of Western civilization — 西方文明的精神支柱
 - a batch of tourists — 一批游客
 - beam at her beloved — 为心上人绽开笑容
 - beam radio broadcasts to China — 向中国发送广播
@@ -719,7 +719,7 @@
 - boast his past experience — 夸耀他过去的经历
 - boast the longest battery life — 拥有最长的电池续航时间
 - the statistic bodes well — 统计结果表示乐观
-- a plan bogged down by unnecessary spending — 由于不必要的开支陷人泥沼的计划
+- a plan bogged down by unnecessary spending — 由于不必要的开支陷入泥沼的计划
 - their bogus insurance claim — 骗保（虚假的保险索赔）
 - a boisterous crowd — 吵闹的人群
 - a bold fight against cancer — 勇敢地和癌症作斗争
@@ -847,7 +847,7 @@
 - your calumny against the great — 对伟人恶言诽谤
 - the camaraderie in the army — 军中的同志情谊
 - camouflage her true feelings — 掩饰她内心的感情
-- touched by his candor - 被他的坦诚打动
+- touched by his candor — 被他的坦诚打动
 - candid about his weakness — 对他的缺点坦白
 - a candid photograph of people in everyday life — 抓拍人们日常生活的照片
 - a candidate for the interview — 面试的候选人
@@ -908,14 +908,14 @@
 - categorize children's mental problems — 把孩子的心理问题
 - fall into two categories — 分成两类
 - cater to customers' tastes — 迎合顾客的口味
-- the emotional catharsis - 感情宣泄
+- the emotional catharsis — 感情宣泄
 - pray in St. Paul's cathedral — 在圣保罗大教堂祷告
 - a man of catholic tastes — 爱好广泛的人
 - engage in causal analysis — 进行因果分析
 - caustic chemicals — 腐蚀性化学物质
 - a cautious nurse — 小心谨慎的护士
 - take a cavalier attitude to his safety — 不顾自身安危
-- make their way to the bottom of the cavern - 潜到了洞穴的底部
+- make their way to the bottom of the cavern — 潜到了洞穴的底部
 - cavil at her work — 对她的工作过分挑剔
 - cease fire — 停火
 - cessation of business — 停业
@@ -968,7 +968,7 @@
 - chart your future — 规划你的未来
 - United Nations Charter — 《联合国宪章》
 - charter a plane to Hawaii — 包机去夏威夷
-- a charter for business  — 特价经营
+- a charter for business — 商业特许经营
 - be chary of making a like mistake — 小心不要犯类似的错误
 - the chasm between rich and poor in China — 中国巨大的贫富差距
 - a chaste young girl — 纯真的少女
@@ -1127,7 +1127,7 @@
 - wages commensurate to the living standard there — 与当地生活水平相称的薪水
 - add comment to this post — 回帖（给帖子添加评论）
 - a comment on city life — 城市生活的写照
-- live commentary on British horse races - 英国赛马现场的解说
+- live commentary on British horse races — 英国赛马现场的解说
 - a sports commentator — 体育解说
 - a center of commercial activity — 商业活动中心
 - commiserate with the loser — 同情失败者
@@ -1155,7 +1155,7 @@
 - compatible team members — 合得来的队员
 - Mac compatible software — 兼容苹果系统的软件
 - Chinese compatriots in the US — 在美国的中国同胞
-- compel restaurants to improve their menus - 迫使饭馆改善菜谱
+- compel restaurants to improve their menus — 迫使饭馆改善菜谱
 - a compelling reason — 令人信服的理由
 - a violent but compelling film — 一部暴力但精彩的电影
 - a compendium of all human knowledge — 人类知识简编
@@ -1210,8 +1210,8 @@
 - concurrent misfortunes — 祸不单行
 - condemn the inhuman crimes — 谴责没有人性的罪行
 - feel condemned to being alone — 感到被冷落
-- condense his speech into three words - 把讲话浓缩成三个字
-- condescend to visit the homelss people - 屈尊去慰问流离失所的人们
+- condense his speech into three words — 把讲话浓缩成三个词
+- condescend to visit the homeless people — 屈尊去慰问流离失所的人们
 - a condescending official — 高傲的官员
 - condole with those who lost loved ones — 慰问那些失去了珍爱的人的人们
 - a crime not to be condoned — 不容宽恕的罪行
@@ -1277,7 +1277,7 @@
 - consonant with our own beliefs — 与我们的信仰一致
 - consort with known drug-dealers — 和毒贩有来往
 - a conspicuous trend — 一个明显的趋势
-- consipre to overthrow the government — 密谋推翻政府
+- conspire to overthrow the government — 密谋推翻政府
 - under constant pressure — 在持续的压力下
 - a constellation of photographs — 照片合集
 - consternation at the news of the earthquake — 地震的新闻令其惊恐
@@ -1362,7 +1362,7 @@
 - The price corresponds to quality — 按质论价（价格和质量相符）
 - correspond with African friends — 与非洲朋友通信联系
 - corroborate his description of life in Africa — 证实了他对非洲生活的描述
-- corrode human nature - 腐蚀人性
+- corrode human nature — 腐蚀人性
 - have corrosive effect on social order — 损害社会秩序
 - corrupt politicians — 腐败的政客
 - need more than cosmetic reform — 只是表面的变革是不够的
@@ -1450,8 +1450,8 @@
 - a battle culminating in a victory — 以胜利告终的战斗
 - punish his culpable ignorance — 惩罚他过失的疏忽
 - the real culprit of global warming — 全球变暖的罪魁祸首
-- a religious cult - 教派
-- became a fashion cult - 风靡一时
+- a religious cult — 教派
+- became a fashion cult — 风靡一时
 - cultivate the image of a leader — 培养出一副领导的形象
 - cultivate powerful and wealthy people — 结交权贵
 - a cultivated lady — 温文尔雅的女士
@@ -1799,7 +1799,7 @@
 - discontent with current living condition — 对当前的生活状况不满
 - prevent team discord — 避免团队不和
 - discordant with market change — 不符合市场变化
-- a discordant note - 不和谐的音符
+- a discordant note — 不和谐的音符
 - give discounts to regular customers — 给常客打折扣
 - discount her brother's words — 不相信她哥哥的话
 - discourage smoking in public — 劝阻在公共场合吸烟
@@ -1863,7 +1863,7 @@
 - disperse the air pollution — 空气污染扩散
 - a dispiriting election loss — 令人沮丧的选举失利
 - displace former Prime Minister — 取代前总理
-- disport himself in a motorboast with his girlfriend  — 与女友一起驾摩托艇助兴
+- disport himself in a motorboat with his girlfriend — 与女友一起驾摩托艇助兴
 - refuse disposable chopsticks — 拒用一次性筷子
 - family disposable income — 家庭可支配收入
 - dispose of the leftover — 把剩饭处理掉
@@ -2025,7 +2025,7 @@
 - his earthy humor — 他率直的幽默
 - the earthy smell after rain — 雨后泥土的气息
 
-## List14
+## List 14
 - wait for the tide to ebb — 等到退潮
 - restore his ebbing popularity — 挽回他日渐衰落的名气
 - host an ebullient party for friends — 办一次兴致高昂的朋友聚会
@@ -2066,7 +2066,7 @@
 - Years elapse quickly. — 时光飞逝
 - an elastic explanation of the rules — 对规则的灵活解释
 - elated upon the arrival of her new baby girl — 为新生的女儿高兴
-- an eleemosynary foundation funded by Bill Gates  — 比尔盖茨建立的慈善基金会
+- an eleemosynary foundation funded by Bill Gates — 比尔·盖茨资助的慈善基金会
 - a moving elegy played at the funeral — 葬礼上演奏的悲伤的挽歌
 - elevate his social position — 提高社会地位
 - an elevated dream — 崇高的梦想
@@ -2096,7 +2096,7 @@
 - remove a nail embedded in the tire — 把扎进车胎上的钉子拔掉
 - an iPhone case embellished with Swarovski crystals — 镶有施华洛世奇水晶的苹果手机壳
 - embellish the story with invented dialogue and extra details — 杜撰对话和细节来渲染故事
-- an employee charged with embezzling  — 因贪污被起诉的员工
+- an employee charged with embezzling — 因贪污被起诉的员工
 - embitter his father — 惹他父亲生气
 - a national emblem — 一个国家的象征
 - a competitive team embodying team spirit — 一个体现了团队精神竞争力强的团队
@@ -2112,7 +2112,7 @@
 - emerge as early winners in healthcare marketplace — 作为医疗卫生市场中的赢家
 - emerge from despair — 从绝望中走出来
 - the emergence of cancer cells — 癌细胞的出现
-- emergenf social problems — 初显端倪的社会问题
+- emergent social problems — 初显端倪的社会问题
 - the emergency safety rules — 紧急情况的安全准则
 - emergency exit — 紧急出口
 - an eminent scientist — 著名的科学家
@@ -2171,7 +2171,7 @@
 - the enigma of ancient Egypt — 古埃及之谜
 - enigmatic cave paintings — 神秘的洞穴壁画
 
-## List15
+## List 15
 - enlarge the square — 扩大广场
 - enlarge on the statement he just gave — 补充了刚刚的陈述
 - enlighten the country people — 启迪那些农村的人们
@@ -2242,7 +2242,7 @@
 - ensure equitable treatment of students — 保证对学生一视同仁
 - market value of the company's equity — 公司净资产的市值
 - protect social equity — 捍卫社会公平
-- an equivalent SAT score to your ACT score - 和你的 ACT 考试对等的 SAT 成绩
+- an equivalent SAT score to your ACT score — 和你的 ACT 考试对等的 SAT 成绩
 - stop equivocating and give a straight answer — 请不要含糊其辞直接回答问题
 - his equivocal response — 含糊其辞的回答
 - look to eradicate errors — 致力于杜绝错误
@@ -2425,8 +2425,8 @@
 - an exultant cheer of success — 欣喜若狂地呼喊成功
 - a T-shirt of cotton — 棉的T恤衫
 - the fabric of a society — 社会的架构
-- a labricated excuse — 编造的借口
-- a abulous actress — 出色的女演员
+- a fabricated excuse — 编造的借口
+- a fabulous actress — 出色的女演员
 - a small facet of the whole picture — 全貌的一个小的方面
 - a facetious joke — 不分场合的玩笑
 - a man of facile intellect — 一个想法轻率的人
@@ -2453,22 +2453,22 @@
 - falsify the accounts of his company — 给公司做假账
 - the faltering economy — 摇摇欲坠的经济
 - falter on the first step — 对是否迈出第一步动摇不定
-- falter in public speaking  — 公开讲话的时候
+- falter in public speaking — 公开演讲时支支吾吾
 - a star shooting to fame overnight — 一夜成名的明星
 - familiarize herself with names of new classmates — 新同学的名字
 - children dying in famine — 饥荒中生命垂危的孩子
 - a famished lion — 饥饿的狮子
 - a supermarket opening with a fanfare — 盛大开张的超市
-- janatics of religion  — 宗教狂热分子
+- fanatics of religion — 宗教狂热分子
 - Be a fanatical follower of your dreams! — 狂热地追随你的梦想吧！
 - her wild fancy — 她狂野的幻想
-- fancy about her future - 幻想未来
-- her lancy for pretty things  — 她喜欢漂亮的东西
+- fancy about her future — 幻想未来
+- her fancy for pretty things — 她喜欢漂亮的东西
 - fancy architectures — 奇特的建筑
 - a fanciful idea of making money — 幻想赚钱
 - fanciful design — 花哨的设计
 - Life is all a stupid farce. — 生活就是一场愚蠢的闹剧。
-- farcical Taiwan politics - 闹剧一样的台湾政坛
+- farcical Taiwan politics — 闹剧一样的台湾政坛
 - a decision with a far-reaching influence — 影响深远的决定
 - fascinated by her beauty — 被她的美貌迷住
 - the trend of fashion — 时尚趋势
@@ -2548,7 +2548,7 @@
 - live in the fissure between two worlds — 在两个世界的夹缝中生存
 - fitful pain in the stomach — 阵阵的胃痛
 - flabbergasted by his sudden kissing my cheek — 被他突然的一吻吓了一跳
-- his fabby bottom — 松弛的臀部
+- his flabby bottom — 松弛的臀部
 - flabby American economy — 美国经济疲软
 - his flaccid muscles — 松弛的肌肉
 - restart her flagging career — 重启她衰退的事业
@@ -2634,7 +2634,7 @@
 
 ## List 18
 - forestall an energy crisis — 预先防止一场能源危机
-- foreteli the result of the war — 预言战争的结果
+- foretell the result of the war — 预言战争的结果
 - forfeit his driver license — 失去驾照
 - forfeit his share of the prize money — 放弃他的那份奖金
 - forge closer economic ties — 缔造更密切的经济合作关系
@@ -2744,7 +2744,7 @@
 - the Spring Festival Gala — 春节联欢晚会
 - a galaxy of film stars — 众星云集
 - the gallant heroes — 勇敢的英雄们
-- gallant gentlemen — 殷切的绅士们
+- gallant gentlemen — 英勇而有风度的绅士们
 - have the gall to leave her — 竟然无耻地抛弃她
 - workers galled by the disrespect of supervisors — 被监工的不尊重激怒的工人
 - with the galloping technology — 随着技术的快速发展
@@ -2774,7 +2774,6 @@
 - throughout the chain of stores — 整个连锁店的销售趋势
 - a generic art form — 艺术形式
 - use of generic medicines — 使用通用药品
-- use of generic medicines — 使用通用药品
 - a generous gift — 慷慨的礼物
 - a genetic disease — 遗传病
 - a genial host — 友善的主人
@@ -2795,14 +2794,14 @@
 - a ghastly shopping experience — 糟透了的购物经历
 
 ## List 19
-- make giant progress - 取得巨大的进步
+- make giant progress — 取得巨大的进步
 - a giant of Chinese literature — 一位中国的文学巨匠
 - talk gibberish in sleep — 含糊不清的梦话
 - talk gibberish in sleep — 说着梦话
 - a cheap gibe about his loss of hair — 低俗地嘲弄他的脱发
 - feel giddy after eating too much — 吃得太多后感到头晕
 - a few tears with giddy laughter — 笑到流泪（笑得晕乎乎的）
-- a man of gigantic — 一个身材高大的人
+- a man of gigantic build — 一个身材高大的人
 - a marketing gimmick — 市场营销的噱头
 - handle china — 处理瓷器
 - the gist of her argument — 她论点的主旨
@@ -2887,7 +2886,7 @@
 - overlook the gravity of the crime — 忽视了罪行的严重性
 - sheep grazing nearby — 在附近吃草的羊儿
 - graze my leg in the accident — 在事故中擦伤腿部
-- blinded by his greet — 利欲熏心
+- blinded by his greed — 利欲熏心
 - the greedy boss — 贪婪的老板
 - reduce greenhouse gas emission — 减少温室气体排放
 - greet her guests — 向客人问候
@@ -2931,7 +2930,7 @@
 - feel guilty of cheating — 为自己的不诚实感到自责
 - a man found guilty of murder — 发现犯有谋杀罪的男子
 - the gulf between rural and urban life — 城乡生活之间的巨大差距
-- fool the gullible public galibl — 欺骗轻信的公众
+- fool the gullible public — 欺骗轻信的公众
 - the rules of business gumption — 商业头脑的法则
 - the gumption to speak up for yourself — 有勇气为自己说话
 - her fashion guru — 她的时尚专家
@@ -3319,7 +3318,7 @@
 - armed incursion into the village — 武装侵袭村庄
 - be indebted to his teacher — 感激他的老师
 - indecent photographs — 下流的照片
-- an indecipherable signature  — 难以辨认的签名
+- an indecipherable signature — 难以辨认的签名
 - after weeks of indecision — 经过数周的犹豫
 - an indecisive team leader — 犹豫不决的团队领导
 - morally indefensible — 道德上无可辩解
@@ -3546,11 +3545,11 @@
 - as the links interlock — 环环相扣
 - interlocutors in the conference — 会议上的对话者
 - interlopers into her life — 闯入她的生活的人
-- an interlude between programs on BBC TV  — BBC两档电视节目之间的间歇
+- an interlude between programs on BBC TV — BBC两档电视节目之间的间歇
 - an interminable speech — 冗长的演讲
 - drinks served during the intermission — 中场休息期间提供的饮品
 - intermittent rains — 稀稀拉拉的雨
-- interpolate points between your start and end position  — 在起点和终点之间插入若干的点
+- interpolate points between your start and end position — 在起点和终点之间插入若干点
 - interpose a barrier to the progress of the American people westward — 阻碍美国西进运动
 - interpret the meaning of dreams — 解释梦的意义
 - the pianist's interpretation of the movement — 那位钢琴家对此乐章的演奏
@@ -3638,7 +3637,7 @@
 - sign an irrevocable contract — 签订不可毁约的合同
 - irrigate the farmland — 灌溉农场
 - an irritable teacher — 易怒的老师
-- inritate his strict father — 激怒了严厉的父亲
+- irritate his strict father — 激怒了严厉的父亲
 - irritate sensitive skin — 刺激敏感皮肤
 - irritating need for attention — 令人讨厌的求关注
 - isolated from friends — 脱离朋友
@@ -3744,7 +3743,7 @@
 - the lateral branches of a tree — 向两侧伸展的树枝
 - have some latitude in organizing their work — 有安排工作的自由
 - laud him for his courage — 为他的勇气称赞他
-- a loudable aim - 值得称赞的目标
+- a laudable aim — 值得称赞的目标
 - a laudatory biography — 褒扬的传记
 - audience bursting into laughter — 突然观众大笑
 - launch a rocket — 发射火箭
@@ -3800,7 +3799,7 @@
 - liken life to a journey — 把人生比作旅行
 - tell the girls to do likewise — 告诉女孩子们照样做
 - limber up to do physical exercises — 为体育锻炼做热身运动
-- walk with a slight limp  — 走路有点跛
+- walk with a slight limp — 走路有点跛
 - limpid blue eyes — 清澈的蓝眼睛
 - a respectable family of ancient lineage — 一个受人尊敬、历史显赫的家族
 - linear thinking — 线性（单一）思维
@@ -3816,7 +3815,6 @@
 - literary achievement awards — 文学成就奖
 - a literate educated lady — 一位识文断字，受过良好教育的女士
 - musically literate — 识谱
-- classic literature — 古典文学
 - classic literature — 古典文学
 - lithe bodies of gymnasts — 体操运动员柔韧的身体
 - litigants of criminal cases — 刑事案件的诉讼当事人
@@ -4082,8 +4080,8 @@
 - a mirage in the desert — 沙漠中的海市蜃楼
 - His idea of love was a mirage. — 他对于爱的想法是幻景。
 - government sinking into the economic mire — 深陷经济困境的政府
-- produce much mirth among the audience  — 给观众带来欢乐
-- a misanthrope of the "cursed nature" of men  — 厌恶人类受诅咒的本性的人
+- produce much mirth among the audience — 给观众带来欢乐
+- a misanthrope of the "cursed nature" of men — 厌恶人类所谓“受诅咒本性”的人
 - a misanthropic writer — 厌世的作家
 - clear up this misapprehension — 清除误会
 - misappropriate company funds — 挪用公司资金
@@ -4477,7 +4475,7 @@
 - overthrow a cruel ruler — 推翻残暴的统治者
 - required to work overtime — 被要求加班
 - overturn a stone — 使石头翻转过来
-- an overview of the effects of new mass media  — 新媒体的影响的综述
+- an overview of the effects of new mass media — 新媒体影响综述
 - her overweening pride — 傲慢自负
 - overwhelmed by an unexpected favor — 受宠若惊
 - an overwhelming excitement — 极其强烈的兴奋感
@@ -4638,7 +4636,7 @@
 - perpendicular angle — 垂直角度
 - perpetrate a murder case — 犯下血案
 - perpetual debates on economic policies — 关于经济政策的无休止的争论
-- perpetuate his achievement - 流芳百世
+- perpetuate his achievement — 流芳百世
 - a teacher perplexed by the problems of education — 对教育问题感到困惑的老师
 - perplexing social issues — 令人费解的社会问题
 - a perquisite of her employment — 工作补贴
@@ -4766,7 +4764,7 @@
 - a pompous speech of politicians — 政客自命不凡的演说
 - ponder on the meaning of love — 思索爱的真谛
 - his ponderous writing style — 冗长的文风
-- Experts pontificate about the supposed problem.  — 就有关问题专家说法。
+- Experts pontificate about the supposed problem. — 专家们就所谓的问题发表高论。
 - the spirit of Chinese populace — 中国老百姓的神韵
 - popularize a new technique — 普及新技术
 - areas populated by native American — 印地安人聚居地
@@ -4813,7 +4811,7 @@
 - precious gifts — 珍贵礼物
 - a food crisis precipitated by flooding — 洪灾引发的饥荒
 - collection precipitatio from their rooftops — 从屋顶采集降水
-- avoid a precipitous decision to go to war - 避免仓促应战
+- avoid a precipitous decision to go to war — 避免仓促应战
 - the stock market's precipitous drop — 股市陡然直下
 - preclude youths from drugs — 杜绝未成年人吸毒
 - precocious child from housework — 常做家务很早懂事的孩子
@@ -4844,7 +4842,7 @@
 - the prelude of a Green revolution — 一场绿色革命前奏
 - a premature love — 早恋
 - his premature optimism — 过早的乐观
-- a premealtated trap — 精心策划的陷阱
+- a premeditated trap — 精心策划的陷阱
 - the world premiere of Avatar — 《阿凡达》的全球首映
 - divide household premise — 分割家庭房产
 - the premise of fair play — 公平竞争的前提
@@ -5079,7 +5077,7 @@
 - Lady Gaga's quirky fashion — Gaga小姐的奇装异服
 - see her lips quivering with anger — 看到她气得嘴唇发抖
 - a quixotic adventure — 不切实际的冒险
-- a quizzical wink — 串通好的使眼色
+- a quizzical wink — 疑惑地眨眼
 - the quorum of conference — 会议的最低人数
 - quota of duty-free import — 免税的进口限额
 - quotidian quarrels of the couple — 那对夫妇家常便饭的（日常）争吵
@@ -5096,7 +5094,7 @@
 - rage about unfair treatment — 怒斥不公正的待遇
 - in the raging storm — 狂暴的暴风雨中
 - raid the Pearl Harbor — 突袭珍珠港
-- rall against bureaucracy — 痛斥官僚作风
+- rail against bureaucracy — 痛斥官僚作风
 - raise salary — 加薪
 - raise heated objections — 引起了强烈的反对
 - raise a curious question — 提出了个有趣的问题
@@ -5142,7 +5140,7 @@
 - a pack of ravenous wolves — 贪婪的狼群
 - raze the villages — 把村庄夷平
 
-# List 34
+## List 34
 - a reactionary political leader — 保守的政治领袖
 - reactive chemicals — 活性的化学品
 - a reactive team member — 被动的队员
@@ -5168,7 +5166,6 @@
 - recalcitrant diseases — 顽症（难以治愈的疾病）
 - recall good old days — 回忆往昔
 - recall flawed laptop batteries — 召回问题笔记本电池
-- recant his faith — 放弃信仰
 - recant his faith — 放弃信仰
 - recapitulate the main points — 概述要点
 - her enthusiasm recedes — 热情消退
@@ -5276,7 +5273,7 @@
 - regulate the market — 管理市场
 - regurgitate the teacher's lectures — 照搬老师的上课内容
 - rehabilitate the prisoner to a new life — 让囚犯重新做人
-- rehash an oldjoke — 翻版老笑话
+- rehash an old joke — 翻版老笑话
 - rehearse before the show — 演出之前排练
 - Darkness reigns the sky — 黑暗笼罩了天空
 - Bill Gates reigns in Forbes rich list — 比尔盖茨统治了福布斯财富榜
@@ -5300,7 +5297,7 @@
 - Father finally relented to age. — 父亲最终还是服老了。
 - relentless effort — 不懈的努力
 - political relevance of Lu Xun's novels — 鲁迅的小说的政治意义
-- reliant to his parents — 依赖父母
+- reliant on his parents — 依赖父母
 
 ## List 35
 - ancient Egyptian relics — 古埃及的遗迹
@@ -5348,7 +5345,7 @@
 - accept war reparation — 接受战争赔款
 - repeal the unfair law — 废止不公平的法律
 - repelling force between two magnets — 磁铁间的斥力
-- repelfent smell of rotten eggs — 臭鸡蛋令人作呕的气味
+- repellent smell of rotten eggs — 臭鸡蛋令人作呕的气味
 - repent of our sins — 忏罪
 - a repentant criminal — 悔改的罪犯
 - cause serious repercussions — 导致严重后果
@@ -5382,7 +5379,7 @@
 - a species' ability to reproduce — 物种的繁殖能力
 - reprove the servant in case of fault — 责备奴仆的过错
 - the eggs of reptiles — 爬行动物的卵
-- ground. repudiate physical punishment — 拒绝体罚
+- repudiate physical punishment — 拒绝体罚
 - a repugnant fly over honey — 蜂蜜上讨厌的苍蝇
 - repulsed by bloody scenes — 厌恶血腥的场面
 - repulsion between boys and girls — 男女生之间的排斥
@@ -5503,12 +5500,12 @@
 - ridicule the foolish idea — 嘲笑愚蠢的想法
 - a ridiculous joke — 荒谬的笑话
 - Killing are rife in Iraq. — 在伊拉克杀戮横行。
-- the polical rift between the US and Russia — 美苏之间的政治分歧
+- the political rift between the US and Russia — 美苏之间的政治分歧
 - with righteous reasons — 正当的理由
-- rigia rules — 严格的规定
+- rigid rules — 严格的规定
 - the rigors of statistical analysis — 数据分析的严格
-- rgorous millitary training — 严格的军训
-- riled by Japans's "purchse" of islands — 对日本“购岛”出离愤怒
+- rigorous military training — 严格的军训
+- riled by Japan's "purchase" of islands — 对日本“购岛”出离愤怒
 - a wild riot against the government — 狂乱的反政府暴动
 - a riot of uncontrolled emotions — 一团无法抑制的情感
 - an evening spent in riotous gambling — 一夜赌
@@ -5573,7 +5570,7 @@
 - salvage the sinking ship — 营救正在沉没的船只
 - try to salvage the situation — 试图挽回局面
 - a salvo of criticism — 一阵突发的批评
-- a peaceful sanatorium for suffers — 苦难者的休养之地
+- a peaceful sanatorium for sufferers — 苦难者的休养之地
 - wearing a sanctimonious mask — 戴着伪善的面具
 - without sanction of the government — 没有政府的批准
 - international sanction against Syria — 对叙利亚的国际制裁
@@ -5658,8 +5655,8 @@
 - a scrupulous lawyer — 恪守原则的律师
 - scrutinize his homework — 检查作业
 - put his words under scrutiny — 仔细琢磨他的话
-- a violent scuffle - 暴力冲突
-- scurrilous lies - 诽谤
+- a violent scuffle — 暴力冲突
+- scurrilous lies — 诽谤
 - scurry away from danger — 逃离危险
 - scuttle to the mall for last-minute gifts — 奔向商场争抢最后的赠品
 - scuttle the plan — 破坏计划
@@ -5998,7 +5995,7 @@
 - sponsor the poor student — 资助贫困生
 - sponsor the medical reform — 发起医疗改革
 - students who apply sponsorship — 申请资助的学生
-- a funny spoofon Obama — 调侃奥巴马
+- a funny spoof on Obama — 调侃奥巴马
 - gaming — 时不时的影响游戏体验的掉线
 - spotlight his new album — 为他的新唱片造势
 - immigrant visa for a spouse — 配偶的移民签证
@@ -6062,7 +6059,7 @@
 - protect his right by statute — 依法保护他的权利
 - a staunch support — 坚定的支持
 - staunch the brain drain — 阻止人才外流
-- staunch the blood - 止血
+- staunch the blood — 止血
 - his steadfast wife — 坚贞的妻子
 - teens that meet in stealth — 秘密会面的小伙伴
 - make a stealthy contact — 偷偷的接触
@@ -6247,7 +6244,7 @@
 - supersede the old machines — 替换旧机器
 - break down superstitions of the villagers — 破除村民的迷信
 - a superstitious fear of the ghost — 由于迷信而对鬼神的恐惧
-- supervise the exam - 监考
+- supervise the exam — 监考
 - safety supervisor — 安全监察员
 - supplant the earlier style — 取代了之前的风格
 - the girl's supple body — 女孩儿柔软的身体
@@ -6380,7 +6377,7 @@
 - the beginning of teen period — 少年时期的开始
 - with telling effect — 有显著效果
 - angry at his temerity — 对他的鲁莽感到气愤
-- temperher anger — 消消气
+- temper her anger — 消消气
 - a man with an artistic temperament — 有艺术气质的男子
 - temperamental weather — 变幻无常的天气
 - practice temperance in diet — 节制饮食
@@ -6388,11 +6385,11 @@
 
 ## List 42
 - a raging tempest — 狂暴的暴风雨
-- the most tempestuous period in history  — 历史上最为动乱的时期
+- the most tempestuous period in history — 历史上最为动乱的时期
 - the busy tempo of city life — 忙碌的城市生活节奏
 - the spiritual and temporal leader — 精神领袖和现实的领袖
 - temporal and spatial boundaries — 时间和空间的界限
-- workers in temporary employment - 临时工
+- workers in temporary employment — 临时工
 - his temporizing habit — 拖延敷衍的习惯
 - tempt teenagers into trying drugs — 引诱少年吸毒
 - the temptation of easy profits — 容易获利的诱惑
@@ -6556,7 +6553,7 @@
 - cry in a tremulous voice — 泣不成声（声音颤抖着哭泣）
 - a trenchant criticism — 一针见血的批评
 - trendy clothes — 时髦服装
-- a world trend-setter in fashion - 全球时尚的领导者
+- a world trend-setter in fashion — 全球时尚的领导者
 - No trespassing area — 禁区（严禁擅自进入的地区）
 - trespass on others' life — 打扰他人的生活
 - wait for the results in trepidation — 惶恐不安地等待结果
@@ -6605,10 +6602,9 @@
 - the tumult of battle — 战斗的混乱
 - the tumultuous years of the Civil War — 内战的动乱年月
 - times of political turbulence — 政治动荡的年代
-- a turgid article on mathematics — 有关数学的艰涩的文章
+- a turgid article on mathematics — 有关数学的艰涩文章
 - a country in turmoil — 动乱中的国家
 - a criminal of moral turpitude — 道德败坏的罪犯
-- a turgid article on mathematics - 有关数学的艰涩的文章
 - tussle with Japanese soldiers — 与日本兵扭打起来
 - a child in tutelage — 受监护的孩子
 - farmers walking home at twilight — 黄昏时走回家的农民
@@ -6773,7 +6769,7 @@
 - be vaccinated against flu — 注射疫苗以预防流感
 - develop a SARS vaccine — 培养非典疫苗
 - vacillate between hope and fear — 在希望和恐惧之间犹豫不决
-- a vacuous essay - 空洞的作文
+- a vacuous essay — 空洞的作文
 - a vacuum of talent for the companies — 公司的人才空缺
 - a vagabond travelling across America — 走遍美国的漂泊者
 - the vagaries of women's fashions — 女人时装的变幻莫测
@@ -6783,7 +6779,7 @@
 - be proud without being vain — 骄傲而不自负
 - a vainglorious display of wealth — 自负的炫富
 - a valid objection — 有根据的反对
-- validale a guess — 证实一个猜测
+- validate a guess — 证实一个猜测
 - a knight honored for valor — 因英勇而被授予荣誉的骑士
 - vandalize a historic building — 恣意毁坏古迹
 - in the vanguard of scientific progress — 在科学进步前沿
@@ -6813,9 +6809,9 @@
 - a venal police officer — 贪财受贿的警官
 - the victim of a racial vendetta — 种族仇恨的受害者
 - fooled by her veneer of beauty — 被她美丽的外表迷惑
-- a vernerable Nobel Prize winning professor — 令人敬仰的获得诺贝尔奖的教授
+- a venerable Nobel Prize-winning professor — 一位令人敬仰的诺贝尔奖得主
 - venerate the name of Mozart — 仰慕莫扎特的大名
-- swear vengenance for the loss of her daughter — 发誓为失去女儿而报复
+- swear vengeance for the loss of her daughter — 发誓为失去女儿而报复
 - a vengeful enemy — 伺机报复的敌人
 - sense the venom in his voice — 感到他声音中暗含的恶意
 - her venomous heart — 恶毒的心肠
@@ -6849,7 +6845,7 @@
 - the vibrant streets of a big city — 充满活力的大城市街道
 - voice vibrating with passion — 激动得声音发颤
 - experience vicarious excitements when reading about mountain climbing — 阅读登山的报道而感到共鸣的兴奋
-- two restaurants in close vicinity - 两家比邻的餐厅
+- two restaurants in close vicinity — 两家比邻的餐厅
 - vicious teen fight — 恶性的青少年斗殴事件
 - a life of vicissitudes — 饱经沧桑的一生
 - victims of war — 战争受害者
@@ -6867,7 +6863,7 @@
 - a villainous band of thieves — 一群恶棍一样的小偷
 - vindicate the political prisoners — 为政治犯平反
 - act in vindictive ways against former romantic interests — 对旧爱的报复行为
-- violate the law - 违反法律
+- violate the law — 违反法律
 - treatment for a viral flu — 病毒性感冒的治疗
 - virile sports such as mountaineering — 登山等男性运动
 - a plan with the virtue of being practical — 有着实用性优点的计划
@@ -6885,7 +6881,7 @@
 - a discussion of a vital style — 充满活力的讨论
 - the vitality of big cities — 大都市的活力
 - vitiate his confidence — 打击他的信心
-- virtriolic criticism of "American Idol" contestants — 对美国偶像的选手刻薄的批评
+- vitriolic criticism of "American Idol" contestants — 对《美国偶像》选手的刻薄批评
 - vituperative political languages — 责骂式的政治论调
 - a vivacious young girl — 活泼的女孩儿
 - a vivid imagination — 生动的想象
@@ -6898,13 +6894,13 @@
 - fill the void of loneliness — 填补内心的空虚寂寞
 - a contract made void — 认定无效的合同
 - the volatile situation of the war-torn country — 那个被战争瓦解的国家的不稳的局势
-- her volatile temper - 她的情绪化
+- her volatile temper — 她反复无常的脾气
 - a choice of his own volition — 自愿的选择
 - a voluble debater — 振振有词的辩手
 - collect a great volume of books — 汗牛充栋（大量的藏书）
 - voluminous books — 卷帙浩繁
-- explore the voluputous pleasure of chocolate — 感受巧克力带来的感官享受
-- a voracious eater - 贪吃的人
+- explore the voluptuous pleasure of chocolate — 感受巧克力带来的感官享受
+- a voracious eater — 贪吃的人
 - drawn into the vortex of office politics — 卷入办公室斗争的旋涡中
 - a vulgar display of wealth — 庸俗的炫耀财富
 - the patient's vulnerable nerve — 病人脆弱的神经
