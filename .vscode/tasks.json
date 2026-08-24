@@ -1,0 +1,35 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Generate GRE videos Lists 2-45",
+			"type": "shell",
+			"command": ".venv/bin/python",
+			"args": [
+				"python/generate_collocation_video.py",
+				"2",
+				"45",
+				"--output-directory",
+				"/Users/xuqiangfang/Videos/gre"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Resume GRE videos Lists 8-45",
+			"type": "shell",
+			"command": ".venv/bin/python",
+			"args": [
+				"python/generate_collocation_video.py",
+				"8",
+				"45",
+				"--output-directory",
+				"/Users/xuqiangfang/Videos/gre"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
