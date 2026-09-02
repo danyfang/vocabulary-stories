@@ -1,6990 +1,6990 @@
-Story 1
+Story 0001
 
 layabout — 游手好闲的人；懒汉burgeon — 迅速发展；蓬勃兴起banish — 驱逐；消除bulge — 凸起；鼓胀gruesome — 可怕的；令人毛骨悚然的dismissal — 解雇；不予考虑limbo — 悬而未决的状态corny — 老套的；俗气的shill — 托儿；受雇替人宣传caveat — 限制性条件；注意事项
 
 The Game That Changed Leo
 Everyone in town thought Leo was a layabout, but he had quietly spent months designing a board game in his garage. He hired a local actor to shill for it at a convention, wearing a corny wizard costume with a suspicious bulge under one sleeve. When the actor pulled out a gruesome rubber hand as part of the demonstration, a security guard threatened them with immediate dismissal from the event. For ten tense minutes, their future hung in limbo. Then a crowd gathered, laughter replaced suspicion, and orders began to burgeon. The success came with one caveat: Leo had to drop the gruesome prop from future demonstrations. Even so, the experience helped him banish his reputation for being lazy once and for all.
 
-Story 2
+Story 0002
 
 truculent — 好斗的；咄咄逼人的vitriolic — 尖酸刻薄的；恶毒的complaisant — 殷勤顺从的；讨好迁就的obliging — 乐于助人的；热情体贴的disposition — 性情；性格flippant — 轻率无礼的；满不在乎的tawdry — 俗丽而廉价的；华而不实的vicious — 恶毒的；凶残的judicious — 明智审慎的；判断得当的circumspect — 谨慎周到的；考虑周全的
 
 Backstage Reckoning
 Nora's naturally obliging disposition made her respected throughout the theater company, but it also left her overly complaisant toward their truculent director. Infamous throughout the industry for his vitriolic outbursts, he routinely humiliated actors and dismissed every safety complaint with a flippant joke. The breaking point came during dress rehearsals, when he publicly condemned the production's centerpiece costumes as cheap and tawdry. The costume designer snapped, launching a vicious verbal counterattack against the director's failing leadership. The confrontation quickly threatened to derail the entire production. Recognizing the crisis, the executive producer adopted a judicious course of action. Rather than taking sides, she conducted a quiet, highly circumspect inquiry into the backstage conflict, interviewing cast and crew members individually. What emerged from those conversations was a toxic, systemic pattern of intimidation and poor judgment. Within weeks, the tyrannical director was dismissed. The designer, convinced that management genuinely wanted to improve the workplace, agreed to stay, and the company began rebuilding trust before opening night.
 
-Story 3
+Story 0003
 
 suave — 温文尔雅的；圆滑老练的tirade — 激烈的长篇大论；怒斥yoke — 束缚；枷锁wry — 讽刺的；啼笑皆非的lopsided — 严重失衡的；偏向一边的conundrum — 棘手难题；困境sclerotic — 僵化的；缺乏活力的hidebound — 墨守成规的；思想保守的savvy — 精明的；有见识的contraceptive — 避孕的；避孕用品
 
 Maya's Case for Change
 Maya, a savvy public health officer, faced a major professional conundrum: the town’s sclerotic medical system remained heavily trapped under the yoke of a deeply hidebound administrative committee. The annual budget was laughably lopsided, funneling millions into bureaucratic overhead while leaving almost zero funding for preventive community care. The turning point came when a suave external consultant arrived to propose a modern, accessible contraceptive education program. Predictably, the committee chair completely lost his temper, launching into a furious, retrogressive tirade about declining moral standards and reckless spending. Maya simply offered him a wry, knowing smile, clicked to her next slide, and calmly presented local data so undeniable that it won the rest of the committee over on the spot.
 
-Story 4
+Story 0004
 
 perpetrator — 犯罪者；行凶者renegade — 叛逆的；出轨的（亦作名词指叛徒）indecency — 猥亵行为；有伤风化blanch — 脸色发白；退缩scrotum — 阴囊buoyant — 欢欣鼓舞的；轻快的potty-mouthed — 满口脏话的；粗俗连篇的environ — 环绕；包围 (literary)fervent — 狂热的；热烈的profane — 亵渎的；不雅的
 
 Trouble at the Summer Festival
 Dense, wooded hills environ the small mountain town, which is normally wrapped in absolute silence until a renegade comedy troupe arrived to disrupt the annual summer festival. Their notoriously potty-mouthed ringleader, riding high and incredibly buoyant after a completely sold-out performance, attempted an incredibly profane physical stunt in the middle of the crowded main square. The performance took a disastrous turn when a loose piece of stage machinery struck him directly and painfully in the scrotum, causing him to instantly blanch from shock and collapse in agony before the horrified crowd. A fervent fan in the front row loudly argued that this painful public humiliation was surely punishment enough for the shock-comic. However, local authorities disagreed and still officially booked him as the sole perpetrator of a criminal act of public indecency.
 
-Story 5
+Story 0005
 
 raunchy — 粗俗露骨的；低俗的drug-fueled punk-rock — 毒品助兴的朋克摇滚extravaganza — 盛大的娱乐表演；狂欢盛会freewheeling — 自由随性的；无拘无束的cred — 信誉；街头威信 (街头/圈子里的认可)satirize — 讽刺；挖苦mania — 狂热；疯狂状态nab — 抓获；逮住skewer — 严厉批评；一针见血地讽刺sheer — 纯粹的；十足的
 
 Riot on the Rooftop
 What started as a freewheeling underground arts festival quickly exploded into a chaotic, drug-fueled punk-rock extravaganza that pushed the entire venue into a state of sheer mania. Seizing the chaotic energy, a notoriously raunchy comedian took the microphone to ruthlessly satirize local politicians and brilliantly skewer the town’s hypocritical obsession with middle-class respectability. While her dangerously sharp, offensive routine earned her instant counter-culture cred with the roaring crowd, it didn't sit well with the venue owners. The moment she scrambled up a fire escape onto the literal roof to finish her set, a swarm of private security guards rushed the stage, desperate to nab her before she could cause a full-blown riot.
 
-Story 6
+Story 0006
 
 spurts — 间歇性迸发；一阵阵insurrectionist — 起义者；暴动者subversive — 颠覆性的；颠覆分子incendiary — 煽动性的；引燃的missionary — 传教士；传教的wacky — 古怪有趣的；荒诞的tinker — 摆弄；瞎修捣鼓scramble — 仓促行动；争抢churn — 剧烈搅动；（大量）生产excursion — 短途旅行；远足
 
 The Press Beneath the Chapel
 During what was supposed to be a quiet missionary excursion to a remote island parish, Daniel discovered a highly illegal printing press hidden away in the catacombs beneath the chapel. A wacky local mechanic had begun to obsessively tinker with the rusted gears, modifying the antique machine to run in erratic, thunderous spurts. The press was being used to rapidly churn out hundreds of subversive political pamphlets. One particularly incendiary manifesto openly praised a notorious, long-dead insurrectionist, which immediately prompted panicked colonial officials to scramble to the island to locate and seize the operation. As wild rumors threatened to violently churn through the village council, Daniel stepped in, using his diplomatic presence to persuade both armed sides to settle the ideological dispute peacefully.
 
-Story 7
+Story 0007
 
 provocateur — 煽风点火者；挑衅者dangle — 诱惑性地摆出；悬挂prodded — 督促；刺激transpose — 调换位置；移位partisan — 党派的；偏袒的metabolism — 新陈代谢checkered — 坎坷的；起伏不定的scalp — 倒卖（票务等）；剥头皮slack — 懈怠的；松弛的boutique — 小而精的；精品店的
 
 The Operative's Last Move
 Rex had survived a long, checkered career as a shadowy political provocateur, though his notoriously slack approach to professional loyalty had burned almost every bridge across the party line. However, the moment a highly exclusive, boutique consulting firm strategically dangled a massive, multi-million dollar contract right before his eyes, he was immediately prodded into high gear. His specific assignment was to covertly transpose the damning, biased findings from a highly partisan intelligence report into a neutral-looking corporate brief. The intense stress and endless, high-stakes hours played complete havoc with his metabolism, reducing him to a jittery wreck who barely slept for a week. In a desperate bid to maximize his payout, Rex arrogantly stole the credit for the entire project from a brilliant junior colleague and even tried to illegally scalp a VIP ticket to the product launch, entirely unaware that the firm’s internal security team had been watching his every move from the very start.
 
-Story 8
+Story 0008
 
 smug — 自鸣得意的；沾沾自喜的microcosm — 缩影；微观世界bountiful — 丰富的；慷慨的globetrotting — 环游世界的；四处奔波的lament — 哀叹；惋惜awash — 充斥着；泛滥的newfangled — 华而不实的；过于新潮的weary — 疲惫的；厌倦的litany — 一长串（抱怨或陈述）；冗长的叙述sputtering — 断断续续的；噼啪作响的
 
 A Globetrotter's Lament
 The remote village market operated as a bountiful microcosm of the wider world, a vibrant trading post completely awash with chaotic color and thick sensory noise. Clara, a deeply weary, globetrotting investigative journalist, had already read a relentless litany of identical, romanticized descriptions from smug lifestyle travel bloggers. In fact, she was almost ready to publicly lament the absolute loss of genuine, uncommodified human discovery. Her cynical worldview was tested when her ancient, sputtering motorbike coughed its last breath of exhaust and died at the very edge of town, forcing her into an unplanned three-day stay. Seeking help, she encountered a young, energetic merchant eager to show off his array of newfangled digital gadgets sourced from six different continents. Yet, right behind his high-tech display, his grandmother sat peacefully cooking a traditional meal over an open wood fire. Witnessing this seamless blend of the modern and the ancient, Clara quietly opened her laptop and deleted her cynical, pre-written draft.
 
-Story 9
+Story 0009
 
 artless — 质朴的；天真的expurgate — 删剪（不当内容）；净化qualm — 疑虑；不安gratuity — 酬劳；小费/赏钱begrudge — 嫉妒；不情愿给delve — 钻研；深入挖掘replenish — 补充；恢复manifest — 显现；明显的capricious — 反复无常的；任性的requisite — 必需的；必不可少的
 
 The Uncut Sailor's Journal
 The artless young cabin boy felt a sharp, sudden qualm when a capricious publisher offered him a substantial financial gratuity to heavily expurgate a deceased sailor's private journal. Instead of accepting the bribe, he chose to delve deeply into its weathered, handwritten pages. As he read, the requisite historical truth gradually became manifest, beautifully restoring a fragment of the islanders' forgotten past. The raw journal helped to fully replenish a communal memory long thought lost to history—even though the furious publisher would forever begrudge the survival of every single uncensored line.
 
-Story 10
+Story 0010
 
 ameliorate — 改善；缓解roster — 值勤表；花名册stunt — 阻碍发育；抑制atrophy — 萎缩；退化maim — 使残废；重创unctuous — 虚情假意的；油滑的cynic — 愤世嫉俗者；怀疑论者benevolent — 仁慈的；慈善的subservient — 屈从的；卑躬屈膝的iniquity — 恶行；不公正
 
 The Clinic Beyond the Quarry
 A benevolent surgeon arrived at the remote quarry determined to ameliorate the brutal, exploitative labor system. After thoroughly reviewing the workers' grueling shift roster, she found schedules so punishing that a single slip of concentration could easily maim laborers or leave the injured bedridden long enough for their muscles to severely atrophy. An unctuous foreman dismissively laughed off her medical concerns, fully expecting her to fall in line and remain subservient to the company's corporate iniquity. She fiercely refused to back down. Knowing that generational poverty, dangerous workplaces, and sheer exhaustion would permanently stunt the physical and mental development of local children, she successfully pressed for safer schedules and humane conditions despite the company's fierce opposition.
 
-Story 11
+Story 0011
 
 largess — 慷慨的赠予；赏赐 (also spelled largesse)mercenary — 唯利是图的；雇佣兵criterion — 标准；准则mollify — 抚慰；平息repent — 悔悟；忏悔vestige — 残余；痕迹pariah — 被排斥的人；贱民aloof — 冷漠的；高傲的guise — 伪装；外表pragmatic — 务实的；讲求实效的
 
 The Mask at the Mountain Gate
 An aloof contract mercenary arrived at the high mountain gate under the humble guise of a traveling pilgrim. Hoping to mollify the suspicious border guards, he freely distributed heavy financial largess while speaking with a carefully rehearsed, soft humility. However, his performance did not fool everyone. A pragmatic local woman—socially cast aside as a bitter pariah by the villagers because of her sharp habit of questioning appearances—noticed a faint, red vestige of a royal wax seal still clinging to the underside of his traveling cloak. By her unwavering ethical criterion, true repentance and honesty mattered far more than a traveler's hidden aristocratic rank. When she publicly confronted him with the physical evidence, the exposed agent realized his mission was compromised; he could no longer maintain his elaborate deception and was finally compelled to repent of his dangerous lies before the garrison.
 
-Story 12
+Story 0012
 
 futility — 徒劳；无用technology — 技术；科技nullify — 使无效；废除carnage — 惨烈伤亡；大屠杀deluge — 暴雨；洪水；涌来canard — 谣言；假新闻defamatory — 诽谤性的；损害名誉的plaintiff — 原告；起诉人libel — 文字诽谤；中伤deprecate — 谴责；强烈反对
 
 The Broadcast Before the Flood
 As a devastating atmospheric deluge swept violently toward the town's aging radio tower, a determined legal plaintiff turned to vintage broadcast technology to make one final, desperate appeal. Over the crackling airwaves, she systematically exposed a defamatory political canard that had falsely accused her civilian rescue team of causing wartime carnage. The undeniable evidence spread quickly across the valley, revealing to the public the utter futility of the mayor's malicious libel. The mounting public outrage swiftly forced the town council to completely nullify his authoritarian emergency decree. In the aftermath of the broadcast, newspaper editors and civic leaders alike began to openly deprecate the dangerous, weaponized rumors that had nearly divided the community forever.
 
-Story 13
+Story 0013
 
 raiment — 华服；衣裳 (literary)rail — 怒斥；激烈抱怨corpulent — 肥胖的；臃肿的 (formal)wistful — 怅惘的；渴望的brigand — 土匪；强盗rift — 裂痕；峡谷raconteur — 善于讲故事的人sullen — 阴沉的；闷闷不乐的emissary — 特使；密使ruminate — 沉思；反复琢磨
 
 The Emissary's Borrowed Coat
 A wistful secret emissary slipped across the treacherous mountain rift disguised in a brigand's ragged, weathered raiment. Pausing to rest at a smoky roadside tavern, she listened to a corpulent raconteur who had taken center stage to loudly rail against the king’s crushing new taxes. The sullen, exhausted crowd muttered in dark agreement, and what had begun as idle grumbling quickly threatened to boil over into open rebellion. Rather than dismiss the peasants' complaints, the spy chose to deeply ruminate on the storyteller's words throughout the night. By dawn, she had devised a peaceful diplomatic proposal that addressed the crowd's genuine suffering—ultimately finding a way to reconcile crown and commons alike.
 
-Story 14
+Story 0014
 
 livid — 暴怒的；气得发青的taut — 紧绷的；紧张的martinet — 严格执行纪律的人yen — 渴望；热望bagatelle — 琐事；微不足道的小事decapitate — 斩首；斩断penchant — 嗜好；强烈倾向termagant — 泼妇；悍妇appall — 使震惊；使胆寒callow — 年轻幼稚的；不成熟的
 
 The Guillotine Rehearsal
 The callow young actor possessed an insatiable yen for attention and a dangerous penchant for backstage pranks. During a high-stakes rehearsal, he engineered a reckless stunt with a prop guillotine that genuinely seemed to decapitate the lead actor. The already taut stage manager was instantly livid, while the production’s notorious martinet of a director roared that such hazardous behavior was no mere bagatelle. Before the apparent catastrophe could completely appall the assembled cast and crew, an actress long branded as a fierce, uncompromising termagant stormed forward, fiercely berated the prankster, and calmly exposed the concealed mechanism behind the trick.
 
-Story 15
+Story 0015
 
 burgeon — 迅速发展；蓬勃生长ascertain — 查明；弄清disseminate — 传播；散布dormant — 休眠的；潜伏的potentate — 统治者；当权者internecine — 两败俱伤的；内讧的derive — 汲取；源自nepotism — 任人唯亲；裙带关系prerogative — 特权；独占权利dearth — 缺乏；饥荒
 
 Seeds Beneath the Palace
 As a severe dearth of wheat gripped the isolated kingdom, royal botanists worked tirelessly to ascertain why vast stores of dormant seed stubbornly refused to burgeon despite favorable conditions. Yet the kingdom's increasingly paranoid potentate sealed the deep grain vaults, declaring absolute control of the food supply to be his exclusive royal prerogative. Suspecting deep-seated corruption, the cornered scientists began to derive courage from one another. They actively plotted to secretly disseminate undeniable evidence of rampant nepotism, revealing to the public that what little grain existed was being distributed primarily to the ruler's immediate relatives and political allies. As public outrage spread, fierce tensions mounted throughout the realm, threatening to erupt into a bloody, internecine revolt. Faced with undeniable proof and growing unrest, the monarch finally relented, throwing open the granaries just before civil bloodshed could engulf the entire kingdom.
 
-Story 16
+Story 0016
 
 tyro — 新手；初学者obloquy — 唾骂；公开谴责sophistry — 诡辩；似是而非的论证factitious — 刻意的；虚假的encomium — 颂词；高度赞扬hyperbole — 夸张法；夸大其词prevarication — 闪烁其词；推诿搪塞munificent — 慷慨的；丰厚的charisma — 个人魅力；感召力vie — 竞争；争夺
 
 The Apprentice at the Orators' Fair
 At the grand public speaking tournament, a young tyro flatly refused to vie for the crown using cheap hyperbole, flawless sophistry, or dishonest prevarication. Her rivals, threatened by her honesty, targeted her plain speech with public obloquy and showered their own allies with factitious encomium. Ultimately, her quiet, authentic charisma completely outshone their theatrics, earning her a munificent patron's full university scholarship.
 
-Story 17
+Story 0017
 
 negligible — 微不足道的；可以忽略不计的quandary — 进退两难；左右为难的困境expedient — 权宜之计；应急的手段callous — 冷酷无情的；麻木不仁的blasé — 司空见惯的；厌倦了世俗的diversity — 多样性；多元化ennui — 倦怠；精神空虚comely — 标致的；清秀美丽的artifice — 诡计；巧妙的伪装frenetic — 狂乱的；疯狂喧嚣的
 
 The Clockwork Carnival
 Trapped in a deep emotional ennui, a blasé acrobat joined a traveling, frenetic clockwork carnival, hoping its chaotic energy would spark something inside her. Instead, she quickly saw through the magic: the carnival's callous owner viewed the troupe's rich cultural diversity as economically negligible, treating his performers like replaceable parts. Caught in a moral quandary between leaving them behind or facing his wrath, she decided to orchestrate an escape. She built a strikingly comely mechanical automaton to take her place on stage. Using this clever artifice as an expedient distraction during the grand finale, she successfully smuggled the entire crew to freedom just before dawn.
 
-Story 18
+Story 0018
 
 spate — 一连串；接二连三的大量发生advent — 到来；出现propriety — 得体；礼节proffer — 提出；提供impious — 不敬的；亵渎的nutritive — 有营养的；滋养的raucous — 沙哑的；喧闹的shibboleth — 老生常谈；陈旧教条bogus — 虚假的；伪造的substantiate — 证实；证明
 
 The Orchard's Winter Password
 With the sudden advent of winter frost, a spate of raucous bird cries echoed through the troubled orchard. A bogus agricultural inspector soon arrived, relying on an outdated scientific shibboleth to proffer a radical, almost impious cure that would strip the ancient trees bare. Looking past his polished show of professional propriety, the head gardener pulled out decades of meticulously kept logs on the soil's nutritive density. Using this concrete data to substantiate her doubts, she exposed his fraud and saved the harvest with a much safer, time-tested remedy.
 
-Story 19
+Story 0019
 
 succulent — 多汁的；鲜美的intrinsic — 本质的；固有的curry — 讨好；奉承（注：此处原文意指讨好、奉承，而非咖喱）satiety — 饱足；腻烦pall — 变得乏味；失去吸引力sanction — 批准；认可insidious — 暗中危害的；潜伏的allude — 影射；暗指potpourri — 大杂烩；混杂物denote — 意味着；预示
 
 The Banquet of Hidden Saffron
 At the grand desert feast, every host stepped forward to curry favor with the visiting royals, presenting succulent roasted meats that seemed to denote goodwill and peace. However, beneath the aromatic potpourri of exotic spices lay an insidious plot to weaken the court. As the initial excitement of the night gave way to heavy satiety and the music began to pall, an observant envoy noticed a strange tension in the room. Lacking concrete proof, he dropped a subtle remark to allude to the hidden danger. Sensing the intrinsic wisdom in his warning, the queen immediately withheld her official sanction from the pending treaty, quietly foiling the trap.
 
-Story 20
+Story 0020
 
 proximity — 临近；接近lassitude — 倦怠；无精打采vapid — 乏味的；毫无生气的unwieldy — 笨重的；难以操控的vitiate — 破坏；使失效；使面目全非fatuous — 愚蠢的；自鸣得意的repertoire — 节目单；常规技能/全部才能imperceptible — 察觉不到的；极细微的contort — 扭曲；使变形augment — 增强；提高
 
 The Dancer and the Iron Costume
 The sheer proximity of a heavy, unwieldy iron costume forced the avant-garde dancer to awkwardly contort her body with every movement. Deep physical lassitude threatened to vitiate her entire performance, ruining a piece she spent years adding to her creative repertoire. Ignoring the vapid and frankly fatuous advice of her director—who insisted she just "smile through the pain"—she secretly attached an almost imperceptible wire to the rigging above. This clever adjustment helped augment her balance, ultimately allowing her to pull off a flawless, gravity-defying performance.
 
-Story 21
+Story 0021
 
 clique — 派系；排他的小圈子rhetoric — 华丽辞藻；煽动性言论facile — 轻率的；肤浅的extol — 赞美；颂扬mentor — 导师；指导者vilify — 诋毁；中伤cant — 伪善之言；空话套话magnanimous — 宽宏大量的；高尚的umbrage — 愤恨；不快elucidate — 阐明；解释清楚
 
 The Debate Beneath the Dome
 When a powerful campus clique relied on facile political rhetoric and self-righteous cant to publicly vilify her research mentor, Leena took deep personal umbrage at their cruelty. Remaining magnanimous, she chose data over anger. She used the city observatory’s raw data logs to clearly elucidate his astronomical discovery, producing a breakthrough so undeniable that even his bitterest academic rivals were forced to publicly extol the final result.
 
-Story 22
+Story 0022
 
 vindicate — 证明……清白；证实flay — 严厉抨击；痛斥demeanor — 举止；神态heinous — 十恶不赦的；令人发指的delineation — 描绘；精确勾勒infraction — 违规；轻微违法callous — 冷酷无情的；麻木不仁的vituperation — 辱骂；严厉斥责redress — 赔偿；纠正turpitude — 卑劣；道德败坏
 
 The Cartographer's Testimony
 The forensic cartographer's calm demeanor easily withstood the prosecuting attorney's loud vituperation. Her highly precise delineation of the canyon roads mathematically proved that a minor, accidental lane infraction—rather than a case of heinous moral turpitude—had caused the transport crash. The structural map helped to completely vindicate the wrongly accused driver, verbally flay the callous accuser's fabricated story, and legally secure full financial redress for the victims.
 
-Story 23
+Story 0023
 
 saga — 长篇史诗；传奇故事imperturbable — 沉着镇定的；冷静自若的belated — 迟来的；延误的decrepit — 破旧的；衰败的vacillate — 犹豫不决；动摇opprobrium — 耻辱；恶名；公开谴责Machiavellian — 玩弄权术的；不择手段的unconscionable — 肆无忌惮的；违背良心的pandemonium — 大混乱；极其喧嚣的地方staunch — 坚定的；忠实的
 
 The Lighthouse Keeper's Saga
 Trapped inside a decrepit stone lighthouse during the storm of the century, an imperturbable keeper watched distant coastal officials vacillate in fear, paralyzed by indecision. Taking matters into her own hands, she broadcast a crucial, though belated, storm warning to the vessels at sea. Amid the ensuing harbor pandemonium, her staunch rescue crew rushed into action, inadvertently exposing a Machiavellian captain’s unconscionable scheme to abandon his passengers to save his own cargo. This swift intervention instantly transformed what the captain had planned as a triumphant personal saga into a lifetime of well-deserved public opprobrium.
 
-Story 24
+Story 0024
 
 capitulate — 屈服；妥协stigmatize — 污名化；谴责audacity — 大胆；放肆foist — 强加；把……硬塞给tantalize — 吊胃口；挑逗chicanery — 欺诈；诡计docile — 温顺的；驯服的tacit — 默许的；不言自明的reticent — 沉默寡言的；有保留的retort — 顶撞；反驳
 
 The Puppet's Rebellion
 A reticent puppeteer brought her remarkably docile fox marionette to life, using its movements to tantalize the court duke with sharp, witty socio-political satire. Yet, the playful atmosphere shattered when the duke's chief adviser tried to foist a fabricated, treasonous confession onto her. Showing the sheer audacity to stand her ground, she delivered a blistering retort that stunned the court. The surrounding crowd immediately offered their tacit support, which exposed the adviser's legal chicanery to the public. Realizing they had lost the room, the high court chose to capitulate to her innocence rather than risk a riot by trying to publicly stigmatize her.
 
-Story 25
+Story 0025
 
 glib — 油嘴滑舌的；轻率的trend — 趋势；风尚legerdemain — 手段；花招（原指戏法）malleable — 易受影响的；可塑的homogeneous — 均匀的；同一的fatal — 致命的；毁灭性的passé — 过时的；落伍的facet — 层面；（宝石的）刻面procrastinate — 拖延；耽搁stagnant — 停滞不前的；不流动的
 
 The Glassmaker's Last Fashion
 When a glib traveling merchant confidently declared that colored glassware was completely passé, an easily swayed, malleable apprentice began to procrastinate on her studio orders. However, her master quickly saw through the salesman's financial legerdemain. The trader’s supposedly flawless, homogeneous batch of raw materials actually hid one fatal chemical flaw. Once this defect was revealed, every single aesthetic facet of the merchant's stagnant design trend instantly lost its luster in the market.
 
-Story 26
+Story 0026
 
 iconoclast — 反传统者；特立独行的人therapy — 治疗；疗法motivate — 激励；促使rationalize — 为……辩解；使合理化nascent — 初期的；萌芽中的phobia — 恐惧症；强烈恐惧erudite — 博学的；学识渊博的vertigo — 眩晕；恐高conducive — 有利于……的；有益的germane — 密切相关的；切题的
 
 The Rooftop Garden Trial
 An erudite medical iconoclast designed a nascent rooftop greenhouse as a radical new form of therapy for patients suffering from severe vertigo. Using highly germane physical exercises to motivate her group, she refused to let them simply rationalize away their debilitating phobia. Instead, she engineered the elevated environment to be exceptionally calm and deeply conducive to taking brave, measured steps toward recovery.
 
-Story 27
+Story 0027
 
 acme — 顶峰；极致depict — 描绘；刻画naive — 天真的；纯真的copious — 大量的；丰富的vehemently — 激烈地；强烈地ingratiate — 讨好；迎合covet — 垂涎；贪图penury — 贫困；穷困perfidious — 背信弃义的；不忠的ignominious — 可耻的；不光彩的
 
 The Mural Beneath the Salt Mine
 A naive young artist spent months using copious mineral pigments to depict local miners fighting to rise above their generational penury. However, a perfidious patron tried to ingratiate himself with local officials who secretly coveted the mineral-rich cavern. When the artist vehemently refused to surrender her masterwork, the patron's ignominious retreat marked the absolute acme of her opening night victory.
 
-Story 28
+Story 0028
 
 mien — 仪表；神态；风度refute — 驳斥；推翻；证明……不实hirsute — 多毛的；胡子拉碴的vivacious — 活泼的；快活的；有生气的gaunt — 憔悴的；消瘦的stupor — 昏迷；恍惚；麻木状态cliche — 陈词滥调；老套的思想/形象wince — 畏缩；（因痛苦或尴尬）皱眉肉跳whet — 激起；勾起（兴趣、欲望）；磨砺pensive — 沉思的；忧郁的
 
 Portraits at the Polar Station
 After weeks on the ice, the gaunt explorer finally snapped out of his exhaustion-induced stupor, wearing a quiet, pensive mien. He couldn't help but wince when a vivacious expedition artist teased that his overgrown, hirsute face had become the ultimate Arctic cliché. Yet, the brilliant brushstrokes of her unfinished portrait instantly whet his curiosity, yielding a genuine smile that would completely refute the grim rumors back home that isolation had broken his spirit.
 
-Story 29
+Story 0029
 
 lampoon — 讽刺；讥讽诗文/画whimsical — 别出心裁的；古怪而可爱的；异想天开的parable — （寓有道德教训的）寓言；比喻sanctimonious — 道貌岸然的；假装虔诚的countenance — 面容；神色；支持nonentity — 无足轻重的人；小人物effrontery — 厚颜无耻；放肆的行为equanimity — （面对艰难时的）镇定；泰然自若flabbergast — 使大吃一惊；使目瞪口呆debacle — 惨败；崩溃；大灾难
 
 The Puppet Mayor's Encore
 A whimsical puppeteer staged a brilliant street parable to lampoon a sanctimonious mayor who had publicly dismissed her as a mere nonentity. Maintaining her calm equanimity, her cheerful countenance never wavered in the face of his angry political effrontery. The show's shocking finale would completely flabbergast the crowded town square, instantly turning the mayor's clumsy attempt at censorship into an embarrassing public debacle.
 
-Story 30
+Story 0030
 
 tenacious — 顽强的；坚韧不拔的calumny — 诽谤；中伤；诬蔑grimace — （因痛苦、厌恶等）做鬼脸；面部扭曲；苦笑asinine — 愚蠢的；荒谬的；极笨的facade — （建筑物的）正面；假象；外表au courant — 了解最新时尚的；通晓时事的；时髦的pittance — 微薄的收入；少许的钱unkempt — 蓬乱的；不整洁的；凌乱的noisome — 恶臭的；令人作呕的；有害的fastidious — 一丝不苟的；洁癖的；挑剔的
 
 The Costume Shop Behind the Facade
 Behind a peeling brick facade, a tenacious tailor worked tirelessly for a mere pittance, restoring historical wardrobe pieces. Meanwhile, an au courant theater critic spread the malicious calumny that the artisan's unkempt workspace was a noisome health hazard. The production's fastidious cast dismissed the critic’s claim as entirely asinine, and the bitter reviewer could only grimace in silence when the opening curtain rose to reveal actors draped in flawless, shimmering silk.
 
-Story 31
+Story 0031
 
 dexterity — 纯熟，灵巧，敏捷grotesque — 诡异的，怪诞的，极其丑陋的unsavory — 令人讨厌的，道德败坏的，不名誉的candid — 坦率的，直言不讳的，坦诚的repugnant — 令人反感的，令人厌恶的，抵触的degrade — 贬低，羞辱，降低……的身份venial — （错误、罪过）可原谅的，轻微的redesign — 重新设计，改装compassion — 同情，怜悯epitome — 典型，典范，缩影
 
 The Maskmaker's Honest Monster
 With remarkable artistic dexterity, a veteran maskmaker sculpted a grotesque face for a low-budget, unsavory genre film. However, her candid apprentice pointed out that it felt genuinely repugnant to degrade the heavily scarred actor who had to wear it. Realizing the truth, the maskmaker treated the apprentice's blunt critique as a venial mistake and began a total redesign—one infused with a deep compassion that eventually became the epitome of humane cinematic horror.
 
-Story 32
+Story 0032
 
 sojourn — 逗留；旅居austere — 简朴的；严厉的；苦行的volition — 意志；自行决断；自愿servile — 卑躬屈膝的；奴性的antipathy — 反感；厌恶felicitous — 恰当的；妥贴的；得体幸福的tenable — （观点、论据）站得住脚的；可防守的superfluous — 多余的；过剩的；不必要的halcyon — 平静的；幸福美好的；太平的abbey — 大修道院；大教堂
 
 The Bell at Halcyon Abbey
 During a brief sojourn at an austere mountain abbey, Mira chose by her own volition to directly confront the abbot's highly servile steward. Despite her deep personal antipathy toward rigid religious ceremonies, her incredibly felicitous legal arguments proved entirely tenable. Her words successfully stripped away centuries of superfluous chapel rules, finally restoring the valley's historically halcyon evenings.
 
-Story 33
+Story 0033
 
 cumbersome — 笨重的；繁琐的；累赘的interrogate — 审问；质询；盘问vigil — 守夜；（夜间的）警戒 / 监视divulge — 泄露；透露（秘密）site — 地点；场所；遗址unmitigated — 彻底的；十足的；未减轻的commodious — 宽敞的；舒适的antiquate — 使过时；淘汰；使具有古风fluctuate — 波动；起伏；上下变动dishevel — 弄乱（头发、衣服等）；使蓬乱
 
 The Observatory's Longest Night
 During a tense winter vigil at a remote mountain site, fierce gales managed to dishevel the campsite and cause outdoor temperatures to wildly fluctuate. Inside the facility, however, the commodious dome perfectly sheltered a cumbersome new telescope whose breathtakingly sharp data would completely antiquate all older star charts. Eager reporters soon gathered outside, but the tight-lipped crew refused to let the press interrogate them or force them to divulge their findings ahead of the dawn's unmitigated scientific triumph.
 
-Story 34
+Story 0034
 
 penitent — 悔悟的；忏悔的evanescent — 短暂的；转瞬即逝的reproach — 责备；指责tantamount — 等同于；无异于abjure — 发誓放弃；公开放弃connoisseur — 鉴赏家；行家allay — 消除；缓解（恐惧、担忧等）propensity — 倾向；习性；嗜好wary — 警惕的；谨慎的deter — 吓退；阻止；使断念
 
 The Vanishing Flavor of Saffron Ice
 A penitent culinary apprentice sought to forever abjure his problematic propensity for rogue kitchen experiments after a batch of evanescent saffron ice cream melted instantly, deeply alarming a wary food connoisseur. However, her gentle, constructive reproach actually helped to allay his deep sense of shame. She reminded him that a single failed dish was hardly tantamount to professional fraud, nor should it ever deter honest, creative invention.
 
-Story 35
+Story 0035
 
 complacent — 自满的；盲目乐观的；得意的debilitate — 使衰弱；削弱；使无力occult — 神秘的；超自然的；未知的somber — 阴沉的；忧郁的；昏暗的impetuous — 冲动的；鲁莽的；轻率的foment — 煽动；挑起（事端、暴力等）slovenly — 邋遢的；马虎的；不整洁的quarry — 猎物；追捕的对象；采石场discreet — 谨慎的；不引人注意的；明智的glean — 搜集；艰难地断续拾取（情报、知识等）
 
 Tracks Across the Basalt Field
 A complacent park ranger initially dismissed the somber local rumors of an occult forest beast. However, an impetuous and slovenly poacher tried to foment widespread panic by bragging that this mysterious creature was his next big quarry. Stepping in quietly, a discreet wildlife biologist managed to glean crucial data from a set of fresh tracks, realizing that the harsh winter hunger would soon completely debilitate a lost grizzly bear unless they acted fast to rescue it.
 
-Story 36
+Story 0036
 
 venerable — 德高望重的；古老庄严的ambiguous — 模棱两可的；含糊不清的；不确定的succinct — 简明扼要的；干净利落的menial — 卑微的；琐碎的；不需要技术的extraneous — 无关的；外来的；多余的salubrious — 有益健康的；宜人的；清爽的archaic — 古老的；过时的；古代的facetious — 戏谑的；（在不合适场合）爱开玩笑的rabid — 狂热的；失去理智的；患狂犬病的emulate — 效法；努力赶上；模仿
 
 The Bathhouse Cipher
 Inside a venerable Roman bathhouse famed for its salubrious mineral waters, a menial attendant scrubbing the tiles discovered an archaic wall inscription. Its highly ambiguous warning quickly drew a crowd of rabid treasure hunters, all desperate to decode its secrets. Safely ignoring a facetious tour guide and tuning out every extraneous clue, the sharp-witted attendant chose to emulate the old stonemason's logic by following a set of succinct geometric symbols, which smoothly unlocked a hidden courtyard garden.
 
-Story 37
+Story 0037
 
 expedite — 加快；促进；加速celerity — 迅速；敏捷profound — 深切的；深刻的；极深的alleviate — 缓解；减轻；使缓和prodigious — 惊人的；巨大的；庞大的bizarre — 离奇的；古怪的；怪诞的paltry — 微不足道的；可怜的；琐碎的usurp — 篡夺；强夺；侵占condone — 容忍；纵容；宽恕trivial — 琐碎的；微不足道的；不重要的
 
 The Clockwork Ferry
 As raging floodwaters surged toward the harbor, a brilliant mechanic worked with remarkable celerity to expedite the town’s emergency evacuation. Her focus was a bizarre clockwork ferry that had sat idle inside a forgotten warehouse for decades. With lives on the line, she fiercely refused to condone the mayor’s arrogant attempt to usurp control of the ship's wheel over a paltry, trivial political quarrel. While anxious families packed the rain-slicked quay in a state of profound fear, she tuned out the chaos to execute a series of prodigious mechanical repairs. Her ingenuity miraculously brought the massive brass-and-iron vessel back to life. The ferry's thunderous launch immediately helped alleviate the rising panic, safely carrying hundreds of stranded citizens across the treacherous bay.
 
-Story 38
+Story 0038
 
 concomitant — 伴随的；相伴而生的strident — 刺耳的；尖锐的；咄咄逼人的lassitude — 倦怠；乏力；无精打采deleterious — 有害的；有毒的efficacy — 功效；效力incumbent — 现任的；义不容辞的；有责任的ferment — 酝酿；骚动；动荡dissent — 异议；反对意见attenuate — 减弱；降低；变稀薄arbiter — 仲裁者；评判人；裁决人
 
 The Bell Foundry Truce
 As strident iron hammering echoed relentlessly through the stone arches of the bell foundry, its concomitant clouds of metallic dust hung heavy in the air, leaving the young apprentices struggling with a crushing, chronic lassitude. Before long, a bitter spirit of dissent began to ferment against the incumbent master, whose tyrannical rules flatly forbade any workplace complaints. Pushed to the brink of a strike, the workers secretly summoned an independent safety arbiter to the floor. His task was to rigorously assess the efficacy of the cheap canvas masks provided by management. The resulting investigation proved exactly what the apprentices feared: the unventilated fumes were deeply deleterious to human lungs. Acting with absolute legal authority, the official ordered heavy-duty industrial vents to be installed immediately. It was a decisive measure engineered to attenuate not only the deafening noise and toxic pollution but also the boiling anger threatening to destroy the historic workshop.
 
-Story 39
+Story 0039
 
 fervid — 热烈的；狂热的heresy — 异端邪说；反叛言论；违背常理prudent — 谨慎的；明智的；精明的ostensible — 表面上的；自称的；假托的spurious — 伪造的；虚假的；欺骗性的propagate — 繁殖；传播；宣传milieu — 社会环境；周围背景；文化圈anomaly — 异常现象；反常；不规则innocuous — 无害的；无伤大雅的；平淡无奇的surfeit — 过量；过度；饮食过度
 
 The Blue Fern of Glasshouse Row
 In the fervid milieu of Glasshouse Row—where rare-plant collectors debated botany with religious zeal—the ostensible discovery of a naturally cobalt frond took the community by storm. While a few radical growers hailed it as an evolutionary miracle, traditionalists immediately denounced the claim as scientific heresy, swearing that no true fern could inherently synthesize such a hue. As the rumor continued to propagate through late-night gardening circles, the narrative spun wildly out of control. Whispers abounded that this magnificent anomaly was a completely unclassified, prehistoric species. Sensing trouble, a prudent curator from the metropolitan museum quietly stepped in to inspect the specimen. He quickly realized the frantic excitement was fueled by a heavy surfeit of nitrogen fertilizer and blatant wishful thinking. His analysis revealed that the reports were entirely spurious: the plant was simply sweating out traces of an innocuous commercial dye. The legendary blue fern was no botanical breakthrough; it was merely an ordinary plant dressed up in stolen color.
 
-Story 40
+Story 0040
 
 zenith — 顶峰；最高点；鼎盛时期omnipotent — 全能的；无所不能的precedent — 先例；前例；惯例fledgling — 初出茅庐的；刚起步的；新手peremptory — 专横的；不容置疑的；强制性的wheedle — 哄骗；巧妙地诱骗；软磨硬泡charlatan — 江湖骗子；冒牌专家rustic — 乡村的；质朴的；粗糙的decorum — 礼仪；端庄得体；稳重jubilant — 欢欣鼓舞的；喜气洋洋的；狂喜的
 
 The Kite Court of Red Mesa
 At the zenith of the rustic kite festival, a peremptory charlatan claimed his grand creation was omnipotent and tried to wheedle a fledgling judge into bending competition precedent. However, she firmly maintained her professional decorum and exposed the hidden wire steering his craft. Stripped of his prize, the fraud retreated, leaving the honest hometown flyers truly jubilant.
 
-Story 41
+Story 0041
 
 gaudy — 花哨的；俗艳的encumbrance — 负担；障碍；累赘extinct — 灭绝的；绝迹的；熄灭的idyllic — 田园诗般的；宁静美好的galvanize — 激励；激起……使振奋而采取行动condescend — 屈尊；居高临下地对待malign — 诽谤；恶意中伤；有害的jocose — 诙谐的；爱开玩笑的；幽默的candor — 坦率；坦诚；直率mortify — 使大为窘迫；使羞愧；抑制
 
 The Fossil Parade of Willow Bay
 A gaudy fossil float quickly became an encumbrance on the narrow, idyllic harbor road during the annual village festival. Despite the traffic jam, the truck's jocose driver used disarming candor to galvanize a crowd of nearby volunteers to help push the display. When a cynical tourist tried to malign the extinct creature's design and condescend to the local children who built it, the float's surprisingly precise historical reconstruction managed to utterly mortify him into silence.
 
-Story 42
+Story 0042
 
 gusto — 热情；兴致勃勃；津津有味banal — 平庸的；陈腐的；乏味的platitude — 陈词滥调；老生常谈；空话indolent — 懒惰的；懒散的garrulous — 话多的；喋喋不休的dilettante — 业余爱好者；浅薄涉猎者；一知半解者atypical — 非典型的；反常的；不寻常的nondescript — 无明显特征的；平淡无奇的；难以归类的wane — 衰减；减弱pique — 激起（好奇、兴趣）；使恼怒
 
 The Unscheduled Song at Platform Six
 As the evening crowds began to wane, a garrulous dilettante standing beside a nondescript suitcase bored nearby commuters by repeating a banal platitude about modern life. However, an atypical melody hummed by an otherwise indolent baggage porter began to pique the curiosity of the waiting passengers. Within minutes, the entire platform joined in, singing the chorus with genuine gusto.
 
-Story 43
+Story 0043
 
 adherent — 支持者；拥护者；追随者lithe — 柔韧的；轻盈的；易弯曲的pathetic — 可怜的；差劲的；令人怜悯的obese — 肥胖的；臃肿的bliss — 极乐；无上幸福apathy — 冷漠；无动于衷；漠不关心exhort — 力劝；敦促；勉励inebriate — 使喝醉；醉汉；酒鬼fracas — 喧闹争执；大吵大闹；斗殴adversary — 对手；敌手；竞争者
 
 The Rooftop Rescue Rehearsal
 A lithe rescue volunteer had to exhort each loyal adherent to abandon their sudden apathy when an obese theater cat accidentally wandered into a loud fracas between a pathetic inebriate and his old neighborhood adversary. Ignoring the shouting men, she quickly scrambled across the ledge to safely retrieve the stranded animal. Once carried down, the cat's purring bliss completely took the tension out of the air, instantly quieting the whole rooftop.
 
-Story 44
+Story 0044
 
 sedate — 镇静的；沉着的；庄重的serenity — 宁静；安详；平静equanimity — 镇定；平和；泰然自若compatible — 兼容的；相容的；合得来的revere — 尊敬；崇敬；敬畏avarice — 贪婪；贪财insatiable — 无法满足的；贪得无厌的nadir — 最低点；谷底irrational — 不理性的；不合理的；荒谬的moribund — 垂死的；衰败的；行将灭亡的
 
 The Monastery's Last Orchard
 At the absolute nadir of a historic drought, a sedate gardener managed to preserve his personal equanimity and the orchard's ancient serenity. All the while, an irrational local merchant, driven by an insatiable avarice, repeatedly sought to buy up the seemingly moribund fruit trees for cheap lumber. However, the monks, who deeply revere patience and traditional stewardship, flatly rejected the buyout, opting instead to plant new crops that were fully compatible with the dry soil.
 
-Story 45
+Story 0045
 
 propinquity — 邻近；亲近；接近vulnerable — 脆弱的；易受伤害的cacophony — 刺耳的嘈杂声；不和谐音exploit — 开发利用；剥削；英勇事迹bedlam — 混乱；骚乱；喧闹场所disgruntled — 不满的；不高兴的；心生怨气的panacea — 万灵药；万能之策eradicate — 根除；彻底消灭infallible — 绝对可靠的；万无一失的；不会出错的impede — 阻碍；妨碍；阻止
 
 The Night Shift at Heron Marsh
 The sheer propinquity of the nesting herons left the research camp vulnerable to a nightly cacophony that routinely turned midnight into absolute bedlam. When a disgruntled guide tried to exploit the crew's exhaustion to trigger a panic and force an early exit, Dr. Sen firmly stepped in. She warned that no single, infallible panacea could eradicate fear or save their research if internal mistrust continued to impede the team's progress.
 
-Story 46
+Story 0046
 
 invective — 辱骂；猛烈抨击；痛斥voluminous — 卷帙浩繁的；宽大的；（衣服）宽松的besmirch — 玷污；毁坏（名誉）；诋毁retrospect — 回顾；回想；追溯vitriolic — 尖刻的；刻薄的；（如）硫酸的inveterate — 根深蒂固的；积习难改的；顽固的pungent — 刺鼻的；（气味）强烈的；（语言）尖锐的adamant — 坚决的；坚定不移的；固执的humility — 谦逊；谦卑egotist — 自负的人；自我中心者
 
 The Debate in the Pepper House
 Amid the pungent steam of a competitive village cook-off, an inveterate egotist unfurled a voluminous speech laced with vitriolic invective, desperate to besmirch his rival's culinary reputation. Despite the fierce personal onslaught, she remained entirely adamant in her silence. She eventually answered the judges with quiet humility, and in retrospect, that calm composure won over the crowd completely without her returning a single insult.
 
-Story 47
+Story 0047
 
 array — 一系列；陈列；大批culminate — 达到高潮；以……告终；达到顶点pinnacle — 顶峰；巅峰；尖顶ardent — 热烈的；热忱的；强烈的obscure — 鲜为人知的；晦涩的；使模糊bereave — 使丧失（亲人或希望）；夺去exultation — 狂喜；大欢喜；欢欣鼓舞constrict — 压缩；狭窄；限制prodigy — 奇才；神童；奇迹falter — 动摇；犹豫；蹒跚
 
 The Lanterns Above Kestrel Gorge
 An ardent young prodigy arranged a breathtaking array of handmade lanterns along a notoriously obscure mountain path, flatly refusing to falter even when a recent tragedy threatened to bereave the entire village of hope. Though the icy ropes began to painfully constrict her hands during the ascent, her arduous climb would ultimately culminate at the rocky pinnacle in a brilliant blaze of community exultation.
 
-Story 48
+Story 0048
 
 tussle — 扭打；争夺；激烈争论intrinsic — 内在的；固有的；本质的jettison — 抛弃；放弃；（从飞机或船上）丢弃货箱inevitable — 不可避免的；必然发生的lucrative — 获利丰厚的；赚大钱的acute — 严重的；敏锐的；（疾病）急性的transient — 短暂的；转瞬即逝的；过客gist — 要点；主旨；大意terse — 简洁的；简短的；（言语）生硬的cogent — 有说服力的；令人信服的
 
 The Salvager's Last Radio Call
 During a fierce tussle with an acute squall, a veteran salvager broadcast a terse but highly cogent distress message whose grim gist was immediately clear. He ordered the crew to jettison their highly lucrative cargo, reminding them that while the market price of metal was purely transient, the crew's intrinsic value was irreplaceable. The catastrophic financial loss seemed absolutely inevitable, yet because they acted fast, every single sailor safely reached the shore.
 
-Story 49
+Story 0049
 
 hostile — 敌对的；恶劣的；有敌意的prevalent — 盛行的；普遍的；流行的lethargic — 无精打采的；迟缓的；昏昏欲睡的paramount — 至关重要的；最高的；首要的remiss — 疏忽的；懈怠的；玩忽职守的aversion — 厌恶；反感；讨厌的人或事superficial — 表面的；肤浅的；一知半解的rebuke — 斥责；指责；训斥evince — 表明；显示；流露出vogue — 时尚；流行；风行
 
 The Clinic beyond the Salt Flats
 At a remote clinic battered by hostile winds, a prevalent tropical illness left scores of patients weak and lethargic. Despite the unfolding crisis, regional health officials stubbornly followed a bureaucratic vogue for superficial remedies that did nothing to treat the root cause. A head nurse with a deep-seated aversion to excuses issued a sharp public rebuke to the board, stating they were being flatly remiss in their duties and had to evince real operational urgency because securing a clean water supply was paramount.
 
-Story 50
+Story 0050
 
 hoard — 囤积；珍藏；贮藏物sage — 智者；圣人；明智的congenial — 意气相投的；宜人的；舒适的aegis — 保护；庇护；主办detriment — 损害；不利因素；伤害senile — 衰老的；老态龙钟的longevity — 长寿；寿命dodder — 蹒跚；摇摇晃晃；（因衰老而）颤抖imbibe — 饮用；吸入；吸收（知识、精神等）virile — 强健的；精力充沛的；有男子气概的
 
 Tea beneath the Ancient Pear Tree
 Under the peaceful aegis of a cooperative village garden, a local sage dismissed the foolish rumors that his supposedly senile neighbor's extraordinary longevity came from a secret hoard of medicinal herbs. He pointed out that although the old man would occasionally dodder on his way to the front gate, he actually remained remarkably virile when it came to heavy yard work. In fact, the neighbor still had the strength to prune the massive, ancient pear tree every spring, imbibe cups of incredibly strong black tea, and routinely enjoy congenial company without the slightest detriment to his health or anyone else.
 
-Story 51
+Story 0051
 
 eruption — 喷发；爆发puny — 弱小的；微不足道的；微弱的debris — 残骸；碎片；垃圾awesome — 令人惊叹的；极其可怕的；极好的disperse — 疏散；驱散；使散开conflagration — 大火；毁灭性的大火；冲突obliterate — 彻底摧毁；抹去；忘却rue — 后悔；对……感到懊恼initiate — 发起；开始；接纳新成员deplorable — 糟糕的；可悲的；应受谴责的
 
 Ashfall over San Aurelio
 The volcano's awesome eruption hurled a massive column of burning debris directly toward San Aurelio, making the town's puny fire brigade bitterly rue the region's deplorable emergency warning system. Realizing they were entirely on their own, the small crew raced against time to initiate a chaotic evacuation and disperse the panicked crowds gathered in the main square. Their immediate goal was to halt a fast-moving hillside conflagration before the falling ash and molten rock could completely obliterate the valley's only escape road.
 
-Story 52
+Story 0052
 
 contemptuous — 轻蔑的；傲慢的；鄙视的absurd — 荒谬的；可笑的；不合理的bigot — 偏执者；盲信者；顽固分子abhor — 憎恶；厌恶；痛恨universal — 普遍的；全体的；通用的originate — 起源；由……产生；创始entreaty — 恳求；请求；哀求inviolable — 不可侵犯的；神圣的；必须遵守的vulnerable — 脆弱的；易受伤害的；有弱点的tradition — 传统；惯例；风俗
 
 The Bridge of Shared Lanterns
 A contemptuous bigot publicly called the harbor's shared-lantern tradition completely absurd, loudly claiming that the ritual could legitimately originate only with his own clan. Local elders who deeply abhor such divisive rhetoric immediately answered a young fisher's emotional entreaty for unity. Stepping onto the main bridge, they declared every vulnerable guest's human dignity to be strictly inviolable and permanently altered the rules to make participation universal across the entire shoreline.
 
-Story 53
+Story 0053
 
 inanimate — 无生命的；没精打采的artifact — 人工制品；文物；历史手工艺品fetish — 神物（盲目崇拜的物品）；迷恋；固执的偏好anthropologist — 人类学家bizarre — 奇异的；古怪的；怪诞的taint — 污染；玷污；败坏（名誉）prohibition — 禁令；禁止；禁酒令imprudent — 轻率的；不谨慎的；鲁莽的taboo — 禁忌；忌讳；避讳imperative — 迫切的；至关重要的；命令
 
 The Mask Returned at Dawn
 A young anthropologist discovered that a bizarre ceremonial mask was being displayed in a private gallery as a mere inanimate artifact and an exotic fetish. However, deep within the village archives, she uncovered a sacred taboo that explicitly forbade its sale or removal from tribal lands. Deciding that keeping the piece after an imprudent collector's illegal deed would permanently taint the museum’s reputation, she treated the repatriation of the object as an absolute moral imperative. Defying a senior trustee's strict bureaucratic prohibition, she quietly returned the mask to the elders at dawn.
 
-Story 54
+Story 0054
 
 enunciate — 清楚地发音；阐明；清晰表达irascible — 易怒的；暴躁的；性急的introspective — 内省的；反省的；好反思的pedagogue — 教师；教育家；（尤指常作教条式说教的）老师inordinate — 过度的；不合理的；过分的perpetuate — 使持续；使永久化；使永存catastrophic — 灾难性的；毁灭性的neutralize — 消除；使无效；中和mandate — 命令；授权；委托书compensatory — 补偿性的；赔偿的
 
 The Bell That Ended Detention
 An introspective pedagogue finally found the courage to clearly enunciate the harsh reality that his irascible headmaster chose to completely ignore. He argued that enforcing an inordinate detention mandate would only serve to perpetuate an atmosphere of fear and lead to catastrophic drops in student morale. Instead, he proposed implementing creative, compensatory tutoring sessions engineered to naturally neutralize the students' learning gaps. Impressed by his logic, the school board intervened and permanently silenced the school's archaic punishment bell.
 
-Story 55
+Story 0055
 
 maladjusted — 适应不良的；有心理失调表现的heterogeneous — 异质的；多种多样的；由不同成分组成的perspicacious — 有洞察力的；敏锐的；聪明的analogous — 类似的；可比的；相似的gamut — 全部范围；整个领域neurotic — 神经质的；焦虑的；极其轻率的decade — 十年；十年期mortality — 死亡率；死亡；生命的有限性susceptible — 易受影响的；易患病的；过敏的phenomenon — 现象；奇迹；罕见的人或物
 
 The Archive of Whale Song
 After a decade spent studying spike patterns in mortality among deep-sea whales highly susceptible to sonar disruption, a perspicacious marine biologist recognized an analogous behavioral phenomenon in a massive, heterogeneous digital archive of underwater audio calls. While her cynical colleagues dismissed the strange, frantic recordings as the chaotic gamut of a maladjusted, neurotic pod unable to cope with changing ocean currents, her data proved otherwise. The audio patterns were actually a highly coordinated acoustic warning network that successfully redirected nearby shipping vessels away from dangerous shallow reefs.
 
-Story 56
+Story 0056
 
 escalation — 升级；加剧；恶化indifference — 冷漠；不关心；无动于衷potential — 潜力；潜在的；可能性cumulative — 累积的；渐增的recondite — 深奥的；鲜为人知的；晦涩的acknowledge — 承认；确认；致谢delude — 欺骗；迷惑；使误入歧途palliate — 缓和；减轻（痛苦或罪责）；掩饰prelude — 前奏；序幕；开端chimerical — 空想的；不切实际的；荒诞的
 
 Red Dust at the Observatory
 The recondite equations glowing on the main monitors could not delude the veteran astronomers about the cumulative potential of the incoming solar storm. The alarming data eventually forced regional officials to acknowledge that their public indifference was merely a dangerous prelude to a catastrophic escalation of electrical failures. Rejecting a chimerical proposal to build an expensive atmospheric shield, the science council opted instead for immediate, practical grid warnings to effectively palliate the imminent danger.
 
-Story 57
+Story 0057
 
 juxtapose — 并置；（为对比或展示关系）并列incompatibility — 不相容；矛盾；不兼容性cope — 应对；妥善处理；对付plight — 困境；苦难；誓约covert — 隐蔽的；秘密的；暗中的fabricate — 捏造；伪造；制作connubial — 婚姻的；夫妻的demur — 表示异议；反对；犹豫appellation — 名称；称号；称呼incapacitate — 使失去能力；使瘫痪；使无资格
 
 Costumes for a Secret Wedding
 To cope with a sudden winter storm that threatened to incapacitate half the theater troupe, a resourceful tailor agreed to quickly fabricate custom wardrobe pieces for a covert connubial ceremony backstage. She chose to creatively juxtapose two historically clashing family tartans, completely ignoring their supposed artistic incompatibility. Given the beautifully blended garments, no traditional elder could reasonably demur once the newlyweds proudly adopted “The Lantern Players” as their new shared appellation and honestly explained the romantic plight that brought them together.
 
-Story 58
+Story 0058
 
 disciple — 门徒；信徒；追随者metamorphosis — 蜕变；彻底的变化；变形penance — 忏悔；苦修；（作为惩罚或赎罪的）自我惩罚ascetic — 苦行者；禁欲的；清苦的desultory — 漫无目的的；随意的；不连贯的nurture — 培养；滋养；扶持bona — 财产；所有物；资产 (usually seen in legal phrases like bona fide)salvation — 拯救；救赎；灵魂得救的途径nirvana — 涅槃；（痛苦和烦恼消除后的）极乐境界materialism — 物质主义；唯物主义；享乐主义
 
 The Potter's Bequest
 An ascetic master potter unexpectedly left his entire workshop and remaining bona to a restless young disciple. Initially, the grieving apprentice treated the daily manual labor as a form of grueling penance, making only desultory, uninspired attempts to nurture his underlying craft. He quickly realized that simply rejecting modern materialism did not grant him instant spiritual nirvana. However, as he began using his skills to quietly serve the impoverished village, the creative work reshaped his entire idea of personal salvation, ultimately completing his metamorphosis into a true artisan.
 
-Story 59
+Story 0059
 
 opulence — 富丽堂皇；富裕；丰裕scion — 后裔；子嗣；名门子弟obsequious — 谄媚的；卑躬屈膝的；拍马屁的indoctrinate — 灌输（思想、教条）；教化fulsome — 过分恭维的；虚情假意的；令人生厌的lush — 茂盛的；奢华的；多汁的ponder — 仔细考虑；沉思destitution — 赤贫；匮乏；一无所有supplication — 恳求；祈求；哀求decadence — 堕落；衰颓；颓废
 
 The Orchard beyond the Palace Wall
 Raised amid stifling opulence, the young scion frequently slipped past the obsequious tutors who constantly tried to indoctrinate him with fulsome praise. Just beyond the walls of the lush palace garden, however, he directly encountered the stark destitution of the city's slums. After an elderly street vendor's quiet, dignified supplication forced him to deeply ponder the court's unchecked decadence, the prince returned to the estate and personally ordered the royal granaries opened to the public.
 
-Story 60
+Story 0060
 
 extant — 现存的；尚存的vicissitude — 变迁；兴衰；人生的沉浮edifice — 宏伟的建筑；大厦sultry — 闷热的；湿热的；（人）性感的trenchant — 尖锐的；有力的；犀利的lugubrious — 悲哀的；阴郁的；（尤指夸张地）伤感的puissant — 强大的；有权势的unabated — 不减的；持续的；势头不衰的maudlin — 伤感的；易伤风化的；（尤指醉酒后）多愁善感的levity — 轻率；轻松幽默；轻浮
 
 Storm over the Last Watchtower
 On a sticky, sultry evening, an unabated downpour trapped a traveling theater troupe inside the only extant stone edifice of a ruined border fort. Seeking to pass the time, a puissant local critic offered a trenchant account of the historical structure's every architectural vicissitude. However, as his long-winded speech grew increasingly lugubrious and veered into a maudlin lament for lost ages, a young child's sudden burst of innocent levity broke the tension and instantly revived the spirits of the weary company.
 
-Story 61
+Story 0061
 
 nebulous — 模糊的；含混不清的；未定型的revile — 辱骂；痛斥；谩骂indict — 起诉；控告；谴责pesky — 讨厌的；棘手的；恼人的derogatory — 贬损的；侮辱性的；贬低的repose — 休息；安详；平静abstemious — （饮食）有节制的；适度的redolent — 芳香的；有强烈气味的；令人联想起……的omnivorous — 杂食的；兴趣广泛的disparate — 截然不同的；无法比较的
 
 Supper at the Hilltop Refuge
 Inside a rustic refuge redolent of fresh cedar logs, a group of disparate hikers unexpectedly began to revile a pesky, omnivorous goat that had wandered onto the porch. Their otherwise abstemious host gently rejected every single derogatory complaint from the guests. Rather than indict the hungry animal on nebulous evidence of stealing food, she quietly tracked down its owner down the trail, smoothly restoring the mountain dining room to its rightful state of peaceful repose.
 
-Story 62
+Story 0062
 
 dismantle — 拆除；拆卸；废除sumptuous — 豪华的；丰盛的；奢华的parsimonious — 吝啬的；过度节俭的；小气的pecuniary — 金钱的；财务的；金融的underwrite — 资助；承保；签名同意承担（费用）restrictive — 限制性的；约束性的blunt — 直率的；坦率的；（刀锋等）钝的nostalgia — 怀旧；恋旧；乡愁rife — 盛行的；充斥的；普遍的balk — 犹豫；畏缩不前；拒绝
 
 Curtain Call for the Bijou
 When rumors grew rife across the city that developers were planning to dismantle the historic Bijou Theater, a blunt stagehand made an emotional public appeal to local nostalgia. Moved by his words, nearby residents did not balk at the underlying pecuniary risk of buying back the property. A former stage star generously agreed to underwrite the massive structural repairs, and eventually, even the theater's notoriously parsimonious owner relaxed his restrictive access rules to help host a sumptuous, sold-out reopening gala.
 
-Story 63
+Story 0063
 
 profligate — 挥霍的；放荡的；浪费的strife — 冲突；争斗；不和legion — 众多的；大批的；军团coup — 政变；（出人意料的）妙举；成功的举措megalomania — 自大狂；权力妄想症mendacious — 虚假的；撒谎的；捏造的exonerate — 免罪；证明……无罪；澄清expatriate — 移居国外者；侨民fiat — （官方的）命令；法令；武断的决定amnesty — 大赦；（对罪行的）赦免
 
 Broadcast from the Border
 A vast legion of citizens weary of civil strife tuned in as an expatriate reporter exposed the ruling regime's profligate spending, unchecked megalomania, and mendacious legal charges. The explosive broadcast single-handedly helped to exonerate dozens of wrongfully jailed teachers. Sensing a shift in public tide, an emergency military fiat immediately authorized border guards to thwart a desperate counter-coup, while the interim council granted a sweeping amnesty to all political dissidents before dawn.
 
-Story 64
+Story 0064
 
 deem — 认为；视为buff — 爱好者；行家romp — 嬉戏；轻松地赢latent — 潜在的；隐藏的inherent — 固有的；内在的tortuous — 曲折的；复杂的conjugal — 婚姻的；夫妻的peregrination — 漫游；旅程itinerant — 巡回的；流动的barometer — 气压计；晴雨表
 
 Honeymoon Beyond the Pass
 An itinerant weather buff and his wife set out on a conjugal peregrination through the high Andes. Along the way, a plummeting barometer exposed the latent dangers inherent in the mountain's tortuous pass. While their local guides would deem a swift retreat the only wise choice, the adventurous pair instead embraced the delay, turning a storm-bound afternoon into a snowy romp right outside their shelter.
 
-Story 65
+Story 0065
 
 innate — 天生的；固有的abortive — 失败的；无结果的modify — 修改；调整spontaneous — 自发的；自然流露的accommodate — 容纳；适应crave — 渴望myriad — 无数的；极多的irrelevant — 无关紧要的；不相关的urbane — 温文尔雅的；都市化的veneer — 虚饰；外表
 
 The Rooftop Improvisation
 After an abortive dress rehearsal, an urbane conductor dropped his polished veneer and invited the rooftop orchestra to modify the score on the fly. Their innate sense of rhythm instantly sparked a spontaneous performance, shifting effortlessly to accommodate a myriad of musical styles. In that moment, technical perfection became entirely irrelevant to the listeners below, who simply crave raw musical joy.
 
-Story 66
+Story 0066
 
 hoax — 骗局；恶作剧component — 组成部分；元件labyrinth — 迷宫；错综复杂的事物evaluate — 评估；评价murky — 昏暗的；阴暗的；扑朔迷离的gullible — 易受骗的；轻信的deploy — 部署；调动attest — 证明；证实exult — 欢欣鼓舞；雀跃enigma — 谜；费解的事物
 
 Signals Beneath the Hedge Maze
 To evaluate a murky signal radiating from deep within the estate's sprawling labyrinth, Mara decided to deploy a specialized sensor at every twisting junction. Each individual component of the grid soon began to attest to the truth: the rumored resident ghost was nothing but an elaborate hoax. Armed with clarity, even the most gullible visitors stopped panicking and began to exult in relief as the terrifying enigma finally resolved into a forgotten, automated radio play.
 
-Story 67
+Story 0067
 
 cache — 贮藏物；隐藏处cupidity — 贪财；贪婪altruistic — 无私的；利他的coterie — 小圈子；同行圈embellish — 装饰；润色；美化amorous — 多情的；爱情的；爱慕的virtuosity — 精湛技艺；高超技巧progeny — 后代；子孙temerity — 鲁莽；大胆；冒失saturate — 浸透；使充满
 
 The Violin in the Rain Tank
 A close-knit coterie of musicians discovered a hidden cache of old musical scores just as a sudden downpour threatened to saturate the delicate paper. Among the damp sheets, an amorous ballad stood out, carrying a note that revealed the composer's altruistic wish for his progeny to perform the music freely. Inspired by this legacy, the musicians found the temerity to defy a local collector's blatant cupidity; they chose to embellish the faded finale themselves and share the piece's breathtaking virtuosity with the entire city.
 
-Story 68
+Story 0068
 
 fallacious — 谬误的；欺骗性的consummate — 技艺高超的；完美的concoct — 编造；调制perpetrate — 实施；犯下（罪行）subterfuge — 托词；诡计；花招manifold — 多种多样的；繁多的fraught — 充满的；令人忧虑的；紧张的impeccable — 无可挑剔的；无瑕疵的resourceful — 足智多谋的assiduous — 勤勉的；刻苦的
 
 The Glasshouse Alibi
 An assiduous conservator noticed manifold structural flaws hidden beneath the surface of an otherwise impeccable-looking vase. Sensing a scam, she asked a resourceful and consummate chemist to analyze the ancient glaze. Their fraught inquiry soon proved that a shady dealer had used clever subterfuge to concoct a completely fallacious history, aiming to perpetrate an elaborate fraud on the museum.
 
-Story 69
+Story 0069
 
 extrinsic — 外在的；外来的；非固有的persevere — 坚持不懈；不屈不挠landmark — 地标；里程碑declaim — 慷慨陈词；大声朗诵fetter — 束缚；限制；羁绊nomadic — 游牧的；流动的；漂泊的paragon — 典范；模范controversial — 有争议的asperity — 严厉；粗暴；艰苦epithet — 别号；绰号；称呼
 
 The Stone That Followed the Caravan
 Gathered at a controversial desert landmark, tourists loudly declaim that a nomadic sculptor is the ultimate paragon of artistic tradition. However, the artist herself rejects this grand epithet with sharp asperity. Knowing that extrinsic praise can easily fetter her creative freedom and tie her down, she vows to persevere in her quiet work, traveling onward until her sculptures feel as alive as the caravan itself.
 
-Story 70
+Story 0070
 
 cursory — 草率的；粗略的indigenous — 本土的；土著的；原生的interloper — 闯入者；不速之客habitat — 栖息地；生长环境gregarious — 合群的；群居的；社交的prolific — 多产的；丰富的；繁殖力强的antithesis — 对立面；截然相反的事物sedentary — 久坐的；定居的frugal — 节俭的；朴素的bulwark — 屏障；堡垒；保障
 
 The Terns of Lantern Island
 A cursory ecological census hastily labeled a gregarious species of tern as an interloper on Lantern Island. Local, indigenous fishers knew better, understanding that this prolific bird colony naturally guarded the fragile dune habitat. The fishers' own frugal, sedentary lifestyle stood as the absolute antithesis of careless commercial tourism; to prove it, the community built a massive reed bulwark along the shore, successfully saving every single nest from the destructive spring tide.
 
-Story 71
+Story 0071
 
 incisive — 敏锐的；深刻的scurry — 疾走；急匆匆地跑lethal — 致命的precipitate — 促成；使突然发生stereotype — 刻板印象；成见sinecure — 闲职；挂名差事stentorian — 洪亮的；响亮的valor — 英勇；骁勇singular — 非凡的；独一无二的；单一的bias — 偏见；偏向
 
 The Lookout's Red Flag
 When a lethal wildfire sent panicked deer scurrying past the valley outpost, an incisive apprentice lookout acted instantly, broadcasting a stentorian alarm to precipitate a full evacuation. Her singular valor that afternoon completely shattered the old stereotype that her remote post was just an easy sinecure. Furthermore, her heroic actions exposed the fire chief's deep-seated bias against younger rangers, proving her worth to the entire department.
 
-Story 72
+Story 0072
 
 complicity — 共谋；同谋关系liquidation — 清算；清盘culpable — 应受谴责的；有罪的recant — 撤回；公开放弃（声明、信仰等）accomplice — 共犯；帮凶preclude — 排除；妨碍；阻止allege — 声称；断言；指控abrogate — 废除；取消invalidate — 使无效；使作废access — 进入权；使用权；通道
 
 The Key to the Workers' Archive
 Company owners allege that the pending liquidation of the firm must completely preclude workers from gaining access to the factory archive. However, a guilty security guard soon admits his complicity, confessing to acting as an accomplice in hiding critical safety reports. Panicking under pressure, the culpable director desperately tries to recant his previous verbal orders and abrogate the company's records policy, yet the signed key log will ultimately invalidate his denial in court.
 
-Story 73
+Story 0073
 
 importune — 纠缠请求；再三要求haven — 避风港；庇护所subjugate — 征服；使屈服surreptitious — 偷偷的；秘密的；鬼鬼祟祟的incontrovertible — 无可争辩的；确凿的eventuate — 最终发生；结果是subterranean — 地下的；隐秘的emit — 发出；放射；排放ultimate — 最终的；根本的；极限的viable — 可行的；能存活的；有生命力的
 
 The Breathing Cave
 Anxious miners continuously importune Lio to clear them for entry into a subterranean cavern—a geological haven where massive crystal clusters emit a faint, rhythmic pulse right alongside the crew's surreptitious drills. Despite intense corporate pressure, she firmly refuses to subjugate this natural wonder for short-term profit. Her instruments provide incontrovertible readings that the cave hosts a delicate, viable ecosystem, and her hard-fought negotiations eventually eventuate in its ultimate protection as a permanent living reserve.
 
-Story 74
+Story 0074
 
 premise — 前提；假设；［复数］房屋，店铺incredulous — 怀疑的；不相信的jeopardize — 危及；损害permeate — 渗透；弥漫；充斥propitious — 有利的；吉祥的；顺遂的curtail — 缩减；限制；削减cryptic — 隐晦的；神秘的；晦涩难懂的repress — 压抑；抑制；镇压surmise — 推测；猜想inchoate — 初步的；未成形的；早期的
 
 The Greenhouse Cipher
 Working on the premise that direct moonlight was uniquely propitious for rare orchids, an initially incredulous botanist decoded a cryptic note left by her predecessor. She began to surmise that invisible, silver spores had started to permeate the air throughout the entire greenhouse. Rather than repress her inchoate theory or curtail her ongoing trial out of fear, she carefully isolated a single plant bed to ensure the wild experiment would not jeopardize the rest of the irreplaceable collection.
 
-Story 75
+Story 0075
 
 nettle — 激怒；使恼火；荨麻aspire — 渴望；立志；追求inveigh — 猛烈抨击；大加谴责overt — 公开的；明显的relegate — 使降级；贬职；把…置于次要位置supine — 仰卧的；懒散的；消极被动的raze — 夷为平地；彻底摧毁repulse — 击退；拒绝；使厌恶mammoth — 巨大的；庞大的；猛犸象havoc — 浩劫；大破坏；混乱
 
 The Dam at Foxglove Valley
 Corporate plans to raze the historic Foxglove Valley to construct a mammoth hydroelectric dam deeply nettle the local villagers, who aspire only to protect their multi-generational family farms. Banding together, they loudly inveigh against the overt government land grab. They successfully repulse advancing survey crews through peaceful resistance, fiercely refusing to remain supine while distant officials relegate the coming environmental havoc to a mere footnote in a report.
 
-Story 76
+Story 0076
 
 elapse — （时间）流逝；过去sporadic — 零星的；偶发的；间歇性的domicile — 住所；官邸；定居地lax — 松懈的；不严格的；马虎的meticulous — 一丝不苟的；缜密的；极其细致的conjecture — 猜测；推测lurid — 骇人的；令人毛骨悚然的；艳俗的rash — 轻率的；鲁莽的；仓促的obviate — 消除；排除；避免quip — 妙语；打趣；俏皮话
 
 Seven Minutes at the Observatory
 Before seven minutes could elapse, a series of sporadic sparks forced astronomers to flee their high-altitude mountain domicile. While a lurid newspaper report quickly fueled public conjecture about a meteor strike, a meticulous technician traced the true cause back to lax electrical wiring. He used a clever quip to calm the panicked staff and halt a rash evacuation, immediately repairing the control panel to completely obviate any further danger.
 
-Story 77
+Story 0077
 
 diatribe — 长篇抨击；谩骂ilk — 类型；同类；同种人incoherent — 语无伦次的；不连贯的fortuitous — 偶然的；幸运的inhibition — 顾虑；拘束；抑制placard — 标语牌；告示prestigious — 有声望的；著名的；享有盛誉的remuneration — 报酬；酬金；薪水nominal — 名义上的；微不足道的integral — 必不可少的；作为整体所必需的
 
 The Placard and the Paper Crane
 At a prestigious campus arts festival, a nominal guest judge suddenly launched an incoherent diatribe against local street artists and others of their ilk. Minutes later, a fortuitous gust of wind pinned his aggressive protest placard beneath a massive, folded paper crane. This sudden, poetic sight freed a shy student sculptor from her typical inhibition, inspiring her to publicly explain why fair financial remuneration is an integral part of keeping public art alive.
 
-Story 78
+Story 0078
 
 utopia — 乌托邦；理想之国schism — 分裂；派系分裂；裂痕anathema — 深恶痛绝的人或物；可咒诅的事物flamboyant — 华丽的；艳丽的；炫耀的expunge — 删除；抹去；一笔勾销truncate — 截短；删节；缩短jaunty — 轻快自信的；活泼的；神气活现的ostentatious — 铺张的；炫耀的；招摇的timorous — 胆怯的；提心吊胆的；畏缩的fractious — 易怒的；暴躁的；难管束的
 
 The Parade of Unfinished Dreams
 A fractious city council hoped to expunge every flamboyant float and drastically truncate the scheduled speeches to fit their vision of an austere utopia—a rigid world where any ostentatious display of joy was considered absolute anathema. However, a usually timorous tailor bravely crossed the political schism, marching straight through the square in a jaunty, multicolored coat. The crowd's sudden burst of laughter and applause ultimately persuaded both bitter factions to step back and let the parade remain gloriously unfinished.
 
-Story 79
+Story 0079
 
 peruse — 细读；仔细研究premonition — 预感；（尤指不祥的）前兆desist — 停止；罢手recoil — 畏缩；退缩；弹回inclement — （天气）恶劣的；严酷的obsess — 使痴迷；使困扰mastiff — 獒犬doleful — 悲伤的；凄凉的；忧郁的pertinent — 相关的；切题的；中肯的wan — 苍白的；虚弱的；憔悴的
 
 The Lantern on Blackmere Moor
 During a bout of incredibly inclement weather, a wan traveler ignored a doleful premonition and carefully followed a massive mastiff across the desolate Blackmere Moor. Rather than obsess over local ghost tales or recoil from the animal's deep growl, she stopped at an old crossroads to peruse a pertinent notice pinned to a post. Realizing illegal activity was afoot, she used that vital information to confront a group of local smugglers, successfully forcing them to desist from using the abandoned lantern tower for their operations.
 
-Story 80
+Story 0080
 
 frustrate — 挫败；阻挠；使沮丧interject — 插话；突然插入histrionics — 戏剧化言行；装腔作势；矫揉造作elusive — 难以捉摸的；难找的；易忘的symptomatic — 有症状的；表明问题的；具代表性的imminent — 即将发生的；迫近的squeamish — 易恶心的；神经质的；过于拘谨的engross — 使全神贯注；吸引住salient — 突出的；显著的；最主要的inert — 惰性的；无活力的；呆滞的
 
 The Silent Capsule
 An elusive air leak began to deeply engross the orbital crew just as an imminent docking sequence with the resupply module approached. Cutting right through the team's rising panic and histrionics, the captain stepped forward to interject one salient fact: a failed, inert seal was highly symptomatic of underlying thermal damage. Under her steady leadership, even the notoriously squeamish ship medic jumped in to help replace the component, successfully working together to frustrate a major orbital catastrophe.
 
-Story 81
+Story 0081
 
 poignant — 令人心酸的；深刻感人的；切中要害的garble — 曲解；使（信息等）混乱不清fruitless — 徒劳的；无结果的inundate — 淹没；泛滥；使应接不暇sanguine — 乐观的；满怀希望的phlegmatic — 冷静的；沉着的；冷淡的zealous — 热心的；积极的；狂热的comprehensive — 全面的；综合的；广泛的coerce — 强迫；胁迫corroborate — 证实；确证；佐证
 
 The Voices Beneath the Flood
 When rising floodwater threatened to inundate the local history archive, a zealous reporter tried to coerce a poignant, sensationalized confession from its notoriously phlegmatic keeper, only to completely garble the facts in her rushing broadcast. Fortunately, a comprehensive set of restored village voice recordings arrived in time to corroborate the absolute truth of the situation. This reliable evidence made any further political argument entirely fruitless, leaving even the cautious keeper feeling remarkably sanguine about saving their community's rich heritage.
 
-Story 82
+Story 0082
 
 emaciate — 使消瘦；使衰弱tranquil — 宁静的；平静的sanctuary — 避难所；圣所；庇护所surge — 激增；汹涌；奔涌ascend — 攀登；上升；登高sinister — 阴险的；不祥的；有凶兆的besiege — 围困；（问题、麻烦等）困扰afflict — 折磨；使痛苦malnutrition — 营养不良privation — 贫困；匮乏；生活艰苦
 
 The Monastery Above the Clouds
 As fierce winter storms besiege the lower valley, determined porters slowly ascend the steep trails toward a tranquil sanctuary, carrying grain for families whom severe privation and malnutrition heavily afflict. A sinister rumor in the lowlands had falsely claimed the monks purposely emaciate refugees to save food. However, a sudden surge of healthy, laughing children rushing from the main gates to greet the supply train instantly reveals the heartwarming truth of the monastery's hidden soup kitchens.
 
-Story 83
+Story 0083
 
 ubiquitous — 无处不在的；普遍的remote — 偏远的；遥远的；微乎其微的harbinger — 先兆；预示者thwart — 阻挠；挫败；使受挫malignant — 恶性的；恶毒的；有害的excruciating — 极其痛苦的；剧烈难忍的reverberate — 回响；回荡；产生深远反响fretful — 烦躁的；焦虑的；不耐烦的respite — 暂时缓解；喘息；暂缓执行succumb — 屈服；死于；让步
 
 The Signal from Kestrel Ridge
 At a remote communications outpost, a sudden burst of ubiquitous static became the unmistakable harbinger of a malignant solar storm. While an excruciating, high-pitched whine echoing through the headsets made the fretful crew fear they would succumb to panic or total communication isolation, lead engineer Imani found a brief respite deep underground. Thinking fast, she successfully rigged a backup tunnel antenna to thwart an immediate system disaster, letting a crystal-clear all-clear signal reverberate safely across the ridge.
 
-Story 84
+Story 0084
 
 extortion — 敲诈；勒索impresario — （剧院、歌剧团等的）演出经理；主办人bigot — 偏执者；顽固排外者asset — 资产；有用的人或物；财富adverse — 不利的；有害的；逆向的entourage — 随行人员；随从virulent — 恶毒的；剧毒的；致命的spew — 喷出；涌出；喷吐venom — 恶意；毒液；毒汁blatant — 公然的；明目张胆的；喧嚣的
 
 The Midnight Matinee
 A blatant bigot threatened financial extortion when a prominent impresario chose to cast a talented refugee violinist as the season's lead. He even arrived at the theater with a loud entourage to spew virulent venom under the cover of adverse local headlines. Rather than backing down, the young musician answered directly with her music onstage, easily proving that her incredible art was the theater's greatest cultural asset and turning a hostile midnight matinee into a roaring standing ovation.
 
-Story 85
+Story 0085
 
 loath — 不情愿的；勉强的solicit — 征求；请求；拉客astute — 精明的；敏锐的；机敏的advocate — 提倡；拥护；拥护者；辩护律师ineffectual — 无效的；不起作用的；无能的vexatious — 令人烦恼的；无理纠缠的；恼人的amicable — 友好的；和睦的malady — 疾病；弊病；系统性问题nefarious — 邪恶的；不法的scrutinize — 仔细审查；彻底检查
 
 The Blight in Bellwether Orchard
 Deeply loath to falsely accuse her closest neighbor, an astute orchardist asked a legal advocate to thoroughly scrutinize the property's soil chemistry reports and solicit independent laboratory tests. Their investigation found absolutely no evidence of a nefarious poison or sabotage, pointing instead to a natural fungal malady that had been drastically worsened by an ineffectual commercial spray. This objective discovery instantly ended a vexatious, months-long feud, replacing it with an amicable, shared plan to restore both agricultural groves.
 
-Story 86
+Story 0086
 
 sally — 突然出击；突围；俏皮话affluent — 富裕的；丰富的consternation — 惊愕；恐慌feasible — 可行的；可能的discern — 辨别；看出；察觉precocious — 早熟的；才华早现的perfunctory — 敷衍的；例行公事的deride — 嘲笑；嘲弄；贬低perverse — 反常的；执拗的；任性的chagrin — 懊恼；羞恼
 
 The Chalk Fleet of Bellwether Bay
 To the immense consternation of an affluent yacht club, a precocious young girl made a sudden sally into their annual regatta with a tiny, chalk-painted dinghy. The elite judges gave her homemade craft only a perfunctory glance and began to deride her seemingly perverse sail design. However, their condescending chagrin grew with every passing minute when she managed to discern a highly feasible route through the heavy harbor fog—a path that every polished, high-end yacht had completely missed.
 
-Story 87
+Story 0087
 
 laudable — 值得赞扬的；可嘉的disparage — 贬低；轻视masticate — 咀嚼；研磨fiasco — 惨败；彻底失败eschew — 避开；回绝；戒绝dubious — 可疑的；不确定的；半信半疑的quell — 平息；镇压；消除confidant — 知己；密友obsolescence — 淘汰；过时；陈旧voluble — 健谈的；口若悬河的
 
 The Talking Mill of Chestnut Hill
 A voluble miller and his quiet, trusted confidant built a laudable machine designed to efficiently masticate fallen chestnuts, hoping to save their traditional craft from industrial obsolescence. Local corporate rivals were quick to disparage the dubious prototype, loudly predicting it would end in a total fiasco. Instead of fighting back, the peaceful pair chose to completely eschew petty arguments, effortlessly quelling every complaint by serving warm, fresh flour cakes from its very first successful batch.
 
-Story 88
+Story 0088
 
 implacable — 无法平息的；不妥协的；执拗的jurisdiction — 管辖权；司法权限；管辖范围paroxysm — （疾病或情绪的）突发；阵发skirmish — 小冲突；小规模战斗reprehensible — 应受谴责的；可指责的fray — 冲突；争斗；争吵indigent — 贫困的；穷困的arbitrary — 武断的；任意的；专断的monolithic — 庞大僵化的；单一成块的；整体式的harass — 骚扰；侵扰；不断困扰
 
 The Night Court Kitchen
 When an implacable landlord tried to harass indigent tenants well beyond the legal boundaries of his property jurisdiction, his arbitrary eviction notice sparked an angry skirmish in the apartment hallway. A visiting nurse bravely entered the fray after a sick child suffered a sudden paroxysm of coughing, and her subsequent court testimony exposed the truly reprehensible systemic policies hidden inside the city's monolithic housing bureau.
 
-Story 89
+Story 0089
 
 effigy — 雕像；（被憎恶之人的）模拟像stymie — 阻挠；妨碍cognizant — 知晓的；意识到的flout — 公然蔑视；无视turbulent — 动荡的；湍急的；狂暴的terminate — 终止；结束forthwith — 立即；马上oust — 罢免；驱逐；把…赶走revert — 恢复；回到（原状、旧习惯）exacerbate — 加剧；使恶化
 
 The Bell in the Flood
 Fully cognizant that the fast-rising, turbulent river water will only exacerbate the town's growing panic, Mara runs to the old town bell to sound the alarm forthwith. Corrupt officials who regularly flout basic safety rules try to stymie her efforts by blocking the bell tower gate with a heavy, ceremonial effigy of the mayor. Refusing to be stopped, the angry residents move in to oust the politicians, terminate the sham curfew order, and quickly revert to their proven hill-road evacuation plan.
 
-Story 90
+Story 0090
 
 laceration — 裂伤；割伤tangible — 有形的；切实的；可触知的castigate — 严厉批评；谴责；惩戒octogenarian — 八旬老人sordid — 肮脏的；卑鄙的；利欲熏心的scurrilous — 粗俗诽谤的；恶言中伤的aspirant — 有抱负者；有野心的人；候选人frenzy — 狂乱；狂热；极度激动dregs — 残渣；渣滓；社会渣滓solace — 安慰；慰藉
 
 The Teahouse at the Finish Line
 After a promising cycling aspirant suffered a painful leg laceration in the chaotic race-day frenzy, a scurrilous sports commentator used the sordid mishap to harshly castigate her entire support team. Watching the drama unfold, a kind octogenarian brewer quietly washed the dregs from an old porcelain cup and offered the rider both heartfelt solace and tangible practical help. He then went out back and lent her the sturdy bicycle on which he himself had once crossed that very same finish line decades ago.
 
-Story 91
+Story 0091
 
 rampant — 猖獗的；泛滥的；蔓生的clandestine — 秘密的；暗中的ethics — 伦理；道德准则；行为准则inane — 愚蠢的；空洞的；无意义的concur — 同意；赞同；同时发生culprit — 罪魁祸首；犯错者；嫌疑犯inexorable — 不可阻挡的；无情的；势不可挡的duress — 胁迫；强迫admonish — 告诫；责备；警告flagrant — 公然的；恶劣的；明目张胆的
 
 The Midnight Choir of Station Four
 As rampant rumors falsely blamed a clandestine choir for causing the subway's inexorable midnight echoes, stressed transit officials operating under intense public duress rushed to publicly admonish the singers for a flagrant breach of professional ethics. However, two station engineers did not concur with that inane verdict. Instead, they investigated further and soon found the true mechanical culprit: a loose steel ventilation grille humming deeply whenever the night wind blew through the tunnels.
 
-Story 92
+Story 0092
 
 egregious — 极坏的；令人震惊的；触目的acrimonious — 尖刻的；激烈的；充满火药味的duplicity — 欺骗；口是心非；两面派行为paucity — 缺乏；少量；贫乏distraught — 心烦意乱的；极度不安的；发狂的impunity — 不受惩罚；免罪；豁免elicit — 引出；诱出；探出tolerate — 容忍；忍受；忍耐construe — 理解；把…解释为pernicious — 有害的；恶性的；致命的
 
 The Orchard's Bitter Honey
 A distraught local beekeeper feared that suspicious villagers would construe the seasonal paucity of honey as a sign of egregious personal neglect, all while an acrimonious neighbor spread pernicious claims about his work with absolute impunity. To clear his name, a visiting botanist used gentle mint smoke to safely elicit the bees from their hives. By examining the hive environment, she successfully exposed the neighbor's hidden duplicity, proving to the town that the delicate colony simply could not tolerate a toxic pesticide the neighbor had newly imported.
 
-Story 93
+Story 0093
 
 laconic — 言简意赅的；简短的accost — 上前搭话；唐突地招呼reticent — 沉默寡言的；有保留的；不愿透露的throng — 人群；群集；蜂拥intrepid — 无畏的；勇敢的compound — 院落；大院；复合物annals — 编年史；历史记录paradox — 悖论；自相矛盾的人或事tinge — 淡淡的色彩；一丝痕迹；略微影响realm — 领域；王国
 
 The Archivist Who Spoke in Footnotes
 When an angry throng surrounded the palace compound, an intrepid history student dared to accost its notoriously reticent, laconic archivist to ask about a mysterious crimson tinge staining the pages of the royal annals. The old scholar's quiet answer exposed a fascinating paradox at the very heart of the realm's founding legend, revealing that their supposed conqueror had actually surrendered peacefully to save the ancient city from destruction.
 
-Story 94
+Story 0094
 
 ominous — 不祥的；预示凶兆的repudiate — 拒绝接受；否认；与…断绝关系bristle — 竖起；发怒；显出愤怒tremulous — 颤抖的；胆怯的cessation — 停止；终止stipulate — 规定；明确要求euphemism — 委婉语；委婉说法condolence — 哀悼；慰问mundane — 平凡的；世俗的；乏味的incongruous — 不协调的；不合适的；不相称的
 
 The Violin at Platform Six
 An ominous silence immediately followed the sudden cessation of all commuter trains. Standing on the platform, frustrated travelers began to bristle with anger when a tremulous young violinist began to play beside an incongruous row of empty shoes left near the tracks. While the station's mundane electronic notice board simply called the incident a "schedule delay"—a sterile euphemism that grieving families would quickly repudiate—the oncoming conductor stepped forward to offer his sincere condolence, promising to formally stipulate stronger emergency tunnel alarms in the safety budget.
 
-Story 95
+Story 0095
 
 hapless — 倒霉的；不幸的irate — 愤怒的；大发雷霆的；恼火的furtive — 偷偷摸摸的；鬼鬼祟祟的plethora — 过多；过剩；大量felon — 重罪犯generate — 产生；引起；生成swirl — 旋转；大漩涡；打旋convert — 转换；改变；使改变信仰disturbance — 骚乱；干扰；混乱status — 地位；身份；状态
 
 The Laundry That Powered a Cinema
 A hapless former felon took a furtive night shift job in a decaying industrial laundry, where a plethora of loose sheets would frequently swirl into the massive exhaust fans and generate an irate mechanical disturbance. Instead of giving up, he used his mechanical skills to convert the energy of the massive spinning drums into makeshift electrical generators. This brilliant innovation completely changed both the building's operational status and his own standing in the community when he used the power to open a free neighborhood cinema.
 
-Story 96
+Story 0096
 
 impassible — 不动感情的；冷漠的；无感觉的（注：不伤感的，易与impossible混淆）unique — 独特的；唯一的treacherous — 危险的；背信弃义的；不可靠的freak — 反常的；怪异的；怪事vanish — 消失；绝迹cargo — 货物；船货terrestrial — 地球的；陆生的；人间的evidence — 证据；迹象attribute — 归因于；属性；特质malfunction — 故障；失灵
 
 The Impassible Pilot of Europa
 The famously impassible pilot calmly guided her unique cargo skiff through Europa's treacherous sub-surface ice fields when a freak electromagnetic compass malfunction caused every remaining terrestrial tracking signal to instantly vanish. Refusing to panic or attribute their dangerous drift to mere bad luck, she closely followed a steady trail of rising hydrothermal bubbles as physical evidence of a warm current, using it to navigate safely to the research dome.
 
-Story 97
+Story 0097
 
 intimidate — 恐吓；威胁；使畏缩feint — 佯攻；假动作；伪装alacrity — 欣然；敏捷；乐意belligerent — 好战的；交战中的；挑衅的disdain — 鄙视；轻蔑promulgate — 颁布；传播；公布brash — 鲁莽的；盛气凌人的；无礼的scoff — 嘲笑；嘲弄pugnacious — 好斗的；爱争执的belittle — 贬低；轻视
 
 The Debate Beneath the Boxing Ring
 A brash and highly pugnacious boxing champion tried hard to intimidate a shy female referee, openly seeking to belittle her authority and scoff at her decisions with belligerent disdain. However, the official remained completely unfazed, answering each of his aggressive verbal feints with remarkable alacrity. Standing her ground, she seized the arena's microphone system to loudly promulgate a fair, clear code of conduct, instantly winning the respect and cheers of the entire crowd.
 
-Story 98
+Story 0098
 
 rudimentary — 初步的；基本的cajole — 哄骗；劝诱enhance — 提高；增强nuance — 细微差别；微妙之处avid — 热衷的；渴望的accuse — 指责；控告navigation — 导航；航行neglect — 忽视；疏于照顾；玩忽职守grand — 宏伟的；重大的；堂皇的plot — 情节；密谋；小块土地
 
 The Map Sewn into the Sail
 An avid sailor with only rudimentary navigation skills tried hard to cajole a retired captain into joining her grand island expedition. At first, the old captain began to accuse her of reckless neglect for ignoring basic sea safety. However, as she unfurled her canvas, the subtle nuance of a faded plot sewn directly into her sail caught his eye; the hidden lines helped enhance an old, incomplete map and ultimately revealed the safe deep-water channel he had forgotten decades ago.
 
-Story 99
+Story 0099
 
 curb — 控制；约束；路缘hazard — 危险；危害；冒险ban — 禁止；禁令eliminate — 消除；淘汰；根除campaign — 运动；战役；竞选活动prognosticate — 预言；预测automaton — 自动装置；机器人；机械般行动的人matron — 女主管；护士长；年长稳重的妇女abound — 大量存在；充满technology — 技术；科技
 
 The Clockwork Gardener of Larkspur Square
 When thorny, invasive vines began to abound across Larkspur Square, the strict park matron firmly refused to ban public picnics, launching a community campaign instead to safely curb the environmental hazard. She brought in a weathered clockwork automaton that used surprisingly simple technology to accurately prognosticate each upcoming growth spurt. Working through the night, the mechanical gardener managed to completely eliminate the troublesome vines before dawn.
 
-Story 100
+Story 0100
 
 relic — 遗物；遗迹；废墟fascinate — 使着迷；深深吸引credit — 功劳；信任；学分；赞誉conceive — 构想；设想；怀孕descendant — 后代；后裔wrest — 强行夺取；费力取得；夺回lackluster — 无光泽的；平淡的；无生气无光彩的caustic — 刻薄的；尖酸的；腐蚀性的loathe — 厌恶；憎恨reprimand — 训斥；谴责；斥责
 
 The Bell Beneath the Salt
 A lackluster relic recently recovered from a deep salt cave began to deeply fascinate a legendary bell maker's descendant. While looking at the ruined artifact, he could conceive a precise mechanical way to wrest beautiful music from its heavily corroded rim. Though local art critics absolutely loathe his caustic replies to their skepticism, and the conservative museum board issued a formal reprimand for his unorthodox methods, he gave full credit to the original salt miners whose rhythmic tapping had first revealed the bell's hidden, melodic tone.
 
-Story 101
+Story 0101
 
 incipient — 初期的；刚出现的infamous — 臭名昭著的；恶名远扬的dupe — 欺骗；愚弄；受骗者jostle — 推挤；挤撞；争夺inadvertent — 无意的；疏忽的genuine — 真正的；真诚的；名副其实的forgery — 伪造品；伪造罪lessen — 减轻；减少；缩小circulation — 流通；发行量；循环prosper — 繁荣；兴旺；蓬勃发展
 
 The Woodcut Hidden in the Almanac
 At an incipient community book fair, eager buyers began to jostle around a rare print linked to an infamous counterfeiter. However, an inadvertent ink smear along the border exposed the piece as a clever forgery before it could dupe any unsuspecting collectors. Turning the incident into a triumph, the genuine artist stepped forward and released thousands of affordable, verified copies into general circulation. This brilliant move helped lessen intense market speculation and allowed the whole indie fair to prosper.
 
-Story 102
+Story 0102
 
 adolescence — 青春期；青少年时期rural — 农村的；乡村的urban — 城市的；都市的dense — 稠密的；密集的；难懂的characteristic — 特征；特点；典型的drudgery — 苦差事；繁重乏味的工作badger — 纠缠；反复催促；烦扰perceive — 察觉；理解；看待implore — 恳求；哀求interminable — 没完没了的；冗长的
 
 The Radio Between Two Rooftops
 During her rocky adolescence, Mina moved away from a quiet rural valley to a dense urban apartment district. At first, the seemingly interminable drudgery of repairing broken old radios in a cramped shop felt entirely characteristic of her lonely new life. Neighborhood classmates would regularly badger her to quit working and implore her to join their street games. They kept pressing her until they finally began to perceive that her late-night rooftop shortwave broadcasts were actively connecting lonely, isolated neighbors all across the city.
 
-Story 103
+Story 0103
 
 propinquity — 邻近；亲近；接近laud — 赞美；称颂banish — 放逐；消除；赶走punctuation — 标点符号；标点法；标点
 
 The Neighboring Island Choir
 The close propinquity of two distinct island choirs first bred an intense rivalry between the communities. However, their cooperative conductors wisely chose to laud each other's signature songs and permanently banish resentment with a shared summer concert. Inventive punctuation in the newly arranged score turned their alternating pauses into seamless harmony, letting the music drift beautifully across the narrow strait.
 
-Story 104
+Story 0104
 
 roam — 漫游；闲逛；徘徊rugged — 崎岖的；坚固的；粗犷的teem — 充满；大量存在desolate — 荒凉的；凄凉的spectacular — 壮观的；精彩的；引人入胜的immigrant — 移民；移居者persecute — 迫害；刁难；烦扰prolific — 多产的；繁茂的；丰富的commercial — 商业的；商务的fashion — 时尚；方式；塑造
 
 The Lantern Beetles of Black Mesa
 An adventurous immigrant photographer chose to roam a rugged, seemingly desolate plateau where rare lantern beetles teem immediately after a heavy rain. Their spectacular and prolific biological display quickly inspired a high-end commercial fashion campaign in the city. However, local park rangers warned that greedy private collectors might persecute the fragile swarm, leading to a fierce fight to protect the canyon.
 
-Story 105
+Story 0105
 
 incur — 招致；承担；带来issue — 问题；争端；发布；发行allegiance — 忠诚；效忠renounce — 宣布放弃；拒绝承认；割爱culminate — 达到高潮；以……告终；达到顶点pose — 造成；提出；摆姿势pioneer — 先驱；开拓者；开创migration — 迁徙；移居；移动deposit — 沉积物；存放；押金barrier — 障碍；屏障
 
 The Kites Above Heron Pass
 During the local herons' annual autumn migration, a young aviation pioneer chose to completely renounce his allegiance to a massive dam project whose physical barrier would permanently bury a rare mineral deposit under water. Even though his public dissent could incur severe corporate punishment, he used heavy kite photographs to issue a clear ecological warning, pose hard structural questions, and successfully help the grass-roots protest culminate in an officially protected wetland reserve.
 
-Story 106
+Story 0106
 
 destructive — 破坏性的；毁灭性的trait — 特征；特点；品质preserve — 保护；保存；维持cultivate — 培养；耕作；建立faculty — 能力；官能；全体教员replete — 充满的；饱食的eminent — 杰出的；著名的；卓越的steep — 陡峭的；急剧的；浸泡voracious — 贪吃的；狼吞虎咽的；求知欲强的indiscriminate — 不加选择的；任意的；盲目的
 
 The Goat in the Alpine Greenhouse
 An eminent botanist at a steep mountain academy discovered that a voracious goat's indiscriminate appetite was not merely a destructive behavioral trait. Upon closer look, the animal specifically selected and ate invasive weeds, effectively helping the students preserve rare local herbs, cultivate immense patience, and develop their own faculty of close observation in a research greenhouse replete with daily surprises.
 
-Story 107
+Story 0107
 
 survey — 调查；勘测；审视reconcile — 调和；使和解；使一致casual — 随意的；临时的；漫不经心的poll — 民意调查；投票；对…进行民意测验reveal — 揭示；透露；展现distinction — 区别；卓越；荣誉assume — 假定；承担；呈（显）现certify — 证明；认证；保证convey — 传达；运送；表达province — 省；领域；范围
 
 The Two Names of Willow Bridge
 In a remote rural province, a casual geographic survey and a sudden village poll threatened to reveal a sharp, historical distinction between two competing names for an ancient stone bridge. Rather than assume either passionate faction was entirely wrong, a clever linguist asked community elders to formally certify old family maps and convey their personal childhood memories, successfully helping reconcile the divided communities with a beautifully handcrafted bilingual sign.
 
-Story 108
+Story 0108
 
 discard — 丢弃；抛弃soberly — 冷静地；严肃地gravely — 严肃地；严重地paraphernalia — 随身用品；全套装备；繁琐的手续ritual — 仪式；惯例；例行公事vigilant — 警觉的；警惕的adroit — 灵巧的；机敏的fabricate — 编造；制造；伪造pretext — 借口；托词gesticulate — 做手势；（讲话时）打手势比画
 
 The Silent Magician's Last Cue
 Hours before the busy harbor festival, an adroit stage magician performed his usual pre-show ritual of checking every safety rope and piece of illusionist paraphernalia. When a vigilant child in the front row began to gesticulate gravely toward a slowly smoking storage trunk, the performer did not try to fabricate a comforting pretext or casually discard the warning. Instead, he soberly cleared the main stage just minutes before a hidden, defective battery pack ignited into flames.
 
-Story 109
+Story 0109
 
 fertile — 肥沃的；富有创造力的；多产的expunge — 删除；抹去；一笔勾销deface — 污损；毁坏…的外观villain — 恶棍；反派角色；祸首wretched — 悲惨的；糟糕的；可怜的infrequent — 不常见的；罕见的；稀少的palpate — 触诊；（医）用手检查altruism — 利他主义；无私temporal — 时间的；世俗的；暂时的splenetic — 易怒的；脾气暴躁的
 
 The Orchard Statue's Warning
 In a fertile community orchard, an infrequent temporal shimmer suddenly revealed the scratched words “expunge; deface” carved beneath a historic stone statue. A splenetic security guard immediately called the young finder a villain and accused him of the crime. However, a local healer paused to carefully palpate the boy's wretched, bruised arm. Driven by pure altruism rather than any personal partiality, she successfully proved that the young man had actually been injured while bravely stopping the real vandal.
 
-Story 110
+Story 0110
 
 dilator — 扩张器；使扩张者bigoted — 偏执的；顽固的；盲信的heliolatry — 太阳崇拜immoderately — 过度地；无节制地inflexible — 不灵活的；僵化的；顽固的binding — 有约束力的；捆绑的；（书籍的）装订machinations — 阴谋；诡计stratagem — 计谋；策略；花招shyster — 奸诈的律师；不道德的骗子oversupply — 供过于求；过量供应
 
 The Solar Temple's Copper Ring
 A bigoted shyster sold an inflexible, legally binding contract to the innocent devotees of a local heliolatry sect, claiming that a specialized copper dilator could naturally cure a spiritual oversupply of sunlight. His deceptive machinations grew immoderately bold as he drained the temple's funds. Fortunately, a skeptical head priestess deployed a simple stratagem, testing the device's supposed energy readings at midnight and completely exposing the entire fraudulent operation to her followers.
 
-Story 111
+Story 0111
 
 abhor — 憎恶；厌恶；痛恨plentiful — 丰富的；充足的；大量的debacle — 惨败；崩溃；灾难toilsome — 辛苦的；费力的；艰难的susurration — 沙沙声；低语声sympathetic — 同情的；赞同的；有共鸣的strident — 刺耳的；强硬的；咄咄逼人的laughable — 可笑的；荒谬的assiduousness — 勤勉；专心致志；刻苦profess — 声称；公开表示；信奉
 
 The Reeds That Saved the Regatta
 Though most local sailors profess to abhor the marsh's strident susurration during heavy winds, a sympathetic boatbuilder deeply valued its plentiful reeds. After a toilsome week of intense, unyielding assiduousness in her workshop, she used the fiber to construct a remarkably flexible light mast. Her innovative design turned a predicted race-day debacle into a historic victory, making the traditional clubs' old mockery look entirely laughable.
 
-Story 112
+Story 0112
 
 polite — 有礼貌的；文雅的；客气的impetuous — 冲动的；鲁莽的；鲁莽轻率的failing — 缺点；弱点；衰退depraved — 堕落的；邪恶的；腐化的invariable — 不变的；恒定的alluring — 诱人的；迷人的；吸引人的unsophisticated — 朴实的；不谙世故的；简单的amusing — 有趣的；逗人发笑的nefarious — 邪恶的；罪恶的；不法的terrestrial — 地球的；陆生的；人间的
 
 The Terrestrial Circus on Mars
 A polite but highly impetuous space cadet found an alluring, unsophisticated poster advertising a traveling terrestrial circus. While watching the show, he noticed the amusing clown had one invariable failing—he kept stumbling over his own props. However, the clown's clumsy act was a secret distress signal, which eventually revealed a depraved ringmaster's nefarious plan to abandon the performing animals on Mars to save fuel.
 
-Story 113
+Story 0113
 
 scarify — 划破；松土；（医）划痕eminent — 杰出的；显赫的；卓越的critique — 批评性分析；评论；评论文章determination — 决心；坚定；测定vigor — 活力；精力；力量egotism — 自负；自我中心；自大treatise — 专著；学术论文ingrain — 使根深蒂固；使深深印在脑海中crochet — 钩针编织；钩针织物haughty — 傲慢的；自大的；高傲的
 
 The Crochet Map of the Vineyard
 An eminent but haughty master gardener wrote a harsh critique of a young student's handcrafted crochet map. Years of grand academic acclaim had helped ingrain a deep sense of egotism in him, and it gave his lengthy treatise a highly contemptuous tone. Undeterred, and acting with fierce determination and physical vigor, the student used the map's textured, colored yarn rows to accurately locate the estate's hidden, dry plots. She then began to scarify the compacted soil, single-handedly starting to restore the dying vineyard.
 
-Story 114
+Story 0114
 
 requital — 回报；报答；报复scurrilous — 粗俗辱骂的；下流诽谤的nebulous — 模糊的；星云状的；朦胧的vague — 含糊的；不明确的；暧昧的snigger — 窃笑；暗笑unsociable — 不合群的；孤僻的不爱交际的impervious — 不受影响的；不透水的；不能渗透的briskness — 轻快；敏捷；活跃goad — 刺激；驱使；激怒sciolism — 一知半解；一知半解的学问
 
 The Waterproof Star Chart
 An unsociable local sailor remained entirely impervious to a rival's scurrilous snigger and vague, arrogant display of navigation sciolism. With practiced briskness, he ignored the mockery and unfolded a heavy, waterproof star chart across the deck. He used a faint, nebulous star cluster to safely goad the panicked crew onward through the heavy fog, seeking absolutely no personal requital or praise after successfully guiding both imperiled boats back home to the harbor.
 
-Story 115
+Story 0115
 
 concise — 简明的；简洁的forthrightness — 坦率；直率denouement — （戏剧、小说等的）结局；收场；收尾irregular — 不规则的；不合常规的；不稳定的supercilious — 傲慢的；目中无人的；高傲的stir up — 激起；煽动；大吵大闹emend — 校订；修正（文本）grief — 悲痛；伤心；麻烦ignoble — 卑劣的；不光彩的；出身卑微的sagacity — 睿智；洞察力；聪敏
 
 The Playwright's Missing Denouement
 With concise forthrightness and quiet artistic sagacity, a modest theatrical understudy offered to emend a highly irregular and confusing final act before opening night. A supercilious lead star tried to stir up intense grief and corporate trouble over the sudden script change. However, the brilliant new denouement perfectly exposed the star's own ignoble theft of the original playwright's missing pages, revealing the truth to the entire cast.
 
-Story 116
+Story 0116
 
 sycophantic — 谄媚的；奉承的；阿谀的remunerative — 报酬丰厚的；有利可图的；有赚头的protracted — 持久的；拖延的；延长的dishabille — 衣冠不整；穿便服的状态rank — 等级；排；恶臭的；繁茂的diffident — 缺乏自信的；羞怯的；内向的enticing — 诱人的；迷人的；有吸引力的timorousness — 胆怯；畏缩supplication — 恳求；祈求；哀求revival — 复兴；复苏；（戏剧的）重演
 
 The Midnight Noodle Revival
 After a protracted winter storm paralyzed the city, a diffident cook standing in a state of dishabille ignored a sycophantic food critic's dramatic supplication for special treatment based on social rank. Instead, she chose to offer an enticing, steaming bowl of broth to the exhausted, stranded travelers shivering around her cart. Overcoming her natural timorousness, she turned the small stall's late-night revival into a highly remunerative dawn business that captured the whole neighborhood's heart.
 
-Story 117
+Story 0117
 
 monotonous — 单调的；乏味的giggle — 咯咯笑；傻笑peccadillos — 小过失；小毛病；微瑕ubiquity — 无处不在；普遍存在apocryphal — 真伪可疑的；伪造的；传闻的stridency — 尖锐刺耳；强硬；咄咄逼人exterminate — 消灭；根除；彻底灭绝recriminate — 反责；反唇相讥；相互指责enervate — 使衰弱；使失去活力；使无精打采sham — 假货；骗局；虚假的
 
 The Mayor's Mechanical Crickets
 The monotonous stridency and apparent ubiquity of the mayor's newly deployed mechanical crickets quickly began to enervate the entire town. However, a child's sudden, joyful giggle soon exposed the apocryphal corporate claim that these costly devices would effectively exterminate local agricultural pests. Rather than stand around to recriminate over past political peccadillos, the unified neighbors gathered in the square to dismantle the sham devices together.
 
-Story 118
+Story 0118
 
 fervid — 热烈的；炽热的；狂热的celestial — 天空的；天体的；神圣的omnidirectional — 全向的；四面八方的clever — 聪明的；巧妙的；机敏的toadying — 谄媚的；奉承的；拍马屁的unswerving — 坚定的；不动摇的；始终如一的minuscule — 极小的；微不足道的conspire — 密谋；图谋；共同促成expostulate — 劝诫；规劝；忠告close-fistedness — 吝啬；小气
 
 The Observatory's Minuscule Lens
 A clever apprentice astronomer gave a fervid defense of her newly designed, minuscule omnidirectional lens. She firmly refused to conspire with the toadying senior scholars who actively tried to hide the head director's blatant close-fistedness regarding equipment upgrades. When the angry director began to loudly expostulate and threaten her position, her unswerving technical demonstration safely revealed a previously undiscovered celestial comet to the world.
 
-Story 119
+Story 0119
 
 rapprochement — 和解；（国家或团体间）关系的改善mordant — 尖刻的；讽刺的；（外）媒染剂persiflage — 戏谑；轻松的调侃；幽默的闲谈vociferous — 大声疾呼的；喧嚷的；大噪的osculation — 接吻；（数）密切接触；接触sublime — 崇高的；壮美的；完美的abrade — 磨损；擦伤；磨蚀surplus — 过剩；剩余；剩余的juxtapose — 并列；并置rubbish — 垃圾；废物；胡说
 
 The Mosaic of Two Harbors
 Two usually vociferous harbor artists unexpectedly sought a public rapprochement through witty persiflage, agreeing to collaborate on a coastal monument. They chose to juxtapose sublime, imported blue stained glass with weathered rubbish gathered directly from the shoreline. By utilizing a durable mordant dye and ensuring the perfect physical osculation of the wet clay tiles, they kept the surplus sea shells from falling away, even though heavy ocean waves continued to abrade the outer frame.
 
-Story 120
+Story 0120
 
 youth — 青年时期；年轻人；青春discursive — 离题的；散漫的；东拉西扯的malapropos — 不合时宜的；不得体的；不恰当的lascivious — 好色的；淫荡的；挑逗性的tergiversate — 搪塞；支吾；改变立场（或信仰）pusillanimity — 胆怯；懦弱；没骨气transmute — 使变形；使转化；使蜕变wishful — 一厢情愿的；怀有愿望的prejudice — 偏见；成见；使抱偏见heretical — 异端的；反传统的；不信正统的
 
 The Alchemist's Youthful Trial
 During his turbulent youth, a brilliant alchemist gave a highly discursive, somewhat malapropos answer when hauled before a council and accused of writing a lascivious love poem. Yet, he absolutely refused to tergiversate under pressure. Overcoming both his own temporary pusillanimity and the deep-seated social prejudice of his town, he safely used a highly heretical laboratory furnace to successfully transmute what narrow-minded critics had long dismissed as mere wishful thinking into a flawless, glowing crystal.
 
-Story 121
+Story 0121
 
 truckling — 阿谀奉承的；卑躬屈膝的；奴颜婢膝的petulant — 任性的；暴躁的；脾气坏的crafty — 狡猾的；灵巧的；诡计多端的flamboyant — 华丽张扬的；艳丽的；炫耀的transient — 短暂的；临时的；转瞬即逝的irascible — 易怒的；暴躁的revive — 使复苏；恢复；重新流行unwieldy — 笨重的；难操纵的；庞大的petition — 请愿书；请愿；诉状unquestionable — 无可置疑的；确实的
 
 The Flamboyant Tram Petition
 A crafty transit conductor used a beautifully restored, flamboyant but decidedly unwieldy historic street tram to help revive a struggling, transient neighborhood street fair. When a petulant and notoriously irascible city safety inspector immediately rejected the eager neighbors' formal petition for a route permit, the proud conductor completely avoided truckling to his dynamic outbursts. Instead, he coolly produced unquestionable archival documentation proving that the old iron route remained structurally sound.
 
-Story 122
+Story 0122
 
 debunk — 揭穿；驳斥capacious — 宽敞的；容量大的bondage — 奴役；束缚；羁绊deprived — 贫困的；被剥夺的；缺乏的exhortation — 劝告；敦促；诫勉waver — 动摇；犹豫；晃动temperate — 温和的；有节制的；适度的defensible — 可辩护的；有正当理由的；可防守的vanity — 虚荣；自负；空虚prudent — 谨慎的；明智的
 
 The Airship's Hidden Hold
 A prudent mechanic did not waver when her greedy captain's intense exhortation sent her down into the airship's capacious cargo hold. Deep within the lower deck, she was shocked to find several deprived stowaways hidden away in miserable bondage. Later on, her calm, temperate testimony helped flatly debunk the captain's highly defensible-sounding explanation to the authorities, completely puncturing his arrogant vanity.
 
-Story 123
+Story 0123
 
 compose — 创作；使镇静；组成lengthen — 延长；变长stern — 严厉的；坚定的；船尾objurgation — 严厉斥责；非难estimable — 值得尊敬的；可估计的volition — 意志；自愿选择disdainful — 轻蔑的；傲慢的；不屑的transitory — 短暂的；临时的；转瞬即逝的corruptible — 易腐化的；可收买的；易受贿的prosaic — 平凡的；乏味的；散文诗的
 
 The Sonata at Low Tide
 An estimable young violinist chose entirely by her own volition to compose her new sonata on a slow, prosaic commuter ferry. However, the stern ship conductor's disdainful objurgation regarding her playing made every remaining minute of the voyage feel like it would lengthen indefinitely. Fortunately, the transitory quarrel ended when she successfully proved that a supposedly corruptible deckhand had actually risked his job to rescue her scattered musical score from the rising tide.
 
-Story 124
+Story 0124
 
 eerie — 怪异的；阴森的；可怕的stinginess — 吝啬；小气autobiography — 自传prodigy — 奇才；神童；奇迹scandalously — 骇人听闻地；可耻地；惹人议论地pastiche — 模仿作品；混杂作品；拼贴画despised — 被鄙视的；遭唾弃的radical — 激进的；根本的；彻底的circumspect — 谨慎的；周到的；小心的pygmalion — 皮格马利翁式人物；精心培养他人者
 
 The Waxwork Prodigy
 Inside an eerie waxwork museum, a circumspect young art prodigy sat down to read a long-despised sculptor’s private autobiography. Through the faded pages, he learned that the celebrated historical artist had once acted as a generous pygmalion to a highly gifted studio apprentice, only to later scandalously copy the young assistant's work. The city's supposed masterpiece was actually a hollow pastiche born of absolute stinginess, while the apprentice's radical original creation still waited forgotten in the damp cellar.
 
-Story 125
+Story 0125
 
 pompous — 自负的；浮夸的；爱虚荣的plain-spoken — 直言不讳的；坦率的specious — 似是而非的；华而不实的malicious — 恶意的；蓄意伤害的feeble — 虚弱的；无力的；微弱的menacing — 威胁的；险恶的；有危险的scrupulousness — 严谨；一丝不苟；审慎itinerant — 巡回的；流动的；巡游的peccadilloes — 小过失；小毛病；轻罪egoism — 利己主义；自我中心
 
 The Itinerant Judge's Lantern
 A plain-spoken itinerant judge arrived in town and met with a pompous local mayor whose specious defense of his personal peccadilloes heavily masked a deeply malicious egoism. Despite her own physically feeble voice and the presence of the town's menacing security guards, the judge's unyielding professional scrupulousness carried the day. Standing her ground, she successfully exposed the mayor's forged financial order under the steady glare of her old travel lantern.
 
-Story 126
+Story 0126
 
 abrogate — 废除；取消grand — 宏伟的；重大的；堂皇的murky — 阴暗的；浑浊的；扑朔迷离的sane — 理智的；清醒的；明智的genteel — 文雅的；上流社会的；有教养的confine — 限制；禁闭；管束cataclysm — 大灾难；剧变shameful — 可耻的；丢脸的indolent — 懒惰的；懒散的reserved — 内敛的；话不多的；预留的
 
 The Flooded Ballroom Decree
 When a murky flood unexpectedly entered the grand ballroom, a reserved but highly sane estate gardener urged the genteel mayor to immediately abrogate a shameful city rule that would confine arriving refugees outdoors in the mud. Driven by the emergency, even the traditionally indolent city council acted with uncharacteristic speed, opening the upper doors before the rising storm could become a total regional cataclysm.
 
-Story 127
+Story 0127
 
 resourceful — 足智多谋的；机敏的categorical — 明确的；绝对的；无条件的thesis — 论点；毕业论文rub out — 擦掉；消灭；除掉crepitant — 劈啪作响的；有爆裂音的fictitious — 虚构的；假的；编造的noctivagation — 夜间漫游faint — 微弱的；模糊的；昏厥hierarch — 高级神职人员；统治集团高级成员deviate — 偏离；违背
 
 Footprints After Midnight
 A resourceful scholar testing her historical thesis on noctivagation followed a faint, crepitant sound deep beneath the cathedral archive. In the shadows, a powerful hierarch ordered her to completely rub out a categorical field note she had just logged. She firmly refused to deviate from the physical evidence, protecting her notebook and ultimately exposing his entire fictitious family pedigree to the public.
 
-Story 128
+Story 0128
 
 unconcealed — 不加掩饰的；公开的hinder — 阻碍；妨碍choler — 愤怒；坏脾气；脾气暴躁wholesome — 有益健康的；健全的；合乎道德的cachinnation — 放声大笑；大声哄笑ostracize — 排斥；放逐；孤立sacred — 神圣的；受尊崇的diminish — 减少；削弱；降低faultfinding — 挑剔；吹毛求疵；找茬protuberant — 隆起的；突出的
 
 The Baker's Sacred Apron
 A heavy, protuberant oven door did not hinder the local baker from serving wholesome sourdough bread to the village, but the traveling judge's unconcealed choler and constant faultfinding threatened to socially ostracize her shop. However, one sudden burst of joyful village cachinnation over the judge's own accidentally floury robe helped quickly diminish the tension, prompting him to smile and return her sacred family apron.
 
-Story 129
+Story 0129
 
 imbroglio — 乱局；纠葛；复杂的局面zealous — 热心的；积极的；狂热的forecast — 预测；预报scribbled — 潦草书写的bawdy — 粗俗的；下流的；带有猥亵意味的fruitful — 富有成效的；硕果累累的multitudinous — 众多的；繁多的debased — 贬值的；堕落的；掺假的dour — 严厉的；阴沉的；冷酷的pliant — 柔顺的；易弯曲的；顺从的
 
 The Weather Vane Comedy
 A zealous theater actor found a scribbled weather forecast tucked inside a pliant copper weather vane, and the multitudinous cryptic clues quickly drew him into a chaotic regional imbroglio. The plot involved a dour town magistrate, a banned bawdy play, and a hidden stash of debased medals. His tireless search proved highly fruitful when a sudden rainstorm exposed the counterfeiter's unique water-soluble ink.
 
-Story 130
+Story 0130
 
 ascribe — 归因于；认为是……所作opprobrious — 辱骂的；可耻的；声名狼藉的vocation — 职业；使命感；圣职expert — 专家；熟练的acidic — 酸性的；尖刻的subservient — 卑躬屈膝的；次要的；奉承的sophistical — 诡辩的；似是而非的annum — 年；每年extremist — 极端主义者vile — 卑鄙的；恶劣的；肮脏的
 
 The Orchard Chemist's Vocation
 An expert soil chemist completely refused to ascribe the mountain orchard's highly acidic ground conditions to a radical extremist's supposedly vile curse. Despite facing an opprobrious crowd and a subservient local official's sophistical public speech about maximum crop yield per annum, she followed her professional vocation and accurately traced the chemical damage to a leaking underground factory vat.
 
-Story 131
+Story 0131
 
 ungovernable — 难以控制的；桀骜不驯的tolerant — 宽容的；容忍的；耐受的strenuous — 费力的；艰苦的；强烈的ethical — 合乎道德的；伦理的apparent — 明显的；表面上的apprehensive — 忧虑的；担心的；有理解力的indisputable — 无可争辩的；不容置疑的docility — 温顺；驯服ambulating — 行走的；移动的reimbursement — 报销；偿还；补偿
 
 The Runaway Clinic Camel
 An apprehensive head nurse frantically pursued an ungovernable camel that was casually ambulating through the recovery clinic after a strenuous mobile vaccine drive. The animal's apparent docility during the daytime treatment had easily fooled everyone on the team. Despite the absolute chaos, the tolerant clinic director made the ethical and indisputable choice to step forward, calmly offering the shattered-stall owner full financial reimbursement on the spot.
 
-Story 132
+Story 0132
 
 truncated — 截短的；被删节的hypothesis — 假说；假设spleen — 脾；怒气；坏脾气pliable — 柔韧的；易受影响的；顺从的evident — 明显的；清楚的antidote — 解毒剂；矫正方法；解药disingenuous — 不坦率的；虚伪的；有城府的pretext — 借口；托词prophesy — 预言；预告representative — 代表；典型的；有代表性的
 
 The Truncated Prophecy
 A crooked regional representative arrived at the outpost with a truncated scroll and a highly disingenuous pretext for immediately seizing the village's entire supply of antidote. However, the local healer's suspicious hypothesis became instantly evident to the townspeople when a pliable wax seal on the document revealed a clumsy forgery. Refusing to dramatically prophesy his cosmic fate or vent her own rising spleen, she merely turned around and rang the loud emergency alarm.
 
-Story 133
+Story 0133
 
 susurrant — 沙沙作响的；低语般的leaning — 倾向；爱好；偏好egg on — 怂恿；煽动nonchalant — 若无其事的；冷淡的；漫不经心的conjecture — 推测；猜想cupidity — 贪财；贪婪relinquish — 放弃；交出；让出malign — 诽谤；恶意中伤；有害的generate — 产生；生成；引起iatrogenic — 医源性的（由医疗或诊治引起的）
 
 Whispers in Ward Seven
 Deep within a quiet, susurrant hospital garden, a nonchalant orderly tried to slyly egg on a patient's natural leaning toward an unverified herbal tonic, claiming the rare mixture would generate instant physical strength. The head doctor immediately rejected that reckless medical conjecture. After exposing the merchant's absolute cupidity, she firmly refused to publicly malign her young staff, choosing instead to quietly force the orderly to relinquish the dangerous, iatrogenic brew.
 
-Story 134
+Story 0134
 
 endorse — 赞同；支持；背书；代言plier — 钳子；老虎钳；手工具使用者（如手工匠人）facilitate — 促进；使便利；减轻…的困难somnolence — 困倦；嗜睡sanctimonious — 假装虔诚的；道貌岸然的ecstatic — 狂喜的；欣喜若狂的indefeasible — 不可废除的；不可剥夺的variegate — 使呈多种颜色；使多样化veracious — 诚实的；真实的；可靠的hazy — 朦胧的；模糊的；阴霾的
 
 The Stained-Glass Plier
 Fighting through a wave of hazy morning somnolence, a veracious artisan apprentice used a specialized heavy plier to beautifully variegate the damaged chapel window and facilitate its structural repair. A highly sanctimonious dean loudly refused to endorse her colorful new design, calling it untraditional. However, an ecstatic crowd of gathering villagers quickly arrived, loudly affirming her indefeasible artistic right to formally sign her completed masterpiece.
 
-Story 135
+Story 0135
 
 erroneous — 错误的；不正确的clairvoyant — 有洞察力的人；有透视能力的人listless — 无精打采的；倦怠的extirpation — 根除；铲除；灭绝idiosyncrasy — 特有习性；癖好；怪癖antipathy — 厌恶；反感；憎恶shrunken — 缩小的；干瘪的；萎缩的censure — 严厉批评；谴责impute — 归咎于；归因于undeveloped — 未开发的；不成熟的；不发达的
 
 The Clairvoyant's Winter Garden
 An erroneous rumor quickly made the listless villagers demand the complete extirpation of a shrunken communal orchard. However, a local clairvoyant with a strange idiosyncrasy for tasting tree bark bravely challenged their shared antipathy. Rather than censure the hardworking gardener or impute the seasonal blight to undeveloped fruit, she investigated the soil and discovered that salt from a leaking well was the true culprit.
 
-Story 136
+Story 0136
 
 monocle — 单片眼镜promulgation — 颁布；发布；传播aboveboard — 光明正大的；坦率的billingsgate — 粗俗辱骂；下流话alacrity — 欣然；敏捷；乐意sedate — 镇静的；沉着的；端庄的testy — 易怒的；暴躁的；急躁的gloomy — 阴郁的；昏暗的；令人沮丧的shiftless — 懒散无能的；不思进取的delicate — 精致的；脆弱的；微妙的
 
 The Monocle at City Hall
 During the official promulgation of a new festival zoning rule, a testy clerk adjusting his monocle surprisingly answered a rowdy crowd's billingsgate with sedate alacrity. His completely transparent, aboveboard explanation cleared a gloomy, misunderstood vendor whom critics had labeled shiftless, ultimately saving her delicate glass lanterns from wrongful confiscation.
 
-Story 137
+Story 0137
 
 clamorous — 喧闹的；吵嚷的unoriginal — 缺乏创意的；非原创的defenestration — 抛出窗外（或扔出窗外）dawning — 开始出现；黎明；破晓mellifluous — 悦耳的；甜美流畅的blandishments — 奉承话；甜言蜜语scarcity — 缺乏；稀少；不足irreclaimable — 无法挽回的；不可救药的；不能改造的estivate — 夏眠；度夏diligent — 勤奋的；用功的；刻苦的
 
 The Cicadas' Dawn Rehearsal
 At the dawning of a humid summer day, a diligent opera composer ignored both the clamorous cicadas outside and her lead critic's heavy blandishments, firmly rejecting a safe but unoriginal melody. Amid a temporary scarcity of cool rehearsal rooms, she quietly watched garden snails estivate on the stone ledge and wrote a brilliant, mellifluous finale. The movement's comic, theatrical defenestration of a brass trumpet completely rescued what had previously been deemed an irreclaimable opera.
 
-Story 138
+Story 0138
 
 insipid — 平淡乏味的；淡而无味的grievous — 严重的；令人悲痛的；极严重的incongruous — 不协调的；不合适的；不相称的machination — 阴谋；诡计scurrility — 粗俗辱骂；下流诽谤complacent — 自满的；得意的；盲目乐观的pellucid — 清澈的；清晰易懂的penny-pinching — 吝啬的；小气的apocrypha — 伪经；真伪可疑的故事（或著作）replete — 充满的；饱食的
 
 The Banquet of False Legends
 A smug, complacent host served shockingly insipid soup at a grand banquet hall replete with unverified historical apocrypha. His penny-pinching financial machination became instantly pellucid to the guests when an incongruous, cheaply plated gold ladle appeared on the main table. After a sudden, grievous burst of scurrility from the embarrassed host, the head cook calmly stepped forward to produce the real corporate receipt and expose the fraud.
 
-Story 139
+Story 0139
 
 ratification — 正式批准；认可drowsy — 困倦的；昏昏欲睡的extenuate — 减轻（罪行等）；为……找借口；情有可原eulogize — 称颂；赞扬；颂扬germane — 有密切关系的；恰当的；切题的rarefied — 稀薄的；高深的；纯净的macula — 斑点；（尤指皮肤或视网膜上的）黄斑emaciated — 消瘦的；憔悴的overabundance — 过多；过剩dissident — 持不同政见者；异议者
 
 The Summit Seed Treaty
 Minutes before the formal ratification of the international summit treaty, a drowsy delegate tried to loudly eulogize the country's overabundance of emergency grain supplies and extenuate its obvious structural waste. However, an emaciated political dissident in the gallery stood up to raise a highly germane question: could agricultural crops already suffering from a spreading biological macula actually survive the region's rarefied high-altitude air?
 
-Story 140
+Story 0140
 
 chirpy — 快活的；兴高采烈的lumpen — 粗俗的；愚笨的；没有文化的anorexic — 厌食症的；骨瘦如柴的foil — 挫败；阻挠；衬托recruit — 新成员；新兵；招募splay — 张开；使向外展开salacious — 淫秽的；好色的；色情的quirky — 古怪而有趣的；独特的Bible-thumping — 狂热宣扬《圣经》的；盲目宗教狂热的annex — 附属建筑；配楼；兼并
 
 The Secret in the Annex
 On her first night at the newspaper, a chirpy recruit named Lena was sent to inventory its condemned archive annex. Hidden directly behind a lumpen concrete statue, she stumbled upon a dusty folder of salacious photographs clearly arranged to ruin a prominent, Bible-thumping senator's career. While the images looked highly convincing at first glance, one quirky detail caught her sharp eye: every clock in the background showed the exact same impossible time. Lena began to splay the pictures carefully across the floor, soon discovering identical, duplicated shadows in each scene. They were complete fakes, and the model's body had been digitally altered to look dangerously anorexic. Working tirelessly until dawn, Lena traced the digital files to the senator's chief political rival and helped foil the entire smear scheme. By breakfast, the newest reporter on staff had secured the paper's biggest front-page scoop.
 
-Story 141
+Story 0141
 
 extricate — 解脱；摆脱；使脱离swoon — 晕倒；狂喜；痴迷gloss — 掩饰；有光泽的表面；给……加光泽proclaim — 宣布；宣告；赞扬repeal — 废除；撤销；废止conspiracy — 阴谋；密谋goad — 刺激；驱使；激怒skim — 略读；浏览；掠过dismal — 糟糕的；阴沉的；凄凉的grudge — 怨恨；积怨；吝惜
 
 The Footnote in the Budget
 Mara meant only to casually skim the mayor's dismal annual budget speech, but a tiny footnote at the bottom of the page suddenly revealed a corporate conspiracy to quietly repeal the environmental law protecting the old harbor. Her chief editor had to repeatedly goad her into investigating the lead further, knowing the vindictive mayor still held a deep-seated personal grudge against Mara's family. While local supporters continued to blindly swoon over the politician's public charm, Mara dug into private city records and found signed land contracts he had tried desperately to gloss over. At the next crowded council meeting, the mayor rose to proudly proclaim his complete innocence, but Mara published the damning documents online before he could extricate himself from the unfolding corruption scandal.
 
-Story 142
+Story 0142
 
 thrice — 三次；三倍antidote — 解毒剂；矫正方法；解药daft — 愚蠢的；荒唐的savor — 品味；欣赏；享用（食物等）vicarious — 间接感受到的；代入感的；替代的spurn — 拒绝；摒弃；轻蔑地拒绝unscathed — 毫发无伤的；未受损的wail — 哀号；痛哭；大声哭喊staple — 钉书钉；主食；主要产品；用钉书针装订visceral — 发自内心的；本能的；内脏的
 
 The Third Spoonful
 At the crowded night market, fire-pepper stew was a legendary local staple that cautious Mina had always chosen to firmly spurn. Tonight, she noticed a rusty industrial staple held a handwritten warning to the food stall: THREE SPOONFULS MAX. Having watched enough overconfident tourists wail in agony after just a single bite, she had always been perfectly content with the vicarious thrill of watching from afar. However, her brother loudly called her caution daft and dared her to taste the dish thrice. Her first tentative spoonful let her savor a rich blend of woodsmoke and garlic, but the second brought a sudden, visceral wave of pure blinding heat. Immediately after her third spoonful, the smiling vendor calmly offered his secret antidote: a cup of sweet, iced yogurt. Thanks to his remedy, Mina finished the bowl, bowed to the cheering crowd, and walked away completely unscathed.
 
-Story 143
+Story 0143
 
 toilsome — 艰苦的；费力的fugacious — 短暂的；易逝的；转瞬即逝的earmark — 指定用途；拨款；预留provoke — 激怒；引发；挑起fugitive — 逃亡者；逃犯；逃亡的tenderize — 使（肉）变嫩；软化verbiage — 冗长措辞；废话；词藻堆砌contention — 争论；论点；主张cantankerous — 脾气暴躁的；爱争吵的rejoinder — 回应；反驳；答辩
 
 The Chef Who Vanished
 After a toilsome months-long search, Inspector Hale finally found the fugitive chef hiding safely above a cantankerous butcher's shop. The city council's primary contention was that the chef had stolen public funds it had voted to formally earmark for a grand civic kitchen project. The chef's sharp rejoinder was simple: the official grant agreement had carefully buried its true, predatory financial terms in pages of dense verbiage. He had instead used the money immediately to tenderize cheap cuts of meat and feed hundreds of starving dockworkers, fully knowing the rogue decision would provoke the arrogant mayor. His fugacious local fame ended by sunset, but the kitchen doors remained wide open.
 
-Story 144
+Story 0144
 
 dolorous — 悲痛的；哀伤的；忧伤的rend — 撕裂；使心碎；割裂vouch — 担保；证明；保证loquacious — 健谈的；话多的；多嘴的entrust — 委托；托付comical — 滑稽的；好笑的impulsive — 冲动的；任性的pliant — 柔韧的；顺从的；易弯曲的covetous — 贪求的；垂涎的；贪婪的taciturn — 沉默寡言的；不爱说话的
 
 The Violin in the Attic
 Elena chose to entrust her late grandfather's rare violin to a famously taciturn instrument restorer, even though a loquacious antique dealer offered her stacks of cash on the spot. The dealer's intense, covetous stare made his impulsive financial proposal seem almost comical to her. Working with absolute care, the old restorer replaced the warped bridge, fitted a pliant new bow, and softly asked Elena to play. As she drew the bow, a beautifully dolorous note seemed to rend the dusty air of the workshop in two. The bitter dealer immediately called the instrument a clever fake, but the master restorer stood up and stated he could personally vouch for the rare maker's mark hidden safely beneath the chin rest.
 
-Story 145
+Story 0145
 
 prodigal — 挥霍的；浪费的；放荡的recreational — 娱乐的；消遣的ratify — 正式批准；确认harrowing — 令人痛苦的；悲惨的；动心惊魄的vehement — 激烈的；强烈的；猛烈的cohort — 一群人；同伙；步兵大队proliferate — 激增；迅速繁殖；扩散turf — 草皮；地盘；泥炭enmity — 敌意；仇恨；怨恨sensual — 感官愉悦的；肉欲的
 
 The Garden Truce
 A prodigal corporate developer planned to construct luxury flats right on the neighborhood's only public recreational turf. His aggressive cohort of builders openly dismissed the local gardeners as sentimental, which instantly turned a standard zoning dispute into open, bitter enmity. After a harrowing summer storm flooded nearby concrete streets, however, the deep soil of the community garden successfully absorbed most of the rushing water. Weeks later, wild bees began to rapidly proliferate among its blooming herbs, and even the cynical developer was visibly moved by their rich, sensual fragrance. Dropping his vehement legal objections, he personally asked the city council to formally ratify a permanent conservation agreement for the plot.
 
-Story 146
+Story 0146
 
 vocation — 职业；使命感；圣职squander — 浪费；挥霍mangle — 严重损坏；撕碎；曲解eloquent — 雄辩的；传神的；有说服力的transitory — 短暂的；临时的；转瞬即逝的rebuff — 拒绝；冷落；回绝forgo — 放弃；没有也行；克制slapdash — 草率的；马虎的；粗枝大叶的infringe — 侵犯；违反；蚕食flimsy — 脆弱的；站不住脚的；薄弱的
 
 The Photograph at Dawn
 Photojournalism was Niko's true professional vocation, so he firmly refused to squander the fleeting, transitory light just before sunrise. He chose to entirely forgo sleep and climbed the rusted rungs of the old water tower, only to flatly rebuff a ground guard's loud demand that he leave. His slapdash temporary press permit looked highly likely to infringe several local safety rules, and its flimsy paper backing nearly blew away in the morning gale. Just then, a massive demolition crane swung past and began to heavily mangle the historic town's last neon cinema sign. Niko's eloquent, perfectly timed photograph of that chaotic instant saved the landmark from complete destruction and only cost him a modest municipal fine.
 
-Story 147
+Story 0147
 
 waive — 放弃；免除；推迟tractable — 易处理的；温顺的；易管教的conspicuous — 显眼的；引人注目的；明显的lenient — 宽大的；仁慈的；温和的sensuous — 感官愉悦的；优美的；美感的gracious — 亲切的；宽厚的；高尚的strenuous — 艰苦的；费力的；奋力的haggard — 憔悴的；疲惫的；枯槁的antagonism — 敌意；对抗；对立abet — 教唆；协助；帮凶
 
 The Misspelled Alibi
 The haggard university student stood in court, falsely accused of trying to abet the high-profile theft of a sensuous bronze museum statue. A conspicuous streak of wet blue paint found on her winter coat and years of public academic antagonism with the head curator made the police allegation seem highly credible at first. Fortunately, the gracious presiding judge remained remarkably lenient and patient because the complex legal case was still structurally tractable. After a strenuous, week-long independent investigation exposed the curator's own financial deception and insurance fraud, the embarrassed museum board quickly agreed to waive all of the student's legal fees.
 
-Story 148
+Story 0148
 
 defy — 反抗；违抗；蔑视patron — 赞助人；资助者；主顾prolix — 冗长的；啰唆的；话多的protracted — 持久的；拖延的；延长的verse — 诗；诗句；韵文animosity — 敌意；憎恶；仇恨weave — 编织；编入；织成edification — 启迪；教化；道德提升haphazard — 杂乱的；随意的；偶然的censorious — 挑剔的；好批评的；吹毛求疵的
 
 The Poem on the Platform
 A generous patron offered to fully fund Iris's upcoming book of original verse. However, a notoriously censorious critic quickly posted a prolix attack online targeting her haphazard early drafts, successfully reviving their protracted academic animosity from their university days. Instead of replying with anger, Iris cleverly began to weave his bitter insults directly into a comic, satirical poem. Thousands of people shared it across the city, some reading it for genuine moral edification and others simply for lighthearted mischief. The humiliated critic loudly demanded its immediate removal, but Iris chose to firmly defy him. By morning, enough enthusiastic readers had subscribed to her platform to pay for the entire book's publication.
 
-Story 149
+Story 0149
 
 spendthrift — 挥霍者；奢侈的；挥霍的equivocal — 模棱两可的；可疑的；含糊其词的avocation — 业余爱好；副业vocational — 职业的；职业教育的transigent — 愿意妥协的；温和的；妥协的（注：常以其否定式 intransigent 出现）mollify — 安抚；缓和；使平息declaim — 慷慨陈词；大声朗诵；抨击espouse — 支持；信奉；拥护；娶grub — 食物；挖掘；翻寻；（虫）幼虫verbatim — 逐字地；一字不差的；逐字的
 
 The Speech at Closing Time
 By day, Arun taught mechanics at a local vocational school, while theatrical acting remained his favorite nighttime avocation. When a spendthrift governor suddenly threatened to close down the school to cover a budget deficit, Arun stood outside city hall and began to loudly declaim the official's highly equivocal financial promises. He quoted the politician's past speeches completely verbatim and urged the gathering crowd to proudly espouse practical, community-based technical training. Supportive neighborhood volunteers brought hot grub to the plaza, fully expecting a long, exhausting protest. Instead, a usually transigent deputy mayor finally stepped forward and accepted a surprise compromise that preserved every single training workshop. To mollify the energetic crowd, she formally signed the agreement right before the live television cameras.
 
-Story 150
+Story 0150
 
 improvident — 缺乏远见的；浪费的；大手大脚的assuage — 缓和；减轻；平息evocative — 唤起回忆的；引人联想的slender — 细长的；微薄的；苗条的emollient — 润肤剂；使柔软的；安抚性的nocturnal — 夜间活动的；夜间的diurnal — 白天活动的；每日的evasive — 含糊其词的；逃避的；托辞的slight — 轻微的；微小的；轻视；怠慢adorn — 装饰；点缀；佩戴
 
 The Moth on the Label
 A slender, pale moth came each night to quietly adorn the frosted glass window of Mira's old pharmacy. Its nocturnal visits seemed entirely harmless until Mira noticed the exact same unique moth printed on an evocative old vintage label for a rare emollient skin cream. The manufacturing company gave a highly evasive answer over the phone, claiming the bug image was only decorative. Undeterred, Mira's painstaking diurnal search of the national medicine archives soon found a slight but absolutely crucial structural difference in the moth's wings. That tiny visual detail successfully exposed the company's hidden, improvident plan to sell outdated, counterfeit medicine under an old name. To completely assuage her worried customers, she proudly displayed the genuine label directly beside the fake one on the front counter.
 
-Story 151
+Story 0151
 
 carnal — 肉体的；肉欲的；世俗的solemn — 庄严的；严肃的；隆重的defray — 支付；承担费用mischief — 恶作剧；祸害；伤害counterfeit — 伪造的；赝品；伪造effusive — 热情洋溢的；感情奔放的；溢于言表的pithy — 简练有力的；言简意赅的brusque — 唐突的；粗鲁的；无礼的dusk — 黄昏；暮色boon — 益处；恩惠；天赐福利
 
 The Gift at Dusk
 Right at dusk, a brusque courier delivered a massive historical painting depicting wild carnal revelry to the steps of the town museum. A pithy, handwritten note attached to the frame simply called it an anonymous donation. The museum director immediately gave an effusive public speech to the local press, declaring the rare acquisition a massive cultural boon for the city. However, the lead conservator soon discovered traces of modern, counterfeit synthetic pigment hidden beneath the thick, aged varnish. What first looked like a harmless aesthetic mischief quickly turned into a high-stakes blackmail scheme when the mysterious donor offered to fully defray the museum's lingering operational debts in exchange for a formal certificate authenticating the fake. At a solemn emergency board meeting, the brave conservator revealed her scientific findings and saved the museum's century-old reputation.
 
-Story 152
+Story 0152
 
 revelry — 狂欢；欢宴；开怀畅饮pigment — 颜料；色素varnish — 清漆；罩光漆；掩饰；给…上漆bestow — 赠予；授予；把…放置在courtier — 宫廷侍臣；奉承者courier — 信使；快递员；导游supplicant — 恳求者；乞求者；哀求的beseech — 恳求；哀求；虚心请求exponent — 倡导者；代表人物；（数）指数proletariat — 无产阶级；工人阶级
 
 The Petition Beneath the Varnish
 During a night of loud palace revelry, a mud-streaked courier bypassed security to deliver a fresh portrait to the queen. A proud, elite courtier immediately tried to dismiss him, labeling him a common, unwashed supplicant. However, the curious royal conservator stepped closer and noticed an irregular texture in the wet pigment hidden deep beneath the protective outer varnish. Hidden right there inside the canvas layers was a desperate petition written by a leading exponent of the local industrial proletariat. He had cleverly used the painting to dramatically beseech the queen to reopen their dangerous town coal mine, but only after critical structural repairs were made. Deeply impressed by the working-class group's artistic ingenuity, the queen chose to bestow full royal protection on them, grant their clever leader an immediate private audience, and order the mine made completely safe.
 
-Story 153
+Story 0153
 
 solicitous — 关切的；殷勤的slimy — 黏滑的；虚伪讨厌的slippery — 滑的；狡猾的smarmy — 谄媚的；虚情假意的proclivity — 倾向；癖好wicked — 邪恶的；恶劣的unruffled — 镇定的；从容不迫的egg on — 怂恿；煽动incite — 煽动；激起prostrate — 俯卧的；使衰弱；趴下的
 
 The Candidate's Open Microphone
 At a crowded charity debate, a smarmy candidate aggressively shook hands with voters beside a slippery marble staircase. His slimy campaign adviser had a well-known proclivity for hiring local hecklers to egg on the crowd and incite general disorder. When one paid heckler suddenly tripped and lay prostrate on the stone steps, the candidate made a wicked, mocking joke instead of helping him up. Fortunately, Dr. Vale remained entirely unruffled and solicitous, quickly kneeling to examine the injured man's leg. An open media microphone captured every word of the candidate's cruel comment, and by midnight the viral recording had permanently ended his political campaign.
 
-Story 154
+Story 0154
 
 heckler — 起哄者；诘难者palindrome — 回文detritus — 碎屑；残骸cavern — 洞穴；大洞窟splat — 啪嗒声；（泥等）摔扁的一团tread — 踩；行走；践踏parry — 挡开；回避supersede — 取代；替代ophthalmologist — 眼科医生atheist — 无神论者
 
 The Error in the Cavern
 An atheist ophthalmologist joined a guided weekend tour of a subterranean cavern that had been newly opened to the public. In the dark, a rude heckler laughed loudly when she noticed that an ancient cave symbol was mistakenly labeled as a "palindrome" on the map. Just then, a loud splat echoed through the chamber as wet, heavy plaster struck the floor from above. The doctor immediately warned everyone not to tread on the fallen detritus and used her heavy walking stick to adroitly parry another loose stone fragment falling from the ceiling. Her sharp professional eyesight revealed a rapidly widening structural crack in the roof, and emergency safety orders soon arrived to supersede the site's grand opening plans.
 
-Story 155
+Story 0155
 
 loquacity — 健谈；多话ocular — 眼睛的；视觉的diaphanous — 轻薄透明的；朦胧的congenital — 先天的；根深蒂固的neurosis — 神经症；心理焦虑anachronous — 时代错误的；年代不符的tyro — 新手；初学者cavalier — 傲慢的；漫不经心的posthumous — 死后的；身后出版的perspicacity — 洞察力；敏锐
 
 The Portrait's Second Date
 A tyro archivist carefully studied a rare posthumous portrait of an uxorious duke and his late wife, whose delicate, diaphanous veil barely concealed a congenital ocular mark. Crude, prurient historical gossip had long blamed the duchess's deep neurosis for the couple's sudden isolation from society. The current museum director, known for his endless loquacity and cavalier manner, quickly dismissed the painting's highly anachronous wooden frame as a simple, later repair. However, displaying far greater analytical perspicacity, the young archivist found a hidden second date carved beneath the gilding, proving that the portrait had been heavily altered decades later to protect the duchess's medical privacy.
 
-Story 156
+Story 0156
 
 prurient — 好色的；窥探隐私的uxorious — 溺爱妻子的；怕老婆的cynical — 愤世嫉俗的；怀疑人性的obnoxious — 令人讨厌的；冒犯人的ad nauseam — 令人厌烦地；反复不休地aptitude — 天资；才能introvert — 内向的人；性格内向者ambivert — 中间性格者；兼具内向与外向性格的人conceit — 自负；骄傲egoist — 自我中心者；自负的人
 
 The Panel of Mirrors
 Mara, a quiet introvert with a natural aptitude for complex forensic accounting, deeply dreaded the annual company retreat. The startup founder, a cynical egoist, spent the morning reciting his corporate triumphs ad nauseam, while his intensely uxorious partner enthusiastically applauded every empty boast. An obnoxious consultant on the panel then asked a highly prurient and inappropriate question about the employees' private marriages. Stepping in, Leo, an adaptive ambivert, calmly redirected the panel's focus to Mara's latest internal audit. Her clear figures instantly exposed the founder's financial conceit and revealed a massive trail of missing corporate funds. "An egotist may love a large audience," Leo noted dryly to the room, "but arithmetic has no personal favorites."
 
-Story 157
+Story 0157
 
 potentate — 君主；统治者ascertain — 查明；确定prerogative — 特权；专有权利nepotism — 任人唯亲；裙带关系livid — 暴怒的；青灰色的dearth — 缺乏；稀少obloquy — 公开谴责；骂名brigand — 强盗；土匪termagant — 泼妇；悍妇decapitate — 斩首；使失去首脑
 
 The Bell at Blackwater Pass
 When a ruthless brigand successfully seized the primary grain road, the aging potentate sent his young, unproven nephew to restore order. The royal court loudly called the appointment an act of blatant nepotism, but the ruler claimed it was his absolute royal prerogative. A sudden dearth of field reports left the capital deeply anxious, so Inspector Vale crossed the mountains herself to ascertain the true status of the campaign. She found the nephew livid with shame: his loudest, most aggressive military captain—a notorious termagant feared by every new recruit—had been secretly supplying the bandits with weapons. Despite public pressure, Vale firmly refused to decapitate the captured plotter without a formal trial. Though this legal mercy brought her temporary obloquy at court, her preserved physical evidence successfully exposed the entire military conspiracy before the autumn harvest bell rang.
 
-Story 158
+Story 0158
 
 involution — 错综复杂；内卷化forensic — 法医的；司法鉴定的；法庭的bandit — 强盗；土匪insurgent — 叛乱者；起义者ascent — 攀登；上升pastel — 彩色粉笔；柔和色调的lunge — 猛冲；弓步hewn — 砍成的；凿成的unabashed — 不害羞的；不窘迫的；坦然的pugilistic — 好斗的；拳击的
 
 The Pastel Map
 During a difficult ascent toward a rough, hewn stone fortress, forensic cartographer Nia found a faded pastel map tucked beneath a fallen trail marker. Its colored paths encoded a geometric involution: tracing any marked route twice always returned the traveler to the exact same starting gate, effectively revealing how a clever insurgent courier had repeatedly guided each bandit patrol around the government border guards. At the main fortress gate, an unabashed black-market merchant loudly mocked her evidence and quickly adopted an aggressive, pugilistic stance. When he made a sudden, desperate lunge to tear the map from her hands, Nia calmly stepped aside. The off-balance merchant crashed face-first into the heavy bronze bell, whose loud alarm instantly brought the fortress guards and ended the local smuggling conspiracy on the spot.
 
-Story 159
+Story 0159
 
 salve — 药膏；慰藉unguent — 软膏；油膏ointment — 药膏；软膏aristocracy — 贵族统治；贵族阶层earnest — 认真的；真诚的；热心的bruit — 散布；传闻ambient — 周围的；环境的；环绕的prestidigitator — 魔术师；变戏法的人impugn — 质疑；抨击；反驳sommelier — 侍酒师；葡萄酒专家
 
 The Bottle Behind the Curtain
 At an earnest charity gala, a sharp-eyed sommelier noticed a rare bottle of wine suddenly vanish just as the ambient lights dimmed for the main act. A local prestidigitator had been performing nearby, utilizing a strange jar of salve, a silver tin of unguent, and an antique ointment box as his props. Nervous guests quickly began to bruit that the performer had boldly robbed the town's visiting aristocracy, but the sommelier firmly refused to publicly impugn him without solid proof. She went back to inspect the empty display case and found a hidden false hinge; the greedy host had hidden the wine himself, hoping the dramatic scandal would raise its market value at the final auction.
 
-Story 160
+Story 0160
 
 enervating — 使人疲惫的；削弱活力的ebullient — 热情洋溢的；兴高采烈的effervescent — 活泼的；欢腾的；冒泡的rancor — 怨恨；敌意；积怨convocation — 大型集会；会议；毕业典礼ingenuity — 独创性；聪明才智；心灵手巧borough — 自治市镇；行政区avowed — 公开承认的；明确宣称的saturnine — 阴沉的；沉默寡言的；忧郁的affable — 和蔼的；友善的；平易近人的
 
 The Lantern Convocation
 After an enervating winter that left the town weary, the borough held a formal convocation to choose a new bridge design. An ebullient engineer presented an effervescent model featuring tiny water currents that naturally generated power to light a row of built-in lamps. Her avowed professional rival, a traditionally saturnine architect, closely examined her project without any personal rancor. Demonstrating unexpected structural ingenuity, he located a minor stress flaw and quietly suggested a stronger support beam. The engineer warmly thanked him before the gathering crowd. By dusk, their affable debate had successfully produced a combined bridge design that was far better than either original blueprint alone.
 
-Story 161
+Story 0161
 
 adamantine — 坚不可摧的；坚定不移的impertinence — 无礼；不切题；鲁莽scrupulous — 一丝不苟的；恪守道德的；审慎的circumcision — 割礼；包皮环切术circumvent — 规避；绕过；设法克服circumlocutory — 迂回表达的；拐弯末角的surplus — 剩余；盈余；过剩的venal — 贪赃枉法的；唯利是图的；可收买的extemporize — 即兴发挥；临时应付stern — 严厉的；坚定的；船尾
 
 The Missing Surgical Kits
 A scrupulous head nurse found that several surplus circumcision kits had mysteriously vanished from a rural medical clinic's inventory. The dour facility director gave a highly confusing, circumlocutory answer when asked about the logs, while his stern deputy loudly called her persistence an act of pure impertinence. Remaining adamantine in her professional duty, she flatly refused to let them circumvent a formal internal audit. When a sudden storm cut the electricity during the official hearing, she had to calmly extemporize using old paper ledgers and a single travel lantern. Her efforts paid off: the records exposed a venal supplier who had sold the exact same kits twice, and the deputy's own hidden signature on the invoice proved his active complicity.
 
-Story 162
+Story 0162
 
 dour — 阴沉的；严厉的；不苟言笑的ingenuous — 天真的；坦率的；纯朴的ledger — 账簿；分类账valediction — 告别辞；告别blotch — 斑点；污渍mosh — 疯狂跳舞；（音乐会中的）冲撞舞rectify — 纠正；修复；整顿cuff — 袖口；用巴掌轻拍；手铐vigorous — 充满活力的；强健的；剧烈的sprightly — 活泼的；轻快的；生机勃勃的
 
 The Last Night at Ledger Hall
 The dour theater manager found a dark red blotch spilled across the club's master ledger just hours before its final closing concert. An ingenuous young volunteer immediately admitted to accidentally spilling the ink and offered to manually rectify every damaged entry before opening time. Outside on the pavement, the previously quiescent street suddenly filled with a sprightly acoustic tune and vigorous applause. Inside, enthusiastic young fans began to mosh joyfully near the front row, accidentally knocking a silver cuff link from the lead singer's sleeve. The musician easily retrieved it, climbed onto the speaker stage, and gave an off-the-cuff valediction that was so genuinely warm that even the grumpy manager smiled.
 
-Story 163
+Story 0163
 
 foible — 小缺点；怪癖fiery — 火热的；暴躁的；激烈的lukewarm — 微温的；不热心的；冷淡的listless — 无精打采的；倦怠的unassuming — 谦逊的；不张扬的pompous — 自负的；浮夸的；爱虚荣的extravagant — 奢侈的；过度的；铺张的strut — 趾高气扬地走；支柱；撑杆predicament — 困境；尴尬处境ditch — 沟渠；抛弃；摆脱
 
 The Understudy's Red Coat
 A pompous lead actor began to arrogant strut across the stage in an extravagant red coat, completely ignoring the quiet, unassuming understudy standing right beside him. His fiery delivery of the opening monologue won only lukewarm applause from the rows, and the visibly listless audience started to stand up and leave. Just then, a heavy broken prop rolled off the stage and fell straight into the orchestra ditch, placing the entire theater company in a highly dangerous predicament. The understudy calmly stepped down, retrieved and quickly repaired the component, and then finished the play to save the night. Even the embarrassed star was forced to admit his own personal foible: he could easily command the spotlight, but he couldn't solve every practical crisis.
 
-Story 164
+Story 0164
 
 prehensile — 能抓握的；适于缠绕的prehensible — 可理解的；可领会的censure — 严厉批评；谴责denounce — 公开谴责；告发censor — 审查；删剪；审查员cavil — 吹毛求疵；无端挑剔niggle — 为琐事烦恼；拘泥小节quibble — 为小事争辩；诡辩excoriate — 严厉斥责；痛批exasperate — 使恼怒；使烦恼
 
 The Monkey in the Newsroom
 A monkey with a prehensile tail suddenly stole a senior censor's red pencil and scrambled up onto the newsroom clock. The angry managing editor tried to sharply censure the zookeeper, loudly denounce the local zoo, and fiercely excoriate everyone within arm's reach. His rapid-fire complaint was barely prehensible to the staff, however: he would cavil at each logical explanation, niggle over every tiny scheduling detail, and quibble so constantly that no one could identify his main point. While the monkey's wild antics began to deeply exasperate the busy staff, the mood shifted when the animal suddenly unfurled a bright protest sign, making even the grumpy editor laugh.
 
-Story 165
+Story 0165
 
 carp — 抱怨；吹毛求疵assimilate — 吸收；融入；整合ungainly — 笨拙的；难看的hideout — 藏身处；隐匿处pledge — 保证；誓言；许诺chasm — 深谷；巨大分歧；深渊taut — 拉紧的；绷紧的hammer — 锤子；反复敲打wretch — 可怜人；卑鄙小人confer — 授予；商议；谈话
 
 The Bridge over Raven Chasm
 An ungainly stranger emerged from a makeshift hideout tucked beside the rocky edge of Raven Chasm and made a solemn pledge to single-handedly repair its broken footbridge. While town elders continued to bitterly carp about the projected material cost, the supposed wretch quietly began to hammer new steel pins into the foundation frame and pull each structural cable taut. He had taken ample time to thoroughly assimilate the region's historic tribal building methods, and by sunset the bridge was perfectly safe for travel. Ashamed of their initial public scorn, the apologetic elders voted unanimously to confer a prestigious community award on him.
 
-Story 166
+Story 0166
 
 fetter — 束缚；镣铐；羁绊choice epithet — 尖刻的称呼；精心挑选的绰号fretter — 爱烦恼的人；忧心忡忡者fret — 烦恼；焦虑；发愁rescind — 撤销；废除；取消acumen — 敏锐；精明；洞察力cataclysm — 大灾难；剧变horoscope — 星座运势；占星图upheaval — 剧变；动乱；大动荡biblical — 《圣经》的；规模巨大的；极大规模的
 
 The Astrologer's Bridge
 A sudden, biblical flood threw the entire valley town into total political upheaval just hours after a local astrologer's published horoscope predicted a seasonal cataclysm. The anxious mayor, a habitual fretter, moved immediately to rescind the municipal contract for a newly designed suspension bridge. However, a structural engineer with uncommon financial and technical acumen firmly told him not to fret: her blueprint could easily withstand the swollen river. A loud heckler in the gallery hurled a choice epithet at her during the town meeting, but she calmly replied that blind fear must never fetter sound engineering judgment. The bridge held perfectly.
 
-Story 167
+Story 0167
 
 tumultuous — 动荡的；喧闹的；激烈的implicate — 牵连；表明涉及；暗示blemish — 瑕疵；损害；污点anglicize — 使英语化；使英国化brevity — 简洁；短暂breve — 二全音符；短音符号perquisite — 额外津贴；特权impecunious — 贫穷的；身无分文的clairvoyance — 超视能力；千里眼能力；预见力uproar — 喧闹；骚乱；大嚷大叫
 
 The Breve in the Ledger
 During a tumultuous dress rehearsal, an impecunious opera composer discovered a strange breve musical symbol carefully drawn beside a secret cash payment in the theater's ledger. The panicked manager tried to quickly anglicize the foreign recipient's original name on the receipt, but the messy change only helped to further implicate him in the embezzlement scheme. He desperately called the secret payment a harmless executive perquisite and mocked the composer as a delusional clairvoyant. With admirable professional brevity, she replied that absolutely no clairvoyance was needed to spot obvious corporate fraud. The ensuing public uproar left a lasting blemish on the manager's career.
 
-Story 168
+Story 0168
 
 ingenious — 巧妙的；有创造力的；机灵的deft — 熟练的；灵巧的adept — 熟练的；内行的；擅长的inept — 笨拙的；无能的artful — 巧妙的；狡猾的；得体的ambisinister — 双手都笨拙的trite — 陈腐的；老生常谈的hackneyed — 陈词滥调的；用滥的truism — 不言自明的道理；老生常谈bromide — 陈词滥调；安慰套话
 
 The Locksmith's Broken Key
 An ingenious but highly ambisinister apprentice entered the annual regional locksmith contest. Though he was remarkably adept at designing complex custom locks on paper, he looked physically inept beside his deft, fast-moving rival. Before the timer started, the rival gave an artful speech packed with trite advice, hackneyed slogans, and the soothing bromide “Practice makes perfect”—a tired old truism. When the final key suddenly snapped inside the keyway under pressure, however, the creative apprentice devised a brilliant structural guide that let either hand turn the broken shaft, easily winning the contest.
 
-Story 169
+Story 0169
 
 precept — 准则；戒律oft — 常常；经常apparel — 衣服；服装；服饰dainty — 精致的；娇小的；秀丽的punctilious — 一丝不苟的；拘泥礼节的；极其审慎的embezzlement — 挪用公款；盗用vendetta — 长期仇杀；宿怨vengeance — 报复；复仇ensue — 随之发生；接着发生bloodshed — 流血；杀戮
 
 The Tailor's Ledger
 A punctilious royal tailor, oft praised by the court for his dainty silk apparel, found the word “embezzlement” angrily scrawled beside a massive missing gold payment in his master ledger. His sacred family precept strictly demanded total public honesty, yet the cautious king feared that an open accusation would revive an old, bloody border vendetta. The tailor made it clear he sought systemic justice, not personal vengeance, and quietly produced his archive receipts to the council. A formal judicial inquiry immediately ensued, but his calculated restraint exposed the palace thief without a single drop of bloodshed.
 
-Story 170
+Story 0170
 
 overnice — 过分讲究的；过于挑剔的finicky — 挑剔的；过于讲究的；难以取悦的limpid — 清澈的；透明的；平静的perspicuous — 表达清楚的；明晰的；易懂的befuddled — 困惑的；糊涂的；不知所措的pellucid — 清澈透明的；清晰易懂的protruding — 突出的；伸出的obtrusive — 扎眼的；显眼的；冒失打扰的inscrutable — 难以理解的；神秘莫测的esoteric — 深奥的；只有内行才懂的
 
 The Glassmaker's Riddle
 A highly finicky private collector continuously rejected every single vase in the shop until an overnice apprentice showed him a unique piece crafted with a protruding upper rim. Its limpid glass body was almost perfectly pellucid, but a seemingly obtrusive geometric symbol etched deep inside the base left the collector completely befuddled. The master glassmaker quickly stepped forward to offer a clear, perspicuous account of the piece's esoteric origin: the supposedly inscrutable mark was merely the apprentice's own stylized artistic signature. Delighted by the sudden clarity of the mystery, the collector eagerly purchased the flawed vase on the spot.
 
-Story 171
+Story 0171
 
 arcane — 神秘难懂的；鲜为人知的protuberant — 隆起的；突出的categorical — 明确的；绝对的；无条件的resort — 诉诸；采取；度假胜地unqualified — 绝对的；无条件的；不合格的abstruse — 深奥难懂的；晦涩的insinuate — 暗示；旁敲侧击地表达；步步潜入intimate — 暗示；提示；亲密的markedly — 显著地；明显地allusion — 暗指；影射；典故
 
 The Map beneath the Seal
 Gathered at a high mountain inn, an unqualified local guide proudly displayed an arcane parchment map bearing a heavy, protuberant wax seal. He made a highly abstruse, historical allusion to buried revolutionary gold and tried to subtly insinuate that the current mayor had illegally hidden it away. A visiting university scholar instantly gave a firm, categorical denial of the claim, using a faded printing date on the edge to intimate the actual truth: the paper was markedly newer than the antique wax seal pressed upon it. Caught in the lie, the embarrassed guide confessed that he had resorted to cheap forgery simply to attract wealthy tourists to his trails.
 
-Story 172
+Story 0172
 
 scrawl — 潦草地写；乱涂irreparable — 无法修复的；不可挽回的pasture — 牧场；放牧meager — 贫乏的；不足的venture — 冒险；大胆尝试plunder — 掠夺；赃物prospective — 可能成为的；预期的apprehend — 逮捕；理解；领会impute — 归咎于；归因于neophyte — 新手；初学者
 
 The Message under the Turf
 A neophyte archaeologist began a highly risky excavation venture in an abandoned mountain pasture. Working with only a meager student crew, she uncovered a buried stone slab bearing a hurried, ancient scrawl about a hidden stash of wartime plunder. Her nervous prospective financial sponsor feared irreparable damage to the artifact and immediately tried to impute every single pre-existing cracked tile to her team's methods. Fortunately, she managed to help him apprehend the cryptic message correctly: it explicitly warned against digging any deeper into the unstable fault line. They stopped just in time, and a later geological survey revealed a massive, hollow cavern directly beneath the site.
 
-Story 173
+Story 0173
 
 credence — 相信；可信性；凭证venerate — 尊崇；敬仰onerous — 繁重的；艰巨的；麻烦的laity — 普通信徒；非专业人士；外行morass — 沼泽；困境inimitable — 无法模仿的；独特的jaded — 厌倦的；疲惫不堪的myopic — 近视的；目光短浅的acquiesce — 默许；勉强同意demonstrable — 可证明的；显而易见的
 
 The Bell across the Marsh
 For generations, the local laity would regularly gather to venerate an ancient cathedral bell famous for its inimitable, melodic tone. When heavy autumn floods turned the primary pilgrimage road into a dangerous mud morass, a jaded station warden proposed an onerous, miles-long detour around the hills. Most exhausted travelers chose to quietly acquiesce out of fatigue, but a myopic village carpenter firmly refused, giving sudden credence to an old local tale about a hidden, raised stone path. At low tide, the absolute truth of the historical tale became demonstrable when solid stepping stones appeared just beneath the reeds, and the forgotten route carried the next procession safely across the water.
 
-Story 174
+Story 0174
 
 pontificate — 自以为是地说教；武断地发表意见ambivalent — 矛盾的；摇摆不定的exemplary — 值得效仿的；典范的；可作标本的stoic — 坚忍的；克制的人；斯多葛学派的recrimination — 反责；相互指责affinity — 亲近感；密切关系；相似性squalid — 肮脏的；恶劣的；卑劣的abject — 悲惨的；卑躬屈膝的；绝望的commiserate — 同情；表示指责；表示慰问contrition — 悔恨；痛悔
 
 The Night in the Rescue Hut
 Two bitter rival climbers were forced to share a squalid emergency rescue hut after a sudden peak avalanche trapped them on the ridge. Before the storm, Mara liked to loudly pontificate about courage and endurance, while Ivo, a famously stoic mountain guide, quietly gave an exemplary display of it by carefully treating her severely injured hand. Initially ambivalent about accepting help from her competitor, she fully expected a harsh wave of recrimination for ignoring his early weather warning. Instead, he began to gently commiserate with her over the ruined expedition. Their mutual professional affinity grew in the quiet shack, and her abject fear gave way to genuine contrition before the dawn rescue helicopters arrived.
 
-Story 175
+Story 0175
 
 pilgrimage — 朝圣；朝圣之旅procession — 队伍；行列；游行mull — 仔细考虑；反复思量；（加糖和香料）温热（酒等）hindrance — 妨碍；障碍；绊脚石grueling — 使人精疲力竭的；艰苦的demarcate — 划分界线；标明…的界线etiolated — 苍白纤弱的；（植物）因缺光而变白的comport — 举止；表现；相称deportment — 举止；风度；行为scrumptious — 美味的；可口的；极好的
 
 The Lantern Feast above the Clouds
 During a traditional spring pilgrimage, a long, candlelit procession slowly climbed toward a remote mountain shrine. The grueling high-altitude ascent made everyone pause to heavily mull turning back, while overgrown, etiolated bamboo shoots blocking the path became a constant physical hindrance on the narrow cliffside trail. Thinking quickly, Mei used bright, reflective nylon cords to clearly demarcate a much safer route around the drop-offs. Her exceptionally calm, steady deportment helped the tired children comport themselves with immense patience despite the freezing cold. At the rocky summit, welcoming monks rewarded the entire group with steaming, scrumptious wild mushroom buns.
 
-Story 176
+Story 0176
 
 axiomatic — 不言自明的；公理的parody — 滑稽模仿；戏仿作品；拙劣的模仿stupefy — 使惊呆；使大吃一惊；使昏迷chary — 谨慎的；小心的；吝啬的eclectic — 兼收并蓄的；不拘一格的；折衷的idolatrous — 盲目崇拜的；偶像崇拜的pine — 渴望；憔悴；松树pirate — 海盗；盗版者；盗印inimical — 有害的；敌意的；不利的tout — 吹捧；兜售；招徕（顾客）
 
 The Puppet Pirate of Saltwind Pier
 Nico was traditionally highly chary of traveling theater agents who tout every single new holiday show as an absolute masterpiece. Yet, a vibrant, eclectic puppet troupe successfully drew him down to the water with a brilliant parody of an idolatrous pirate king. It seemed entirely axiomatic to the crowd that the vain puppet captain would constantly pine for rowdy audience applause, but the plot took a twist when a sea witch deployed a magic charm meant to completely stupefy him. When a flock of inimical gulls swooped down and stole the charm instead, the wooden pirate hilariously bowed to their wild, squawking dance, and Nico laughed heartily until the harbor bell rang.
 
-Story 177
+Story 0177
 
 languish — 长期受苦；衰弱；被忽视augury — 预兆；征兆；占卜desuetude — 废弃；不用encomium — 颂词；赞颂mince — 切碎；含蓄地说pier — 码头；桥墩reed — 芦苇；簧片；（乐）管乐器gull — 海鸥；欺骗sleight — 巧妙手法；巧妙；戏法vacuous — 空洞的；茫然的；空虚的
 
 The Organ beneath the Signal Tower
 For decades, a beautiful antique reed organ had quietly languished inside a dark signal tower beside an abandoned shipping pier, with both structures falling into complete, dusty desuetude. When a rogue sea gull suddenly dropped a shiny brass key right at Lila's feet, she took the bizarre incident as a positive augury and decided to enter the tower. A faded, vacuous inscription on the wooden casing offered no historical clues, but with a trained mechanic's nimble sleight of hand, she successfully released the organ's hidden, rusted bellows. She did not mince words at the next town meeting: either restore the landmark immediately or lose it to developers. At the grand reopening ceremony, the proud mayor delivered an emotional encomium as the organ's music drifted beautifully across the harbor.
 
-Story 178
+Story 0178
 
 brass — 黄铜；铜管乐器；厚脸皮bellow — 吼叫；怒吼；大声叫喊portent — 预兆；征兆；奇事polemical — 论战性的；引发争议的pervasive — 无处不在的；普遍的；弥漫的filibuster — 阻挠议事；通过冗长演说阻挠议案通过imperious — 专横的；傲慢的；急迫的ostracize — 排斥；孤立；放逐stocky — 矮壮的；敦实的officious — 爱指手画脚的；多管闲事的；过于殷勤的
 
 The Telescope above Hawthorn Hall
 A stocky observatory caretaker found heavy green tarnish creeping across the telescope's historic brass barrel and noticed a pervasive smell of electrical smoke beneath the wooden dome. The imperious academy dean dismissively waved both warnings away as harmless anomalies, while his officious administrative clerk threatened to socially ostracize any staff member spreading public alarm. Refusing to back down, Mina answered their threats with a sharp, polemical leaflet and began a strategic filibuster at the trustee closure meeting. Right in the middle of her speech, the campus emergency horn gave a sudden, deafening bellow. Taking the noise as a clear cosmic portent, the shocked trustees immediately inspected the dome and found a major electrical cable burning fiercely behind the plaster wall.
 
-Story 179
+Story 0179
 
 tarnish — 失去光泽；玷污；败坏leaflet — 传单；小册子juncture — 关键时刻；特定关头；接合处cartilage — 软骨；软骨组织hew — 砍；劈；坚持sag — 下垂；下陷；萧条apposite — 贴切的；恰当的；合适的gauche — 笨拙失礼的；不善交际的ascribe — 把……归因于；认为是……所为wit — 机智；才智；风趣
 
 The Crooked Stag of Alder Workshop
 After a massive heavy snowstorm made the main roof beam visibly sag, Mara hurried into the yard to hew a sturdy timber support for the workshop's historic wooden stag sculpture. Its realistic ear, modeled delicately on real animal cartilage, had begun to rapidly tarnish beneath its protective outer metal coating. A gauche new apprentice tried to shift the blame, attempting to ascribe the water damage entirely to Mara's previous cleaning methods and even distributed a petty leaflet blaming her to the local clients. At that critical structural juncture, Mara used her exceptionally apposite wit to easily expose the glaring scientific flaws in his own repair plan, safely bracing the roof herself just before the next torrential downpour.
 
-Story 180
+Story 0180
 
 stag — 雄鹿；不带伴侣参加社交聚会的人sibilant — 发咝咝声的；咝咝作响的trident — 三叉戟orb — 球体；天体；宝珠undertow — 退浪；水下暗流hefty — 沉重的；高大的；强壮的envisage — 设想；想象；面对iridescent — 彩虹色的；闪光的；色彩斑斓的mildew — 霉；霉菌；发霉egress — 出口；外出；出路
 
 The Orb in the Tide Cave
 Nia could not logically envisage why an ancient stone stag guarded the narrow coastal egress of a deep tide cave. Exploring inside, she found thick black mildew covering a hefty granite statue whose heavy trident pointed directly at a glowing, iridescent orb floating beneath the water's surface. When a powerful underwater undertow suddenly threatened to pull her out toward the sharp rocks, she wedged the statue's stone trident into a deep rock crack and held on with all her might. The prize orb eventually proved to be nothing more than a vintage fisher's glass float. Just then, a cold, sibilant breath of wind blowing behind the stag statue revealed a hidden, narrow escape passage, which Nia quickly followed out to safety.
 
-Story 181
+Story 0181
 
 ramification — 后果；派生影响；分支meek — 温顺的；谦和的；优柔寡断的sully — 玷污；损害；弄脏immolate — 献祭；牺牲；（尤指自焚）杀死raiment — 衣服；服饰jugular — 颈静脉；致命要害；喉部的lard — 猪油；给……加猪油；点缀trivial — 琐碎的；微不足道的decimate — 大量毁灭；严重削弱；十抽一杀死unruly — 难以管教的；难以控制的；任性的
 
 The Bonfire at Midsummer Green
 A meek village tailor generously lent several pieces of original royal raiment to an unruly, chaotic midsummer acting troupe. However, their eccentric director planned to spectacularly immolate a giant straw king puppet during the finale, entirely unaware that its interior crown had been packed with dense pig lard for structural weight. A seemingly trivial aesthetic prank like this could have a truly deadly systemic ramification: stray sparks might easily decimate the surrounding rows of dry wooden merchant stalls and permanently sully the historic festival's reputation. When an unscripted prop sword movement nearly struck a lead actor's jugular vein during the chaos, the tailor bravely halted the show himself, removed the dangerous crown, and ordered the bonfire moved safely beyond the green.
 
-Story 182
+Story 0182
 
 inexplicable — 无法解释的；莫名其妙的babble — 含糊不清地说；（溪水）潺潺声ramble — 漫步；闲逛；漫谈genus — （生物学）属；种类jay — 松鸦tyranny — 暴政；专横；专制jaunt — 短途游览；远足secular — 世俗的；非宗教的effeminate — 女性化的；缺乏传统阳刚气质的mayhap — 或许；可能
 
 The Marginalia in the Bird Guide
 During a quiet woodland jaunt, Elian heard a brook babble softly beside a mysterious, inexplicable stone tower hidden in the forest. A colorful jay caught his attention and led him inside the structure, where he found an old field guide that mistakenly assigned the bird to the wrong genus. Handwritten marginalia in the book called the tower strictly secular and went on to mock its former keeper as effeminate simply for wearing imported silk robes. Mayhap the bitter author feared anyone who lived differently from the village. Elian began to ramble aloud about the historical tyranny of narrow-minded scholars, but the jay suddenly swooped down, stole his pencil, and flew out the window, ending his lecture neatly.
 
-Story 183
+Story 0183
 
 despotism — 专制统治；暴政forge — 伪造；伪造罪；锻造；建立pantheism — 泛神论pantheon — 万神殿；名人群体ailment — 小病；不适woe — 悲痛；苦难；灾难acrid — 辛辣刺鼻的；（言语）尖刻的mediocre — 平庸的；普通的；一般的jejune — 枯燥乏味的；幼稚的；贫瘠的quack — 江湖医生；庸医；（鸭子）嘎嘎叫
 
 The Bitter Tonic of Bell Street
 A charming quack claimed that his deep study of pantheism had revealed a natural cure for every human ailment. He filled his storefront with a massive pantheon of wooden gods and sold an acrid liquid tonic as a miracle potion, even though its bottle label bore only a mediocre hand-drawn sketch of a halo. To forge convincing customer testimonials, he spent his evenings writing jejune tales of personal woe and ruled his young apprentices with an iron fist of petty despotism. Fortunately, a local chemist named Ada tested the tonic, found nothing but vinegar and hot pepper, and posted the chemical results where every arriving customer could read them.
 
-Story 184
+Story 0184
 
 humdrum — 单调乏味的；平凡的insipid — 淡而无味的；枯燥乏味的proverbial — 谚语中的；众所周知的mudslinger — 恶意诽谤者；进行人身攻击的人imposter — 冒名顶替者；骗子marsh — 沼泽；湿地hawk — 叫卖；兜售；鹰ware — 商品；制品；器皿huckster — 小贩；唯利是图的推销者contempt — 蔑视；轻视
 
 The Painted Sign at Reed Marsh
 At the annual marsh craft fair, an energetic huckster began to loudly hawk a piece of humdrum clay ware, claiming it was the proverbial drinking cup of ancient kings. However, a faded, insipid crest painted near the rim did little to support his grand historical claim. When an angry mudslinger in the crowd called the quiet potter an imposter, she calmly turned the cup over and revealed her own unique, verified maker's seal stamped into the base. The huckster showed absolute contempt for the gathering buyers who loudly demanded immediate refunds, so the fair warden stepped in, closed his stall, and sent him packing.
 
-Story 185
+Story 0185
 
 prosaic — 平淡无奇的；乏味的；散文的humbug — 骗子；骗人的把戏；胡说八道swamp — 沼泽；湿地；使不堪承受；淹没mar — 损坏；玷污；破坏tamper — 篡改；胡乱摆弄；贿赂revel — 狂欢；陶醉；纵情欢乐chide — 责备；训斥caricature — 漫画；夸张模仿；讽刺画schoolmarm — 女教师；古板严厉的女教师ruler-wielding — 挥舞着尺子的
 
 The Blackboard Masquerade
 The strict, ruler-wielding schoolmarm planned to deliver a prosaic grammar lesson to her class, but a giant, chalk caricature of her face appeared on the blackboard before she entered. She began to harshly chide the silent class until black ink suddenly started leaking from the board's wooden frame, threatening to permanently mar the floor boards. Moving quickly, a clever pupil found that a humbug janitor had tried to poorly tamper with a hidden radiator pipe behind the wall. While the leak began to swamp the lower corridor, the children worked together to repair the valve, prompting their grateful teacher to let them revel in an unexpected free hour.
 
-Story 186
+Story 0186
 
 bog — 沼泽；泥塘；使陷入困境mountebank — 江湖骗子；江湖郎中；吹牛者hoe — 锄头；用锄头翻地daunting — 令人畏惧的；艰巨的pluck — 勇气；胆量；采摘；拔dandy — 花花公子；极其漂亮的；极好的connote — 意味着；暗示；内涵crass — 粗鲁愚钝的；毫无顾忌的；愚蠢的prescriptive — 规定性的；指令性的；约定的effete — 衰弱的；颓废的；软弱的
 
 The Orchid beyond Fenner Bog
 A dandy mountebank promised wealthy city tourists a rare wild orchid whose unique color would connote eternal youth. His prescriptive parchment map ordered the group to hoe straight through protected wildlife ground, a crass demand that could easily ruin the fragile local wetland. Though crossing the unstable terrain looked highly daunting, a botanist named Sela had the pluck to follow a narrow, forgotten wooden boardwalk instead. She found the effete mountebank resting beside a cheaply painted fake flower, exposed his entire financial fraud to the tourists, and left the real living orchids untouched.
 
-Story 187
+Story 0187
 
 sterile — 无菌的；贫瘠的；无结果的tonic — 补药；滋补品；主音quiescent — 静止的；沉寂的；休眠的testimonial — 证明书；推荐信；感谢信brook — 小溪；容忍；忍受quay — 码头；停泊处rectitude — 正直；诚实；品行端正lest — 以免；唯恐acolyte — 侍僧；助理；忠实追随者bequest — 遗赠；遗产
 
 The Healer's Bequest
 A young acolyte received an unusual historical bequest from the monastery's head healer: a sterile glass vial, a secret tonic recipe, and a handwritten testimonial praising the professional rectitude of Mara—a local herbalist once falsely accused of poisoning foreign sailors. While the mountain abbey remained quiescent during the afternoon prayers, he carefully followed a winding brook down toward the shipping quay, moving fast lest the rising ocean tide erase a faint trail of crushed blue petals. There he found Mara using the exact same tonic to save the life of a feverish dockworker, securing the physical evidence that cleared her name and restored her place in the village.
 
-Story 188
+Story 0188
 
 alimony — 离婚赡养费zeitgeist — 时代精神；时代思潮tousle — 弄乱（头发或衣服）；使蓬乱abbey — 修道院；大教堂hypostasis — 本质；位格；本质的表现方式vial — 小瓶；药水瓶feline — 猫科动物；猫一样的；猫科的petal — 花瓣wedge — 楔子；三角形木块；楔入antler — 鹿角；茸角
 
 The Statue in the Abbey Garden
 With her very first legal alimony payment, a determined sculptor named Iris rented an abandoned stone abbey to build an art piece that perfectly captured the city's anxious zeitgeist. She titled her creation Hypostasis: a sleek, feline figure bearing a single sharp deer antler, holding a glass medicine vial in one paw and a single bronze petal in the other. On opening night, a sudden gale began to tousle her hair as the heavy statue slowly started to lean dangerously toward the gathering crowd. Iris quickly jammed a thick wooden wedge beneath its base, preventing a disaster and discovering that someone had purposely loosened the main bolts—an act of sabotage that made her strange creation famous by morning.
 
-Story 189
+Story 0189
 
 sublunary — 尘世的；地上的；月下世界的abide — 忍受；遵守；居住temporal — 世俗的；时间的；太阳穴的sublime — 崇高的；壮丽的；极好的lump — 块；团；笨重的人；把…归并在一起inescapably — 不可避免地banquet — 宴会；盛宴folly — 愚蠢；愚蠢的行为或想法meritorious — 值得赞扬的；有功绩的surpassing — 卓越的；胜过的；出类拔萃的
 
 The Banquet on Bell Mountain
 A powerful temporal prince held a lavish banquet right beneath a sublime mountain waterfall. He publicly addressed the crowd, calling ordinary physical hunger a mere sublunary concern and served each wealthy guest a solid lump of painted clay, claiming its artistic beauty offered a far surpassing type of nourishment. However, his head cook could not abide such arrogant folly. In a meritorious act of quiet defiance, she marched out of the kitchen bearing trays of steaming fresh bread and venison stew. The hungry guests inescapably preferred her real food, and the embarrassed prince was forced to join them before the hot dishes grew cold.
 
-Story 190
+Story 0190
 
 celestial — 天空的；天体的；神圣的ethereal — 轻盈飘逸的；超凡的；天上的estimable — 值得尊敬的；可估计的indulgence — 放纵；嗜好；沉溺；纵容purblind — 目光短浅的；视力模糊的；愚蠢的obtuse — 迟钝的；愚笨的；钝角的juvenile — 青少年的；幼稚的；少年的rile — 激怒；惹恼stricture — 严厉批评；限制；狭窄处assent — 同意；赞成
 
 The Comet over Moonlight Theater
 An estimable composer wrote a breathtaking, ethereal musical score for a new celestial ballet, but the purblind theater director short-sightedly dismissed the experimental work as a childish, juvenile indulgence. His obtuse public stricture quickly began to rile the passionate dancers, who locked the dressing rooms and flatly refused to perform in silence. When a brilliant rogue comet crossed the open roof of the theater in perfect synchronization with the orchestra's final chord, the stunned audience rose to demand an immediate encore. The defeated director gave his reluctant assent, and the unique ballet instantly became the theater's greatest historical success.
 
-Story 191
+Story 0191
 
 accede — 同意；就任；应允verdict — 裁决；判决；意见decree — 法令；政令；命令；判决pontiff — 教皇；主教；高级神职人员awry — 出错的；歪斜的obligate — 迫使；使负有义务ruinous — 毁灭性的；代价高昂的；荒废的salutary — 有益的；有益健康的stomp — 重踏；跺脚；（音乐）跺脚舞melancholy — 忧郁；悲伤；忧郁的
 
 The Bellmaker's Verdict
 When the historic ringing rhythm of the cathedral bell suddenly went awry, a melancholy pontiff issued a harsh public decree that would obligate every local bellmaker to pay a ruinous fine for the breakdown. Old Tomas firmly refused to accede to the unfair taxation and confidently asked the town council for a formal, independent verdict. He climbed up into the ancient tower, gave the warped center floorboard one firm stomp with his boot, and successfully exposed a loose wooden support beam vibrating directly beneath the bell. This structural discovery had an immediate, salutary effect on the town: the harsh decree was withdrawn, the tower floor was repaired, and the cathedral bell rang out clearly once again.
 
-Story 192
+Story 0192
 
 catholic — 广泛的；包容一切的latitudinarian — 宽容的；不拘泥教条的puerile — 幼稚的；愚蠢的contemplative — 沉思的；冥想的chord — 和弦；弦encore — 加演；再来一个cunning — 狡猾的；巧妙的fishy — 可疑的；有鱼腥味的pilfer — 偷窃；小偷小摸deplore — 强烈谴责；深感遗憾
 
 The Vanishing Violin Bow
 The latitudinarian director welcomed performers of catholic tastes to his seaside theater. During a contemplative violin solo, one crucial chord suddenly faltered because the spare bow had vanished from the stage. A puerile young stagehand made a highly fishy claim about a sea gull carrying it away, but a cunning violinist noticed telltale rosin stains on the boy's coat. He had tried to pilfer the valuable bow to sell it. The director chose to deplore the theft publicly to set an example, yet forgave the boy after he returned the item. That night, the relieved audience demanded an encore, celebrating the restoration of harmony.
 
-Story 193
+Story 0193
 
 sophomoric — 自作聪明而幼稚的；大二学生的unimpeachable — 无可指责的；无可怀疑的astray — 迷路；误入歧途macula — 斑点；黄斑blemish — 瑕疵；污点maculate — 弄脏；有斑点的spick-and-span — 一尘不染的；整洁如新的peccadillo — 小过失；小缺点peccant — 有罪的；犯错的peccable — 可能犯罪的；易犯错的
 
 The Speck on the Retinal Slide
 Professor Lin kept her eye laboratory spick-and-span and her research records entirely unimpeachable. When a sophomoric practical prank sent a lab class astray, an inexperienced student mistook a bit of dust on a slide for a genetic blemish in the retinal macula. His minor peccadillo became a serious infraction when he tried to deliberately maculate another slide to hide his initial mistake. Lin easily found the peccant fingerprint on the glass casing and reminded the class that every scientist is inherently peccable. The student confessed, cleaned the slides, and successfully repeated the experiment correctly.
 
-Story 194
+Story 0194
 
 lull — 暂时平静；使安静hiatus — 间断；空缺spick — 整洁漂亮的；崭新的immaculate — 完美无瑕的；一尘不染的exquisite — 精美的；细腻的petty — 琐碎的；小气的smear — 污迹；诽谤speck — 小点；微粒debark — 下船；卸下embark — 上船；着手
 
 The Portrait across the Strait
 After a long creative hiatus, painter Lena was finally ready to embark on a maritime voyage to exhibit an exquisite miniature portrait across the strait. Her spick uniform and immaculate display canvas drew early praise from travelers, but a petty rival tried to smear her artistic reputation by pointing to a dark speck near the portrait's eye. During a temporary lull in the storm-tossed crossing, Lena proved that the subtle mark was actually the historical subject's natural beauty spot. When the passengers debarked at dawn, the embarrassed rival apologized, and the gallery proudly hung her painting beside the entrance.
 
-Story 195
+Story 0195
 
 intestate — 未留遗嘱的；无遗嘱继承的scanty — 少量的；不足的scant — 几乎没有；不足的cornucopia — 丰饶角；丰富之源untenable — 站不住脚的；难以维持的illusory — 虚幻的；迷惑人的sophistical — 诡辩的；似是而非的languid — 无精打采的；慵懒的placid — 平静的；温和的stoicism — 坚忍；斯多葛主义
 
 The Cornucopia of Glasswater
 When a wealthy regional recluse died intestate, his greedy heirs found only scanty canned supplies and a rusted brass cornucopia in his cottage. A sophistical family lawyer claimed the artifact proved that hidden treasure lay beneath the placid lake nearby, but his dramatic argument was entirely untenable. Despite the languid summer heat, Mara searched the shores with quiet stoicism and found scant physical evidence: a map whose golden treasure island was entirely illusory, painted in disappearing salt ink. Rain quickly erased it, revealing the true message beneath: the fertile cottage and its community garden were the old man's only real riches.
 
-Story 196
+Story 0196
 
 consanguinity — 血缘关系；同宗protean — 多变的；千变万化的flighty — 轻浮的；反复无常的volant — 飞行的；能飞的outlandish — 古怪的；异国风格的pristine — 崭新的；原始纯净的slovenly — 邋遢的；马虎的dilapidated — 破败的；年久失修的scaly — 覆有鳞片的；鳞状的grungy — 肮脏的；破旧的
 
 The Aviary on Flint Hill
 Despite their close consanguinity, twins Nia and Tomas completely disagreed about the dilapidated historic aviary they had inherited. The flighty Tomas proposed converting it into an outlandish jungle-themed cafe, while practical Nia carefully studied its grungy timber beams and scaly rusted roof. During the inspection, they found a rare volant lizard gliding effortlessly among the high rafters, its protean skin shifting colors in the changing light. Captivated by the creature, even the typically slovenly park caretaker helped them restore the sanctuary, and by early spring the wildlife enclosure looked entirely pristine.
 
-Story 197
+Story 0197
 
 fickle — 反复无常的；易变的erratic — 不规律的；反复无常的mercurial — 喜怒无常的；机敏善变的seedy — 破旧的；声名狼藉的forlorn — 孤苦无助的；荒凉的wretched — 悲惨的；恶劣的groveling — 卑躬屈膝的；匍匐的debased — 堕落的；贬值的despicable — 卑鄙的；可鄙的contemptible — 可轻蔑的；卑劣的
 
 The Last Show at Marlow House
 In a seedy neighborhood theater, a mercurial producer blamed every financial failure on his fickle cast and the building's erratic electrical lights. A forlorn understudy arrived back-stage only to find the nervous lead actor groveling before the boss for one more chance. Tired of the producer's despicable verbal threats and contemptible personal insults, she stepped forward and called the entire show a debased imitation of true art. The wretched cast walked out of the building together in solidarity, leaving the furious producer to face the empty seats alone at opening curtain.
 
-Story 198
+Story 0198
 
 aviary — 鸟舍；大型鸟笼rafter — 椽；屋顶斜梁cottage — 小屋；乡间别墅recluse — 隐居者；遁世者falter — 踌躇；衰弱rosin — 松香；用松香擦panoply — 丰富多彩的一系列；全套装备defiance — 反抗；蔑视reciprocate — 回报；回应vagrant — 流浪者；漂泊的
 
 The Music above the Aviary
 A weary vagrant violinist took shelter from a downpour in a remote cottage owned by a quiet recluse. A massive historical aviary filled its high attic, but a cracked central rafter threatened the nesting birds within. In open defiance of the eccentric owner's strict warning to stay downstairs, the visitor climbed up and carefully braced the wood. His playing began to falter when his bow's rosin wore thin, but a brilliant panoply of songbirds instinctively answered each weak note. Deeply moved by their collective music, the old recluse chose to reciprocate his kindness with a hot supper and a warm bed.
 
-Story 199
+Story 0199
 
 voluptuous — 丰满性感的；奢华舒适的emancipate — 解放；使摆脱束缚devious — 狡诈的；迂回的ravage — 严重破坏；蹂躏demagogue — 蛊惑民心的政客；煽动者pedantic — 迂腐的；卖弄学问的bucolic — 田园诗般的；乡村的sacrilegious — 亵渎神圣的；大不敬的muster — 集合；鼓起retribution — 报应；惩罚
 
 The Bell in the Orchard
 In a bucolic valley, a devious demagogue promised to emancipate the local farmers from an ancient, heavy church tithe. Secretly, however, he meant to ravage the historical abbey orchard and melt its ancient bronze bell to fund a voluptuous feast for his political donors. A pedantic village schoolmaster spotted a false date on his official decree and began to muster the angry villagers. They successfully stopped the sacrilegious scheme right at the furnace gates. Swift legal retribution followed: the disgraced demagogue was sentenced to manually replant every single ruined tree in the orchard.
 
-Story 200
+Story 0200
 
 amalgamate — 合并；融合mutilate — 使残缺；严重损毁requisition — 征用；正式要求loiter — 游荡；闲逛bustle — 忙碌奔走；喧闹snivel — 啜泣；哭诉convene — 召集；开会purge — 清除；净化brittle — 易碎的；脆弱的vortex — 漩涡；旋涡中心
 
 The Glassmaker's Whirlwind
 When a sudden thermal vortex tore through the factory glassworks, panicked workers began to bustle among shelves of shattered, brittle jars. The head forewoman ordered them to immediately convene by the safety kiln and issued an emergency requisition for every cargo wagon in the town. She warned onlookers not to loiter around the debris or snivel over the loss, then used specialized sand to purge toxic fuel from the flooded floor. Extreme heat could successfully amalgamate the fallen shards later, but one careless step right now might permanently mutilate a rescuer. By dusk, everyone was safely evacuated.
 
-Story 201
+Story 0201
 
 assorted — 各式各样的；混杂的cachet — 声望；威信emblem — 象征；徽章soprano — 女高音；女高音歌手tarry — 逗留；耽搁sprawl — 蔓延；伸开四肢躺着fluke — 侥幸；意外venison — 鹿肉demote — 降职；降级excavate — 挖掘；发掘
 
 The Song beneath the Courtyard
 Archaeologists with assorted scientific specialties came to excavate a palace courtyard just days before a grand charity opera gala. The gala's featured lead soprano chose to casually tarry nearby, eating roasted venison as bright tents began to sprawl across the lawn. By a complete historical fluke, her practicing high note vibrated the stone and loosened centuries of dust from a buried ancient emblem. The incredible discovery instantly gave the upcoming musical gala unexpected global cachet. When an arrogant palace steward tried to demote the hard-working diggers to mere kitchen servants, the soprano firmly refused to perform until he publicly apologized to the team.
 
-Story 202
+Story 0202
 
 vanquish — 击败；克服；征服torrid — 炎热的；热烈的；酷热的sabotage — 蓄意破坏；妨害chromosome — 染色体cramp — 痉挛；束缚；限制canter — （马）慢跑；使慢跑waddle — 蹒跚而行；摇摇摆摆地走fumble — 笨拙地处理；摸索coronation — 加冕典礼baleful — 凶恶的；有害的；不祥的
 
 The Mare at the Coronation
 On a torrid coronation morning, a baleful duke tried to secretly sabotage the young queen's parade saddle. A sharp-eyed groom saw him waddle suspiciously away from the stable and fumble with a silver stirrup buckle. Although a sudden leg cramp temporarily slowed her down, the brave groom made the royal mare canter smoothly into the palace courtyard and raised the alarm. Official archive records tracking a rare genetic chromosome marker later proved that the duke had switched the royal horse with an unmanaged clone. The groom's quick action helped completely vanquish his political scheme, and the true mare carried the queen safely to her crown.
 
-Story 203
+Story 0203
 
 xenophobia — 排外情绪；仇外心理utilitarian — 实用的；功利主义的；有实际价值的antagonize — 激怒；使对立；引起敌意impinge — 侵犯；妨碍；冲击recoup — 收回；弥补；扣除asylum — 庇护；避难所；精神病院vault — 拱顶；保险库；金库；地下室motley — 混杂的；五花八门的；杂色的scowl — 怒视；皱眉homage — 敬意；致敬；效忠
 
 Shelter beneath the Moon
 A motley band of deep-space travelers sought emergency asylum in a stark, utilitarian lunar research base. The colony governor's deep-seated xenophobia made him scowl when they arrived, but he dared not openly antagonize the local miners who actively welcomed the newcomers. He greedily claimed that their survival shelter would impinge on an ancient historic vault zone and demanded an immediate payment to recoup his personal excavation costs. However, inside the chamber, they found a beautiful ancient mural paying profound homage to Earth's first climate refugees. Visibly ashamed of his cruelty, the governor unlocked the secure vault and offered everyone unconditional shelter.
 
-Story 204
+Story 0204
 
 pervade — 弥漫；遍及impend — 即将发生；逼近fracture — 断裂；骨折；折断shun — 避开；回避；躲避strained — 紧张的；勉强的；不自然的civility — 礼貌；客气；端庄loutish — 粗野的；笨拙无礼的；粗鲁的fiddling — 瞎摆弄；无用的；微不足道的perilous — 危险的；险恶的nudge — 轻推；促使；用肘推
 
 The Signal on Black Ridge
 As thick mountain fog began to pervade the rocky peaks of Black Ridge, a perilous rockfall seemed to actively impend over the climbers. A deep structural fracture split the main path while a loutish climber in the back kept uselessly fiddling with the emergency rescue beacon. Maintaining a sense of highly strained civility, Mara firmly told him to completely shun the crumbling cliff edge. One sharp, targeted nudge from her heavy boot freed the jammed dial on his device, and its broadcast signal guided a rescue helicopter to them just minutes before the entire ridge collapsed.
 
-Story 205
+Story 0205
 
 rapprochement — 和解；关系改善alliteration — 头韵；头韵法accrue — 积累；逐渐增加；（利息）滚动banter — 打趣；逗趣；开玩笑wallow — 沉溺；（在泥、水中）打滚quadratic — 二次的；二次方程式sentinel — 哨兵；守卫menopause — 绝经期；更年期engender — 引起；产生；带来larynx — 喉；喉头
 
 The Equation in Her Voice
 During her sudden menopause, Dr. Lin found that physical fatigue could drastically tighten her larynx before speaking. At the international science festival, an old university rival stood like a sentinel by the main stage, ready with sarcastic banter about her newly proposed quadratic equation model and its messy, accidental alliteration. She firmly refused to wallow in self-pity or embarrassment; she knew small academic grudges only accrue interest and poison the mind with time. Her elegant final proof began to engender roaring applause from the rows, and her humbled rival offered a quiet handshake that marked their long-awaited professional rapprochement.
 
-Story 206
+Story 0206
 
 comply — 遵从；服从；顺从preposterous — 荒谬的；反常的；不合常理的arcade — 拱廊；有拱廊的街道；电子游戏厅shin — 专指小腿前部（胫部）；攀爬consecrate — 使神圣；供奉；献身于cleave — 劈开；紧贴；坚持entrench — 使根深蒂固；牢固确立；掘壕防护regent — 摄政者；摄政王；理事swirl — 旋转；打旋；漩涡stealth — 隐秘；悄然行动；秘密行动
 
 The Regent's Marble Passage
 Moving with absolute stealth, Nara entered the moonlit marble arcade and overheard the corrupt regent ordering his palace guards to comply with a preposterous new taxation decree. At dawn, he planned to publicly consecrate a stolen ancient statue to permanently entrench his illegal rule. In the dark, a wave of ancient dust began to swirl around the corridor as Nara accidentally struck her bare shin on its granite base. No standard iron hammer could cleave the heavy stone, so she used her chisel to reveal the hidden royal seal beneath its pedestal, completely exposing his massive theft to the public.
 
-Story 207
+Story 0207
 
 shirk — 逃避；推卸caliber — 才干；能力；口径；（枪管）内径ecstasy — 狂喜；入迷；欣喜若狂genial — 和蔼的；宜人的；亲切的dwindle — 逐渐减少；缩小；衰落derail — 使脱轨；扰乱；颠覆（计划等）consign — 交付；委托；把…置于stroll — 漫步；闲逛；散步anguish — 极度痛苦；苦恼infirm — 体弱的；虚弱的；不坚定的
 
 The Last Train to Orison
 A genial but physically infirm engineer took a final emotional stroll beside his beloved locomotive engine. As active passenger numbers began to drastically dwindle across the region, the corporate railway planned to officially consign the line to the local scrap yard. He vowed he would not shirk his duty on one last journey through the mountains. A massive fallen tree on the bend threatened to derail the speeding train, but he expertly stopped the wheels within inches of the timber, proving his lifelong professional caliber. The passengers' deep anguish turned to pure ecstasy when they safely reached Orison, where the grateful town immediately voted to preserve the engine and its historic mountain line forever.
 
-Story 208
+Story 0208
 
 scrap — 废料；残屑；废弃；拆毁upfront — 预先的；坦率的；在最前面的wasp — 黄蜂；胡蜂tithe — 什一税；税收；缴纳什一税kiln — 窑；炉；烘箱shard — 碎片；（尤指陶瓷）陶片onlooker — 旁观者；围观者saddle — 马鞍；给马装鞍；使承担（重担）buckle — 搭扣；皮带扣；扣住；弯曲mare — 母马；母驴
 
 The Buckle at Ember Fair
 At the annual Ember Fair, a local artisan potter calmly paid her weekly stall tithe upfront and fed scrap pine wood into her portable kiln. Suddenly, a wild wasp startled a heavy draft mare tethered beside her sales booth, and a snap from a loose buckle sent the animal's leather saddle sliding sideways under its belly. While every panicked onlooker scattered for safety, the brave potter stepped forward and caught the loose leather reins. One stray hoof heavily smashed a prized porcelain vase, but she held up its brightest, multicolored shard and loudly announced an impromptu mosaic workshop. By noon, her class roster was completely full.
 
-Story 209
+Story 0209
 
 mural — 壁画；墙壁装饰画ridge — 山脊；隆起；垄beacon — 信标；灯塔；烽火rein — 缰绳；控制；勒马hoof — 蹄；用蹄踢luscious — 美味的；赏心悦目的；甘甜的palatable — 可口的；可接受的；合意的faction — 派别；小集团；内讧heave — 用力举起；起伏；（沉重地）发出（叹息）hinge — 铰链；折叶；关键；取决于
 
 The Beacon behind the Mural
 On a stormy, freezing mountain ridge, two rescue guides from a rival political faction accidentally found a stranded pack horse with one severely injured hoof. Its tangled leather rein had caught tightly on the rusted door hinge of an abandoned stone weather hut. Together, they had to heavily heave the jammed timber door aside, suddenly revealing a vibrant historical mural that marked the entry to an old, underground beacon tunnel. Inside the bunker, they discovered a stash of once-luscious dried mountain peaches, now barely palatable to the taste, along with a working battery lamp that successfully summoned emergency help through the thick fog.
 
-Story 210
+Story 0210
 
 fossil — 化石；守旧的人；老古董freight — 货物；货运；运输；运送fright — 惊吓；恐怖；极为可笑的人fringe — 边缘；刘海；穗fuse — 保险丝；导火线；熔合；混合hydraulic — 液压的；水力的flake — 薄片；剥落；成片剥落flask — 烧瓶；保温瓶；小扁瓶scarce — 稀少的；不足的；罕见的mainstay — 支柱；主要依靠
 
 The Fossil in the Freight Yard
 A massive, newly discovered dinosaur fossil shipment was the local natural history museum's financial mainstay, but its primary freight crane suddenly stalled when a high-pressure hydraulic hose burst in the yard. Clean water was scarce in the facility, and an accidental short-circuit spark blew the main power fuse, giving the exhausted night guard a terrible fright in the dark. Standing at the shipping yard's outer fringe, a quick-thinking chemist named Imani used her glass laboratory flask to catch the leaking chemical fluid. She saw one mineral layer begin to flake away from the wooden crate, immediately secured the fragile load, and saved the rare specimen from irreversible damage.
 
-Story 211
+Story 0211
 
 strange — 奇怪的；陌生的；不习惯的enthrall — 迷住；吸引；使沉迷pivotal — 关键的；核心的；枢轴的peril — 危险；危难；置…于险境rapture — 狂喜；欣喜若狂；欢天喜地compunction — 内疚；懊悔；良心责备ornate — 华丽的；装饰繁复的rancid — 腐臭的；变质的；令人作呕的reproof — 责备；谴责；责难perennial — 多年生的；长期存在的；常年的
 
 The Garden of Second Chances
 A highly strange, pungent odor suddenly rose from the center of an ornate marble fountain, putting the botanical garden's entire collection of rare perennial flowers in immediate peril. The unique water fountain used to deeply enthrall thousands of weekend visitors, but a massive leak of rancid cooking oil from a nearby restaurant had seeped directly into its internal water lines, and the head gardener faced a stern public reproof from the city board. Filled with genuine compunction for his oversight, he carefully traced the toxic contamination back to a pivotal safety valve he had personally neglected during checking. His quick, successful repair brought such immense rapture to the reopening crowd that hundreds of citizens volunteered to help restore every single plant bed before the spring arrived.
 
-Story 212
+Story 0212
 
 conscientious — 认真负责的；尽责的rupture — 破裂；决裂glum — 闷闷不乐的；忧郁的imbued — 充满的；被灌输的collocation — 搭配；词语组合synopsis — 概要；梗概retrenchment — 削减开支；紧缩eidetic — 记忆异常清晰的；影像记忆的cairn — 石堆路标；纪念石冢apportion — 分配；分摊
 
 The Cairn of Vanishing Words
 After university retrenchment threatened her dialect expedition, conscientious linguist Mara refused to look glum. Her eidetic memory held every unusual collocation from the mountain villages, but a sudden rupture in her recorder cable left the physical evidence incomplete. Beside a stone cairn, she found an old notebook beautifully imbued with cedar smoke. Its short synopsis perfectly mapped the last native speakers' migratory route. Mara asked her team to carefully apportion the remaining batteries, follow the hidden map, and permanently preserve their voices.
 
-Story 213
+Story 0213
 
 ream — 大量；令（纸张单位）trounce — 彻底击败；痛打despond — 沮丧；失去信心cedar — 雪松；香柏木olfactory — 嗅觉的downright — 彻底的；直截了当的trot — 小跑；快步走encroach — 侵占；侵犯hamper — 妨碍；阻碍；大篮子rebuke — 斥责；严厉批评
 
 The Cedar Grove Ballot
 A full ream of glossy notices falsely claimed a new road project would not encroach on the historic cedar grove. However, Ranger Sela found an immediate olfactory clue there: fresh chemical asphalt hidden beneath the fallen leaves. She watched a survey horse trot past heavy metal barriers that would severely hamper nesting deer, calling the developer's environmental claim a downright lie. Though distant town officials sharply rebuked her for speaking out, she refused to despond. Her clear photographs helped residents completely trounce the commercial road proposal at the municipal ballot box.
 
-Story 214
+Story 0214
 
 discretion — 谨慎；自行决定权defect — 缺陷；瑕疵；叛逃obdurate — 顽固的；冷酷无情的wrath — 愤怒；怒火deity — 神；神灵stampede — 狂奔；蜂拥rustle — 沙沙作响；（非法的）偷窃牲畜transpire — 发生；被人得知；（植物）蒸腾insular — 与世隔绝的；心胸狭窄的kinship — 亲属关系；亲近感
 
 The Bell of the Island Deity
 On an insular northern island, a giant bronze deity presided over the annual harvest feast. When dry reeds began to rustle suspiciously behind its stone platform, frightened cattle broke loose and started a dangerous stampede toward the crowd. Master carpenter Ivo spotted a structural defect in the ceremonial wooden gate and used his own professional discretion to break it open for safety. The obdurate high priest predicted divine wrath for damaging the temple, but no such disaster transpired. Instead, the brave rescue renewed the islanders' deep kinship with their mainland guests.
 
-Story 215
+Story 0215
 
 gallantry — 英勇；（对女子的）殷勤wreathe — 环绕；覆盖；编成花环billow — 翻腾；鼓起；巨浪procure — 获得；设法取得reformatory — 少年管教所；感化院delinquent — 违法的；有过失的；少年犯waver — 动摇；犹豫；摇曳latch — 门闩；闩上pageant — 盛装游行；露天历史剧表演unravel — 解开；阐明；（计划等）崩溃
 
 The Unfinished Pageant Float
 For the annual spring pageant, each local delinquent at the youth reformatory helped wreathe a massive wooden float in colorful silk ribbons. When its rear iron latch suddenly snapped, the heavy decorative cloth began to billow dangerously around a terrified child stuck on the high platform. Tomas did not waver under pressure. With unexpected gallantry, he climbed aboard the moving frame, began to quickly unravel the tangled cloth by hand, and held the platform steady while his teacher ran to procure a new steel pin. The repaired float won the day's loudest applause.
 
-Story 216
+Story 0216
 
 jeer — 嘲笑；讥讽jab — 猛戳；戳刺；注射hull — 船体；外壳；皮flinch — 退缩；畏惧paranoid — 多疑的；患偏执症的discordant — 不和谐的；刺耳的inflict — 使遭受；施加servitude — 奴役；苦役procure — 获得；设法取得upsurge — 急剧上升；（情绪等）涌起
 
 The Drumbeat below Deck
 A paranoid cargo captain heard a strange, discordant rhythm coming from below deck and immediately accused his weary crew of active mutiny. He began to harshly jeer at the head cook, who did not flinch when the captain made a sudden jab at his personal loyalty. However, an upsurge of ocean water in the lower hold soon revealed the mechanical truth: loose iron cargo was heavily pounding the ship's inner hull. Rather than inflict further servitude on his men as punishment, the humbled captain helped them procure strong rope and secure the heavy crates before dawn, restoring calm.
 
-Story 217
+Story 0217
 
 glossy — 光滑闪亮的；精美的grove — 小树林；树丛asphalt — 沥青；柏油路面plume — 羽毛；（烟、水等）羽状柱flit — 轻快掠过；匆忙移动plod — 沉重缓慢地走；埋头苦干flutter — 飘动；扑动；（心）乱跳florid — 过分华丽的；面色红润的flounder — 挣扎；不知所措；比目鱼forbearance — 克制；宽容；忍耐
 
 The Plume beyond the Grove
 A glossy tourist brochure praised the peaceful new trail through the grove, but alert ranger Nia saw a dark plume of smoke rise beyond the main asphalt road. Panicked birds began to flit wildly between trees, and warning flags along the ridge started to flutter in the rising wind. While several frightened hikers floundered over a poorly designed, florid emergency map, Nia showed immense professional forbearance and gave clear directions. She made them calmly plod toward the river safety zone, then successfully smothered the illegal, small campfire before it could spread.
 
-Story 218
+Story 0218
 
 recuperate — 康复；恢复（身体、财务等）acrimony — 尖刻；敌意；毒辣quench — 解渴；扑灭（火焰）；平息slant — 倾斜；带有偏向性的报道/观点canker — 溃疡；腐蚀性祸患；弊端dissipate — 消散；驱散；挥霍（金钱等）destitute — 赤贫的；一无所有的salutary — 有益的；有警示作用的obstreperous — 喧闹难管的；不服约束的winnow — 筛选；扬谷去糠
 
 The Windmill after the Feud
 While trying to slowly recuperate from a severe winter fever, Mara returned to a village where years of acrimony over a broken communal windmill had become a dark canker on community life. An obstreperous local landowner regularly gave every assembly meeting a selfish slant, insisting that the destitute farmers repair the structure alone. A salutary evening rain helped quench the hot dust, but it could not dissipate their collective anger. Mara stepped in and proposed that everyone winnow the salvaged grain together and use the shared proceeds for repairs; by sunset, active cooperation had begun to quench the historical feud as well.
 
-Story 219
+Story 0219
 
 demise — 终止；死亡；让位incorrigible — 屡教不改的；不可救药的extenuate — 减轻罪责；使情有可原expropriate — 征用；没收（财产）attenuate — 减弱；使变细薄；降低medley — 混合物；（音乐）集锦；大杂烩abrasive — 粗鲁伤人的；有研磨作用的brazen — 厚颜无耻的；明目张胆的bumptious — 傲慢自大的；盛气凌人的remorse — 懊悔；自责
 
 The Last Medley at Crown Theater
 The bumptious city mayor announced the immediate demise of the historic Crown Theater, outlining a brazen plan to expropriate the land for government offices. Its incorrigible lead conductor answered with a protest concert medley so loud that panicking officials tried to attenuate the sound by closing every iron door. Nothing could extenuate the mayor's abrasive public treatment of the neighborhood musicians. When the loyal audience completely filled the public square and played the finale from memory, the politician showed genuine remorse, withdrew his order, and allowed the theater to remain open permanently.
 
-Story 220
+Story 0220
 
 bask — 晒太阳；沉浸在（赞美、幸福等）中sacrosanct — 神圣不可侵犯的gargantuan — 巨大的；庞大的palpable — 明显的；可触知的；觉察得到的cardinal — 最重要的；主要的；红衣主教sybarite — 贪图享乐的人；奢侈逸乐者inveigle — 诱骗；哄骗dissemble — 掩饰（真实意图、情感等）；假装luscious — 甘美多汁的；赏心悦目的；奢华的dissolute — 放荡的；生活糜烂的
 
 The Feast beneath the Sundial
 A dissolute sybarite liked to bask idly beside the monastery orchard all afternoon, dreaming of a gargantuan feast composed entirely of its luscious peaches. He tried to craftily inveigle a young novice into opening the sacrosanct iron gate, then attempted to clumsily dissemble when the strict head abbot suddenly appeared. The cardinal rule of the orchard was absolute community generosity, however, and the political tension became palpable when hungry, arriving villagers gathered outside. Shamed, the sybarite surrendered his private banquet tables, and the fresh fruit successfully fed everyone.
 
-Story 221
+Story 0221
 
 translucent — 半透明的；透光的oblivion — 被遗忘；湮没；失去知觉stipend — 津贴；（尤指神职人员的）薪俸sham — 假象；虚假的；骗子；假装stultify — 使显得愚蠢；阻碍…的发展；使无效oligarchy — 寡头政治；寡头统治集团hodgepodge — 大杂烩；杂乱无章的混合体perdition — 毁灭；地狱；万劫不复grandiloquent — 浮夸的；辞藻华丽的plaudit — 喝彩；赞扬；夸奖
 
 The Lantern Parliament
 In a dark city strictly ruled by a wealthy oligarchy, Niko spent his tiny monthly stipend on a hodgepodge of translucent paper lanterns for an underground street exhibition. A grandiloquent minister called the public project a dangerous sham that would stultify refined public taste, threatening to immediately consign it to total historical oblivion. Niko lit the colorful lanterns anyway, revealing hidden portraits of working-class citizens the rulers had ignored. One prominent critic's lone plaudit quickly became a thunderous roar from the crowd, and the terrified minister watched his own political reputation slide toward permanent perdition.
 
-Story 222
+Story 0222
 
 coddle — 娇惯；悉心照料garner — 获得；收集；储藏pastiche — 模仿作品；大杂烩；拼贴画oracular — 神谕般的；高深莫测的；预言性的regimen — 养生法；常规训练；生活规则retrograde — 倒退的；退步的；退化的fop — 纨绔子弟；过分注意衣着面貌的男子addle — 使糊涂；使混乱；使腐坏bilious — 易怒的；脾气暴躁的；恶心的mellifluous — （声音）甜美流畅的；悦耳的
 
 The Tenor's Bitter Tonic
 A vain fop expected the entire opera staff to coddle him through his strict daily vocal regimen. His mellifluous tenor quickly began to garner immense public attention until a bilious local critic dismissed the new performance as a retrograde pastiche of classical themes. The conductor's oracular public reply only seemed to addle everyone in the company further: “Let the empty balcony judge.” On opening night, the mystery cleared up; those supposedly empty seats unfolded to reveal an invited student chorus whose unexpected harmony transformed the shallow imitation into something entirely original.
 
-Story 223
+Story 0223
 
 serendipity — 意外发现珍奇事物的运气；机缘巧合recapitulate — 概括；重述要点bigotry — 偏执；顽固偏见；盲从bohemian — 放荡不羁的；不守传统习俗的；波希米亚人behemoth — 庞然大物；强大机构dawdle — 磨蹭；拖延；游手好闲tangential — 离题的；关系不大的；切线的temporize — （为争取时间而）敷衍；拖延决定holocaust — 大屠杀；毁灭；浩劫（注：大写 Holocaust 特指纳粹大屠杀）extemporaneous — 即席的；没有准备的；临时凑成的
 
 The Reel behind the Memorial Wall
 By pure serendipity, a bohemian filmmaker researching a local Holocaust memorial found an unlabeled film reel hidden behind a loose cellar panel. The museum, a bureaucratic behemoth, immediately began to temporize and dawdle, calling the unexpected historical discovery completely tangential to its current exhibition theme. Yet, the restored film clearly documented ordinary neighborhood families actively resisting racial bigotry before the wartime deportations. At the grand unveiling ceremony, the filmmaker gave a powerful, extemporaneous address to recapitulate their forgotten names and deeds, permanently restoring voices that corporate delay had nearly erased.
 
-Story 224
+Story 0224
 
 domineering — 专横的；盛气凌人的dichotomy — 二分法；矛盾的对立；一分为二tutelage — 指导；教导；监护avert — 避免；转移（目光、注意力等）；防止tenet — 原则；信条；教义entropy — 熵；无序状态；衰退abscond — 潜逃；携款逃跑；不知去向serpentine — 蜿蜒的；曲折的；阴险的fortitude — 坚韧；刚毅；不屈不挠forte — 专长；强项；（剑的）强半部
 
 The Serpentine Aqueduct
 Under the patient tutelage of an elder mason, Lila quickly learned that architectural geometry was her true professional forte. However, a domineering government inspector stepped in, insisting on a false structural dichotomy: either straighten the serpentine aqueduct immediately or abandon the project entirely. Lila firmly upheld the original builders' central engineering tenet that water channels must naturally follow the curve of the mountain, using colored dye to map the smooth internal flow. Her immense fortitude helped avert a catastrophic collapse and exposed the inspector's hidden sabotage; amid the sudden entropy of the town evacuation, the corrupt official tried to abscond with the payroll but was caught red-handed at the lower valley gate.
 
-Story 225
+Story 0225
 
 choreography — 舞蹈编排；动作设计hagiography — 圣徒传；吹捧性传记prognosis — 预后；疾病预测；展望cordial — 热情友好的；（尤指餐后喝的）甜酒concord — 和谐；和睦；公约travesty — 歪曲；拙劣的模仿；嘲弄apotheosis — 巅峰；完美典型；神化divest — 剥夺；脱去（衣服）；放弃（资产）adumbrate — 勾勒…的轮廓；预示；暗含luminary — 杰出人物；权威；发光体
 
 The Dancer without a Pedestal
 A celebrated luminary returned to the stage after an injury whose medical prognosis had once threatened to permanently end her career. The director offered her a highly cordial welcome back but immediately unveiled a literal hagiography in dance, complete with flashy golden robes and dramatic choreography that made her ultimate apotheosis seem entirely inevitable. She flatly rejected the performance, calling it a hollow travesty of her difficult, painful recovery. To restore true concord within the theater company, she chose to completely divest the production of its theatrical grandeur and instead adumbrate a quieter, experimental work focused purely on doubt, discipline, and the raw beauty of beginning again.
 
-Story 226
+Story 0226
 
 factotum — 杂役；总管；总管家abbot — 男修道院院长vain — 徒劳的；自负的；枉然的chorus — 合唱团；齐声；合唱reel — 踉跄；打转；卷轴；卷筒deportation — 驱逐出境；放逐aqueduct — 引水渠；高架渠mason — 石匠；泥瓦匠amid — 在……之中grandeur — 宏伟；壮丽；显赫
 
 The Water beneath the Stones
 Amid a devastating summer drought, a worried abbot sent his young factotum down into the village to locate a master mason who could repair the ruined stone aqueduct hanging above the valley. Their first high-altitude efforts seemed entirely vain, and one sudden, loosened block made the old mason reel backward over the edge. However, after word spread that the corrupt governor had threatened the valley families with mass deportation if the seasonal harvest failed, the brave villagers answered with a passionate chorus of agreement and rushed up the mountain to help. By dusk, clear spring water rushed smoothly beneath the stone arches again, and their shared relief gave the old structure a true, living grandeur that no monument built for a tyrant could ever match.
 
-Story 227
+Story 0227
 
 plumb — 探测深度；垂直测量；彻底探究plump — 丰满的；鼓起的；使鼓起；倒下brim — 边缘；（帽子）帽沿；充满sidle — 侧身而行；悄悄靠近slough — 蜕皮；摆脱；泥泞stitch — 缝；缝合；一针architect — 建筑师；设计师；缔造者potable — 可饮用的orthodox — 正统的；传统的；正教的devoted — 忠诚的；挚爱的；奉献的
 
 The Well at Stone Orchard
 A devoted landscape architect came out to plumb the depths of an abandoned orchard well whose bottom water no one in the local village believed was actually potable. As she began to cautiously sidle along its slippery, narrow brick brim, a plump lizard suddenly startled her and scampered up the stones, stopping to slough its old winter skin. Firmly rejecting the conservative, orthodox municipal plan to simply seal off the deep shaft, she used heavy twine to carefully stitch a torn canvas filter cloth, lowered the mechanism down into the darkness, and brought up a crystal-clear supply that successfully revived the dying trees.
 
-Story 228
+Story 0228
 
 hatch — 孵化；策划（秘密计划）sublimate — 升华；将…转化为更高级的活动trudge — 吃力地走；跋涉wiretap — 窃听；电话监听；窃听器irony — 讽刺；反讽pendulous — 下垂摇摆的；吊着的figurine — 小雕像；小塑像dampen — 使潮湿；减弱（情绪、声音等）locution — 说法；措辞；语言风格indispensability — 不可或缺性
 
 Static in the Aviary Dome
 At absolute dawn inside the glass aviary, Mei watched a rare crane egg finally begin to hatch while a team of electronics engineers trudged past wet utility cables to remove an illegal corporate wiretap. The sheer irony of the crime was incredibly sharp: the captured thief had loudly praised personal privacy in every single public locution he gave. Just then, when a heavy, pendulous grow lamp cracked above the nursery brood, a priceless jade figurine fell off the shelf, and heavy morning rain began to dampen the electrical control room, the head keeper instantly proved her personal indispensability. Acting quickly, she helped the panicked team seamlessly sublimate their initial terror into a highly disciplined, focused rescue that saved both the fragile chicks and the historical archive data.
 
-Story 229
+Story 0229
 
 testimony — 证词；证明nostrum — 万灵药；包治百病的偏方；独家秘方ponderous — 笨重的；沉闷冗长的circumference — 周长；圆周misgiving — 担忧；疑虑conservative — 保守的；守旧的bibliophile — 藏书爱好者；爱书人parsimony — 吝啬；过度节俭highbrow — 知识分子派头的；高雅自命的stomach — 胃；忍受；能够吃下
 
 Margins of the Clocktower Library
 In the clocktower reading room, a conservative bibliophile gave brave testimony before a ponderous, highbrow academic committee, stating that the donor's unique nostrum for preserving paper was a complete fraud. Despite her deep personal misgiving about speaking publicly, she clearly described the dark chemical stain that spread in a perfect circumference around each treated page. She explained that the committee's own financial parsimony had led it to blindly approve the cheap mixture, and declared that she could no longer stomach the systematic damage to the rare volumes.
 
-Story 230
+Story 0230
 
 implication — 含义；暗示；（罪行的）牵连jar — 罐子；使震惊；冲突habituate — 使习惯于denomination — 面额；宗派；名称solder — 焊接；焊料；结合provocation — 挑衅；刺激；激怒externalize — 外化；表达出来；使客体化carcinogen — 致癌物quill — 羽毛笔；羽管；（刺猬的）刺paraphrase — 释义；改述；意译
 
 The Label under the Pottery Kiln
 At the museum kiln, Rafi discovered a cracked clay jar of glaze beside an ancient coin of an unknown denomination. The find did not seem remarkable at first, but a faded label carried a troubling implication: the antique glaze contained a known carcinogen. Wanting to confirm the chemical warning before alarming the staff, he searched the history archives. Among the old records, he found handwritten safety notes written in a flowing quill hand. Rather than copy the texts word for word, he chose to paraphrase the instructions for modern readers, aiming to successfully habituate the current apprentices to wearing protective masks whenever they worked near old materials. Not everyone appreciated his caution. One stubborn visitor dismissed the warning as a mere provocation and loudly accused Rafi of exaggerating the danger. Although the unfair criticism deeply irritated him, he refused to externalize his frustration in an angry public argument. Instead, he simply published the full scientific report, repaired a loose exhaust vent with hot solder, and calmly continued his investigation. The coin's date eventually revealed exactly which shipment the glaze had come from, allowing him to identify the recalled batch and remove the hazardous material before anyone was harmed.
 
-Story 231
+Story 0231
 
 divers — 潜水员；（旧）各式各样的prescription — 处方；规定；法规seethe — 愤怒翻腾；沸腾；汹涌tautological — 同义反复的；赘述的humiliate — 羞辱；使丢脸perception — 感知；理解；洞察力anvil — 铁砧obverse — （硬币、勋章的）正面；主要方面underrate — 低估；看轻groove — 沟槽；习惯；（音乐）节奏；进入最佳状态
 
 The Forging Festival Fleet
 During the annual forging festival at the Harbor Smithy, a group of local divers brought up a heavily corroded coin they had recovered from an old shipwreck near the harbor mouth. Its obverse side appeared to show a rare royal emblem, and many excited spectators immediately assumed it was highly valuable. Mara, the smithy's trusted historian, asked everyone to slow down. She consulted an old, authoritative technical prescription for treating delicate historical artifacts, warning the crowd that rushing the process might destroy vital material evidence. Several impatient apprentices began to seethe, convinced that her caution was just wasting a celebratory afternoon. One even tried to publicly humiliate her, joking that she could turn any simple explanation into a boring lecture. Mara smiled and calmly ignored the personal taunt. She explained that a tautological inscription—even one that merely repeats an obvious, redundant title—can easily distort historical perception when people read too much into it. Then, placing the coin flat on her iron anvil, she carefully cut a small testing groove into the rim to examine the exposed metal beneath the layers of corrosion. The physical result surprised everyone. The coin was not a royal artifact at all, but a much later, cheap imitation. As the crowd's initial excitement faded, Mara reminded the apprentices never to underrate patience and method in research. By then, she was fully in her groove, smoothly answering technical questions and showing the young crowd how careful investigation always beats a confident guess.
 
-Story 232
+Story 0232
 
 connive — 共谋；纵容；默许pretence — 假装；虚饰；借口bather — 沐浴者；游泳者thrive — 兴旺；茁壮成长；繁荣paling — 木栅栏；篱笆；尖板条conscript — 征召入伍；应征者；强征riffraff — 乌合之众；下层闲杂人carpenter — 木匠；木工relish — 享受；津津有味地品尝；兴趣discount — 不予考虑；不信；折扣
 
 Salt Baths and Cedar Fences
 At a windswept seaside spa, a local carpenter carefully repaired the broken wooden paling while an alert bather unexpectedly overheard town officials connive with corrupt developers in a secret plan to seize the natural springs under the hollow pretence of public safety. The conspirators even tried to forcibly conscript local teenagers to act as private security guards and dismissively called the protesting fishermen a bunch of uneducated riffraff. However, the resilient coastal town instead learned to thrive on community solidarity, relish open public debate, and completely discount the malicious corporate rumors that had temporarily kept outside visitors away from the shore.
 
-Story 233
+Story 0233
 
 rind — 外皮；果皮；（干酪的）硬皮portentous — 不祥的；故作庄重的；有重大影响的flair — 才华；独到风格；天资impel — 驱使；推动；迫使apron — 围裙；（机场的）停机坪；台坪chef — 主厨；厨师riveting — 引人入胜的；吸引人的；扣人心弦的bide — 等待；等候；（古）居住depreciate — 贬值；贬低；轻视cathedral — 大教堂
 
 Soup under the Bell Tower
 Beside the towering walls of the old stone cathedral, a street chef with remarkable culinary flair expertly shaved zesty orange rind into a large pot of steaming broth just as a sudden rumble of thunder gave the open market a portentous hush. His heavily burnt canvas apron initially made wealthy tourists deprecate his skills and look away. Yet, the riveting aroma drifting from his stove could easily impel even the most hurried passersby to stop in their tracks, patiently bide their time in the rapidly growing queue, and leave the market smiling after the first spoonful.
 
-Story 234
+Story 0234
 
 conceal — 隐藏；隐瞒；掩盖compensate — 补偿；弥补；给…报酬shoplift — 在商店偷窃；顺手牵羊pucker — （使）皱起；（使）起褶；褶子interregnum — 过渡期；空位期breezeway — 有顶通道；（连接两栋建筑的）过道waft — 飘送；飘荡；一阵（风或气味）decipher — 破译；辨认；解释needlework — 刺绣；针线活；缝纫adulate — 谄媚；过分吹捧；阿谀奉承
 
 The Breezeway Between Galleries
 During the chaotic political interregnum immediately after the head curator abruptly resigned, an art thief tried to shoplift a rare sampler of royal historical needlework from the museum gallery store and quickly conceal it beneath her winter coat. However, a potent lavender scent laced into the antique fabric began to waft through the open breezeway, causing her face to sharply pucker in a sudden, violent sneeze just as the security guards arrived. To fully compensate the clever young intern who caught her, the museum board gratefully allowed him to decipher the hidden stitch code himself instead of forcing him to submissively adulate senior scholars for approval.
 
-Story 235
+Story 0235
 
 inundate — 淹没；泛滥；使大量涌来effulgent — 灿烂夺目的；辉煌的；光辉的recalcitrant — 顽抗的；桀骜不驯的；难以控制的flag — 变弱；（植物）枯萎；旗帜amorphous — 无定形的；模糊不清的；杂乱无章的gag — 塞住…的口；捂住；恶作剧/笑料invoice — 发票；给…开票；开列清单crutch — 拐杖；支柱；依靠chuckle — 轻声笑；暗自发笑obsess — 使着迷；困扰；使心神不宁
 
 Neon Rain on Dock Nine
 When sudden monsoon clouds heavily inundated the concrete expanses of Dock Nine, a single, effulgent neon billboard kept blinking through the storm while a recalcitrant delivery drone stubbornly refused to land on its pad. Monitoring technicians watched the machine's internal battery levels rapidly flag. They expertly traced the electrical fault to a strange, amorphous blob of debris trapped in the cooling gel and quickly fitted a tight foam gag over the screeching alarm speaker to quiet the room. After clearing the line, they had to formally invoice the international port authorities for emergency replacement parts, all while their exhausted manager leaned heavily on a wooden crutch and tried desperately not to obsess over every low chuckle coming from the cynical night shift crew.
 
-Story 236
+Story 0236
 
 idolize — 崇拜；偶像化epitomize — 成为…的典型；体现；摘要denude — 剥光；使裸露；剥夺placate — 抚慰；平息；让步appease — 安抚；缓和；姑息defeatist — 失败主义的；消极的；失败主义者pedestal — 基座；高位；柱脚cognate — 同源词；同类的；同宗的enduring — 持久的；耐久的；不屈不挠的deforest — 砍伐森林；毁林
 
 A Lesson at Cedar Ridge School
 Inside a small mountain hill school facing commercial plans to heavily deforest the surrounding valley, Ms. Lin asked her young students never to put the corporate mayor on an artificial pedestal and blindly idolize his decisions. She urged them not to adopt a passive, defeatist tone during town meetings, reminding them that real community courage should epitomize an enduring type of structural care for the environment. Working together, the class used cognate place names gathered from ancient native maps to demonstrate exactly how the proposed logging roads would completely denude the fragile mountain slopes. Their calm, scientifically sound petition successfully helped to placate the angry local loggers and adopt a compromise that would appease the frightened valley families.
 
-Story 237
+Story 0237
 
 hubris — 傲慢自负；狂妄eerie — 阴森的；诡异的；怪诞的craven — 懦弱的；胆小的；怯懦的swindle — 诈骗；骗取；欺诈gash — 深割伤；裂口foreword — 前言；序言beam — 梁；光线；笑容满面；定向发出bumpkinly — 土里土气的；乡巴佬式的influx — 涌入；流入；汇集labile — 易变的；不稳定的；不稳固的
 
 The Tunnel with the Blue Lamps
 Following a sudden influx of reckless thrill-seekers to an abandoned copper tunnel, a popular vlogger's immense hubris led him past multiple warning signs straight into an eerie, unlit mine shaft. Seconds later, a decayed wooden support beam violently splintered under the pressure, leaving a painful, deep gash along his forearm. A local wilderness guide whose supposedly bumpkinly accent the vlogger had openly mocked just an hour prior refused to behave in a craven manner; she bravely stepped into the darkness, pulled him out to safety, and later exposed the tour sponsor's financial swindle in the printed foreword of an independent safety booklet. She dryly noted to the cameras that public fear is often labile, but physical consequences are permanent.
 
-Story 238
+Story 0238
 
 psyche — 心灵；心理；精神permeable — 可渗透的；易受影响的；具渗透性的transcendent — 超越凡俗的；卓越的；至高无上的parallelism — 平行结构；并行；相似crepuscular — 黄昏的；微明的；（动物）拂晓或黄昏活跃的seminal — 开创性的；有深远影响的；生殖的reprise — 重演；重复段；（音乐）重奏glut — 供过于求；充斥；使吃饱abbreviate — 缩写；缩短disillusion — 使幻灭；使醒悟；绝望
 
 Murals at Twilight Station
 Deep inside a quiet, crepuscular subway station, an artist named Sana painted a seminal public mural exploring the shifting complexities of the urban psyche. Her composition utilized a striking architectural parallelism in its repeated geometric arches alongside a brilliant reprise of the neighborhood's old civil rights protest colors. She firmly refused to abbreviate the historical names of the lost, demolished districts, arguing that a modern glut of simple political slogans would only disillusion working-class viewers. She believed that public art had to remain fully permeable to the raw, unedited voices of the actual residents if it was to feel truly transcendent instead of merely preachy.
 
-Story 239
+Story 0239
 
 vascular — 血管的；脉管的flare — 突然爆发；闪光；（火焰）闪耀gloom — 阴暗；忧郁；悲观tango — 探戈舞hardheaded — 务实的；冷静理智的；顽固的ecstatic — 欣喜若狂的；狂喜的transgression — 违法；越界；违法行为robust — 强健的；稳固的；粗鲁的ciliate — 纤毛虫；有纤毛的inalienable — 不可剥夺的；不能让渡的
 
 Midnight Lab, Open Courtyard
 At a marine research lab, Dr. Ortega carefully tracked systemic vascular damage in local fish populations after a sudden chemical flare at a nearby oil refinery heavily polluted the bay. To escape the surrounding environmental gloom, off-duty interns gathered to dance the tango in the open courtyard under the stars. One hardheaded corporate trustee loudly called their midnight protest a security transgression, but the ecstatic crowd of gathering citizens argued that access to clean water is an inalienable human right. Ultimately, the team's robust scientific evidence directly linking a toxic ciliate bloom to the refinery's chemical pollution forced the factory management to install advanced water filters.
 
-Story 240
+Story 0240
 
 gallop — 飞奔；疾驰；（马）飞跑soak — 浸泡；湿透；吸入revive — 复苏；使恢复；重新流行tuxedo — 无尾礼服；晚礼服anodyne — 止痛的；平淡乏味的；止痛药interweave — 交织；编织在一起dominate — 主导；支配；俯瞰incisor — 门牙platonic — 柏拉图式的；纯友谊的；精神上的demotic — 大众的；通俗口语的；民众的
 
 The Ballroom after the Rain Race
 After an impromptu charity gallop through a sudden storm, Theo's custom tuxedo was completely soaked, forcing him to hang it by the stage heater before stepping out onto the platform. The event host opened with an anodyne welcome speech that absolutely no one in the audience remembered. What people did recall, however, was Theo's brilliant, demotic poem. He utilized a comic tale about a chipped front incisor to beautifully interweave strands of platonic friendship and deep civic pride. His presentation allowed genuine community kindness rather than individual ego to dominate the evening, successfully helping to revive the struggling donation drive.
 
-Story 241
+Story 0241
 
 bureaucracy — 官僚体系；繁文缛节ecologist — 生态学家factual — 事实性的；根据事实的；真实的homogenize — 使同质化；使均一madcap — 鲁莽的；滑稽疯狂的；狂妄的carol — 赞美诗；欢唱；（圣诞）颂歌valetudinarian — 体弱多病者；过分忧病的人；过分担心健康的人terrain — 地形；领域；地势signatory — 签署者；签约国；签署的remonstrance — 抗议；规劝；谏言
 
 Song over the Marsh Office
 When a newly formed regional bureaucracy tried to completely homogenize wetland protection rules across every distinct natural terrain, an independent ecologist filed a detailed, factual remonstrance with the court. She quickly gathered the community chiefs from each signatory coastal village to unitedly oppose the administration's plan. Even a self-described, elderly valetudinarian elder braved the rough waters to arrive by boat. After a madcap musical carol performed by local schoolchildren successfully softened the tension in the hearing room, the agency directors relented and agreed to preserve tailored local protections.
 
-Story 242
+Story 0242
 
 prone — 易于…的；俯卧的；有…倾向的restiveness — 焦躁不安；难以安静；倔强vista — 远景；视野；展望customary — 习惯的；惯例的；常用的merit — 价值；优点；功绩；值得dodder — 蹒跚；衰老颤抖；（植）兔丝子witticism — 俏皮话；妙语soot — 烟灰；煤烟；用煤烟熏lavish — 慷慨的；奢侈的；大方的imbue — 使充满；灌输；深深影响
 
 Smokehouse Morning on Pine Hill
 Though personally prone to bouts of morning restiveness, old Jun would still stubbornly dodder his way up Pine Hill each dawn to quietly admire the vast valley vista. Brushing black soot from the timber smokehouse wall, he watched his granddaughter paint a customary winter festival sign for the village square. Her sharp, sudden witticism made him laugh heartily, and he noted that the real merit in public art is never found in lavish, expensive colors, but rather in the rare power to imbue entirely ordinary scenes with lasting human warmth.
 
-Story 243
+Story 0243
 
 wither — 枯萎；衰退；凋谢repulsion — 厌恶；［物］排斥力spite — 恶意；怨恨；不顾splurge — 挥霍；奢侈消费；炫耀gentry — 绅士阶层；上层人士ratiocination — 推理；逻辑思考cardiologist — 心脏病专家lesion — 损伤；病灶；损害hike — 徒步；（价格等）大幅上涨aria — 咏叹调；独唱曲
 
 Echoes on the Cliff Trail
 During a strenuous charity hike along the cliffs above the opera town, a young cardiologist noticed a distressed runner, diagnosed an acute tissue lesion, and firmly warned him not to sprint out of sheer competitive spite. The runner had been tempted to push onward after hearing his chief rival's triumphant opera aria echo from the valley below. While the visiting local gentry initially reacted with snobbish repulsion to her stark, immediate diagnosis, careful logical ratiocination eventually prevailed. The humbled runner officially withdrew from the mountain race, watched his immediate hopes of victory completely wither, and instead used his entry-fee refund to splurge on a consolatory dinner with his team.
 
-Story 244
+Story 0244
 
 contaminate — 污染；弄脏；毒害affix — 粘贴；附上；添加后缀bail — 保释；保释金；舀出（水）；（蟋蟀等）护木serfdom — 农奴制；被奴役状态stutter — 口吃；结巴地说；结巴tamp — 填塞；夯实；砸实celibate — 独身的；禁欲者；独身生活的人dingy — 阴暗肮脏的；昏暗的distill — 蒸馏；提炼；渗出husk — 外壳；空壳；（果类）皮
 
 Tea Fire in the Old Courtyard
 Inside a dingy courtyard workshop, a quiet, celibate monk taught local teenagers how to expertly distill fresh orange blossom water without letting heavy fuel smoke contaminate the delicate batch. He asked them to tamp the charcoal bedding evenly into the furnace and firmly affix clear batch dates to each glass jar. When the local police suddenly came by to bail rainwater out of the adjacent cellar and casually asked about dark rumors of illegal serfdom on a nearby industrial estate, one young worker nervously began to stutter before admitting that laborers were indeed trapped behind the gates. The monk calmly cracked a rice husk in his hand and gently urged the boy to shed his personal fear as easily as the grain drops its empty shell.
 
-Story 245
+Story 0245
 
 regiment — 严格管理；把…编成团；（军）团enunciate — 清晰地发音；明确地表达（观点等）septic — 感染性的；腐败的；败血病的eliminate — 消除；淘汰；根除proprietary — 专有的；所有权的；专利的；所有者stark — 鲜明的；严酷的；完全的；荒凉的bewilder — 使困惑；使迷失；使不知所措uncouth — 粗鲁无礼的；笨拙的；（艺）不熟练的plead — 恳求；（法庭）辩护；托词devour — 狼吞虎咽；吞噬；（心）充满
 
 Clinic Shift beside the Bus Depot
 At the crowded transit depot clinic, Dr. Rao had to strictly regiment patient triage after a sudden influx of septic flesh wounds completely filled his primary ward. He asked his tired interns to clearly enunciate each medication dosage, because the hospital's new proprietary software app could easily bewilder newcomers with its rapid, stark digital alerts. During the rush, an uncouth street vendor slipped inside and began to greedily devour a resting patient's meal while his hidden accomplices attempted to steal medical supplies from the cabinets. The culprits tried to spin a tale and plead complete ignorance when caught, but the clinic security team stepped in to successfully eliminate the local theft ring before dawn.
 
-Story 246
+Story 0246
 
 instill — 逐步灌输；培养peerless — 无与伦比的virtuous — 有德行的；正直的magnify — 放大；夸大absorb — 吸收；专注于vent — 发泄；通风口commencement — 毕业典礼；开始jitters — 紧张不安palate — 味觉；上颚histrionic — 戏剧化夸张的
 
 The Last Bell before Commencement
 On a rainy commencement morning, the choir director tried hard to instill calm in students suffering from pre-show jitters, telling them to absorb the hall's natural echo, trust their training during the grand banquet song, and save their palate for the celebratory desserts. Suddenly, a highly histrionic parent used a megaphone to vent loud complaints and magnify minor scheduling mistakes to the press. However, a peerless solo delivered by a usually quiet, virtuous baker's son instantly silenced the room, saving the ceremony.
 
-Story 247
+Story 0247
 
 razor — 剃刀；锋利边缘contumacy — 抗命；顽抗disruptive — 破坏性的；扰乱秩序的obstinate — 固执的；顽强的zany — 滑稽古怪的shavings — 刨花；削屑dossier — 档案；卷宗hepatitis — 肝炎graft — 贪污；受贿；移植four-poster — 四柱床
 
 Night Ward and the Antique Bed
 In a remote mountain clinic, a zany, obstinate donor insisted on gifting a carved antique four-poster bed to the pediatric ward. However, the alert head nurse found razor-sharp wood shavings hidden under the mattress along with an old criminal dossier linking the timber dealer to systemic graft. The donor's open contumacy became highly disruptive when inspectors arrived to ask about missing transport permits. Furthermore, regional medical records later linked his logging crew to a recent hepatitis An outbreak caused by unsafe food handling, ending his deceptive scheme.
 
-Story 248
+Story 0248
 
 equilibrium — 平衡；均衡状态perishable — 易腐坏的clown — 小丑；滑稽的人fell — 凶猛的；毁灭性的；砍倒compact — 紧凑的；协议；合同swerve — 急转弯；偏离airborne — 空中的；空气传播的growl — 低吼；咆哮acclimate — 适应新环境obstacle — 障碍；阻碍
 
 Cargo Run over Glacier Pass
 On a fell winter route through the mountains, pilot Ivo signed a commercial compact to deliver critical, perishable vaccines to three isolated villages. Suddenly, a massive crosswind forced the plane to sharply swerve around a dangerous airborne obstacle: a massive sheet of hard ice torn from the ridge. Hearing his engine growl under the strain, Ivo fought for equilibrium, successfully landed on a frozen strip, and helped the new medics acclimate to the extreme altitude before a volunteer clown welcomed the local children into the clinic.
 
-Story 249
+Story 0249
 
 slippage — 滑动；偏差；下滑particularize — 详述；具体说明gutless — 胆小的；无魄力的belabor — 反复啰嗦；过度分析；痛打jolly — 欢乐的；兴致高的augmentation — 增强；扩充detection — 侦测；发现mongrel — 杂种狗；混合物duckling — 小鸭delirium — 神志错乱；谵妄
 
 Rescue Pond behind the Carnival
 At the carnival pond, a jolly handler trained a clever mongrel to aid in the mechanical detection of weak ice after repeated seasonal slippage was reported near the reeds. When a small duckling vanished at dusk, the arrogant mayor called the handler gutless for refusing to charge onto the thin patch. The handler calmly asked him not to belabor blame but to instead particularize the last sighting. Minutes later, they found the bird and treated a chilled local boy whose feverish delirium easily eased after warm tea, supplemental oxygen, and a quick augmentation of the clinic's heating system.
 
-Story 250
+Story 0250
 
 gush — 涌出；滔滔不绝stale — 不新鲜的；陈腐的receptive — 乐于接受的；敏感的nexus — 关联；核心联系nib — 笔尖；钢笔尖ruddy — 红润的；微红的digit — 数字；手指或脚趾perilous — 危险的；险恶的curtail — 缩减；削减tilt — 倾斜；使倾向
 
 Red Ink at the Tram Depot
 At the tram depot newsroom, thick red ink began to gush from a cracked pen nib just as reporter Lian successfully traced a structural nexus between recent signal failures and the perilous tilt of a concrete bridge. Although her cautious editors feared readers had tired of stale infrastructure stories, a remarkably receptive crowd eagerly studied every single digit in her data chart, while a ruddy head mechanic urged city hall not to curtail necessary engineering repairs.
 
-Story 251
+Story 0251
 
 brawny — 强壮的；魁梧的peninsula — 半岛vagary — 反复无常；奇想gale — 大风；狂风exigent — 紧急的；迫切的sour — 酸的；变坏的；令人失望的patent — 专利；显而易见的versatile — 多才多艺的；多功能的pollen — 花粉pedant — 学究；书呆子
 
 Storm Notes from Windcap Peninsula
 Out on Windcap Peninsula, a brawny ferry captain and a pedant botanist argued fiercely during a severe gale over the best route for an exigent rescue boat—yet one more ridiculous vagary of local pride. However, they quickly set their personal dispute aside when a highly versatile drone, fitted with a patent-pending mechanical winch, successfully carried medicine through thick clouds of pine pollen and returned safely before the ferry's milk cargo could sour.
 
-Story 252
+Story 0252
 
 floppy — 松软下垂的；软盘式的harmony — 和谐；和声list — 清单；（船等）倾斜corporeal — 有形的；肉体的；物质的vituperate — 辱骂；痛斥whisper — 低语；耳语intrude — 闯入；打扰prefigure — 预示；预想nifty — 漂亮利落的；实用巧妙的petulance — 任性；暴躁
 
 Rehearsal in the Paper Lantern Hall
 Before the annual spring recital, the conductor pinned a nifty performance list backstage and asked the cast to whisper their cues so vocal harmony could survive the echoing hall. However, a bitter critic began to loudly vituperate the young dancers with childish petulance. He kept shouting until a large, floppy paper lantern dropped from the ceiling, reminding him that stage art is a form of difficult corporeal labor and that his rude comments only intrude on fragile focus and can prefigure a performance's failure.
 
-Story 253
+Story 0253
 
 aluminium — 铝maroon — 栗色；使搁浅；孤立transmute — 使转化；变形ossify — 使僵化；骨化pulley — 滑轮feign — 假装；佯作oar — 桨nemesis — 天敌；报应eddy — 漩涡；打转encompass — 包含；环绕
 
 Boat Shed at Raven Inlet
 Inside the old maroon boat shed, Aya used a heavy aluminium pulley to lift a broken skiff, while her brother rowed tight circles outside with a single wooden oar to study each river eddy. They hoped to transmute old fishing scraps into floating ecological barriers that could successfully encompass the fragile cove. When local harbor officials tried to feign enthusiasm and then let the project slowly ossify under layers of bureaucratic paperwork, the encroaching offshore oil spill returned as their ultimate nemesis.
 
-Story 254
+Story 0254
 
 contentious — 有争议的；好争辩的premiere — 首映；首次演出deciduous — 落叶的ponderable — 值得深思的；可估量的hub — 枢纽；中心random — 随机的；任意的susceptibility — 敏感性；易受影响性optimum — 最佳的；最适宜的unearth — 发掘；发现rebus — 图画字谜；谜题
 
 Premier Night at Maple Transit Hub
 At the city transit hub, the premiere of a short documentary about the local deciduous riverbanks sparked a highly contentious debate because a random environmental survey had severely underestimated children's susceptibility to diesel fumes. After quick-thinking engineers unearthed older research data cleverly encoded in an archival historical rebus, the city council held an emergency hearing on that ponderable evidence and immediately approved the optimum bus routing schedule alongside cleaner electric engines.
 
-Story 255
+Story 0255
 
 offset — 抵消；补偿cloture — 终止辩论程序heretical — 异端的；离经叛道的stasis — 停滞；静止状态miser — 吝啬鬼；守财奴gallows — 绞刑架；刑场guarantee — 保证；担保thrall — 奴役；沉迷状态instructive — 有教育意义的tissue — 组织；薄纸
 
 Debate beneath the Old Gallows Hill
 In the civic theater located just below Gallows Hill, a notorious miser on the budget committee tried hard to keep the municipal museum funding in a state of permanent stasis. However, a local artist successfully unveiled an instructive multimedia collage of court records and silk tissue that offered a highly heretical, shocking view of former municipal punishments. As the captivated audience fell completely under its aesthetic thrall, the panicked speaker desperately sought an immediate cloture of the assembly, but the mayor stepped forward and offered a firm guarantee to offset all upcoming structural repair costs.
 
-Story 256
+Story 0256
 
 clement — 温和的；仁慈的adhere — 粘附；遵守；坚持import — 进口；重要性；意图monologue — 独白precipice — 悬崖；险境边缘divestiture — 剥离；出售资产；脱衣harpsichord — 大键琴consent — 同意；许可lingual — 语言的；舌的caption — 说明文字；字幕
 
 Broadcast from the Cliff Conservatory
 On a clement spring evening at the cliff conservatory built near the rocky precipice, a young musician opened the broadcast with a sweeping harpsichord piece and a fierce spoken monologue about the cultural import of preserving local native speech. The community elders initially gave their formal consent to record their personal stories for a new digital lingual archive only if the radio station would strictly adhere to their privacy terms. After the broadcasting station successfully completed the corporate divestiture of its aggressive advertising division, every single video segment carried a highly respectful explanatory caption.
 
-Story 257
+Story 0257
 
 ventral — 腹侧的；下方的averse — 反感的；不愿意的symphony — 交响乐；和谐组合attribute — 归因于；属性；特质avalanche — 雪崩；大量涌来bracelet — 手镯；腕带exorbitant — 过高的；离谱的autocrat — 独裁者；专制者tombstone — 墓碑ebullience — 兴高采烈；热情洋溢
 
 The Concert beneath the Snow
 During a memorial symphony performance inside a high mountain chapel, Lian wore her grandmother's silver bracelet as she played her cello directly beside her ancestor's tombstone. The valley's autocrat mayor, notorious for charging exorbitant ticket prices, was stubbornly averse to canceling the winter concert even when safety patrols explicitly attributed distant cracks to unstable, heavy snow. When a sudden avalanche struck the roof, a trained rescue dog expertly crawled through a narrow gap with an emergency tracking beacon strapped firmly to its ventral side; it successfully guided everyone safely outside, where initial fear quickly gave way to rowdy ebullience beneath the clearing sky.
 
-Story 258
+Story 0258
 
 slug — 鼻涕虫；懒汉；猛击acquittal — 无罪释放；宣告无罪reign — 统治时期；支配期；占优势rational — 理性的；合理的vile — 卑鄙的；恶劣的；可鄙的aggressive — 好斗的；咄咄逼人的；有进取心的capitalize — 充分利用；使资本化；用大写字母写other-directed — 受他人导向的；迎合他人的commotion — 骚动；喧闹footle — 瞎忙；说废话；无谓地浪费时间
 
 Night Shift at Gate Nine
 When a sudden, chaotic commotion broke out at transit Gate Nine, an aggressive terminal guard loudly called Malik a vile, lazy slug and tried to aggressively capitalize on the public panic to assert power during the governor's harsh military reign. However, the municipal judge later issued a complete acquittal for Malik, highly praising his rational, other-directed decision to safely guide the terrified tourists out of the terminal first while the panicking terminal officials continued to uselessly footle with administrative paperwork.
 
-Story 259
+Story 0259
 
 premature — 过早的；仓促的ulterior — 隐秘的；别有用心的orchestra — 管弦乐队loll — 懒洋洋地倚靠；闲散地躺；（舌头）伸出viscous — 黏稠的；黏滞的immortal — 不朽的；永生的；长生不老的alcove — 壁龛；凹室；凉亭segment — 部分；片段；切片lionize — 吹批；把……奉为名人discourse — 演讲；论述；谈话
 
 Alcove Broadcast
 Inside the museum library alcove, a popular internet influencer with a hidden ulterior motive made a highly premature request: she abruptly asked the visiting orchestra members to lazily loll in their performance chairs during one critical segment of an immortal classical anthem while she filmed them drinking a neon, viscous syrup for an advertisement. The head conductor firmly rejected the idea on the spot, and his sharp, public discourse on artistic integrity led the national media to lionize the proud orchestra instead of mocking them.
 
-Story 260
+Story 0260
 
 rescript — 法令；正式回信；改写本hail — 冰雹；致敬；欢呼；招呼halo — 光环；荣光；（日、月）晕vesture — 衣袍；服饰；覆盖物scythe — 长柄镰刀；用长柄镰刀割retiring — 腼腆的；不爱出风头的；退休的feigned — 假装的；伪装的rendezvous — 约会；会合点；集结地whimsy — 奇想；异想天开；古怪事物unworldly — 超凡脱俗的；不谙世事的；非物质的
 
 Harvest Letter in the Rain
 Immediately after a sudden evening hail storm passed, the traditionally retiring nun arrived punctually at our midnight rendezvous point dressed in plain, heavy vesture, carrying an official papal rescript that formally ordered the village's historic autumn harvest dance featuring a silver ceremonial scythe to resume. Though she initially feigned annoyance at my persistent artistic whimsy, the beautifully unworldly smile glowing under the lantern light like a faint halo proved she had secretly planned the entire surprise herself.
 
-Story 261
+Story 0261
 
 drool — 流口水；垂涎revolt — 反抗；起义；使厌恶bereave — 使丧失；使痛失（亲人）jazz — 爵士乐；空话momentous — 重大的；关键的erasure — 擦除；抹去；消磁divagate — 离题；漫无边际地说；流浪disclose — 揭露；公开；透露flicker — 闪烁；忽明忽暗；闪过awl — 锥子；尖钻
 
 The Last Carbon Copy
 During a momentous public jazz archive preservation hearing, a single historical flicker on the legacy projector suddenly revealed a deliberate erasure of structural signatures on the land deeds. While corporate rivals in the room began to wildly divagate from the topic and drool over the immediate prospect of assigning political blame, I quietly used a steel awl to break open a sealed copper tube and disclose original letters that would permanently bereave the minister of his legislative support and trigger a massive public revolt.
 
-Story 262
+Story 0262
 
 girth — 围度；周长；（马）肚带leeward — 背风的；下风处的；背风面closure — 结束；了结；（讨论的）终止petitioner — 请愿者；申请人shrine — 神龛；圣地；圣骨箱illiterate — 文盲的；不识字的；未受教育的acronym — 首字母缩略词inexpedient — 不明智的；不合时宜的revenue — 收入；财政收入；收益realign — 重新调整；重新排列
 
 Form at the Leeward Shrine
 Gathered outside the leeward cliff shrine, a distressed petitioner accompanied by his illiterate father asked our volunteer group to help them realign a complex state tax form whose dense corporate acronym system and sheer physical girth made achieving legal closure completely impossible for them. Because cutting the clinic's local operational revenue was deemed highly inexpedient by the community, the clever clerk manually simplified every single line on the parchment, and the gathering crowd cheered.
 
-Story 263
+Story 0263
 
 hasten — 加快；催促dilemma — 两难困境heterodox — 非正统的；异端的clay — 黏土；陶土check — 抑制；检查garland — 花环；装饰环stalk — 茎；悄悄跟踪withstand — 承受住；抵挡faucet — 水龙头elixir — 灵药；妙方
 
 Night Kiln Lesson
 In a heterodox pottery class, Mei faced a classic dilemma when the main water faucet suddenly failed and her raw clay began to crack. Choosing patience over panic, she did not hasten the drying process. Instead, she used a discarded glass elixir bottle to carefully ration water and check moisture waste. She then laid a damp garland of wet cloths around each fragile vessel and propped every delicate clay flower stalk upright so the finished pieces could successfully withstand the long night.
 
-Story 264
+Story 0264
 
 teeter — 摇摇欲坠；摇晃facilitate — 促进；使便利tourniquet — 止血带statuary — 雕像；雕塑品mesmerism — 催眠术；绝对吸引力prance — 昂首阔步；蹦跳pancreas — 胰腺trajectory — 轨迹；发展路径tycoon — 大亨；巨头discipline — 纪律；自律
 
 Bronze Garden Emergency
 Watching the arrogant tycoon proudly prance beside his expensive classical statuary, the gathering interns felt the pure mesmerism of the grand spectacle break when his footing failed; he began to teeter wildly and fell hard against a bronze edge. Acting instantly, a visiting surgeon applied a makeshift tourniquet to his heavily bleeding leg. She then calmly explained to the nervous family that his chronically diseased pancreas could severely alter the long-term trajectory of his medical recovery. Her unwavering professional discipline helped facilitate the emergency treatment on the spot.
 
-Story 265
+Story 0265
 
 nestle — 依偎；坐落于plummet — 暴跌；垂直下坠swarthy — 黝黑的tuber — 块茎；块根stagy — 做作的；舞台腔的monogamy — 一夫一妻制；一夫一妻关系arch — 拱门；弓形prose — 散文；平实语言undirected — 无方向的；无目标的crabbed — 晦涩难懂的；脾气乖戾的
 
 Fog Under the Arch
 At a swarthy character actor's isolated mountain cottage, we watched a thick winter fog quietly nestle under the stone garden arch. Inside, his stagy evening monologue about the evolutionary biology of monogamy quickly turned from ornate, poetic prose into crabbed, bitter muttering. Ultimately, his undirected rage at the industry caused the projected market value of his prized tuber root sculptures to completely plummet at the weekend gallery auction.
 
-Story 266
+Story 0266
 
 etching — 蚀刻版画；蚀刻图panoramic — 全景的；广角的endue — 赋予；使具备inscription — 铭文；题词caper — 嬉闹；离奇行动dissident — 持不同政见者；异议人士restless — 焦躁不安的；不安宁的surcharge — 附加费；额外收费chase — 追逐；追赶rosy — 乐观的；玫瑰色的
 
 Panoramic Train Caper
 During a high-stakes, panoramic train chase unfolding across the mountain canyon, a restless political dissident desperately protected an antique printing etching. The piece's hidden margin inscription could successfully endue the local villagers with legal, historical proof of their original land rights. After a playful, distracting caper through the crowded dining car to lose her pursuers, she quietly paid the rosy conductor's unexpected oversize luggage surcharge to keep the cargo safely hidden in the rear berth.
 
-Story 267
+Story 0267
 
 granule — 颗粒；微粒desecrate — 亵渎；玷污mnemonics — 记忆法；助记术balloon — 气球；（数量等）激增perjury — 伪证罪tangible — 有形的；切实可感的acarpous — 无果实的；不孕的hemorrhage — 大出血；严重流失retrench — 紧缩开支；削减rally — 集结；振作
 
 Dust on the Chapel Steps
 When a highly tangible forensic clue appeared on the step as a single granule of red brick dust, the team used historical mnemonics to accurately retrace the suspects' trail back to a historic woodland chapel that vandals secretly planned to desecrate. Hidden inside, an acarpous vine concealed a thick canvas balloon packed with sharp glass shards designed to cause an immediate chemical hemorrhage if triggered. Because recent municipal budget cuts had forced our task force to severely retrench, we temporarily withdrew from the ridge and chose to rally neighborhood witnesses before officially alleging corporate perjury in court.
 
-Story 268
+Story 0268
 
 caulk — 填缝；填缝材料；填塞stylus — 触控笔；手写笔albino — 白化病患者；白化个体sundry — 各式各样的；杂项的projection — 投影；预测；凸出物panel — 专题小组；面板；专门调查小组monarchy — 君主制；君主国slipshod — 草率的；敷衍的querulous — 爱抱怨的；发牢骚的militia — 民兵组织
 
 Rain in the Banner Gallery
 Inside the grand monarchy museum, a traditionally querulous albino curator used a digital stylus to carefully label a display panel showcasing sundry historical militia banners. However, a slipshod architectural projection of upcoming facility repair costs had completely omitted the open gaps running around the roof skylight. When a sudden storm rolled in, the entire team had to drop their clipboards and manually caulk the iron frame before absolute dawn to protect the artifacts.
 
-Story 269
+Story 0269
 
 swell — 增大；（数量等）激增；肿胀daub — 涂抹；拙劣画作press — 媒体；按压；新闻界pirouette — （芭蕾舞等）旋转dolt — 笨蛋；傻瓜mediate — 调解；斡旋peak — 山峰；顶点；高峰gaggle — 一群（鹅或吵闹的人）allocate — 分配；拨给condole — 吊唁；慰问
 
 Peak Market Spiral
 After a sudden swell of weekend visitors reached the alpine market square at the mountain peak, a noisy gaggle from the local press watched a street performer—whom the locals dismissed as a simple dolt—carelessly daub bright chalk arrows on the wet stone and attempt a dangerous ballet pirouette. Seeing the hazard, the mayor asked me to immediately mediate the growing public dispute, allocate specific dry performance spaces to the licensed artists, and deeply condole with a visiting juggler over his ruined porcelain props.
 
-Story 270
+Story 0270
 
 bust — 半身像；破产；爆裂atheism — 无神论observant — 善于观察的；警觉的precipitation — 降水；仓促；沉淀stimulus — 刺激；激励因素wearisome — 令人厌倦的；无聊的arid — 干旱的；枯燥的malfeasance — 渎职；不法行为goggle — 瞪眼看；护目镜symmetry — 对称；匀称
 
 The Statue with Sensors
 During an exceptionally arid academic semester, our observant student science club used geometric symmetry games as a creative stimulus against their wearisome textbook drills. When sudden heavy atmospheric precipitation activated a set of hidden moisture sensors inside a hallway plaster bust, the fascinated students began to goggle at its moving clockwork eyes. The custom wiring inadvertently exposed the school principal's financial malfeasance, revealing that he had secretly diverted core laboratory funds to sponsor a series of loud, personal public lectures on atheism.
 
-Story 271
+Story 0271
 
 impact — 冲击；影响；撞击avowal — 公开承认；坦白release — 释放；发布flight — 飞行；航班；逃跑bawl — 放声大哭；大喊optional — 可选择的；非强制的outline — 提纲；轮廓torque — 扭矩linen — 亚麻布；亚麻制品amputate — 截肢；切断
 
 Checklist Before Launch
 After a dangerously hard impact occurred during the latest rocket engine test, the head pilot made an immediate, grim avowal that a minor torque fault in a linen-wrapped valve could prematurely release combustible fuel mid-flight. Yet, a critical, optional safety warning outlined in the project's original engineering handbook had been entirely ignored by executives. Hearing the data readout, one young cadet began to loudly bawl as emergency medics rushed to the pad to safely amputate his crushed hand from the launch clamp.
 
-Story 272
+Story 0272
 
 inadvertence — 疏忽；无意之失kaleidoscopic — 千变万化的；万花筒般的convalesce — 康复；疗养spat — 口角；小争吵truancy — 逃学；旷课；旷工sanity — 理智；神志正常amenity — 便利设施；生活福利escalate — 升级；加剧reconnaissance — 侦察；勘察perch — 栖木；高处；停落
 
 Drummer After the Parade
 Following a highly kaleidoscopic community festival parade, one young drummer's sudden truancy caused him to miss his mandatory evening reconnaissance class. During a trivial backstage spat with a stagehand, he accidentally knocked over a rare dove perch through pure inadvertence. The sudden bird flight and breaking equipment threatened everyone's temporary sanity as tempers across the room began to escalate rapidly. Afterward, the recovery clinic's quiet botanical garden proved to be a highly welcome structural amenity while it safely helped him calm down and convalesce in peace.
 
-Story 273
+Story 0273
 
 costume — 戏服；服装disinfectant — 消毒剂naysayer — 唱反调者；否定者tangle — 缠结；纠纷；混乱impermanent — 暂时的；非永久的maxim — 格言；准则porridge — 粥；麦片粥herpetologist — 爬虫两栖动物学家pilot — 试点；飞行员；引导gridiron — 烤架；美式橄榄球场；格子铁架
 
 Snakes Beside the Gridiron Marsh
 During a new pilot ecological survey of the dense marshlands located directly beside the local high school gridiron, an adventurous herpetologist wore a bright protective costume and carried a heavy vat of chemical disinfectant. All the while, a cynical naysayer from the town council tried to tangle every fluorescent marking rope along the mud and loudly recited his favorite philosophical maxim that public fame is entirely impermanent. However, after we shared a warm pot of porridge together at dusk and successfully tagged the rare water snakes, even he dropped his complaints and admitted the fieldwork model worked perfectly.
 
-Story 274
+Story 0274
 
 sow — 播种；散布intersect — 相交；交叉arrest — 逮捕；制止；吸引（注意）gem — 宝石；珍品；杰出人物superfluity — 多余之物；冗余massive — 巨大的；大量的；沉重的recollection — 回忆；记忆enterprise — 事业；企业；进取心attorney — 律师；代理人reward — 奖励；回报
 
 Floodplain Testimony
 In her formal, legal recollection of the historical valley flood, the defense attorney stated that she had personally watched two rushing drainage canals intersect right beside the town's central gem market. At the same time, local farmers desperately sowed winter seed across the massive, vulnerable floodplain. A prominent neighborhood agricultural enterprise generously donated industrial water pumps, the local police made a necessary arrest at dawn to prevent looting, and the grateful governor later offered a handsome financial reward to the volunteer rescue crews while strictly ordering every administrative superfluity removed from the emergency aid trucks.
 
-Story 275
+Story 0275
 
 whiff — 一股气味；些许voracity — 贪吃；贪婪；极大的求知欲tangy — 微酸辛香的；开胃的lackadaisical — 懒散的；无精打采的induction — 入门培训；就职仪式；归纳法scorn — 轻蔑；鄙视ceramic — 陶瓷的；陶器immensity — 广阔无边；巨大；无限filament — 细丝；灯丝polyglot — 通晓多种语言的人；多语的
 
 Kiln Room Induction
 A tangy whiff of industrial glaze drifting directly from the high-temperature kiln successfully roused our traditionally lackadaisical studio apprentice during her mandatory chemical safety induction. When she initially greeted the equipment warnings with open, lazy scorn, the polyglot master artisan calmly led her over to the furnace viewport and pointed to a glowing ceramic filament feeding directly into the roaring white fire." Look at the absolute immensity of that heat," he warned her. "The delicate filament survives inside only because it moves forward at a mathematically steady speed. Too fast, and it instantly snaps. Too slow, and it burns away to ash." The visual lesson struck home perfectly. Her real operational problem, he gently explained, was not simple laziness alone but a deep professional voracity: a constant, impatient urge to rush ahead, consume every new design task, and master everything at once. In the commercial kiln room, patience mattered far more than creative hunger. By the end of the day, she had successfully exchanged her reckless eagerness for careful, quiet attention.
 
-Story 276
+Story 0276
 
 profile — 轮廓；侧面；简介apex — 顶点；最高点disentangle — 解开；理清dual — 双重的；二元的curdle — 凝结；使变质；（因恐怖而）凝固aspen — 白杨euphonious — 悦耳的；音调和谐的cower — 蜷缩；畏缩infernal — 地狱般的；糟透的；可恶的zigzag — 之字形；曲折行进
 
 Trail to the Aspen Ridge
 Silhouetted against the mountain cliff's sharp profile, the veteran forest ranger traced a complex, zigzag path leading straight up to the peak apex where dual rushing meltwater streams met. There, we watched raw milk quickly curdle in the infernal afternoon desert heat, heard the highly euphonious notes of a distant flute playing among the fluttering aspen leaves, and helped a lost, crying child carefully disentangle his nylon kite from the brush rather than let him cower alone in the shadows.
 
-Story 277
+Story 0277
 
 bower — 凉亭；树荫小屋；闺房miscreant — 恶棍；不法之徒；异教徒concerto — 协奏曲hawser — 粗缆；系船缆ivory — 象牙；乳白色；象牙制品interstice — 裂隙；间隙treasurer — 财务主管；出纳员；司库dither — 犹豫不决；发抖；（计算机）抖动analgesic — 镇痛药；止痛的cistern — 蓄水池；水箱
 
 Concerto by the Cistern
 Deep inside a shaded, vine-covered bower built beside the historical stone cistern, the visiting town treasurer calmly listened to an evening cello concerto while a hidden miscreant began to nervously dither over his complex escape route. The clumsy thief had hidden a stolen royal ivory seal inside a narrow masonry interstice and tried to silently haul the cargo away using a heavy marine hawser. However, an alert courtyard guard caught him mid-pull, and a responding medical team immediately gave him an effective analgesic for his severely injured ankle.
 
-Story 278
+Story 0278
 
 acquit — 宣告无罪；履行（义务）；表现stigma — 污名；耻辱；（植物）柱头resent — 愤恨；怨恨spoof — 恶搞；戏仿；欺骗nubile — 适婚的；性感成熟的（常指女性）plump — 丰满的；使鼓起；倒下seep — 渗出；渗透entreat — 恳求；乞求fallacy — 谬误；错误观念moment — 瞬间；时刻；重要性
 
 Spoof Night at the Lantern Club
 At the downtown comedy club, a plump lead actor performed a satirical spoof of the traditional social fallacy that every young, nubile woman should exclusively seek marriage for fulfillment. However, the raw joke inadvertently reinforced a deep systemic stigma that his professional stage partner had personally come to heavily resent. In that highly awkward public moment, tears began to visibly seep into her handwritten cue cards as she rose on stage to formally entreat him to revise the offensive script, and the quiet audience flatly refused to acquit him of bad taste merely because he grinned.
 
-Story 279
+Story 0279
 
 span — 跨度；跨越；一段时间flint — 燧石；打火石chastise — 训斥；惩戒；严厉批评incise — 切开；雕刻opine — 发表看法；认为yacht — 游艇fencing — 击剑；围栏；护栏材料lust — 欲望；贪欲；强烈的渴望sequestrate — 扣押；没收；隔离dissertation — 学位论文；专题论文
 
 Dissertation at Sea
 To finish her doctoral dissertation aboard a quiet yacht, Rina examined each historical coastal span and used a sharp flint blade to carefully incise a permanent reference mark into an old fencing post. In her writing, she would formally opine on the geological evidence, strictly chastise herself for her temporary lust for easy academic shortcuts, and officially ask the court to safely sequestrate the developer's forged maritime chart in a secured locker.
 
-Story 280
+Story 0280
 
 monsoon — 季风；雨季generation — 一代人；产生；发生lactic — 乳的；乳汁的；乳酸的nephritis — 肾炎wield — 运用（权力等）；挥舞（武器等）minuet — 小步舞；小步舞曲piano — 钢琴；（音量）弱地；弱音mechanism — 机制；机械装置；方式reagent — 试剂document — 文件；文献；记录；记载
 
 Minuet in Monsoon Season
 During a heavy monsoon season, a master pianist recovering from acute nephritis softly played a minuet while researchers measured baseline lactic acid levels in the active dancers. A new medical laboratory mechanism allowed them to use a single chemical reagent to document the physical buildup clearly. Through this study, the younger generation of students learned how to expertly wield portable testing equipment without ever interrupting the fluid piano recital.
 
-Story 281
+Story 0281
 
 alabaster — 雪白的；有光泽的；雪花石膏ostentation — 炫耀；铺张；卖弄companion — 同伴；伴侣supervise — 监督；管理；指导astronomical — 天文学的；极其巨大的；无边无际的harden — 变硬；（使）变冷酷；使坚定tenant — 房客；租户spasmodic — 阵发性的；断断续续的；突发性的conviviality — 欢乐气氛；友好热闹；爱凑热闹的性格mettlesome — 勇敢好胜的；有斗志的；精神抖擞的
 
 Alabaster Ridge Survey
 The mettlesome estate tenant quickly became my trusted companion on a complex astronomical survey expedition, where jagged alabaster cliffs and sudden, spasmodic winds made every single step harden our team's collective resolve. Her natural, bright conviviality kept the high-altitude camp cheerful as she helped supervise daily operations, openly mocked my academic ostentation, and carefully measured every safety rope twice.
 
-Story 282
+Story 0282
 
 tribulation — 苦难；磨难；艰难behold — 看；注视restore — 恢复；修复；使复原exchequer — 国库；财政部门；财源buffer — 缓冲；缓冲物；［化］缓冲液droop — 下垂；萎靡；沮丧seine — 围网；拖网；用大围网捕鱼component — 部件；组成部分；构成的rebellious — 叛逆的；反抗的；难控制的qualms — 顾虑；不安；（身体的）不适/恶心
 
 Repairing the Seine Fleet
 In a long year of economic tribulation, the tired harbor crew watched their heavy fishing nets droop in the mud as the central exchequer continuously delayed critical disaster aid. Yet, a rebellious ship captain stepped forward, pointed to a spare rubber buffer—a crucial mechanical component of the vessel's old seine winch—and loudly cried out, "Behold our answer!" He swore to the gathering workers that they could fully restore the local fleet themselves despite everyone's initial personal qualms.
 
-Story 283
+Story 0283
 
 mandatory — 强制的；必须的；法定的scare — 惊吓；恐慌；吓唬alibi — 不在场证明；托辞；借口intoxicate — 使陶醉；使中毒；使发狂trowel — 抹子；小铲；用小铲挖provident — 有远见的；节俭的；深谋远虑的hardy — 强健的；耐寒的；敢作敢为的overbearing — 专横的；盛气凌人的；压倒一切的nonpareil — 无与伦比的人（或物）；无可匹敌的talisman — 护身符；吉祥物
 
 Cave Permit Hearing
 Because heavy helmet lights were strictly mandatory in the deep cave, the overbearing tour guide tried to scare the incoming tourists with an old tribal talisman and aggressively intoxicate gullible teenagers with thick fumes drifting from burning resin. My hardy research partner, whose verified alibi successfully proved that she had not lit the fire, used a small garden trowel to uncover his illegal commercial stash. At the subsequent permit hearing, the provident municipal judge highly praised her as a nonpareil investigator.
 
-Story 284
+Story 0284
 
 parameter — 参数；界限lave — 冲洗；沐浴martyr — 殉道者；受难者garment — 衣服；服装scarf — 围巾；披巾compulsion — 强迫；内心的冲动straightforward — 直截了当的；简单明了的kidnap — 绑架；劫持cone — 圆锥；锥形体offbeat — 非传统的；不落俗套的；非主流的
 
 Offbeat Costume Rehearsal
 Using a straightforward parameter chart, the costume artist would meticulously lave each period garment and knot a colorful silk scarf around a cone-shaped stage prop. The items were being prepped for an offbeat avant-garde drama centered around a complex kidnap plot. However, the head producer's obsessive compulsion to revise every single scene consumed precious technical rehearsal time, causing the frustrated lead actor to play the martyr until we completely reset the production schedule.
 
-Story 285
+Story 0285
 
 drastic — 激烈的；严厉的；大幅度的assumption — 假设；承担；采取amalgam — 混合物；合并体；汞合金famine — 饥荒；严重匮乏displace — 取代；迫使迁移；使失位intermission — 中场休息；间歇minaret — 宣礼塔；尖塔justifiable — 有正当理由的；情有可原的marsupial — 有袋动物；有袋类的lair — 巢穴；藏身处
 
 Intermission at the Minaret Stage
 After a drastic water shortage led to a localized famine and threatened to permanently displace neighborhood families, engineers proposed an innovative amalgam of a new reservoir and a public botanical garden right beside the historic minaret. During an extended intermission at the municipal council play, a field biologist strongly challenged the administration's baseline assumption that the construction project was ethically justifiable. He used geological surveys to demonstrate that the chosen hillside was actually the primary breeding lair of a rare, protected marsupial.
 
-Story 286
+Story 0286
 
 verve — 活力；神采；热情square — 广场；使成方形；结清fraction — 小部分；分数；微量ultramundane — 超尘世的；超凡的flimflam — 胡扯；骗局；欺骗utilize — 利用；运用dietetics — 营养学；膳食学renunciate — 宣布放弃；声明退出（者）puffery — 夸大宣传；吹嘘seam — 接缝；缝合处；煤层
 
 Banner in the Market Square
 In the crowded town square, a community chef trained in clinical dietetics showed the gathering public how to successfully utilize every tiny fraction of grain to prevent waste. Then, with her characteristic professional verve, she manually repaired a torn structural seam in a large canvas banner lampooning a local, self-proclaimed ultramundane renunciate. The politician's flashy mayoral campaign relied heavily on corporate puffery and cheap financial flimflam while the county's poor went hungry.
 
-Story 287
+Story 0287
 
 hierarchy — 等级制度；层级unconscious — 失去知觉的；无意识的horrific — 可怕的；骇人的anchor — 锚；使稳固；精神支柱pugilism — 拳击运动；搏击presume — 假定；擅自；推测cantata — 清唱剧；康塔塔monotony — 单调；乏味；千篇一律elevate — 提升；举起；提高confidence — 信心；把握；秘密
 
 Cantata After the Bout
 After a horrific final bout of professional pugilism left the young novice entirely unconscious in the ring, responding medics used a foam wedge to safely elevate his head on the stretcher. As a soft choral cantata drifted over from the adjacent campus chapel, its steady, rhythmic melody gave his anxious teammates a comforting emotional anchor amid the agonizing monotony of waiting in the corridor. The music successfully restored their inner confidence; the emergency doctors, however, firmly refused to presume a positive outcome and instead carefully explained the strict biological hierarchy of the trauma recovery process.
 
-Story 288
+Story 0288
 
 genuflect — 屈膝致敬；卑躬屈膝enrapture — 使着迷；使狂喜inexhaustible — 无穷无尽的；不知疲倦的mire — 泥沼；使陷入困境alter — 改变；改动modest — 谦逊的；适度的；端庄的illiberal — 思想狭隘的；不宽容的；吝啬的compatriot — 同胞；同国人spike — 猛增；尖刺；（排球）扣球husky — 嗓音沙哑的；结实的；爱斯基摩犬
 
 Song at Dawn Station
 At absolute dawn, traveling pilgrims began to reverently genuflect before a husky street singer whose seemingly inexhaustible vocal range could easily enrapture an entire transit station crowd. However, an illiberal transit official tried to arbitrarily alter the terms of her performance permit, attempting to completely mire her modest compatriot in expensive municipal fines. He kept pressing the issue until public outrage boiled over and commuter ticket purchases began to spike in open protest against the station's policy.
 
-Story 289
+Story 0289
 
 capsule — 胶囊；太空舱；简要的slander — 诽谤；诋毁；口头诽谤twaddle — 废话；胡说；瞎扯stratagem — 计谋；策略；花招glamorous — 富有魅力的；迷人的foolproof — 万无一失的；极易操作的verisimilar — 逼真的；貌似真实的quondam — 昔日的；从前的abnegate — 放弃（权力等）；克制（欲望）compress — 压缩；压紧；（医）敷布
 
 The Quondam Spy's Capsule
 The quondam military spy used an exceptionally foolproof tactical stratagem to securely compress his microfilmed historical evidence into a small, watertight brass capsule. When several glamorous television hosts began to spread malicious corporate slander and absolute twaddle regarding his real political motives, he chose to completely abnegate his natural human desire for public applause. Instead, he stepped forward to present a thoroughly sober, verisimilar account of exactly what had happened behind closed doors.
 
-Story 290
+Story 0290
 
 recline — 斜倚；躺卧snarl — 咆哮；缠结；（线等）混乱willy-nilly — 不管愿不愿意；杂乱无章地accolate — 并列的（纹章）；（旧）双手相抱的prestige — 威望；声望convince — 说服；使信服trinket — 小饰物；不值钱的小玩意bravura — 终极炫技表演；华丽的技巧；勇敢的shriek — 尖叫；刺耳声plumb — 探测深度；垂直测量；彻底探究
 
 The Accolate Shields
 On the museum gallery floor, two beautifully restored accolate shields hung directly above a velvet chair where the old duke used to recline during receptions. However, the head curator's angry, sudden snarl forced me, willy-nilly, to spend the night shift down to plumb the depths of the dusty lower storeroom and recover a missing historical trinket. Just then, after a sharp shriek echoed down from the grand balcony, I managed to successfully convince the panicked crowd that the lead singer's magnificent bravura performance had fully restored her cultural prestige.
 
-Story 291
+Story 0291
 
 emigrate — 移居国外；迁居deed — 行为；契约；证书yielding — 顺从的；易弯曲的；有产出的iota — 极少量；一点儿misnomer — 用词不当；名称误用operetta — 轻歌剧pertinacious — 执拗的；坚持不懈的disembody — 使脱离肉体；使抽离；使客观化limp — 跛行；软弱无力的；松沓的squalor — 肮脏；贫民窟般的状态
 
 Operetta Contract at Dawn
 After finally deciding to emigrate and escape the mining district's grinding industrial squalor, Ada began to examine every legal property deed with pertinacious care. The touring operetta company's normally yielding manager offered to alter her travel contract, but his hasty handwritten revisions did not improve her financial security one iota. Ada also called the theatrical troupe's official name, the "Grand Palace Players," a complete, ridiculous misnomer. That evening, a clever backstage lighting trick seemed to beautifully disembody the lead singer on stage, while a comic character actor pretended to slowly limp away into the artificial fog.
 
-Story 292
+Story 0292
 
 friable — 易碎的；松散的draft — 草稿；草案；汇票；征兵horticulture — 园艺学；园艺业remonstrate — 抗议；规劝；责备carnivorous — 食肉的pretend — 假装；装作penetrate — 穿透；深入理解；洞察persiflage — 戏谑；挖苦；轻松调侃regal — 帝王般的；高贵的full-bodied — 醇厚的；浓郁的；丰满的
 
 Regal Garden Menu
 Over a shared glass of full-bodied estate wine, the regal head of palace horticulture used sophisticated persiflage to sharp-wittedly remonstrate with outside investors who foolishly pretend that exotic carnivorous plants thrive in dry, friable soil. He pulled out his technical draft plan to show exactly how their delicate root systems must penetrate the firm, moisture-rich clay beds maintained behind the main palace wall.
 
-Story 293
+Story 0293
 
 bloated — 臃肿的；肿胀的；傲慢的morose — 阴郁的；闷闷不乐的inflamed — 发炎的；被激怒的earthshaking — 震撼性的；惊天动地的formidable — 强大的；令人生畏的；艰难的petroleum — 石油coop — 鸡笼；小木屋；合作社（常写作 co-op）cypress — 柏树；柏木benefactor — 赞助人；恩人malcontent — 不满分子；不满的
 
 Smoke over Cypress Row
 In an industrial refinery town heavily bloated by rapid corporate growth, a morose political malcontent set a wooden animal coop beside the main petroleum storage tanks on fire. However, a formidable local benefactor, deeply inflamed by the mindless environmental destruction, personally funded the planting of protective cypress barriers and advanced runoff filters. Her immediate, generous response successfully turned the earthshaking community scandal into a highly successful, permanent clean-water campaign.
 
-Story 294
+Story 0294
 
 pedagogue — 教师；教育家；爱说教的人rhyme — 押韵；韵文；作诗notch — 刻痕；档次；槽口entitle — 使有资格；命名；给…题名incorruptible — 廉洁不受贿的；正直的；防腐的intensify — 加强；加剧snappy — 利落的；简洁明快的；生机勃勃的maternal — 母亲的；母性的split — 分裂；裂开；（各自分担）分享bracing — 令人振奋的；寒冷清爽的；支柱
 
 Bracing Winter Classroom
 Our maternal elementary pedagogue carefully cut a small notch in a wooden tally stick for each geometric theorem the class mastered, utilizing a snappy, rhythmic rhyme to help the young students easily commit it to permanent memory. She made a strict point of choosing classroom activities that would naturally entitle every shy, quiet child to speak. When local gossip threatened to split the student body into factions, she chose to purposefully intensify her bracing outdoor nature lesson while remaining entirely calm, supportive, and incorruptible.
 
-Story 295
+Story 0295
 
 measured — 审慎的；有节奏的；适度的outstrip — 超过；胜过；跑过oblique — 斜的；间接的；不坦率的crack — 裂缝；破裂；爆裂声gross — 总的；毛额的；粗俗的；令人恶心的organism — 生物体；有机体；机构indicate — 表明；指出；预示bump — 碰撞；隆起；肿块incandescence — 白炽发光；炽热光辉fathom — 彻底理解；测深；（长度单位）英寻
 
 Incandescence in the Wreck
 Taking slow, measured breaths inside her scuba gear, the deep-sea diver used an oblique underwater lamp to indicate a fresh structural crack in the vessel's iron hull. An emergency flare's sudden, blinding incandescence revealed a gross, slimy mass of toxic algae actively threatening every native aquatic organism trapped inside the chamber. Although the sweeping ocean current could easily outstrip even the most experienced rescue divers, we endured each heavy bump against the collapsing timbers and managed to completely fathom the sunken wreck's complex layout before our oxygen ran low.
 
-Story 296
+Story 0296
 
 pare — 削减；削皮；修剪vitreous — 玻璃状的；玻璃体的；透明的minion — 跟班；奴才；心腹frieze — 饰带；（古建筑墙顶的）横饰浮雕verified — 已核实的；已证实的occurrence — 发生；事件；遭遇gabby — 健谈的；话多的falsehood — 谎言；虚假；不真实cadet — 军校学员；见习生；（旧）次子pursue — 追求；追踪；继续
 
 One-Page Incident Report
 The newly assigned military cadet had to carefully pare his verified field report down to a single page, but his overly gabby minion kept trying to insert a petty falsehood alongside every single odd occurrence from their night patrol. He even attempted to include a tedious paragraph about a tiny, vitreous bead they found lodged inside a crumbling stone wall frieze. Losing his patience with the fluff, the station captain ordered him to immediately cross out the waste and strictly pursue clarity in his writing.
 
-Story 297
+Story 0297
 
 precede — 先于；走在前面firearm — 火器；枪支josh — 打趣；开玩笑pith — 精髓；（植物的）髓部betroth — 订婚；许配stockade — 栅栏；围栏营地muse — 沉思；冥想congruous — 一致的；和谐的；相配的riotous — 喧闹的；狂欢的；暴乱的spur — 刺激；马刺；鼓舞
 
 The Truce at the Stockade Gate
 Before absolute dawn, the veteran scouts precede the supply convoy into the steep canyon while I sit quietly to muse over the core pith of our highly congruous peace plan: to betroth the young heirs of the two rival mountain clans. A riotous camp guard suddenly begins to loudly josh the arriving riders, but when his firearm accidentally discharges near the wooden stockade, both proud chiefs wisely treat the dangerous accident as an immediate spur to negotiate a binding truce before sunset.
 
-Story 298
+Story 0298
 
 fustian — 浮夸空话；华而不实的（字句）；粗棉布depressant — 抑制剂；镇静剂clammy — 湿冷黏腻的manifesto — 宣言；声明perigee — 近地点mutinous — 叛变的；反抗的；不服管束的riffle — 哗啦翻动；快速洗牌；（水面）微波cavalry — 骑兵；装甲部队shattered — 粉碎的；极度疲惫的；受巨大打击的cold-blooded — 冷酷无情的；冷血的
 
 The Perigee Mutiny
 Just as the harvest moon approached its orbital perigee, a mutinous drummer standing in clammy leather boots began to riffle frantically through the fortress orders and shout defensive fustian at the garrison gates. The cold-blooded fort captain immediately called for armed cavalry support from the valley. However, when a shattered medicine chest accidentally fell from the wagon and exposed the captain's own secret, massive depressant stash, the furious crew stepped forward to sign a new political manifesto demanding his prompt removal.
 
-Story 299
+Story 0299
 
 whim — 心血来潮；一时兴起；奇想trivia — 琐事；冷知识veritable — 名副其实的；真正的gangway — 舷梯；（船上的）通道；（特指集会中的）过道cosmopolitan — 世界性的；见多识广的；国际大都市的interlude — 插曲；间歇；幕间节目polish — 擦亮；润色；使完美quicksilver — 水银；变化无常的人/事物；极其敏捷的remittent — （疾病、发热等）间歇性的；时轻时重的freckle — 雀斑；斑点；微粒
 
 An Interlude on the Gangway
 During a brief afternoon interlude on an international, cosmopolitan voyage, a veritable prince noticed a tiny freckle of orange rust creeping along the main ship gangway. On a sudden, eccentric whim, he ordered an exceptionally quicksilver deckhand to manually polish the metal back to a brilliant shine. Nearby on the deck, the ship's doctor closely monitored a young passenger's remittent fever while off-duty sailors relaxed and traded naval trivia about their favorite foreign ports.
 
-Story 300
+Story 0300
 
 pathogen — 病原体district — 地区；行政区；管区otiose — 无用的；多余的；懒散的disgust — 厌恶；使反感daunt — 使畏惧；使气馁；挫败agape — 目瞪口呆地；张口地swipe — 猛击；大肆挥动；顺手牵羊（偷窃）helmet — 头盔；防护帽hypodermic — 皮下注射的；皮下注射针/器heliotrope — 天芥菜（植物）；浅紫色；向日光的
 
 The Heliotrope Test Strip
 Deep within the busy clinic district, a medical volunteer stood completely agape as a specialized heliotrope chemical dye flagged a dangerous airborne pathogen floating inside the river spray. However, an otiose administrative official quickly tried to swipe the raw testing logs and clumsily hide an unsterilized hypodermic needle directly under his industrial safety helmet. Fortunately, the nurses' collective public disgust did not daunt them, and they securely backed up the biological data before he could interfere.
 
-Story 301
+Story 0301
 
 hurl — 猛掷；大声说出（侮辱等）；呕吐gaiety — 欢乐；欢快气氛；华丽衣着conciliate — 安抚；调和；赢得…的好感indebted — 感激的；负债的willowy — 身材修长的；柔韧的tattered — 破旧的；衣衫褴褛的insane — 疯狂的；精神失常的；极其荒谬的simulate — 模拟；假装；模仿obituary — 讣告；临终赞词ascendancy — 支配地位；优势；权势
 
 The Obituary Songs at the Pier
 At the annual coastal memorial fair, a willowy singer dressed in a tattered woolen coat performed the solemn, historical obituary verses with enough genuine artistic warmth and gaiety to deeply hearten the local families who felt heavily indebted to the storm-relief volunteers. An insane, rowdy heckler then tried to hurl heavy beach stones at the stage and clumsily simulate fake tears to disrupt the performance. However, the village elders worked quickly to conciliate the angry crowd and end his brief, chaotic ascendancy over the afternoon.
 
-Story 302
+Story 0302
 
 remnant — 残余；遗迹leak — 漏洞；渗漏motif — 主题；动机；（艺术）图形awe-inspiring — 令人敬畏的；雄伟的jesting — 开玩笑的；诙谐的coda — 终曲；（乐曲或文章的）结尾段rectangle — 长方形sift — 筛选；细查；过滤winkle — 设法弄出；慢慢探出（常与 out 连用）hedonist — 享乐主义者
 
 Coda from the Pipe Room
 A hedonist composer kept a private notebook marked with a sharp rectangle on his high window perch, where he would patiently sift each musical motif out from the ambient street noise. He managed to expertly winkle a bright, beautiful coda out from a steady leak in the building's old iron pipes, turning casual, jesting auditory scraps into an awe-inspiring orchestra suite built up from each forgotten remnant of sound.
 
-Story 303
+Story 0303
 
 inaugural — 就职的；开幕的chubby — 圆胖的；丰满的necropolis — 大墓地；古代墓城fallibility — 易错性；会犯错的特征rivet — 吸引住；掌握；铆钉monopoly — 垄断；专卖underbid — 出价低于；（竞标中）压价swagger — 大摇大摆；神气活现；傲慢举止cane — 手杖；（藤、竹的）茎；藤条funereal — 葬礼般的；阴郁的；悲哀的
 
 Auction in the Necropolis Wing
 On the museum's inaugural night, a chubby antique auctioneer strutted with immense swagger and a silver-tipped cane through the new necropolis wing. He loudly promised investors he would underbid his rivals to secure a highly lucrative regional railway monopoly. However, one ancient, funereal fresco on the far wall would suddenly rivet his attention; the dark scene depicted a fallen empire, vividly revealing his own historical fallibility and forcing him to freeze in his tracks.
 
-Story 304
+Story 0304
 
 championship — 锦标赛；冠军头衔outwit — 以智取胜；智胜optimist — 乐观主义者genetics — 遗传学；遗传特征convulse — 使抽搐；剧烈震动；（因狂笑而）抖动spoilsport — 扫兴的人defer — 推迟；服从；遵从distention — 膨胀；扩张cleft — 裂缝；裂开的whittle — 削；逐步减少
 
 Splint Before the Final
 During the national championship semifinal, an optimist head coach firmly insisted that clever field tactics could outwit any physical advantage of superior genetics. Yet, a spoilsport team owner strictly made us defer medical treatment until a star player's sudden abdominal distention caused him to convulse in pain and fall hard beside a deep cleft in the turf, breaking his ankle. Giving up on the match, the team medic then sat down on the grass to manually whittle a wooden splint out of a tree branch.
 
-Story 305
+Story 0305
 
 peddle — 兜售；沿街叫卖；散布insuperable — 无法克服的；不可逾越的quadrangle — 四边形；（尤指大学的）四方院inferior — 较差的；下级的；次等的knotty — 棘手的；多节的；错综复杂的vacillate — 犹豫不决；摇摆；（温等）波动fragile — 易碎的；脆弱的analgesia — 无痛状态；镇痛；痛觉丧失scathe — 伤害；严厉批评（常以其形容词 scathing 出现）cognomen — 别名；绰号；（古罗马人的）第三名
 
 Maze in the Old Quadrangle
 Inside the college quadrangle, a street vendor tried to peddle fragile hand-blown glass charms engraved with each student's family cognomen. When an inferior map made our group vacillate endlessly before entering a knotty hedge maze that seemed entirely insuperable, we called for help. A responding campus nurse applied a specialized cream to provide temporary analgesia for a student's twisted ankle, warning us that the rough stone stairs inside could severely scathe our feet if we rushed.
 
-Story 306
+Story 0306
 
 mosque — 清真寺response — 回应；反应hearten — 鼓舞；振奋abreast — 并肩地；（与时）并进；掌握最新情况armada — 舰队；大批船只/飞机delirious — 欣喜若狂的；神志不清的；谵妄的detract — 贬低；减损；（注意力等）转移stun — 使震惊；击晕；使大吃一惊barter — 以物易物；进行易货贸易；交易gratification — 满足；喜悦；恩惠
 
 Armada at the Harbor Mosque
 Gathered outside the white harbor mosque, proud sailors stood abreast as a massive cargo armada returned from the sea. The cheering crowd's delirious response helped heavily hearten every weary trader who had come down to the docks to barter exotic spices or stun gathering children with wild sea tales. A few narrow-minded critics tried hard to detract from the formal welcome, but they could not diminish the old captain's quiet, profound gratification after months spent in dangerous waters.
 
-Story 307
+Story 0307
 
 jolt — 猛然震动；使震惊；颠簸oatmeal — 燕麦粥；燕麦粉contend — 应对；竞争；声称；主张nomad — 游牧民；流浪者；游牧的gallant — 英勇的；殷勤的；华丽的recipe — 食谱；诀窍；方法entwine — 缠绕；交织shiftiness — 狡猾；鬼祟；不稳定herdsman — 牧人；放牧者outset — 开端；开始
 
 The Washed-Out Crossing
 At the absolute outset of a long winter migration, a nomad herdsman carefully packed heavy sacks of oatmeal and his grandmother's warming stew recipe for the sub-zero road. Suddenly, a violent jolt tipped the supply cart over, causing the leather reins to tightly entwine around its iron axle. Acting quickly, his gallant sister stepped into the mud and safely freed the frightened horses. They would still have to contend with a washed-out river bridge downstream, whose structural danger a local guide had hidden through sheer shiftiness. Refusing to trust him, the family exposed his lie and chose a much safer upstream crossing before nightfall.
 
-Story 308
+Story 0308
 
 incompetent — 无能的；不胜任的；不合适的winsome — 迷人的；讨人喜欢的；清秀的trumpet — 小号；喇叭；大声宣扬；（象）吼叫empirical — 以实验为依据的；经验主义的fitful — 断断续续的；不安稳的；一阵阵的subsequent — 随后的；后来的sediment — 沉积物；沉淀物negligence — 疏忽；失职disguise — 伪装；掩饰wastrel — 浪荡子；挥霍者；废物
 
 The Trumpet at the Reservoir
 An incompetent corporate wastrel easily won over the simple reservoir crew with a winsome smile, falsely claiming empirical laboratory proof that the dark sediment in the main basin was entirely harmless. However, during a fitful midnight storm, the facility's automated emergency warning trumpet suddenly sounded as thick, muddy water entered the city pumps. His superficial charm quickly proved to be a mere disguise for gross operational negligence, and a subsequent government inspection revealed that he had actively ignored every single mandatory safety test.
 
-Story 309
+Story 0309
 
 truce — 休战；停战协定antihistamine — 抗组胺药innocence — 清白；天真discharge — 释放；准许出院；排出canopy — 顶篷；树冠层jaundice — 黄疸；偏见calamity — 灾难；祸患mingle — 混合；交往tranquility — 宁静；安宁vitalize — 使有活力；振兴
 
 The Clinic beneath the Canopy
 After a devastating flood calamity, a temporary humanitarian truce finally allowed families from two rival mountain villages to safely mingle beneath the relief clinic's massive canvas canopy. An on-duty nurse carefully treated one infant's severe allergic rash with an antihistamine while testing an older toddler for symptoms of jaundice, firmly refusing to discharge either patient too soon. The children's natural, shared innocence quickly restored a sense of tranquility to the tense camp, and their collaborative daily chores began to vitalize local relations that years of bitter suspicion had weakened.
 
-Story 310
+Story 0310
 
 abrade — 磨损；擦伤；磨蚀variegation — 斑驳；多样化；色彩斑斓discrete — 分离的；各自独立的agile — 敏捷的；灵活的disrupt — 扰乱；使中断long-winded — 冗长的；啰嗦的shopworn — 陈旧的；用滥的；陈列过久的diminuendo — （音乐）渐弱；渐弱乐段irrepressible — 抑制不住的；活力充沛的impermeable — 不渗透的；不可穿透的
 
 The Dance on the Painted Floor
 An agile solo dancer beautifully crossed discrete patches of stage floor color whose vibrant variegation made the platform resemble a blooming spring garden. When sudden afternoon rain threatened to disrupt the outdoor production and heavily abrade its newly painted wood surface, the quick-thinking crew quickly spread a water-impermeable cover over the boards. After a long-winded corporate sponsor delivered a highly tedious, shopworn welcoming speech that thankfully faded into a welcome musical diminuendo, the performer returned to the stage to receive a massive wave of irrepressible applause.
 
-Story 311
+Story 0311
 
 hedonic — 享乐的；与快乐有关的colonize — 建立殖民地；（微生物）大量繁殖；聚居microbe — 微生物；细菌pack — 一群；包裹；捆扎；（大块的）浮冰piscatorial — 捕鱼的；渔业的；钓鱼的bounteous — 丰富的；慷慨的granary — 粮仓；谷仓periscope — 潜望镜stem — 阻止；遏制；（植物的）茎frigidity — 寒冷；冷淡
 
 The Periscope under the Ice
 A piscatorial researcher used a specialized underwater periscope to study migrating cod species directly beneath the heavy ocean pack ice, while coastal villagers prepared a bounteous harvest meal inside the town's historic stone granary. However, when an aggressive, airborne microbe suddenly began to colonize their stored winter grain, the village chief wisely rejected the planned hedonic feast and immediately rationed all current supplies. Fortunately, the sub-zero region's natural, intense frigidity helped stem the biological growth until emergency food grade medicine finally arrived by dog sled.
 
-Story 312
+Story 0312
 
 anatomical — 解剖学的；身体结构的hawker — 小贩；叫卖者；驯鹰者prolong — 延长；拖延nova — 新星massacre — 大屠杀；彻底击败；惨败penalize — 惩罚；使处于不利地位palpitate — 心悸；快速跳动；（因恐惧等）颤抖vanilla — 香草；普通的welsh — 赖账；食言（常与 on 连用）auspices — 赞助；主办；吉兆
 
 The Nova above the Memorial Fair
 Under the formal auspices of the city's medical museum, an autumn community fair honored several brave field doctors lost in a brutal wartime massacre. A local street hawker sold sweet vanilla cakes directly beside an intricate anatomical heart exhibit, promising a high-powered telescope prize to his buyers. When a brilliant rogue astronomical nova suddenly appeared in the clear night sky, excited hearts among the spectators began to violently palpitate with wonder. Yet, the focused curator would not prolong her memorial speech or penalize the noisy children in the back row. She did, however, step down to firmly stop the dishonest hawker from trying to welsh on his official contest promise to the kids.
 
-Story 313
+Story 0313
 
 lottery — 彩票；抽签；碰运气的事applaud — 鼓掌；称赞con — 骗局；欺骗；反对（论点/票）crag — 峭壁；险峰transcendental — 超验的；卓越的；超自然的puckish — 淘气的；顽皮的manipulative — 善于操纵的；控制欲强的；用手推拿的dwelling — 住宅；住所animate — 使活跃；赋予生命；卡通制作diagonal — 对角线；斜的；对角线的
 
 The Crooked Ticket on the Crag
 A highly manipulative local tour guide ran an illegal lottery outside an ancient cliff dwelling, falsely claiming that its ultimate winner would receive transcendental spiritual wisdom atop the highest mountain crag. However, a puckish village child closely noticed that every single winning ticket backing bore the exact same diagonal scratch and publicly exposed his financial con. Her brilliant discovery began to instantly animate the disappointed crowd, who collectively chose to loudly applaud her bravery and help one another recover their stolen ticket money rather than foolishly chase the escaping guide uphill.
 
-Story 314
+Story 0314
 
 obtainable — 可获得的；可达到的ejaculate — 突然喊出；大声说；射出scamper — 蹦跳；急奔；惊惶奔跑swing — 摆动；秋千；秋千架purloin — 偷窃；顺手牵羊meretricious — 华而不实的；俗艳的embankment — 堤岸；路堤ritual — 仪式；惯例；例行公事extirpation — 根除；彻底毁灭；摘除flagellate — 鞭打；严厉批评；有鞭毛的
 
 The Orchid Thief at Dawn
 At a traditional dawn botanical ritual hosted beside the river embankment, a shady merchant advertised a flashy, meretricious orchid as an easily obtainable houseplant. An observant child near the front saw him secretly purloin wild, protected bulbs from the conservation zone and quickly scamper toward a rope swing near the trees to escape. “Stop him!” she suddenly ejaculated as the park wardens locked the exit gate. Her timely physical evidence successfully prevented the local wild flowers' complete ecological extirpation. Although the town's historical code would typically publicly flagellate a thief, the modern court wisely ordered him to spend his sentence manually restoring the ruined habitat instead.
 
-Story 315
+Story 0315
 
 stroke — 一击；中风；（闪电的）一道adjourn — 休会；推迟；延期ceremony — 仪式；典礼topsy-turvy — 乱七八糟的；颠倒的riven — 撕裂的；分裂的interim — 临时的；过渡期的hazy — 朦胧的；模糊的down — 绒毛；向下untold — 无数的；不可言喻的pylon — 塔架；高压电线杆
 
 The Wedding after the Lightning
 A sudden lightning stroke split a nearby wooden pylon, throwing the riverside ceremony into topsy-turvy chaos. The officiant had to adjourn the proceedings immediately while guests scrambled to carry the riven canvas tent into an interim shelter. Through the hazy sheets of summer rain, goose down from torn patio cushions swirled through the air like snow, hinting at untold damage, but the resilient couple finally exchanged their vows safely inside the old boathouse.
 
-Story 316
+Story 0316
 
 caprice — 任性；反复无常；一时的冲动vocalist — 歌手；声乐家gaucherie — 笨拙；失礼的举动traipse — 闲逛；跋涉；疲惫地走verdigris — 铜绿；铜锈isthmus — 地峡condor — 秃鹰；神鹫equivocate — 含糊其辞；闪烁其词reputation — 名声；声誉suspend — 暂停；悬挂；延缓
 
 The Bell on the Isthmus
 Driven by sheer caprice, a famous vocalist decided to traipse across the windswept isthmus just hours before her big concert. Along the way, she accidentally startled a nesting condor and knocked a thick layer of antique verdigris off a historic bell, then tried to equivocate when caught entering the closed wildlife sanctuary. The public backlash against her gaucherie immediately threatened her professional reputation, forcing her manager to suspend the upcoming performance until she could apologize publicly and fund repairs to the bird's nesting platform.
 
-Story 317
+Story 0317
 
 myopia — 近视；目光短浅proverbially — 如谚语所说；众所周知地coarse — 粗糙的；粗俗的sanatorium — 疗养院explicate — 详细解释；阐明recusant — 拒绝服从者；不顺从的amphibian — 两栖动物acquaint — 使熟悉；告知wanton — 恣意的；无端的；肆意的headway — 进展；前进
 
 The Newt behind the Sanatorium
 A recusant biologist slipped past the security fences of the abandoned sanatorium, guided only by a coarse, hand-drawn map, and discovered a rare amphibian thriving in its flooded courtyard garden. Proverbially stubborn and fiercely dedicated despite her severe myopia, she rushed back to town to acquaint the local council with her findings and explicate exactly how the city's wanton drainage project would destroy this fragile ecosystem. Fortunately, her vivid photographs made enough headway with the committee to halt the approaching bulldozers by noon.
 
-Story 318
+Story 0318
 
 stretch — 一片（土地/水域）；延伸；伸展timely — 及时的；适时的fancied — 想象的；虚构的infection — 感染；传染病tined — 有尖齿的；有叉齿的vaccine — 疫苗herd — 兽群；牧群；放牧residual — 残留的；剩余的defuse — 缓和；平息；拆除（引信）tramp — 徒步旅行者；流浪汉；沉重的脚步声
 
 The Fork beside the Pasture
 Along a lonely stretch of country pasture, a passing tramp spotted a sharp, tined feeding fork abandoned right beside a visibly sick cattle herd. The anxious farmer immediately fancied that this mysterious stranger had intentionally introduced a deadly infection to his livestock. However, the timely arrival of a local veterinarian revealed that the cows were actually suffering from a residual fever left over from an earlier outbreak, and she quickly administered the correct vaccine. This definitive medical evidence helped defuse the heated accusation, prompting the deeply relieved farmer to apologize and offer the traveler a warm supper.
 
-Story 319
+Story 0319
 
 drivel — 胡言乱语；废话mosquito — 蚊子nasal — 鼻的；鼻音的siege — 围困；长期困扰；包围shunt — 转移；调动；使分流earring — 耳环desperado — 亡命之徒；暴徒maximize — 使最大化；充分利用macerate — 浸软；（用液体）浸泡predisposition — 倾向；易患病的体质
 
 The Desperado and the Mosquito Net
 During a relentless summer mosquito siege on a remote desert film set, the leading actor playing a rugged desperado developed severe nasal swelling and accidentally lost a custom earring in the deep sand. Recognizing the actor's genetic predisposition to severe insect allergies, the set medic quickly macerated a soothing herbal cloth in ice water to create a cold compress. Meanwhile, production assistants shunted heavy-duty fans directly toward his tent to maximize the cool airflow and keep the bugs away. The director firmly dismissed local tabloid rumors of a deliberate poisoning as absolute drivel, postponing the shoot until his star fully recovered.
 
-Story 320
+Story 0320
 
 pang — 剧痛；（精神上的）一阵阵苦痛sententious — 爱说教的；说大话的odious — 可憎的；令人厌恶的luxuriant — 茂盛的；华丽的sensitize — 使敏感；使产生意识proctor — 监考员；（大学的）学监pry — 窥探；打听；撬开appendage — 附属物；（人或动物的）肢体refraction — 折射indigence — 贫困；穷困
 
 The Prism Examination
 During a rigorous physics examination focused on light refraction, a suspicious proctor tried to pry into the backpack of a quiet student who used a prosthetic appendage. This odious, groundless suspicion sent a sharp pang of humiliation through the student, especially after the official had just delivered a sententious lecture on the absolute importance of academic honesty. In reality, her brilliant exam project—a design for a luxuriant greenhouse lit entirely through strategically placed glass prisms—was completely her own work. The embarrassing incident later prompted the university administration to thoroughly sensitize all staff members to issues of physical disability and financial indigence, ensuring no student would ever be treated like a cheater based on their personal circumstances.
 
-Story 321
+Story 0321
 
 dapper — 衣冠楚楚的；干净利落的applicable — 适用的；可应用的deracinate — 根除；使背井离乡；连根拔起bovine — 牛的；迟钝的；如牛般温顺的poach — 偷猎；非法侵占（土地、权利等）commentary — 评论；解说；现场评述saccharin — 糖精；虚情假意的；过分甜腻的embody — 体现；具体表现；包含solemnity — 庄严；严肃；庄重的仪式equivalent — 等同的；等价物；对应的人或物
 
 The Stone Bull of Green Valley
 A dapper corporate broadcaster offered saccharin commentary on the evening news as a powerful developer sought to deracinate local herders and poach their ancestral grazing land. At the town hall hearing, a community elder unveiled an ancient bovine sculpture whose weathered stone surface seemed to embody generations of hard labor and quiet solemnity. The presiding judge ultimately ruled that the centuries-old land treaty was still legally applicable and fully equivalent to a modern title deed, preserving the historic valley from corporate construction.
 
-Story 322
+Story 0322
 
 memorial — 纪念物；纪念馆；纪念的rollicking — 欢闹的；兴高采烈的；喧闹的stinginess — 吝啬；小气elated — 欣喜若狂的；兴高采烈的drip — 滴下；漏水；滴水声feral — 野生的；凶猛的；野性的distension — 膨胀；扩张；肿胀edgy — 紧张不安的；（风格）尖锐新颖的musicologist — 音乐学家certification — 认证；证明（书）
 
 The Drum in the Memorial Station
 A dedicated musicologist restoring a historic railway memorial heard a steady drip coming from the ceiling right above its largest ceremonial drum and noticed a worrying distension in the damp animal hide. A few feral cats roaming the dark rafters made the edgy volunteers jump, while the town council's bureaucratic stinginess continually delayed critical roof repairs and building safety certification. Once the roof was finally sealed and the hide dried, the drum produced a rich, rollicking rhythm, and the elated restoration team officially reopened the station with a festive community concert.
 
-Story 323
+Story 0323
 
 testament — 遗嘱；（珍贵事物的）证明或见证snatch — 抢夺；一把抓起；片段grating — 刺耳的；格栅；令人恼火的euphoria — 欣快；极度兴奋；幸福感possessed — 着魔的；疯狂的；持有的exodus — 大批离去；（移民的）外流decorate — 装饰；美化；为……授勋tender — 温柔的；娇嫩的；易受损的pacifist — 和平主义者；反战主义者elaborate — 精心制作的；详尽阐述的；复杂的
 
 The Testament in the Glass Case
 A famous pacifist poet's wartime testament lay open inside an elaborate glass display case, its tender, aging pages used not to decorate a religious shrine but to document raw human resistance to armed conflict. Suddenly, a seemingly possessed private collector tried to smash the display and snatch the manuscript, triggering a grating electronic alarm that caused an immediate exodus of panicked visitors from the gallery. Security guards quickly recovered the document, and the head curator's anxiety instantly gave way to pure euphoria when she confirmed that every single historic page remained entirely intact.
 
-Story 324
+Story 0324
 
 loft — 阁楼；（工厂、仓库改建的）高上限公寓emanate — 散发；发出；发源unremitting — 不懈的；持续不断的；无休止的fusty — 有霉味的；陈腐的；落伍的reverie — 幻想；白日梦；沉思collar — 衣领；（一把）抓住；逮捕suborn — 唆使（他人）作伪证；收买pitcher — 水罐；大口罐子；（棒球）投手crust — 硬壳；面包皮；地壳omniscient — 无所不知的；博识的
 
 The Pitcher in the Loft
 In a fusty, abandoned theater loft, Mara's unremitting search through old props finally uncovered a rare clay pitcher buried beneath a thick crust of gray dust. An otherworldly floral scent seemed to emanate from the vessel, drawing her into a deep reverie, until a notoriously shady, self-proclaimed omniscient antique dealer suddenly appeared and tried to suborn the elderly caretaker into claiming false ownership of the artifact. Refusing to be cheated, Mara caught the dealer firmly by the collar and scraped away the grime to produce the theater's official 1920s inventory mark.
 
-Story 325
+Story 0325
 
 shackle — 束缚；镣铐；阻碍mighty — 强大的；巨大的；伟大的indignation — 愤慨；义愤grin — 咧嘴笑；露齿而笑coercion — 强迫；胁迫；高压统治cede — 割让（土地）；放弃（权利）monomania — 偏执狂；单一癖好；狂热guffaw — 狂笑；哄笑；大笑abstain — 弃权；戒除；克制partition — 分隔；隔墙；（国家、土地的）分裂
 
 The Statue behind the Partition
 The local mayor's growing monomania for erecting a mighty monument of himself led him to use blatant political coercion against local artists, demanding that they cede half of their community arts hall and shackle its remaining doors. At the official council vote, one timid board member chose to nervously abstain, but the gathering crowd's collective indignation grew rapidly. When construction workers finally removed a temporary wooden partition and revealed nothing but a tiny, poorly sculpted plaster figure, the mayor's arrogant grin was instantly met with a devastating guffaw from the audience.
 
-Story 326
+Story 0326
 
 liken — 把……比作；认为相似clipper — 快帆船；理发剪；剪具ingest — 摄取；咽下；吸收elude — 逃避；躲避；使不理解paradigm — 范例；典范；思维模式excise — 切除；删除nectar — 花蜜；神仙饮品；甘露abnegation — 克制；自我牺牲；放弃权利febrile — 发热的；狂热的fragrant — 芳香的；愉快的
 
 The Botanist aboard the Clipper
 A febrile botanist suffering from a tropical fever aboard a swift sailing clipper firmly refused to ingest the fragrant nectar she had newly collected from an unidentified island flower. Her strict professional abnegation proved incredibly wise when the ship's resident cat fell violently ill after licking just a stray drop of the liquid from the deck. The ship's surgeon had to carefully excise a sharp, venomous thorn from the animal's swollen tongue, while the shaken botanist immediately set to work building a completely new safety paradigm for handling exotic flora; she would later liken proper laboratory caution to a ship's compass, without which lethal danger could easily elude even the most trained observer.
 
-Story 327
+Story 0327
 
 tendentious — 有倾向性的；偏颇的；带有明显意图的disprove — 证明……错误；反驳；驳倒facet — 方面；（宝石的）刻面mime — 哑剧；哑剧演员；用动作表演windfall — 意外之财；被风吹落的果实parch — 烤干；使极度干渴foul — 肮脏的；恶臭的；下流的unseemly — 不得体的；不体面的；不合时宜的doggo — 隐藏着；一动不动地潜伏着bestial — 野蛮的；兽性的；残忍的
 
 The Silent Witness by the Orchard
 A local mime lay doggo behind a crumbling orchard wall and watched a nearby factory secretly release foul chemical water that would inevitably parch the roots of the fruit trees. The company's tendentious report later blamed a natural drought for the agricultural damage, but a sudden research windfall funded independent laboratory tests covering every facet of the local soil, which successfully helped disprove the corporate claim. The mime then reenacted the illegal night dumping directly before the town council, exposing corporate conduct that was both unseemly and outright bestial.
 
-Story 328
+Story 0328
 
 smother — 使窒息；闷灭（火）；抑制（感情）sibyl — 女预言家；女先知concatenate — 连接；把……串联起来sneer — 嘲笑；讥讽；冷笑commonplace — 平常的；老生常谈的；陈词滥调pamphlet — 小册子；宣传册mobile — 移动的；可动的；手机harbor — 港口；海港；庇护；窝藏pantechnicon — 家具搬运车；大型货车heed — 注意；留心；听从
 
 The Sibyl's Mobile Press
 At the busy harbor fair, a modern-day sibyl arrived in a massive pantechnicon containing a fully functional mobile printing press. Local officials openly sneered at her grim warnings, dismissing them as commonplace supermarket tabloid nonsense. Undeterred, she began to concatenate complex historical weather patterns and technical data into a self-published pamphlet, predicting that electrical sparks from a damaged underwater cable would cause disaster. A few smart sailors chose to heed her written advice and cut the main power grid, successfully managing to smother an electrical fire right before it reached the main fuel sheds.
 
-Story 329
+Story 0329
 
 ingrained — 根深蒂固的；固有的skit — 短剧；幽默小品linguistics — 语言学rehabilitate — 使康复；恢复名誉；修复poke — 戳；捅；取笑；嘲弄electorate — 选民；全体选举人distribute — 分发；分配；散布default — 默认；未履行义务；违约twinge — 刺痛；（精神上的）一阵内疚或痛苦foreknowledge — 预知；先见之明
 
 The Ballot-Box Skit
 A university linguistics class wrote a satirical skit to poke fun at the deeply ingrained jargon that career politicians routinely use to confuse the electorate. The students began to distribute mock election ballots where the default choice on the paper was a bold “none of the above,” while a boastful local candidate publicly claimed to have advance foreknowledge of the mock result. The politician felt a sharp twinge of embarrassment when the student audience instantly recognized his own convoluted phrases, but wisely joining the actors on stage for the final scene helped rehabilitate his public reputation for stubborn humorlessness.
 
-Story 330
+Story 0330
 
 transfer — 转移；调动；转让err — 犯错；出差错；走入歧途gaseous — 气态的；气体的；含气体的cavity — 空洞；洞穴；（牙齿的）蛀洞restorative — 恢复健康的；促进恢复的；滋补品snuggle — 依偎；舒适地蜷伏oblige — 迫使；责成；帮……的忙pertain — 与……有关；适用；属于objective — 客观的；真实的；目标unscrupulousness — 肆无忌惮；不择手段
 
 The Hidden Cavity in Module Seven
 A sudden gaseous leak emanating from a hidden structural cavity obliged the space station crew to quickly transfer its laboratory mice, which immediately began to snuggle together inside a warm emergency transport carrier. The private contractor's corporate unscrupulousness had caused the manufacturing fault, though upper management originally erred by placing the blame entirely on the orbital crew. Objective digital sensor records that directly pertain to the airlock seal soon proved otherwise, and restorative clean air returned to the station environment after the damaged module was properly repaired.
 
-Story 331
+Story 0331
 
 repatriate — 遣返；把……归还本国palatial — 宫殿般的；宏伟的；富丽堂皇的mogul — 大亨；权势人物disposal — 处置；清除；支配distend — 膨胀；扩张；肿胀boor — 粗野的人；没有教养的人entrance — 使入迷；使狂喜；入口clip — （电影、电视等）短片；剪下；修剪bumble — 笨拙地行事；结结巴巴地说；结巴fragment — 碎片；片段；部分
 
 The Mosaic in the Mogul's Hall
 At his palatial lakeside mansion, a powerful film mogul arranged the secret, illegal disposal of a stolen ancient mosaic fragment. A sharp museum curator arrived determined to repatriate the artifact and publicly played a raw documentary clip showing the uncultured boor as he began to bumble his way through the protected archaeological excavation site. The damning video evidence did not exactly entrance his high-society guests, and a damp packing pouch left on the table started to visibly distend around the moisture-sensitive artifact, causing alert conservators to seize it before any further structural damage occurred.
 
-Story 332
+Story 0332
 
 skullduggery — 欺诈；诡计；瞒骗行为inflate — 充气；使膨胀；夸大crudity — 粗糙；粗俗；不成熟snappish — 急躁的；爱呵斥的；老想咬人的molding — 模塑；（墙脚、天花板的）装饰线条ail — 使苦恼；折磨；患病resignation — 辞职；听天由命；顺从接受wrangle — 争吵；长时间争论torture — 折磨；拷问；酷刑deluge — 洪水；暴雨；大量涌来
 
 The Masks after the Deluge
 After a sudden summer deluge completely flooded the puppet workshop, its naturally snappish owner began to aggressively wrangle with the young apprentices over ruined wall molding and the obvious crudity of their rushed emergency repairs. The owner soon began to severely ail from dangerous toxic mold trapped inside one antique wooden mask, and restoring the damp artifact became pure mental torture until they finally discovered a hidden tube originally designed to inflate its hollow inner frame. Unexpected evidence of systematic insurance skullduggery regarding the flood damage soon prompted the owner's immediate resignation, leaving the relieved apprentices to reopen the artisan workshop as a cooperative business.
 
-Story 333
+Story 0333
 
 nutrient — 营养物；养分render — 使成为；呈现；渲染Antarctic — 南极的；南极地区的padding — 衬垫；填充物；（文章中的）废话lattice — 格子；格架；网格结构epidemic — 流行病；（坏事的）猖獗或盛行context — 背景；环境；上下文penetration — 穿透；渗透；洞察力cripple — 使瘫痪；严重损害；使残废earshot — 听力范围；可听距离
 
 The Cracked Lattice at Ice Camp
 At a remote Antarctic research camp, severe salt penetration cracked the greenhouse lattice, threatening to cripple critical food production during a flu epidemic. Working within earshot of the blaring warning alarm, an engineer quickly used thick coat padding to seal the freezing frame, while a botanist carefully adjusted each nutrient level according to the precise environmental context supplied by real-time soil readings. Their rapid emergency repair helped render the vulnerable seedlings healthy enough to survive the brutal polar night.
 
-Story 334
+Story 0334
 
 environs — 周边地区；郊区investigate — 调查；研究berate — 严厉斥责；训斥embroil — 使卷入（纠纷）；使混乱apostrophe — 撇号（'）；呼语star-crossed — 命运多舛的；不幸的flexible — 灵活的；可弯曲的；柔韧的stain — 污点；瑕疵；染色；弄脏expertise — 专业知识；专长rent — 租金；（布料、土地的）裂缝；撕裂（rive的过去式）
 
 The Apostrophe on the Playbill
 A single misplaced apostrophe on a marketing playbill unexpectedly embroiled two star-crossed theater companies in a bitter legal quarrel over authorship. Their short-tempered landlord threatened to raise the monthly rent and openly began to berate anyone who left a tape stain on his newly painted walls with promotional posters. Fortunately, a flexible archivist used her historical expertise to thoroughly investigate academic libraries throughout the surrounding environs, where an original handwritten script cleared both companies and peacefully ended the dispute.
 
-Story 335
+Story 0335
 
 observance — 遵守；奉行；纪念仪式botany — 植物学haggle — 讨价还价；（对价格或条款）争论不休appetite — 食欲；欲望；胃口rant — 怒吼；激烈抱怨；大声责骂rendition — 演绎；表演；翻译scad — 大量；许多frequency — 频率；发生率levy — 征收（税款/费用）；征兵snooze — 小睡；打盹
 
 The Midnight Bloom Tax
 During a formal observance of the annual moonflower festival, a dedicated botany student meticulously recorded the opening frequency of each rare bloom while her exhausted professor took a quick snooze on a bench. A local art vendor began to loudly rant when city officials suddenly tried to levy a steep licensing fee on every visual rendition of the flower in the gallery, and a scad of angry painters gathered to haggle with the collectors. Their spirited, public defense quickly sharpened the community's appetite for legal reform, forcing the council to withdraw the tax completely before dawn.
 
-Story 336
+Story 0336
 
 nautical — 航海的；海事的；船员的innovative — 创新的；革新的bare — 裸露的；揭露；脱（衣服）pore — 仔细研读；深思；毛孔sportive — 嬉戏的；活泼的；欢闹的fatidic — 预言的；预示命运的anemia — 贫血（症）tedious — 冗长乏味的；单调的visionary — 有远见的；空想的；有远见的人diver — 潜水员；跳水者
 
 The Compass beneath the Reef
 A visionary diver found an antique nautical compass buried beneath a shallow reef where a group of sportive seals routinely played. Its fatidic inscription seemed to eerily predict an impending environmental disaster, but she chose to pore over the tedious local industrial maintenance records instead to bare a much simpler truth: an innovative nearby mining operation had been leaking toxins into the water, causing severe anemia in the local fish population. Her clear scientific evidence successfully closed the mine and began the reef's long-term recovery.
 
-Story 337
+Story 0337
 
 overshadow — 使黯然失色；遮蔽；使蒙上阴影parka — 派克大衣；连帽防寒外套lectern — 讲台；（教堂的）读经台mortuary — 太平间；殡仪馆；丧葬的summon — 召唤；传唤；鼓起（勇气）mesa — 台地；平顶山maul — 猛烈攻击；粗暴对待；（动物）撕咬transparent — 透明的；公开透明的；显而易见的plague — 长期困扰；折磨；瘟疫；灾祸graphite — 石墨
 
 The Map beneath the Lectern
 At a memorial service held on the windy mesa, a park ranger wearing a torn winter parka stepped up to the wooden lectern and used a graphite-penciled map to show exactly where wild wolves had begun to maul unguarded livestock. Grieving families gathering at the adjacent mortuary feared that their personal loss would completely overshadow the rational environmental debate, but her highly transparent data helped summon local volunteers and quickly ended the wild rumors that had begun to plague the neighboring wildlife reserve.
 
-Story 338
+Story 0338
 
 bedraggled — 湿透肮脏的；凌乱的prosperity — 繁荣；兴旺pesticide — 杀虫剂；农药precise — 精确的；严谨的peery — 多疑的；警觉的sequester — 隔离；扣押；没收dab — 轻点；少量；一抹phoenix — 凤凰；浴火重生者warp — 使弯曲；歪曲；扭曲vertex — 顶点；顶角
 
 The Phoenix Kite in the Orchard
 A bedraggled child retrieved a torn phoenix kite from a muddy orchard and noticed a strange, sticky dab of chemical pesticide at each sharp vertex of its wooden frame. Her peery grandmother, a local organic beekeeper, used precise chemical tests to prove that excessive commercial spraying would warp the structural wood of nearby hives and ultimately ruin the valley's agricultural prosperity. Armed with this data, health officials chose to legally sequester the contaminated fruit from the market, allowing the child to safely fly her repaired kite above the clean, toxic-free fields.
 
-Story 339
+Story 0339
 
 illegible — 难以辨认的；字迹潦草的waste — 浪费；废料；荒地empathy — 同理心；共情preservation — 保存；保护；维持原状zesty — 味道浓烈的；活泼有趣的；风味独特的gristle — 软骨；韧带colander — 滤盆；漏勺logjam — 原木堵塞；（引申为）僵局irradicable — 无法根除的；根深蒂固的pulchritude — 美貌；美丽
 
 The Colander at the Soup Contest
 At a crowded riverbank charity soup contest, an illegible handwritten recipe told Mina to mistakenly strain tough gristle through a colander and add a zesty wild herb. A sudden tree logjam upstream threatened the scenic valley garden's preservation, yet the shallow celebrity judges cared only about culinary pulchritude and minimizing food waste. Mina's deep empathy for the local families displaced by the rising water proved irradicable; she boldly turned the elitist contest into a disaster relief kitchen and sent strong volunteers to clear the river blockages instead.
 
-Story 340
+Story 0340
 
 characterization — 人物塑造；特征描述valorous — 英勇的；勇敢的coalition — 联盟；联合政府silversmith — 银匠forebear — 祖先；先辈omit — 省略；遗漏；忘记vessel — 船只；容器；血管periodical — 期刊；杂志；定期的ethos — 精神特质；价值观；社会思潮emergency — 紧急情况；突发事件
 
 The Silversmith's Rescue Cup
 A prestigious local periodical highly praised the valorous characterization of a legendary sea captain but chose to completely omit the brave village coalition that had actually saved his battered vessel during a midnight storm emergency. A local silversmith discovered the engraved name of each resident's forebear on a historic silver rescue cup and publicly challenged the individualistic heroic ethos of the magazine article. Shamed by the material proof, the chief editor quickly printed a full correction that finally honored every single rescue participant.
 
-Story 341
+Story 0341
 
 dilapidate — 使破败；毁坏；荒废barbecue — 烧烤；烤肉架；户外烧烤会warranty — 保修单；担保；正当理由sopping — 湿透的；浸透的amenable — 愿意接受的；顺从的bait — 诱饵；引诱；故意激怒inhabitant — 居民；栖居动物sever — 切断；断绝；剥夺incubate — 孵化；培育；（疾病）潜伏barbarous — 野蛮的；残酷的；未开化的
 
 The Turtles beneath the Barbecue Deck
 Years of salt spray and structural neglect began to heavily dilapidate the oceanfront restaurant's wooden barbecue deck, whose structural warranty had long expired. One evening, a sopping young inhabitant of the local tide pools crawled out from beneath the rotten planks: a mother sea turtle desperately trying to safely incubate her eggs right beside a pile of poisoned rat bait. The restaurant owner proved remarkably amenable to closing the profitable deck immediately, calling it outright barbarous to sever the animal's ancient nesting path, and rebuilt the entire outdoor dining structure much farther inland.
 
-Story 342
+Story 0342
 
 trumpery — 华而不实的东西；无价值之物opprobrious — 辱骂的；可耻的；声名狼藉的edify — 教化；启迪；赞助maladroit — 笨拙的；不机敏的collision — 碰撞；冲突baffle — 使困惑；阻碍；（声音/液体的）挡板versemonger — 蹩脚诗人；滥写诗者liquid — 液体；流动的；清澈的bore — 钻孔；令人厌烦的人/物；（使）厌烦surrender — 投降；放弃；交出
 
 The Poet in the Clockwork Gallery
 A clumsy, maladroit versemonger filled the museum's modern clockwork gallery with shiny trumpery and loud, opprobrious rhymes, arrogantly hoping to edify the museum visitors with his personal philosophy. However, an accidental physical collision with a moving gear made his heavy brass toy bird swing around and bore a deep hole straight through an overhead tank of bright blue cleaning liquid. Unable to baffle the rapidly spreading chemical stain or endure the lead curator's furious glare, the embarrassed artist chose to unconditionally surrender his exhibit space and leave.
 
-Story 343
+Story 0343
 
 yokel — 乡巴佬；土包子bootless — 无用的；徒劳的molten — 熔化的；炽热的appreciable — 明显的；可察觉的glutinous — 黏的；胶质的preach — 布道；宣扬；说教ludicrous — 荒唐的；可笑的referee — 裁判；仲裁者bolt — 猛冲；（门/窗的）插销；门闩；螺栓ravening — 贪婪捕食的；饿极的
 
 The Midnight Cheese-Rolling Final
 At the town's legendary midnight cheese-rolling final, a boastful local yokel tried to preach complex physics strategy to the crowd while a ravening stray dog strained wildly at its rusted iron collar bolt nearby. The head referee publicly called the competitor's sticky, glutinous cheese wheel and its thick, molten wax coating completely ludicrous. True to the referee's prediction, the illegal, bootless trick gave the dishonest runner no appreciable lead down the steep track when his sticky cheese stuck fast to the very first muddy hill.
 
-Story 344
+Story 0344
 
 chrysanthemum — 菊花cameo — 客串；浮雕宝石；（小说的）生动刻画depression — 洼地；低气压（区）；抑郁；萧条chasten — 使收敛；磨炼；惩罚apocalyptic — 末日般的；预示大灾变的unexceptionable — 无可指摘的；完好的；无可反对的predestine — 预先注定lash — 鞭打；（风雨）猛烈拍击；捆绑jargon — 行话；黑话；术语spleen — 脾脏；怒气；坏脾气
 
 The Chrysanthemum Weather Station
 Mei placed a fresh white chrysanthemum beside a vintage cameo brooch on her desk in the isolated mountain weather station, where a severe atmospheric depression made the radio static issue what sounded like apocalyptic scientific jargon. Although the terrifying weather data seemed to predestine the valley below to complete flash-flood ruin, the heavy storm rain merely began to loudly lash the reinforced glass windows. Ultimately, the station's unexceptionable safety data chastened her dramatic spleen before dawn, proving the facility was safe.
 
-Story 345
+Story 0345
 
 deduce — 推断；演绎；推理opalescence — 乳白光；（如蛋白石般的）流光色彩dilute — 稀释；冲淡；削弱concede — （勉强）承认；让步；割让surgeon — 外科医生seamy — 肮脏的；不光彩的；丑恶的ravel — 使（线、问题）缠结；使混乱；拆散absolve — 宣告……无罪；免除（责任、罪过）antedate — 早于；先于；将日期填早burlesque — 滑稽模仿；讽刺滑稽剧
 
 The Opal Mask Backstage
 Backstage at a chaotic local burlesque, a visiting police surgeon used the unique, brilliant opalescence of an antique performer's mask to deduce that its original lead-based paint must significantly antedate the construction of the seamy theater itself. When a careless backstage assistant used a harsh solvent that began to ravel the mask's silk ties and dilute its delicate pigment, the furious theater director was forced to concede her own management mistake and fully absolve the startled cleaner from any financial blame.
 
-Story 346
+Story 0346
 
 polymath — 博学多才者；通才instrumental — 起重要作用的；有帮助的；器乐的suture — 缝合；（缝合伤口的）缝线thatch — 茅草；（用茅草做的）屋顶distress — 痛苦；忧虑；危难；使苦恼fantasy — 幻想；奇幻故事；空想distinguished — 卓越的；著名的；高贵的nil — 零；全无heavy-handed — 粗暴的；笨手笨脚的；高压的gnome — 地精；土地神；格言；箴言
 
 The Gnome on the Thatch
 A distinguished university polymath was highly instrumental in safely rescuing a rare ceramic gnome from the edge of a burning cottage thatch roof, then quickly used an emergency medical suture kit to professionally mend the village gardener's cut arm. Total property damage to the beautiful fantasy cottage was thankfully recorded as almost nil, but the local mayor's subsequent heavy-handed political speech at the scene caused far more psychological distress among the villagers than the actual fire itself.
 
-Story 347
+Story 0347
 
 clamor — 喧闹；大声要求；（民众的）强烈抗议dilapidation — 破败；荒废；失修状态hospitable — 好客的；（气候、环境）宜人的；适宜生长的blockage — 堵塞；障碍物fertilize — 施肥；使受精lacerate — 撕裂（皮肤）；深深伤害（感情）engrossment — 全神贯注；（法律文件的）正式誊写penalty — 处罚；罚金；刑罚recital — 独奏会；朗诵会；详述well-groomed — 衣着整洁的；精心打理的
 
 The Recital in the Ruined Orangery
 Despite the historic estate orangery's advanced state of dilapidation, its hospitable head keeper invited a well-groomed classical cellist to give an intimate twilight recital right among the citrus trees. The musician's complete, absolute engrossment in her performance successfully drowned out the distant clamor of city traffic until a sudden root blockage made an old underground water pipe burst open. Rather than risk using heavy tools that might lacerate the fragile, ancient grapevines to reach the leak, environmental volunteers chose to fertilize the dry soil beds entirely by hand, gracefully accepting the project delay as their only minor penalty.
 
-Story 348
+Story 0348
 
 miscellany — 杂集；大杂烩；混合物cluster — 簇；群；团；聚集helm — 舵柄；舵轮；掌舵；领导地位nonflammable — 不易燃的；不燃性的arable — 适于耕作的；可耕种的disarray — 混乱；凌乱；不整nude — 裸体的；赤裸的；裸体画repel — 击退；驱逐；使厌恶bonhomie — 亲切友好；和蔼discrepancy — 差异；不一致；不符之处
 
 The Floating Art School
 While standing firmly at the helm of a floating river art school, Sana carried a colorful miscellany of safe, nonflammable paints to a nearby arable island for an outdoor class. A sudden summer squall threw every organized cluster of paintbrushes into absolute disarray and unfortunately washed away a talented student's detailed charcoal nude sketch into the river. However, the classroom's resilient bonhomie helped repel any rising panic until Sana noticed a major technical discrepancy in her magnetic compass and safely steered the entire boat back home.
 
-Story 349
+Story 0349
 
 sprig — 小枝；嫩枝；（衣服上的）枝叶图案bourgeois — 中产阶级的；平庸世俗的；追求物质享受的jockey — 骑师；（用手腕、策略）操纵；欺骗undergird — 从底部支撑；加强；巩固irredeemable — 无可挽救的；不可赎回的twig — 细枝；小枝条；突然明白；领悟scruffy — 邋遢的；破旧的；不整洁的prehistoric — 史前的；陈旧的；极古老的hie — 匆忙前往；催促applause — 掌声；喝彩；赞许
 
 The Fossil Derby
 A scruffy young jockey confidently tucked a fragrant sprig of wild mint into his riding cap and carefully used a sturdy willow twig to undergird the cracked leather saddle right before the village's annual prehistoric-themed costume derby. A row of wealthy, bourgeois spectators sitting in the grandstand openly called his heavily patched dinosaur costume completely irredeemable. However, the moment he enthusiastically cried, "Hie, thunder lizard!" and crossed the finish line in first place, their elite scorn instantly turned into roaring crowd applause.
 
-Story 350
+Story 0350
 
 perspective — 视角；观点；透视法circulate — 流通；传播；循环gracile — 纤细的；优美的；苗条的inherit — 继承；遗传而得track — 轨道；跑道；追踪；记录vindicative — 证明正当的；辩护的；辩白性的rack — 架子；置物架；（使）受折磨；榨取seditious — 煽动叛乱的；煽动性的lustrous — 有光泽的；光辉的；光彩夺目的bleak — 荒凉的；黯淡无望的；寒冷刺骨的
 
 The Silver Crane on the Salt Flats
 From a bleak, windswept salt-flat research outpost, Inez used a beautifully engineered, gracile silver drone shaped like a crane to track high-altitude wind currents and circulate a completely new scientific perspective on avian migration. Suspicious border officials quickly branded her detailed mapping data as seditious espionage, but a series of vindicative photographs later showed a lustrous flock of wild birds strictly following her exact mapped route. Impressed by the undeniable accuracy, the national science museum agreed to inherit the master model and proudly display it on a prominent central viewing rack.
 
-Story 351
+Story 0351
 
 intern — 实习生；被拘禁者；拘禁；软禁insolvency — 无力偿债；破产proscribe — 禁止；取缔；剥夺……的法律保护residue — 残留物；剩余部分graduated — 分等级的；毕业了的；刻度的matador — 斗牛士flux — 不断变化；流动；通量canvass — 游说；向……征求意见；彻底检查exalt — 赞扬；歌颂；提升；提拔rider — 骑手；（法律、合同的）附加条款
 
 The Last Matador Costume
 When a sudden financial insolvency threatened to permanently close a historic theater's costume workshop, a passionate design intern who had just graduated went door to door to canvass local community support for its last unfinished matador coat. The local fashion industry was in a total state of creative flux, and a strict new environmental safety rider would soon officially proscribe the use of the coat's traditional, toxic metallic dye. Undeterred, she carefully scrubbed away the chemical residue and staged a brilliant modern fashion show that managed to honor the craftsmanship without seeking to exalt bullfighting itself.
 
-Story 352
+Story 0352
 
 lean — 倾斜；（肉）瘦的；精简的；高效的monocle — 单片眼镜confederacy — 联盟；邦联；同盟unprepossessing — 不吸引人的；其貌不扬的positiveness — 肯定；绝对；积极；确信husbandry — 农牧业；节约管理；资源管理drone — 无人机；嗡嗡声；懒汉；（低沉地）说教herbivorous — 食草的；草食性的etiquette — 礼仪；规矩；礼节conference — 会议；商讨；讨论会
 
 The Monocle at the Goat Conference
 At an international conference dedicated to sustainable mountain husbandry, an unprepossessing elderly farmer wearing a vintage monocle made a lean, highly efficient policy proposal. He argued that a cooperative confederacy of local mountain villages could easily share the cost of a single high-tech drone to safely monitor their herbivorous goat herds across dangerous terrain. His absolute positiveness and clear data quickly overcame all skeptical doubts, though strict local traditional etiquette still required him to politely serve everyone artisanal goat cheese before the final committee vote could take place.
 
-Story 353
+Story 0353
 
 celebrated — 著名的；驰名的；受人赞赏的abominate — 憎恶；厌恶；痛恨shambles — 混乱局面；废墟；大杂院；屠宰场touchy — 易怒的；棘手的；敏感的lineage — 血统；世系；家族aspersion — 诽谤；中伤；洒水scour — 彻底搜寻；擦洗；（急流）冲刷sewer — 下水道；缝纫工人locus — 地点；中心；（数学）轨迹incorporate — 纳入；合并；注册成立的
 
 The Mosaic Beneath Lantern Square
 A celebrated university archaeologist, who deeply abominated any false historical aspersion cast upon the town's famously diverse cultural lineage, found the central historic square in an absolute shambles. The town hall had entered a touchy, ongoing legal dispute with construction contractors over an emergency underground sewer repair. Stepping into the mess, she helped volunteers scour the thick mud from a newly exposed Roman mosaic discovered at the exact locus of an ancient market, and successfully convinced city planners to incorporate the beautiful geometric pattern directly into the new public pavement design.
 
-Story 354
+Story 0354
 
 viand — 食物；（尤指）佳肴；美味mote — 微粒；尘埃；一丁点axiom — 公理；不证自明的格言shabby — 破旧的；卑劣的；寒酸的ornithology — 鸟类学gastric — 胃的；胃部的signature — 签名；（人或事物的）鲜明特征；识别标志delimit — 划定界限；界定thaw — 解冻；融化；（关系）缓和numb — 麻木的；失去知觉的；使迟钝
 
 The Frozen Field Notebook
 Completely numb from waiting hours in a shabby, freezing canvas hide, a determined ornithology student watched each tiny mote of winter snow settle on a rare eagle's signature white tail feathers. Her strict scientific axiom was always to sharply delimit passive human observation from active ecological interference. However, when the magnificent bird began to show clear signs of severe gastric distress right after picking at a frozen, discarded viand on the ice, she chose to intervene, safely removed the remaining toxic food, allowed it to thaw for chemical examination, and immediately called the local wildlife rescue center.
 
-Story 355
+Story 0355
 
 tint — 色调；色彩；浅色；染色aberrant — 异常的；偏离常规的；畸变的skittish — 易受惊的；善变的；轻浮的carrion — 腐肉；动物尸体hostility — 敌意；对抗；战争行为pod — 荚；果荚；（飞机、船只的）舱；一小群（鲸等）scrimp — 节省；吝啬；克扣soigne — 精心打扮的；高雅别致的；讲究的cultivated — 有教养的；文雅的；栽培的；耕作的patrimony — 祖传遗产；继承的家业
 
 The Indigo Pod of Valmera
 In a cultivated agricultural valley deeply divided by generations of bitter political hostility, a soigne botanist flatly refused to scrimp on securing the heavy steel fencing around her family's valuable patrimony—a unique, gene-edited aberrant indigo pod plant. The plant's deep, unusual metallic blue tint unexpectedly helped her spot a piece of rotting carrion that had become lodged tightly against the outer boundary fence. After she carefully removed the biohazard, a skittish wild fox that had been nervously circling the property finally stopped, and the shared cleanup work eventually brought neighbors from both rival villages peacefully through her farm gate.
 
-Story 356
+Story 0356
 
 forward — 向前；冒失的；鲁莽的；转交；发送grope — 摸索；探寻；猥亵noose — 绳套；绞索；圈套leeway — 余地；回旋空间；（风的）偏航力ovation — 热烈鼓掌；欢呼tasty — 美味的；有品位的；精彩的pandemic — 大流行病；（疾病）大流行的tolerance — 宽容；忍耐力；耐受性；公差mannered — 矫揉造作的；拘泥礼节的；有某种行为方式的curt — 简短生硬的；草率的
 
 The Rooftop Supper Rehearsal
 During the height of the global pandemic, a highly mannered gourmet chef moved his intimate dinner-theater production to an open-air rooftop, allowing his acting cast plenty of creative leeway to improvise scenes while he prepared a tasty three-course meal nearby. In the climax of the play, one lead actor had to carefully grope his way through the pitch-black stage scenery, catch a hanging rope noose in mid-air, and dramatically stumble forward. The director's sudden, curt correction mid-scene heavily tested everyone's professional tolerance, but their hard work paid off on opening night, earning them a roaring standing ovation from the socially distanced audience.
 
-Story 357
+Story 0357
 
 florescence — 开花；花期；全盛期seminary — 神学院；（早期的）女子学校crumple — 弄皱；瘫倒；崩溃quantum — 量子；定量；巨额的calculus — 微积分；结石survive — 生存；幸存；比……活得长maleficent — 有害的；作恶的；有恶意的witness — 目击；见证；见证人enlist — 征募；争取（支持、帮助）barn — 谷仓；牲口棚；简陋的大建筑物
 
 Fireflies over the Seminary Barn
 A dedicated calculus teacher at the old historic seminary walked down to the campus barn to witness the rare midnight florescence of a legendary moonflower, only to see a maleficent cloud of drifting chemical pesticide approaching the property. She did not crumple under the sheer quantum of physical work ahead, but instead rushed back to the dorms to enlist a dozen student volunteers to help cover the vulnerable vines with canvas tarps so both the exotic flowers and the local fireflies could survive the night.
 
-Story 358
+Story 0358
 
 brutal — 残忍的；严酷的；野蛮的characterize — 描绘……的特征；以……为特色cronyism — 任人唯亲；搞裙带关系estrange — 使疏远；使隔离ursine — 熊的；像熊一样的dislodge — 逐出；驱逐；移走；（从固定位置）取出emboss — 压印浮雕；使凸起surpass — 超越；胜过；优于mend — 修补；改善；愈合apt — 恰当的；适宜的；易于……的；有天赋的
 
 The Bear Seal of Northpass
 During an exceptionally brutal winter storm, suspicious villagers openly accused the new park ranger of blatant cronyism when she hired her massive, ursine-bearded cousin to dislodge a dangerous block of ice from the main mountain pass. The harsh political charge threatened to permanently estrange her from the very community she served, but his highly apt, efficient engineering plan quickly helped mend the fractured road. Deeply impressed, the apologetic locals later chose to emboss a stylized bear onto a silver medal to characterize the type of courage that could completely surpass their narrow expectations.
 
-Story 359
+Story 0359
 
 offhand — 随口的；即兴的；漫不经心的justify — 证明……有理；为……辩护broil — 烤；烧烤；酷热；争吵skimp — 节省；吝惜；草率对待permissive — 宽容的；纵容的；放任的dipsomania — 间歇性嗜酒狂；酗酒症fussy — 挑剔的；过分讲究的；过分琐碎的immense — 巨大的；极大的；极好的drench — 浸透；使湿透defunct — 不复存在的；失效的；已故的
 
 The Defunct Lido Cookout
 At a weekend community cookout held inside a defunct, long-abandoned seaside lido, a fussy method actor made a cruel, offhand joke about a close friend's struggle with clinical dipsomania. He then aggressively tried to justify the comment by claiming their lifelong creative friendship was highly permissive enough to excuse a bit of blunt humor. Suddenly, an immense ocean wave crashed over the seawall to completely drench their charcoal grill before they could even broil the fish. With no culinary distractions left, the embarrassed actor finally chose not to skimp on emotional honesty and offered a genuine, heartfelt apology beside the smoking coals.
 
-Story 360
+Story 0360
 
 hubbub — 喧闹；骚动；嘈杂声collateral — 附带的；并行的；抵押品errand — 差事；跑腿；使命irradiate — （用光或辐射）照射；使明亮；使生辉unbosom — 倾诉；吐露（心事、秘密）reparable — 可修复的；可挽回的；可补偿的ration — 配给；定量供应；配给量affected — 做作的；假装的；受影响的collude — 串通；勾结memoir — 回忆录；传记
 
 The Projector at Platform Nine
 Amid the deafening hubbub of a busy midnight train station, Lio ran a quick errand to fetch a rare replacement bulb that would properly irradiate the platform's projection screen with vivid historical images from his grandmother's wartime memoir. Nearby, two highly affected stage performers tried to secretly collude to strictly ration the shared stage rehearsal time, and their bitter backstage quarrel caused accidental collateral damage to the fragile lens assembly of Lio's projector. Fortunately, the mechanical damage proved easily reparable, and the stressful incident eventually forced the rival actors to unbosom their deep professional worries to one another right before the audience arrived.
 
-Story 361
+Story 0361
 
 consolidation — 合并；巩固；加强classify — 分类；将……归类intricacy — 复杂性；错综复杂的细节entirety — 全部；整体；完全bodyguard — 保镖；护卫disinfect — 消毒；杀菌hatchet — 短柄斧；战斧priority — 优先事项；优先权；当务之急dispassionate — 冷静客观的；不带感情色彩的raze — 夷为平地；彻底摧毁；刮除
 
 The Seed Vault under Ember Ridge
 Following the urgent administrative consolidation of three separate mountain agricultural reserves, a dispassionate government botanist made it her absolute top priority to carefully classify the vast botanical collection in its entirety. When an unexpected earthquake struck, her personal security bodyguard had to use a heavy camping hatchet to quickly clear a fallen wooden beam across the exit, then stayed behind to help her thoroughly disinfect the emergency storage shelves. Despite the terrifying intricacy of the rushed midnight rescue operation, they successfully saved the irreplaceable historical archive just hours before a raging wildfire swept up the mountain to completely raze the ridge station.
 
-Story 362
+Story 0362
 
 restrain — 克制；制止；约束apparatus — 仪器；设备；装置swill — 大口喝；狂饮；（喂猪的）泔水upbraid — 斥责；责骂；训斥probe — 探查；探测针；深入调查huffish — 易怒的；气冲冲的；傲慢的underhanded — 不光彩的；秘密的；卑劣的unobtrusive — 不显眼的；低调的；不张扬的wick — 灯芯；烛芯ken — 认知范围；视野；知识领域
 
 The Signal beyond the Marsh
 To restrain his highly huffish local guide from angrily marching away from the group, Arun quickly lowered an unobtrusive electronic probe from his research apparatus straight into the black marsh water. As a family of wild pigs began to noisily swill mud at the water's edge, a faint glowing spark on a submerged waterproof wick suddenly revealed a hidden, underhanded explosive trap whose strange maker was entirely beyond their academic ken. Choosing wisely not to upbraid his defensive guide for missing the danger, Arun kept his composure and quietly cut the hidden tripwire.
 
-Story 363
+Story 0363
 
 dome — 圆顶；穹顶；半球形物thread — 线；线索；思路；穿（线）infatuated — 痴迷的；盲目迷恋的obscurity — 默默无闻；晦涩；朦胧；黑暗speleology — 洞穴学；洞穴探险ineffaceable — 无法抹去的；不可磨灭的deception — 欺骗；骗局；诡计beatific — 幸福安详的；喜悦的；神圣的unreserved — 坦率的；毫无保留的；全盘的mealy — 粉质的；（因多粉而）面糯的；乏味的
 
 The Painted Cave of Belluno
 Completely infatuated with the specialized science of speleology, Livia carefully followed a glowing silk safety thread through the complete obscurity of a deep underground tunnel into a massive limestone dome. There, she discovered a stunning, ineffaceable ochre handprint on the wall, which instantly exposed her untrustworthy guide's underhanded deception about the cavern being completely unexplored. Her unreserved, beatific delight at the historic archaeological find easily survived the rest of the night, outlasting even the dry, mealy emergency biscuits they were forced to share deep underground.
 
-Story 364
+Story 0364
 
 bent — 弯曲的；有……倾向的；天赋；爱好shimmer — 闪烁；发微光infantry — 步兵；步兵部队remains — 遗迹；遗骸；剩余物understatement — 轻描淡写；保守的陈述ballast — 压舱物；（铁路的）道渣；碎石垫层embed — 嵌入；使深留；将……插入pervert — 歪曲；使堕落；误导；变态者catalyst — 催化剂；促成因素irrigate — 灌溉；冲洗（伤口）
 
 The Orchard beneath the Fort
 Calling the extensive hilltop archaeological excavation difficult was a massive understatement: beneath a row of ancient, wind-bent olive trees, the metallic remains of a forgotten century-old infantry outpost began to brightly shimmer after a heavy rain washed away its protective gravel ballast. This remarkable discovery became an immediate catalyst for the energetic villagers to completely embed the historic ruins into a beautifully designed new public park, properly irrigate the old surrounding orchard, and firmly refuse to let developers pervert the sacred site into a cheap commercial spectacle.
 
-Story 365
+Story 0365
 
 cumulus — 积云dispose — 处理；安排；使倾向于makeshift — 临时凑合的；权宜之计；临时的remit — 职责范围；管辖权；汇款；免除synchronous — 同步的；同时发生的svelte — 苗条优雅的；（设计）简洁流畅的screw — 螺丝；拧紧；固定deposition — 沉积（物）；（法律）证词；免职magnitude — 规模；巨大；震级；重要性deaden — 减弱（声音、痛苦）；使麻木；缓和
 
 Storm Clock on the Plateau
 As a massive, dark cumulus cloud tower rose menacingly above the desolate plateau, Mei worked quickly within her strict professional remit as a meteorologist to screw a svelte digital sensor onto a makeshift aluminum mast. She had to carefully dispose of a cracked backup battery and compare her synchronous real-time readings on the monitor. She knew that heavy atmospheric volcanic deposition could easily deaden the wireless radio signal, but the sheer physical magnitude of the approaching storm system was completely unmistakable.
 
-Story 366
+Story 0366
 
 comic — 滑稽的；喜剧的；喜剧演员；连环画intact — 完好无损的；完整的recourse — 求助；依靠；求援的手段approach — 接近；方法；途径；处理方式stuffy — 闷热的；不通风的；古板的；枯燥的assertive — 坚定自信的；果断的tremor — 震颤；轻微地震；（身体的）发抖scale — 攀登；测量；规模；比例demented — 疯狂的；精神错乱的；焦虑狂躁的glisten — 闪光；闪耀
 
 Encore after the Tremor
 The moment a sudden, sharp tectonic tremor violently shook the stuffy, unventilated puppet theater, an assertive lead comic calmly grabbed a wooden ladder to scale the high balcony and check the structural stage setup, finding the beautifully painted wooden moon completely intact. With no immediate recourse to the building's damaged electricity grid, she quickly changed her theatrical approach, masterfully improvising a wild, slightly demented lunar opera on the spot. Her brilliant performance made the tiny tin stars glisten beautifully in the warm, direct glow of the audience's hand-held torchlight.
 
-Story 367
+Story 0367
 
 bauxite — 铝土矿moldy — 发霉的；陈腐的；过时的depose — 废黜（君主）；宣誓作证tyrant — 暴君；专横的人turncoat — 叛徒；变节者dutiful — 尽职的；恭敬的；守本分的bearing — 举止；风度；方位；关系intransigent — 不妥协的；顽固的cravat — 领巾；领带invertebrate — 无脊椎动物；无骨气的（人）
 
 The Red Cliffs of San Aurelio
 A dutiful young naturalist carefully took a compass bearing across the jagged bauxite cliffs and unexpectedly discovered a rare, undocumented invertebrate thriving inside a moldy, long-abandoned mine tunnel. When the region's intransigent governor, elegantly dressed in a silk cravat, arrogantly dismissed her ecological safety report, his former personal political aide boldly became a turncoat. The aide leaked the complete, classified environmental survey to the press, effectively helping the furious islanders legally depose the greedy tyrant at the very next community council vote.
 
-Story 368
+Story 0368
 
 defoliant — 落叶剂expend — 花费；消耗；耗尽arsenal — 武器库；军火库；大批随手可用的工具deceit — 欺骗；谎言；欺诈行为mendicant — 托钵修士；乞讨者；乞讨的cuisine — 烹饪；菜肴；风味curator — （博物馆、美术馆的）馆长；策展人bucket — 水桶；吊桶beverage — 饮料unfold — 展开；逐渐显露；（故事）呈现
 
 Supper in the Peace Museum
 The chief museum curator watched a fascinating piece of hidden history unfold when a traveling mendicant donated a deeply dented metal bucket recovered from a forgotten jungle weapon arsenal. Laboratory chemical tests on the artifact exposed the old military regime's systematic deceit regarding their widespread illegal defoliant use. Shamed by the truth, the museum chose to expend its entire annual grant on recording survivor testimony, opening the poignant new historical exhibit with a respectful dinner featuring authentic local cuisine and a traditional tamarind beverage.
 
-Story 369
+Story 0369
 
 scoop — 舀；掏空；抢先报道的独家新闻；铲子spout — （容器的）壶嘴；喷口；喷出；滔滔不绝地说sacred — 神圣的；受尊崇的separate — 分开；隔离；不同的；独立的beholden — 欠人情的；受惠的；感激的scourge — 灾害；祸患；苦难的根源；鞭笞sneaking — 暗中的；（情感）偷偷摸摸的；鬼鬼祟祟的virtuoso — 大师；（尤指乐器）演奏家；技艺精湛的tenure — 任期；（土地、职位的）使用权；终身职位wallop — 猛击；痛打；（浪潮）猛烈拍击
 
 The Fountain Concerto
 During her long professional tenure as a resident musician at the ancient hilltop shrine, a world-renowned flute virtuoso helped the groundskeepers separate a thick layer of choked ivy from the stones of the sacred fountain. Being entirely beholden to no corporate sponsor, she confidently gave a trusted investigative reporter the exclusive scoop that a sneaking local real estate developer had intentionally blocked the water spout. She then physical used her heavy wooden walking staff to wallop the jammed valve until the pipe ran free, successfully ending the drought's long, painful scourge on the valley.
 
-Story 370
+Story 0370
 
 unfounded — 无根据的；空穴来风的spectator — 观众；旁观者boo — 喝倒彩；发出嘘声；嘘engross — 使全神贯注；独占；吸引plangent — 哀婉响亮的；悲凉的latency — 延迟；潜伏期comity — 礼让；和谐；友好flatulent — 胀气的；浮夸冗长的expository — 说明性的；解释性的agnostic — 不可知论者；持怀疑态度者
 
 The Tuba Delay at Orpheum Hall
 An agnostic spectator arrived at the venue fully prepared to boo what he expected to be a flatulent, overly pompous academic lecture. However, the presentation's brief, engaging expository opening quickly gave way to a deeply moving, plangent tuba duet that began seamlessly right after a comical initial bout of network latency. The unexpected musical comity and brilliant skill demonstrated by the performers soon completely engrossed the entire hall, proving the hostile pre-concert rumors to be entirely unfounded.
 
-Story 371
+Story 0371
 
 preposition — 介词levelheaded — 冷静明智的；沉着的shipshape — 整洁有序的；井井有条的parlous — 危险的；糟糕的；可怕的verisimilitude — 逼真；貌似真实ingenuous — 天真坦率的；纯朴的phony — 假的；冒牌的；骗子defendant — 被告unbidden — 未经邀请的；自发的；不请自来的alimentary — 消化的；营养的；食物的
 
 The Trial aboard the Resolute
 Inside a shipshape maritime museum, an ingenuous amateur actor playing the lead defendant suddenly noticed that an unbidden visitor had secretly altered a key preposition in the murder-mystery trial script. The intruder had also planted a phony alimentary health chart in the historic ship's galley kitchen. Fortunately, the levelheaded director immediately recognized that the chart's startling historical verisimilitude was intentionally designed to mislead the cast, acting quickly to prevent the interactive game from descending into parlous confusion.
 
-Story 372
+Story 0372
 
 illusion — 幻觉；假象；错觉polarity — 极性；两极分化；截然相反contrive — 设法做到；精心设计；图谋pulp — 纸浆；果肉；泥状物convenience — 便利；方便之物；适宜fossilize — 使（思维/体制）僵化；变成化石seismic — 地震的；影响巨大的eligible — 符合条件的；有资格的responsiveness — 响应能力；敏捷度；反应covenant — 契约；盟约；圣约
 
 The Paper Mill Covenant
 After a seismic industrial jolt severely split the foundation of the old paper pulp mill, the local community firmly rejected the illusion that mere corporate convenience should ever outweigh public safety. Despite a long history of intense political polarity in the town, the residents successfully came together to sign a strict community covenant requiring rapid emergency responsiveness. The new agreement made every single residential tenant eligible for safety drills and contrived a series of modern escape routes before administrative neglect could permanently fossilize into local custom.
 
-Story 373
+Story 0373
 
 uptight — 紧张拘谨的；焦虑的；刻板的desirable — 理想的；值得拥有的；吸引人的hedge — 树篱；规避（风险）；限制revenge — 报复；复仇obviate — 排除；消除；使无必要maize — 玉米fad — 一时风尚；短暂的狂热orotund — 洪亮的；（语言）夸张雄辩的limerick — 五行打油诗exuberance — 活力；充沛；兴高采烈
 
 The Maize Maze Recital
 At the annual autumn harvest festival, an uptight small-town mayor went so far as to plant a thick, dense hedge directly around the main stage to entirely obviate any rowdy public interruptions. Soon after, a local child with a remarkably mature, orotund voice stepped up and recited a humorous limerick about wild maize with such infectious physical exuberance that even the rigid mayor burst out laughing. What had originally begun as a silly local seasonal fad quickly transformed into a highly desirable annual tradition, successfully dispelling any lingering thoughts of political revenge over the previous year's canceled fair.
 
-Story 374
+Story 0374
 
 diffuse — 扩散；传播；缓和；消除（紧张）barefaced — 露骨的；厚颜无耻的；不加掩饰的eclecticism — 折衷主义；兼收并蓄rabies — 狂犬病moody — 情绪多变的；忧郁的；喜怒无常的epitaph — 墓志铭misanthrope — 厌世者；不合群的人rehearse — 排练；复述；演练demystify — 揭开神秘面纱；使易懂；消除误解gallon — 加仑
 
 The Cemetery Players
 Hoping to diffuse a growing wave of public panic over a localized rabies scare, a notoriously moody community veterinarian agreed to rehearse a theatrical performance directly in the village cemetery with the local misanthrope. The eccentric hermit's barefaced, unapologetic artistic eclecticism hilariously paired each solemn historical epitaph with an upbeat, comic folk song. Ultimately, their single, shared gallon jug of bright stage paint helped to demystify the vaccine process for the anxious public far more effectively than any solemn government safety poster ever could.
 
-Story 375
+Story 0375
 
 conglomerate — 企业集团；砾岩；聚集物aggressor — 侵略者；挑衅者hold — 握住；支撑；容纳；保持scalding — 滚烫的；（语言）尖刻的mortification — 羞辱；懊恼；（肉体的）坏死supercilious — 傲慢的；目中无人的；自大的threadbare — 磨薄的；破旧的；（借口）陈腐的gravitate — 被吸引；趋向runic — 如尼文字的；北欧古字的；神秘的implausible — 难以置信的；不合情理的
 
 The Rune beneath Platform Six
 Daily train commuters naturally gravitate toward a strange, ancient runic stone that physically seems to hold up the structural weight of Platform Six, but a supercilious real estate conglomerate continuously dismissed the artifact as a threadbare internet hoax. Much to the corporation's absolute public mortification, a sudden, scalding steam pipe leak accidentally exposed the massive carving's deeply buried foundation. The exposure caused their implausible corporate claim—that a medieval military aggressor had secretly built the station's underbelly—to collapse entirely overnight.
 
-Story 376
+Story 0376
 
 prickle — 刺痛；（毛发）竖起；（使）感到刺痛troupe — 剧团；表演团；巡回演出pusillanimous — 胆怯的；懦弱的；优柔寡断的valiant — 英勇的；勇敢的involuntary — 不由自主的；非自愿的swathe — 包裹；大片区域；大片土地faultfinder — 吹毛求疵者；挑剔者destructible — 可破坏的；易毁坏的alias — 化名；别名affordable — 负担得起的；便宜的
 
 The Fireproof Circus
 The exact moment flying campfire sparks made the skin on every spectator's neck prickle with panic, a supposedly pusillanimous circus juggler performing under the stage alias Pip led his entire acrobat troupe in a valiant, rapid response. They worked together seamlessly to completely swathe the highly destructible canvas tent in heavy, wet sheets; the effort was so impressive that even the show's resident, bitter faultfinder let out an involuntary loud cheer, and the grateful circus owner soon permanently replaced the setup with an affordable, fully fireproof pavilion.
 
-Story 377
+Story 0377
 
 mortar — 砂浆；灰泥；迫击炮turgid — 浮夸的；肿胀的；晦涩难懂的forerunner — 先驱；前身；预兆medal — 奖章；勋章mechanics — 力学；机械原理；技巧metaphysics — 形而上学；玄学permanent — 永久的；长期的；固定的addendum — 补遗；附录；附加物outmaneuver — 以策略胜过；智胜；占得先机insularity — 孤立性；思想狭隘；与世隔绝
 
 The Clockwork Debate
 While painstakingly restoring the heavy brass forerunner of a modern industrial robot, Sana replaced its crumbling concrete mortar base and completely mastered its intricate internal mechanics. She then strategically used a witty, brilliant addendum on digital metaphysics to completely outmaneuver her chief rival's turgid, overly academic keynote speech. The panel of international judges successfully overcame their traditional academic insularity, proudly awarded her the exhibition gold medal, and offered the automated machine a permanent central place in the gallery.
 
-Story 378
+Story 0378
 
 mores — 风俗；道德观念；习惯helve — 斧柄；（工具的）木柄；给工具装柄pictorial — 图画的；画报的；用图片表示的sacrifice — 牺牲；祭品；放弃；献祭gossamer — 蛛丝；轻薄的；薄如蝉翼的rotund — 圆胖的；（声音）洪亮的；圆形的mete — 分配；给予（惩罚或奖励）snug — 舒适温暖的；严密的；紧身的chore — 日常杂务；苦差事；令人厌烦的工作disagreeable — 令人不快的；难相处的；脾气暴躁的
 
 Winter Work at the Folk Museum
 Inside a snug, well-heated rural folk museum, a rotund elderly carpenter masterfully turned the disagreeable daily chore of fitting a wooden helve into a fascinating lesson on mountain social mores. His beautifully illustrated pictorial guide showed the visiting students that historical villagers would routinely mete out winter grain fairly, selflessly sacrifice personal physical comfort during severe blizzards, and carefully mend even a gossamer wool shawl rather than let it go to waste.
 
-Story 379
+Story 0379
 
 admission — 承认；准许进入；入场费；入场券monotonous — 单调乏味的；毫无变化的ballot — 选票；投票；总票数metaphor — 隐喻；暗喻dummy — 模型；假人；假的；傀儡adjacent — 相邻的；毗连的implore — 恳求；哀求；乞求despoil — 掠夺；破坏；洗劫granite — 花岗岩virtual — 虚拟的；实质上的；实际上的
 
 The Quarry Vote
 Although admission to the virtual town hall video conference was entirely free, an imposing crash-test dummy placed right beside a massive granite block on screen became a vivid physical metaphor for the proposed local mining quarry. Following a highly monotonous presentation by the corporate developers, worried residents from the adjacent agricultural valley rose to passionately implore local voters not to despoil the historic forest ridge right before the final community ballot successfully protected it.
 
-Story 380
+Story 0380
 
 absolute — 绝对的；专制的；完全的；纯粹的persnickety — 挑剔的；过分讲究的；难以讨好的apostasy — 背教；变节；脱党frustrate — 挫败；使沮丧；阻挠imposture — 冒充；骗局；欺诈行为teetotal — 滴酒不沾的；绝对戒酒的inspiration — 灵感；妙计；鼓舞人心的人或物forebode — 预示；预感；（尤指凶兆）flax — 亚麻；亚麻纤维competence — 能力；胜任；权限
 
 The Weaver and the False Oracle
 A remarkably persnickety, teetotal village weaver drew sudden artistic inspiration from an ancient, hand-woven flax textile pattern whose unique broken crown motif seemed to eerily forebode political rebellion. Suddenly accused of religious apostasy by the region's absolute ruler, she masterfully used her deep professional competence with organic dyes to publicly expose the royal court oracle's systematic chemical imposture, successfully managing to frustrate his cruel attempt to condemn her to prison.
 
-Story 381
+Story 0381
 
 droplet — 小滴；水珠cadge — 索要；乞讨；捞好处neurology — 神经学；神经病学clinch — 敲定；赢得；解决；紧紧拥抱utensil — 器具；用具（尤指厨房或家庭用具）mawkish — 伤感做作的；甜腻的；令人作呕的handle — 柄；把手；处理；操纵vulture — 秃鹫；乘人之危者offense — 违法行为；冒犯；犯罪（美式拼写：offense / 英式：offence）sculpt — 雕刻；塑造；雕塑
 
 The Spoon-Billed Vulture
 At a community neurology clinic, Mara learned how to physically handle a clay dining utensil again after surviving a severe stroke, and soon began to passionately sculpt a realistic wildlife vulture. She focused intensely on smoothing down each tiny droplet of ceramic glaze without falling into a state of mawkish self-pity. When a wealthy visitor later tried to slyly cadge the completed piece for free, a nearby British placard jokingly called the art theft an "offence" while its adjacent American caption labeled it an "offense," beautifully helping to clinch both the linguistic joke and the final high-value sale.
 
-Story 382
+Story 0382
 
 exceptional — 非凡的；杰出的；异常的firefly — 萤火虫ram — 公羊；猛撞；撞击；塞满recede — 退去；减弱；（头发）向后秃figurative — 比喻的；象征性的；形象的splashy — 引人注目的；色彩鲜艳的；（水）泼溅的thermal — 热的；保暖的；上升热气流steep — 陡峭的；（价格）过高的；浸泡phenomenal — 非凡的；惊人的；现象级的seasoning — 调味料；佐料；（木材的）风干
 
 Supper Above the Firefly Gorge
 On a steep, narrow trail located high above the local thermal hot springs, an exceptional traveling cook watched a glowing firefly gently settle on his splashy, colorful winter scarf while a stray mountain ram waited nearby for the sudden floodwater to recede. Taking the insect's bright glow as a funny, figurative invitation to start cooking, he let fresh mountain herbs steep deeply in his iron pot of broth, added one last masterful pinch of savory seasoning, and served a truly phenomenal wilderness supper beneath the stars.
 
-Story 383
+Story 0383
 
 satanic — 邪恶的；恶魔般的；魔鬼的pundit — 权威人士；评论家bacterium — 细菌（复数形式为 bacteria）dynamo — 发电机；精力充沛、充满活力的人vinegared — 加醋的；醋腌的；酸溜溜的sequacious — 盲从的；顺从的；缺乏创造力的shoal — 鱼群；浅滩；沙洲diocesan — 教区的；教区主教的pen — 钢笔；（牲畜）围栏；圈禁；写作reparation — 赔偿；修复；弥补
 
 The Bell, the Shoal, and the Pickled Herring
 When a terrifying, almost satanic metal clang from a malfunctioning old ocean buoy scattered a massive shoal of valuable fish, a local radio pundit quickly blamed a toxic new bacterium in the bay. However, a dispassionate diocesan engineer armed with only a pen and a hand-cranked digital dynamo quickly discovered a loose iron bell chain instead. After the usually sequacious talk-show host publicly repeated her correction, the appreciative engineer offered a jar of freshly vinegared herring to the locals as a friendly reparation for unnecessarily alarming the entire fishing village.
 
-Story 384
+Story 0384
 
 preeminent — 卓越的；杰出的；至高无上的endow — 赋予；资助；捐赠guttle — 狼吞虎咽；大吃大喝exceptionable — 可反对的；会引起反感的；有问题的abduct — 绑架；诱拐loaf — 一条面包；（时间上）游荡；闲逛somatic — 身体的；躯体的；肉体的bugaboo — 令人担忧的问题；吓人之物；妖怪goodwill — 善意；友好；（企业的）信誉/商誉piteous — 可怜的；令人怜悯的；哀怨的
 
 The Baker and the Vanishing Bear
 A preeminent village baker generously used his recent lottery prize to fully endow a local wildlife shelter after a piteous, orphaned bear cub began to nightly guttle every single loaf of fresh bread left cooling by his open kitchen window. The highly exceptionable corporate rumor that mysterious poachers meant to abduct the animal quickly became the village's latest terrifying bugaboo. Fortunately, a thorough medical examination revealed nothing but a minor somatic weakness; patient, long-term treatment eventually restored the cub's full health and the local shelter's community goodwill.
 
-Story 385
+Story 0385
 
 control — 控制；管理；克制；对照组temptation — 诱惑；引诱tactile — 触觉的；可触摸的；有触感的locale — 场所；地点；（电影、小说的）场景exclusive — 独有的；独家的；排他的；高档的odometer — （汽车等的）里程表tiff — 小争吵；口角aesthetic — 审美的；美学的；美观的muffle — 捂住；使（声音）减弱；消音shamble — 蹒跚而行；摇摇晃晃地走
 
 The Last Location Before Dawn
 After a sharp, stressful tiff over an exclusive film shooting locale, two Hollywood location scouts successfully resisted the temptation to just shamble back home to bed. Instead, they carefully used their truck's odometer reading to locate an abandoned historic mill, where the rugged, tactile brickwork instantly gave the movie set its perfect visual aesthetic. Working quickly, they used heavy moving blankets to muffle the loud sound of their diesel generator, took absolute control of the complex dawn shoot, and completely reconciled their differences over hot coffee.
 
-Story 386
+Story 0386
 
 snowdrift — 雪堆；雪丘clarify — 澄清；阐明；使清晰commingle — 混合；融合cling — 紧握；依附；坚持；贴紧fluorescent — 荧光的；发光的epideictic — 炫示性的；（演讲等）颂扬性的/夸耀的alert — 警觉的；警报；机警的pact — 协定；契约；条约harridan — 凶悍的老妇；泼妇finagle — 欺骗取得；设法弄到；不道德地操纵
 
 The Fluorescent Flag at White Pass
 Pinned down helplessly behind a massive mountain snowdrift, the stranded weather survey team made a strict pact to stay absolutely alert and not let their emergency fluorescent flag markers commingle with other distant mountain light signals. A sudden, highly pompous epideictic radio speech from the home office did absolutely nothing to clarify their rescue position, but their rugged local guide—whom her bitter corporate rivals frequently called a harridan—miraculously managed to finagle a high-powered snowcat vehicle. She immediately told everyone to tightly cling to the towline until they successfully reached the safe summit of White Pass.
 
-Story 387
+Story 0387
 
 conjunction — 结合；联合；连词drill — 钻孔机；安全演练；严厉训练exhaustive — 详尽的；彻底的；消耗体力的winning — 获胜的；迷人的；讨人喜欢的aerial — 空中的；航空的；天线gape — 目瞪口呆；张口结舌；裂开specialize — 专门研究；专攻；专门从事potation — 饮酒；饮料；酒infliction — 施加；强加；带来的痛苦/处罚centrifugal — 离心的
 
 The Moonlit Carousel Test
 In conjunction with an exhaustive multi-point safety drill, mechanical engineers who specialize in high-speed centrifugal rides sent a remote-controlled aerial camera hovering above the moonlit carnival carousel. Gathering spectators began to gape in awe when the winning mechanical prototype spun to full operating speed without a single structural tremor. Having finally completed their testing, the tired engineering crew marked the end of the loud industrial noise they had nightly inflicted on the surrounding fairground—a long, unwelcome infliction for the neighborhood—with a modest, celebratory potation of local apple cider.
 
-Story 388
+Story 0388
 
 larder — 食品储藏室；食物储备decline — 下降；减少；衰退；婉言拒绝horrendous — 骇人的；极糟的；可怕的manipulate — 操纵；熟练处理；影响batch — 一批；一炉；一批生产的量lug — 用力拖；吃力地搬运；笨重的行李designation — 名称；称号；指定；选派discompose — 使不安；使慌乱；打乱ditty — 小曲；短歌compost — 堆肥；把……制成堆肥
 
 The Singing Kitchen of Alder Farm
 When incoming catering orders began to sharply decline following a horrendous autumn storm, the resilient head cook flatly refused to let the official county designation “temporarily closed” discompose her creative spirit. Instead, she cheerfully sang a lively local ditty while helping her kitchen assistants lug heavy sacks of root vegetables up from the basement larder. Together, they managed to skillfully manipulate the temperature controls of their temperamental old brick oven, bake a massive batch of fresh vegetable pies for the village shelter, and carefully turn every single leftover organic peel into rich compost for the spring planting season.
 
-Story 389
+Story 0389
 
 donor — 捐赠者；供体；赞助人gazetteer — 地名词典；地名录insulin — 胰岛素spectral — 幽灵般的；光谱的；微茫的cylinder — 圆柱体；气缸；（液压）缸anemic — 贫血的；无活力的；脸色苍白的blurt — 脱口而出；无意中说出alphabetical — 按字母顺序的philistine — 庸俗之人；不重文化者；市侩的midget — 极小的东西；微型的；侏儒（旧称，现具冒犯性）
 
 The Museum Below the Ice
 A wealthy anonymous donor gave the polar history museum an original, cross-referenced alphabetical gazetteer, an intact medical insulin vial safely stored inside a heavy brass cylinder from a 1910 expedition, and a rare, spectral photograph of an early midget submarine. When the visibly tired, anemic museum curator overheard a loud visitor blurt out to his friends that only a tasteless philistine would choose to display such historical scraps, she stepped forward and calmly revealed the gripping archival story of how each small object had actively saved a stranded explorer's life.
 
-Story 390
+Story 0390
 
 principal — 校长；主要的；资本；主角perk — 福利；特权；（使）振作起来；昂首挺胸rapscallion — 无赖；恶棍；淘气鬼generalize — 概括；推广；归纳出常规preponderant — 占优势的；压倒性的；更重要的disjunctive — 分离的；选言的；不连贯的smirch — 玷污；弄脏；污点；名誉受损windy — 多风的；冗长的；腹胀的microorganism — 微生物inquisitive — 好奇的；爱探究的；好管闲事的
 
 The Petri Dish on the Roof
 At a windy rooftop science fair, an inquisitive young student politely told the visiting school principal not to generalize about the quality of her project based on a single accidental smirch on the side of her display. She explained that a harmless, beneficial microorganism was actually the preponderant biological culture inside the sample, whereas the textbook's disjunctive classification chart had misleadingly separated the feared predatory species from the rest of the family. Her brilliant, articulate defense made even the class rapscallion begin to perk up with genuine interest, and her careful explanation ultimately won the fair's coveted first prize.
 
-Story 391
+Story 0391
 
 momentum — 动力；势头；动量negation — 否定；否认；不存在；对立面pugilist — 拳击手；职业拳击运动员secrete — 分泌；藏匿；隐藏befoul — 弄脏；污染；玷污strew — 撒满；散布；铺满dissimulate — 掩饰；假装；掩盖（真实情感）revealing — 揭示真相的；暴露的；启发性的expulsion — 驱逐；排出；开除rarefaction — （气体的）稀薄；稀疏化；变稀薄
 
 The Boxer in the Thin-Air Garden
 A retired heavyweight pugilist gained impressive physical momentum while climbing up the steep mountain trail to a high-altitude botanical garden, where the extreme atmospheric rarefaction made his heavily labored breathing deeply revealing to those around him. Entirely unable to dissimulate his exhaustion any longer, he stopped to rest, watching alpine pine needles naturally secrete aromatic resin into the crisp air. He then firmly challenged their tour guide's outright negation of the park's growing litter problem, actively helped to strew clean, natural wood mulch along the paths without letting plastic trash befoul the pristine soil, and publicly supported the strict legal expulsion of commercial waste from the entire nature reserve.
 
-Story 392
+Story 0392
 
 unrepentant — 不悔改的；顽固的；执迷不悟的plain — 平原；明显的；朴素的；坦白地epistolary — 书信体的；书信的sprout — 发芽；长出嫩芽；新芽lexical — 词汇的；词典的hulk — 庞然大物；废船；（破旧房屋、车辆的）躯壳evolve — 演变；进化；逐步发展limestone — 石灰岩impregnable — 坚不可摧的；无法攻破的fabulous — 极好的；绝妙的；传说中的；寓言般的
 
 Letters from the Limestone Giant
 On a desolate plain located directly beneath an impregnable, towering limestone cliff, an unrepentant old hermit lived comfortably inside the rusted metal hulk of an abandoned school bus. To pass the time, he spent his winter nights writing an elaborate epistolary novel centered around a fabulous, benevolent mountain giant. As spring arrived and green beans began to sprout outside his makeshift door, his clever lexical jokes and whimsical storytelling style helped the lonely creative tale evolve into a warm, ongoing weekly correspondence with the local village schoolchildren.
 
-Story 393
+Story 0393
 
 eclogue — 牧歌；田园诗apprentice — 学徒；实习生；使当学徒agrarian — 农业的；土地的；耕地的constituent — 组成部分；选民；构成的streak — 条纹；（性格中的）特征；一阵；飞奔monastery — 修道院；寺院glossary — 词汇表；术语表practitioner — 从业者；实践者；执业医生sustained — 持续的；持久的；不间断的gnaw — 啃咬；折磨；使烦恼
 
 The Mouse in the Margins
 At an isolated hillside monastery, a skilled manuscript restoration practitioner and her young apprentice uncovered a rare, beautifully written medieval eclogue hidden inside a heavily damaged agrarian record book. Every constituent verse of the lyrical poem was uniquely marked by a faded blue ink streak. Their sustained, careful study of the document's historical glossary eventually showed that local mice had fortunately begun to gnaw only the modern, glue-heavy leather binding, leaving the invaluable, centuries-old ancient text pages inside completely intact and preserved.
 
-Story 394
+Story 0394
 
 repine — 苦恼；抱怨；向往frolic — 嬉戏；欢闹；游乐inoculate — 给……接种疫苗；灌输（思想）august — 威严的；令人敬畏的；八月bystander — 旁观者；目击者dwarf — 使显得矮小；使相形见绌；矮小的；侏儒famish — 使挨饿；饿极；极度饥饿shield — 保护；掩护；盾牌；防御物stock — 储备；家畜；股票；血统ignominy — 耻辱；不光彩；令人羞耻的行为
 
 The Goats of August Ridge
 An august regional veterinarian resolutely climbed a jagged mountain peak that seemed to completely dwarf the valley village below, carrying a heavy thermal backpack filled with enough fresh vaccine stock to inoculate every single local goat herd. She refused to repine over the brutal summer heat or let a well-meaning bystander shield a notoriously lazy young herder from public ignominy. She knew that the herder's neglected, unvaccinated kids could easily famish and die from disease, while the healthy, vaccinated livestock continued to safely frolic across the rocky high ridge.
 
-Story 395
+Story 0395
 
 dash — 猛冲；仓促赶往；少量；破折号limn — 描绘；勾画；描写sonata — 奏鸣曲expiate — 赎罪；弥补；抵罪folder — 文件夹；折叠式文件套hauteur — 傲慢；高傲；自大tame — 驯服；平淡的；乏味的；驯化remunerate — 给……报酬；付酬劳给pantomime — 哑剧；手势表演；（英国圣诞节期间的）童话剧adolescent — 青少年；青春期的
 
 The Silent Sonata
 A panicked adolescent actor made a desperate, frantic dash backstage with entirely the wrong script folder in his hands. Hoping to quickly expiate his embarrassing mistake before the curtains pulled open, he brilliantly used expressive, silent pantomime to limn the narrative arc of the missing introductory scenes while the theater's pit pianist played a beautiful classical sonata. His hilarious, exaggerated comic hauteur on stage helped to completely tame the restless, shouting crowd, prompting the deeply relieved director to double his pay to fully remunerate him for saving opening night.
 
-Story 396
+Story 0396
 
 arctic — 北极的；严寒的；极寒地区的solidarity — 团结；声援；相互支持rite — 仪式；礼俗；惯例salvage — 抢救；打捞；挽回；回收利用equestrian — 马术的；骑马者；骑马的rendering — 表演；描绘；（墙面的）粉刷exultant — 欢欣鼓舞的；狂喜的douse — 浇灭（火）；浸湿；（把灯）熄灭vexation — 烦恼；恼怒；令人恼火的事pitiless — 无情的；严酷的；冷酷的
 
 The Midwinter Lantern Ride
 During an annual arctic cultural festival, local equestrian teams gathered to begin their traditional midnight lantern ride in solidarity with an isolated wilderness medical clinic. However, a sudden, pitiless gust of sub-zero wind violently toppled one of the lead horses' fuel lanterns onto the snow. Despite her intense professional vexation at the sudden setback, the lead rider immediately managed to dismount, douse the rising flame with thick snow, and successfully salvage the critical cache of temperature-sensitive medicine. She then galloped into the town square right on schedule for an exultant, crowd-pleasing vocal rendering of the old winter survival song.
 
-Story 397
+Story 0397
 
 rampage — 横冲直撞；狂暴行事；暴乱；狂暴functional — 实用的；功能正常的；有用途的recipient — 接受者；收件人；领受者incubation — 孵化；（疾病的）潜伏期hysteria — 歇斯底里；狂热；过度兴奋surmise — 推测；猜想homely — 朴素的；家常的；平淡无奇的；（美）丑陋的stanch — 止住（流血）；遏制；平息sidereal — 恒星的；星辰的；测定恒星的grotto — 洞穴；岩洞；（人造的）别致小洞穴
 
 The Observatory in the Grotto
 Deep inside a homely limestone grotto that had been masterfully converted into a highly functional astronomical laboratory, the recipient of a prestigious national sidereal research grant suddenly heard hundreds of wild cave bats flying about in what sounded like a violent rampage. Rather than join the widespread media hysteria regarding a mythical subterranean disease vector, she calmly used an infrared camera to closely monitor the incubation of a rare species of cave moth eggs and successfully stanch public speculation about an ecological crisis. Her scientific surmise proved completely correct when the agitated bats quietly returned to their natural sleeping roosts just an hour later.
 
-Story 398
+Story 0398
 
 veto — 否决；禁止stalwart — 坚定的；忠实的；忠实拥护者appetizer — 开胃菜disavow — 否认；拒绝承认；声明撇清关系greenhorn — 新手；生手confide — 吐露（秘密）；信赖；托付frolicsome — 爱嬉戏的；活泼好动的plagiarism — 抄袭；剽窃legible — 清晰可读的；易辨认的seemly — 得体的；合宜的；体面的
 
 The Recipe Written in Green Ink
 A greenhorn head chef enthusiastically chose a unique, frolicsome goat-cheese appetizer for the annual village feast, but a stalwart culinary judge immediately threatened to veto the entire menu after spotting a nearly identical dish in a famous textbook. Unwilling to flatly disavow the striking structural resemblance, the panicked chef chose to privately confide in the judge that both recipes had actually come directly from her late grandmother's beautifully legible green notebook. Ultimately, adding a highly seemly printed credit on the menu successfully resolved the sudden charge of plagiarism.
 
-Story 399
+Story 0399
 
 license — 许可证；执照；准许comparison — 比较；对照void — 空白；空虚；无效的；缺乏的rejuvenate — 使恢复活力；使年轻seasoned — 经验丰富的；老练的；调好味的omnipresent — 无处不在的；普遍存在的epaulet — （军服的）肩章infinity — 无限；无穷；无限空间sleazy — 肮脏的；不正派的；破烂的fungicide — 杀菌剂；杀真菌剂
 
 The Greenhouse Without End
 A seasoned agricultural inspector wearing a crisp uniform with a silver epaulet arrived to renew the tropical facility's operating license, only to find omnipresent white mildew turning one entire growing wing into a sleazy, decaying void. By direct comparison with the previous year's stellar safety records, the current structural damage was exceptionally severe. However, a strategically mirrored back wall still trickled light to make the surviving green seedlings appear to stretch infinitely toward a leafy infinity, prompting the inspector to use a mild industrial fungicide to successfully rejuvenate the rare orchids and safely reopen the glasshouse.
 
-Story 400
+Story 0400
 
 comprehensible — 易懂的；可理解的stoop — 弯腰；屈尊；门廊；廊台ablution — 洗礼；沐浴；（常复数）盥洗feature — 特征；特色；以……为特色；专题terminus — 终点站；（公路、铁路的）终点vintage — 佳酿的；古老而优质的；经典款；葡萄收获期uninitiated — 不熟悉的；外行的；未入门的quotidian — 日常的；普通的；平凡的sanitary — 卫生的；清洁的；卫生的sapphire — 蓝宝石；宝蓝色的
 
 The Sapphire Bathhouse Express
 Right at the high-mountain railway terminus, a remarkably clear, comprehensible directional map successfully led even the most uninitiated travelers past a line of parked vintage engines straight to a historic, sapphire-tiled community bathhouse. Inside the facility, each thoroughly sanitary ablution room possessed one highly unusual architectural feature: incoming guests were required to slightly stoop beneath a low, aromatic cedar archway upon entry, masterfully transforming what could have been a routine, quotidian wash into a quiet, meditative ritual.
 
-Story 401
+Story 0401
 
 miracle — 奇迹；非凡的成就idol — 偶像；神像；受到盲目崇拜的人fishery — 渔场；渔业；养鱼场artistry — 艺术技巧；精湛技艺intermingle — 混合；交融；相互往来gangling — 瘦长而笨拙的execute — 执行；完成；将……处死verdant — 翠绿的；草木繁茂的magnanimity — 宽宏大量；高尚的心灵degradation — 退化；恶化；堕落；羞辱
 
 The Reed Idol of Miraflores
 In a beautifully verdant river delta that had been heavily scarred by decades of industrial degradation, a gangling local sculptor used his remarkable native artistry to weave a massive, towering idol entirely from wild river reeds. As local fishery workers and traditional folk dancers seamlessly intermingled along the muddy bank, the artist was called upon to execute the festival's grand musical finale. He gracefully chose to credit the natural river's recent ecological recovery as the true miracle of the day, and his genuine magnanimity instantly turned the crowd's roaring applause into a wave of new volunteers for the marsh restoration project.
 
-Story 402
+Story 0402
 
 mangy — 患疥癣的；破旧的；龌龊的cozen — 欺骗；哄骗monarch — 君主；帝王；最高统治者amend — 修订；改进；修改（法律）mistral — 密史脱拉风（法国南部寒冷干燥的西北风）patina — （青铜器、木器等表面的）铜绿/光泽/岁月痕迹fertilizer — 肥料；化肥claim — 声称；索取；断言；所有权archaeology — 考古学conviction — 坚信；深信；定罪
 
 The Crown beneath the Lavender Field
 When a powerful autumn mistral violently swept through the lavender valley and exposed a gleam of ancient bronze beneath a mangy old scarecrow, a passing archaeology student firmly resisted a shady antique dealer's immediate attempt to cozen her into surrendering the metal artifact for cash. The unique green patina on the surface directly supported her scientific claim that the artifact belonged to a forgotten medieval monarch. Her absolute, unwavering professional conviction eventually persuaded the village council to thoroughly amend their historic town museum plans and move a nearby chemical fertilizer shed to a completely different location.
 
-Story 403
+Story 0403
 
 coordinate — 协调；配合；（数学）坐标；同等的specifics — 细节；具体情况；特效药cytology — 细胞学iodine — 碘；碘酒aphorism — 格言；警句alienate — 使疏远；使不友好；转让（财产）stingy — 吝啬的；小气的；不足的scruple — 顾忌；踌躇；顾虑interlace — 交织；交错sentry — 哨兵；警卫
 
 The Living Mosaic at Gate Seven
 Standing outside Gate Seven, a naval sentry helped smoothly coordinate a frantic, midnight delivery of emergency iodine bottles and laboratory slides while a specialized cytology team watched a cluster of luminous cells dynamically interlace under a high-powered lens. Their notoriously stingy department director had absolutely no moral scruple about hiding the scientific specifics of the breakthrough from rival universities. However, an idealistic lead technician boldly quoted a classic aphorism about scientific truth and publicly released the digital images before such administrative secrecy could permanently alienate their partner island clinic.
 
-Story 404
+Story 0404
 
 understate — 轻描淡写；少报；低估forestry — 林业；森林学analyze — 分析；研究incongruent — 不协调的；不一致的；不相称的chafe — （皮肤）擦痛；（因受限制而）恼怒/焦躁hitherto — 迄今；直到此时icon — 偶像；崇拜物；电脑图标starchy — 含淀粉的；刻板的；过于拘谨的maestro — 大师；名指挥家；杰出艺术家billowy — 波浪般的；（衣服等）翻腾鼓胀的
 
 The Maestro of the Cloud Forest
 To merely call the newly arrived scientific visitor unusual would heavily understate exactly how surprising he truly was. A famously starchy classical music maestro, who had been hitherto regarded purely as an elite urban cultural icon, suddenly arrived in the muddy valley wearing billowy silk sleeves to help analyze complex avian birdsong patterns for a government forestry survey. He willingly let the heavy wet leather straps of his recording backpack chafe his bare shoulders all day, ultimately composing a stunning dawn symphony from a series of wild animal calls that had seemed entirely incongruent only on paper.
 
-Story 405
+Story 0405
 
 deputy — 副手；代理人；代表anachronistic — 时代错误的；过时的；不合时宜的metrical — 韵律的；诗体的；度量的whirlpool — 漩涡；混乱；（引申为）不可抗拒的漩涡totalitarian — 极权主义的；专制统治的aghast — 惊骇的；吓呆的underling — 下属；卑微的走卒scratch — 划伤；抓挠；乱涂乱画；刮除fresco — 湿壁画sagacious — 睿智的；有远见的；聪明的
 
 The Verse Hidden in the Bathhouse
 A sagacious regional deputy museum director was left absolutely aghast when a clumsy, bitter underling tried to scratch a modern, anachronistic political slogan directly into a beautifully preserved Roman fresco. Upon closer inspection, the ancient mural's intricate, metrical poetic inscription was actually found to have subtly mocked a brutal totalitarian emperor centuries ago. Once accurately translated and shared with the public, the brilliant historical poem completely drew the city's quarrelsome, deadlocked council out of its destructive political whirlpool.
 
-Story 406
+Story 0406
 
 prod — 戳；刺；催促；激起debar — 禁止；排除；剥夺……的权利spatula — （实验室、厨房用的）抹刀；药铲；锅铲savant — 学者；大科学家；专家saliva — 唾液；口水marionette — 提线木偶schematize — 图式化；列成纲要；拟定计划undesirable — 不受欢迎的；有害的；不良分子germinate — 发芽；萌生；（想法）发展fraternity — 兄弟会；同业群体；同行
 
 Seeds behind the Puppet Stage
 When an old, antique marionette's wooden foot unexpectedly began to prod a loose, hidden floor panel during a late-night rehearsal, a visiting botanical savant quickly used a metal laboratory spatula to retrieve a cache of historic seeds perfectly preserved with dried saliva. Although the elite local theater fraternity initially wanted to legally debar her from the property, viewing her as an undesirable academic intruder, she masterfully helped them schematize the historical find. Ultimately, the rare, centuries-old seeds miraculously began to safely germinate right inside a greenhouse backstage.
 
-Story 407
+Story 0407
 
 dicker — 讨价还价；做小生意；交易legitimate — 合法的；正当的；合理的；使合法fascia — 筋膜；（商店门口的）招牌板；仪表板plaster — 灰泥；石膏；膏药depressed — 沮丧的；经济萧条的；凹陷的gambol — 欢跳；嬉戏；雀跃glaze — 釉；上釉；（眼神等）变呆滞gripe — 抱怨；发牢骚；肠绞痛recumbent — 斜倚的；躺卧的guile — 狡诈；欺骗；诡计
 
 The Foal in the Kiln Yard
 A deeply depressed independent potter flatly refused to dicker with a smooth-talking corporate buyer whose obvious financial guile actively threatened the survival of his legitimate family workshop. Instead, he calmly repaired his storefront's cracked fascia board with fresh white plaster and tested a brilliant new blue ceramic glaze. Nearby, a recumbent mare peacefully watched her young foal joyfully gambol through the grass, and the beautiful, rustic sight instantly ended the artisan's bitter internal gripe about the long, exhausting afternoon.
 
-Story 408
+Story 0408
 
 ecdysis — （昆虫、蛇等的）脱皮；脱壳glide — 滑行；掠过；流逝log — 原木；航海/飞行日志；系统记录；记录arthritis — 关节炎lode — 矿脉；（引申为）丰富来源estuary — 河口；港湾weather — 经受住（暴风雨/逆境）；天气；风化endemic — 地方性的；特有的；（疾病）地方性流行的rigor — 科学严谨；严酷；严格fretwork — 镂空装饰；格子细工；花格制件
 
 The Dragonfly Log of Amber Bay
 Despite her severe, painful hand arthritis, a dedicated senior naturalist stubbornly kept her field research log with absolute, flawless scientific rigor as a colony of endemic blue dragonflies beautifully glided above the coastal estuary. Deep beneath an old wooden bridge's decorative architectural fretwork, she discovered a pristine discarded shell left behind during an insect's recent ecdysis. Glowing as bright as unrefined ore freshly pulled from a rich mineral lode, the fragile specimen provided definitive proof that the vulnerable colony could successfully weather another harsh winter season.
 
-Story 409
+Story 0409
 
 flock — （鸟、羊等）群；人群；聚集legislate — 立法；制定法律dashing — 潇洒的；英俊迷人的；迅猛的contradict — 反驳；与……矛盾；否定insomnia — 失眠；失眠症precis — 摘要；大纲；概述（英式拼写：précis）disport — 嬉戏；娱乐；（古生动）玩耍medieval — 中世纪的；老式的；陈旧的mumble — 含糊地说；咕哝；发牢骚employ — 雇用；使用；利用；从事
 
 The Owls of Bracken Keep
 After a severe bout of midnight insomnia accidentally led her to walk near a ruined medieval tower, a dashing young wildlife ecologist watched a large flock of rare barn owls playfully disport beneath the full moon. Refusing to merely mumble passive objections to her colleagues the next morning, she stayed up to write a brilliant, highly technical precis to directly contradict the city's corrupt demolition report. Her sharp analysis successfully persuaded the council to employ local heritage masons and quickly legislate permanent historical protection for Bracken Keep.
 
-Story 410
+Story 0410
 
 emote — 强烈表达情感；夸张地表演auger — 螺旋钻；钻孔器abrupt — 突然的；唐突的；险峻的baton — 指挥棒；（接力赛的）接力棒；警棍crockery — 陶器；餐具；瓦器termination — 终止；结束；末端；终点fusillade — （枪弹/言语的）齐射；连珠炮般的攻击clemency — 宽容；仁慈；（气候）温和membrane — 膜；薄层；膜状物orient — 确定方位；使适应；东方；东方的
 
 The Conductor in the Ice Cave
 Right at the abrupt, jagged termination of a freezing subterranean ice tunnel, a passionate orchestra conductor confidently raised her wooden baton and began to intensely emote as melting drops of water struck abandoned research crockery in a rhythmic, acoustic fusillade of musical notes. Nearby, a rescue explorer used a handheld auger to carefully test the thick structural membrane of the surrounding ice, working quickly to properly orient the stranded chamber ensemble and find a safe exit route, where the dynamic mountain storm outside finally granted them unexpected clemency.
 
-Story 411
+Story 0411
 
 lissome — 柔美灵活的；轻盈的（亦写作 lissom）ensure — 确保；保证languor — 倦怠；慵懒；无精打采noncommittal — 含糊的；不表态的；不负责任的sonnet — 十四行诗reversion — 恢复（旧习惯/状态）；（财产等的）继承权；隔代遗传approbation — 赞许；认可；批准chuck — 扔；抛；轻拍；（尤指抚爱地）轻抚下颌motile — 能动的；有运动能力的；能自动的stranded — 搁浅的；受困的；处于困境的
 
 The Sonnet for a Stranded Whale
 A lissome marine diver quickly shook off her deep midday languor and slipped into the cold ocean water beside a massive, stranded humpback whale, while a historically noncommittal coastal official watched microscopic, motile plankton swirl around its massive fins. To ensure that the shifting tideway channel stayed entirely clear of dangerous physical obstructions, she commanded local volunteers to immediately chuck loose fishing debris ashore. Later, her beautifully written, published rescue sonnet won such immense public approbation that the town council permanently abandoned its planned reversion to commercial net fishing.
 
-Story 412
+Story 0412
 
 decamp — 突然离开；撤营；偷偷逃走indemnity — 赔偿金；（法律）免责/保障；补偿retch — 干呕；恶心leaven — 使发酵；（引申为）使变轻松/活跃gravitational — 引力的；重力引起的stationary — 静止的；固定的；不动的vengeful — 报复心重的；复仇的vertical — 垂直的；竖直的；竖直线prevision — 预见；先见之明；预知confirm — 证实；确认；批准；使更坚定
 
 Bread at Zero Gravity
 With remarkable, visionary prevision, a head baker aboard the international orbital station used a specialized cosmic yeast to successfully leaven sandwich dough despite the incredibly weak gravitational pull of earth. However, a sudden mechanical vertical oven jam mid-bake unexpectedly made one highly queasy young space cadet violently retch. Internal diagnostic sensors soon confirmed that the supposedly stationary baking tray was actually drifting out of alignment. Fortunately, no vengeful cook demanded financial indemnity for the ruined flour, and absolutely nobody was forced to decamp from the orbital galley.
 
-Story 413
+Story 0413
 
 spongy — 海绵状的；松软的；有弹性的full-blown — 完全成熟的；全面爆发的；彻底的swear — 发誓；绝对保证；咒骂inferno — 熊熊大火；地狱；（引申为）无法控制的灾难munificence — 慷慨；宽宏大量animus — 敌意；仇恨；意图unbend — 放松；展开；变直；（放下一架子）变得和蔼ulcerate — 溃烂；使怨恨加深；使形成溃疡unfailing — 始终可靠的；无穷尽的；持之以恒的viability — 生存能力；可行性
 
 The Moss Garden after the Fire
 Following a full-blown forest inferno, two historically rival landscape gardeners willingly set aside their intense professional animus. Each was ready to swear that the deep root systems buried beneath the thick, spongy moss layer had miraculously remained alive, and they immediately agreed to test their long-term agricultural viability. One gardener initially feared that the toxic, acidic ash would severely ulcerate his bare hands, but their wealthy patron's immense munificence quickly supplied top-tier safety gloves, and his unfailing jokes helped both men unbend and share a laugh as the first green shoots began to appear.
 
-Story 414
+Story 0414
 
 phonetic — 语音的；音标的rehearsal — 排练；预演；演练discriminate — 区分；辨别；歧视self-abasement — 自我贬低；自卑；自惭形秽hurricane — 飓风facilities — 设施；场所；工具suffrage — 选举权；投票权dexterous — 灵巧的；熟练的；敏捷的mantle — 披风；斗篷；覆盖层；（引申为）职责/衣钵ugly — 丑陋的；险恶的；令人不快的
 
 Ballots beneath the Theater
 During a mandatory county hurricane evacuation rehearsal, a highly dexterous stagehand unexpectedly found a hidden stack of historic women's suffrage ballots concealed beneath a dusty velvet theater mantle. He immediately carried the precious archival find to secure, climate-controlled facilities located inside the community emergency shelter. A carefully preserved phonetic roster subsequently helped local historians accurately discriminate between strikingly similar family names on the list. Ultimately, an ugly history of localized voter suppression emerged, yet it was documented without forcing the surviving elderly cast members into unnecessary public self-abasement.
 
-Story 415
+Story 0415
 
 ruffle — 弄皱；激怒；扰乱；使焦虑desalinize — 使淡化；脱盐restraint — 克制；限制；约束力scald — 烫伤；烫洗；（液体）烧烫infiltrate — 渗入；潜入；渗透delusion — 错觉；妄想；欺骗vanguard — 先锋；前沿；先头部队careen — 猛冲；（船只/车辆等）倾斜行驶；侧倾ingestion — 摄取；吞咽；吸收vibrate — 振动；颤动；响亮
 
 The Tilting Laboratory
 The exact moment violent ocean waves made the floating maritime laboratory dangerously careen and vibrate, a vanguard safety engineer demonstrated exceptional professional restraint rather than let panic ruffle her nervous research crew. She instantly ended management's naive delusion that raw seawater could not infiltrate the main electrical air intake. Working quickly, she shut off the main high-pressure hot pipe before it could scald anyone, and immediately repaired the automated filters designed to desalinize local water for safe human ingestion.
 
-Story 416
+Story 0416
 
 encounter — 遇见；遭遇；冲突jounce — 颠簸；使震动；剧烈晃动repository — 仓库；知识库；（藏尸的）墓穴hardihood — 勇气；胆量；刚毅bubble — 气泡；冒泡；沸腾；（情感等）洋溢dillydally — 磨蹭；拖延；闲荡indite — 撰写；创作；（书面）表达announce — 宣布；通报；预示deviant — 异常的；偏离常规的；不正常的（人或物）typographical — 印刷的；排字的；版面上的
 
 The Printer beneath the Geyser
 During a brutal, bone-rattling jounce across a desolate geothermal geyser field, a brave young archivist demonstrated the absolute hardihood to leap from the safety of the moving wagon the moment she saw black ink bubble up from a deeply buried stone repository. Knowing they had no time to waste or dillydally before the next thermal eruption, she immediately sat down to indite an urgent field notice to announce their bizarre encounter with a deviant, century-old printing press whose unique typographical metal ornaments beautifully mapped out the area's hidden underground freshwater springs.
 
-Story 417
+Story 0417
 
 retreat — 撤退；后退；静修处；避难所revile — 辱骂；痛斥；恶语中伤galley — （船上的）厨房；大帆船；排字盘emolument — 薪酬；报酬；津贴specious — 貌似有理的；华而不实的；欺骗性的countermand — 撤销（命令）；取消（订单）flick — 轻弹；快速移动；（电影的旧称）smuggle — 走私；偷运suspense — 悬念；焦虑；悬而不决embargo — 禁运；禁令；（对言论、信息的）限制发表令
 
 The Cinnamon Voyage
 Deep inside the cramped galley of an international disaster relief ship, an honest head cook flatly refused a massive financial emolument to secretly smuggle premium cinnamon through a strict wartime cargo embargo. With a swift, sharp flick of his cleaning cloth, he confidently brushed a layer of flour away from the captain's specious shipping manifest, instantly exposing a long list of false cargo entries. This damning discovery prompted marine headquarters to immediately countermand the vessel's planned retreat. While the anxious crew waited in absolute suspense, they wisely chose to revile no one until the official maritime investigators safely arrived on board.
 
-Story 418
+Story 0418
 
 enamored — 迷恋的；倾心的；钟情的dispensable — 可有可无的；非必需的cob — 玉米棒子；（常指）玉米芯；圆块；矮脚粗壮马aggrieve — 使委屈；侵害（权利）；使苦恼ensemble — 合奏团；剧团；套装；整体subtle — 微妙的；精巧的；敏锐的；不明显的indignant — 愤慨的；愤怒的chalice — 圣杯；大高脚杯braggadocio — 自吹自擂；吹牛大王；傲慢行为
 
 The Corn-Cob Concerto
 Being long enamored of professional kitchen acoustics, an indignant classical chef flatly refused to let a famous critic's arrogant, public braggadocio aggrieve her musical ensemble of line cooks. Standing proudly before the kitchen counter, she creatively used an old, dried corn-cob as a rhythmic scraper, masterfully made high-quality oil and vinegar emulsify together inside a historic silver chalice, and definitively proved to the audience that no subtle culinary sound or supposedly dispensable kitchen utensil was beneath the dignity of a high-art percussion concert.
 
-Story 419
+Story 0419
 
 dyspeptic — 消化不良的；暴躁的；脾气坏的sweltering — 闷热难耐的；酷热的hallucination — 幻觉；幻想undercut — 削弱；以低价竞争；从下部切开curfew — 宵禁；熄灯令；晚钟ingratiating — 讨好的；逢迎的；谄媚的petition — 请愿书；请愿；诉状eschew — 避开；戒绝；有意躲避petrology — 岩石学nutter — 疯子；怪人；狂热分子
 
 The Singing Basalt of Black Crater
 While standing inside a sweltering volcanic crater long after the park's official midnight curfew, a deeply dyspeptic geology professor arrogantly dismissed the rhythmic acoustic echoes of a nearby singing basalt formation as a pure psychological hallucination, loudly calling its student discoverer an absolute nutter. Choosing to entirely eschew an ingratiating or defensive reply, the levelheaded student masterfully used her knowledge of technical petrology to demonstrate that shifting mountain wind tunnels caused the deep musical tones. She then immediately filed a formal environmental protection petition before upcoming local mining quarry blasts could permanently undercut her historic scientific discovery.
 
-Story 420
+Story 0420
 
 propel — 推进；驱使；激励sequential — 按顺序的；连续的；随之而来的favorable — 有利的；赞同的；顺利的；讨人喜欢的ruthlessness — 无情；冷酷；残忍grumpy — 脾气坏的；易怒的illegal — 非法的；违法的tariff — 关税；价目表；收费表gyrate — 旋转；回旋；盘旋saccharine — 甜得发腻的；糖精的；虚情假意的occupation — 职业；占领；消遣
 
 The Carousel at the Border Fair
 A naturally grumpy old mechanic quietly watched the beautifully painted wooden horses smoothly gyrate as sequential, pressurized bursts of steam powerfully propelled a historic border fairground carousel. Although a highly corrupt, illegal new trade tariff directly threatened the very survival of his lifelong occupation, he fiercely rejected both the corrupt border inspector's financial ruthlessness and a rival corporate vendor's saccharine flattery. Ultimately, a swift, highly favorable federal court ruling officially stripped away the illegal tax, successfully keeping the beloved international fair open to the public.
 
-Story 421
+Story 0421
 
 curb — 抑制；束缚；路缘；马路牙子colossal — 巨大的；庞大的；绝妙的expound — 详述；阐释；深谈expenditure — 支出；花费；（精力/时间的）消耗accelerate — 加速；促进；使增速trait — 特征；特点；品质bargain — 便宜货；划算的交易；讨价还价unwitting — 不知情的；无意的；不知不觉的blandishment — 奉承；阿谀奉承；（常复数）诱哄blurb — （书刊、商品的）简介；推荐广告；宣传语
 
 The Colossal Kite of Red Mesa
 An unwitting tourist bought a bargain oversized kite at a local desert festival after reading its colorful packaging blurb, which shamelessly used every commercial blandishment to expound its colossal size and effortless handling. However, the moment it took flight, one stubborn aerodynamic trait made it completely impossible to curb or control within the unpredictable desert wind gusts. The kite began to drag the tourist across the rocks, but the local search and rescue team's modest expenditure on a heavy-duty mechanical winch helped to drastically accelerate its safe recovery from the jagged peak of Red Mesa.
 
-Story 422
+Story 0422
 
 debility — 虚弱；衰弱；无力peripatetic — 四处奔走的；巡回的；漫游的decode — 解码；破解（密码/暗号）unanimous — 一致同意的；全体一致的harness — 利用（自然力等）产生动力；治理；控制；马具recess — 休会；（议会、学校的）休假/课间休息；幽深处cynosure — 瞩目的焦点；吸引注意的人或物pout — 撅嘴；（因生闷气而）沉下脸；闷闷不乐clause — （法律文件、合同的）条款；从句imperil — 危及；使陷入危险
 
 The Cipher in the Clock Tower
 Despite suffering from a severe physical debility, a brilliant, peripatetic government codebreaker purposefully used the city council's summer recess to carefully decode a complex military message hidden inside the historic town clock tower. The subsequent emergency vote was completely unanimous to immediately harness the clock's heavy gears to trigger a defensive lockdown and heed the cipher's warning. Although the arrogant mayor began to pout when an old founding charter clause made a shy, quiet watchmaker's apprentice the absolute cynosure of the crisis, nobody on the board was willing to further imperil the town by ignoring her historical discovery.
 
-Story 423
+Story 0423
 
 pagan — 异教的；异教徒的；异教徒canonical — 权威的；经典的；（基督教）依教规的saliferous — 含盐的；产盐的tract — （大片）土地；地带；（尤指宗教、政治的）小册子pyre — 柴堆；火葬用的火柴堆condense — （气体）凝结；压缩；浓缩logistics — 后勤；（行动的）组织工作/物流quash — 撤销（判决）；平息（叛乱）；消除（谣言）welter — 混乱；杂乱的一堆；（在水中）翻滚fag — 苦干；辛劳工作；使精疲力竭；（英式俚语）香烟
 
 Salt Marsh Lanterns
 On a bleak, saliferous tract of protected wilderness located right beside the coastal marsh, a dedicated park ranger carefully consulted a canonical wildlife field guide before allowing a local cultural group to light a traditional pagan midsummer pyre. As thick sea fog began to heavily condense over the water, she skillfully handled the complex emergency logistics of the festival. She worked tirelessly to quash rising panic amid a floating welter of stranded paper lanterns, and continued to resolutely fag away in the freezing cold until every single visitor had safely crossed the repaired wooden boardwalk.
 
-Story 424
+Story 0424
 
 die — 模具；冲模；骰子；死亡substratum — 底层；基础；下层土壤liken — 把……比作；认为……相似menthol — 薄荷醇；薄荷脑interlocutor — 对话者；谈话者sardonic — 讥讽的；冷嘲的；带有蔑视的bamboozle — 欺骗；迷惑；使糊涂charm — 魅力；吸引力；符咒；使着迷crib — 婴儿床；（学生作弊用的）备考小抄；抄袭restored — 修复的；恢复的；复原的
 
 The Printer's Hidden Crib
 Inside a newly restored 18th-century print shop, Mara discovered a heavily engraved brass stamp die buried deep beneath the floor's dense clay substratum. Standing beside her, she heard her notoriously sardonic business interlocutor, who was slowly sucking a strong menthol lozenge, mockingly liken the strange geometric design to a Victorian ghost's personal seal. Refusing to let his charismatic charm or slick sales talk bamboozle her into selling the artifact on the spot, she later matched the design perfectly to a carved wooden crib in the local archives, successfully uncovering the historic printer's long-lost secret nursery.
 
-Story 425
+Story 0425
 
 gloat — 幸灾乐祸；沾沾自喜；洋洋得意behoove — 理应；对……有必要；适宜appall — 使震惊；使骇然；使沮丧hector — 威吓；虚张声势地训斥；盛气凌人betoken — 预示；表示；是……的迹象splice — 拼接；接合（绳索、胶片、电缆等）dispel — 驱散；消除（恐惧、疑虑等）diminution — 减少；缩小；减弱nonradioactive — 非放射性的infuse — 注入（某种特质）；灌输；泡（茶/药）
 
 The Quiet Cable Below
 When a vital deep-sea communications cable deep under the bay began to rapidly fail, it immediately behooved the veteran dive chief to carefully splice the broken wires before any further diminution of the electronic signal could betoken a complete regional disaster. A corporate rival tried to aggressively hector the engineering crew on the dock and openly gloat over their initial mechanical delays, but rapid laboratory tests soon showed that the strange chemical beads clogging the line were entirely nonradioactive. This crucial discovery helped to dispel the toxic environmental fears that would otherwise appall the local islanders, instantly infusing the exhausted repair team with fresh resolve to finish the job.
 
-Story 426
+Story 0426
 
 arrhythmic — 心律不齐的；无节奏的；不规则的putative — 推定的；公认的；已知的dank — 阴湿的；湿冷的essential — 必要的；本质的；极其重要的exert — 用力；施加（影响/压力）；发挥whine — 哀鸣；抱怨；（机器）尖鸣声renege — 食言；违约；背信弃义jubilation — 欢腾；狂喜；庆祝活动dyslexia — 阅读障碍；诵读困难minutes — 会议记录；分钟
 
 The Reversed Shaft Numbers
 Deep inside a dank, freezing rescue tunnel, a faint, arrhythmic tapping sound led a volunteer caver with dyslexia to suddenly realize that the official team meeting minutes had mistakenly reversed two critical shaft numbers. She entirely ignored the mechanical whine of the strained rescue winch, deemed immediate speed essential to save lives, and chose to intensely exert herself when their putative local guide suddenly panicked and threatened to renege on entering the deep crevice. Fortunately, she emerged hours later with the lost climbers to a scene of roaring community jubilation.
 
-Story 427
+Story 0427
 
 principle — 原则；原理；准则expiation — 赎罪；补偿；有功obedient — 顺从的；听话的；恭顺的fetching — 迷人的；动人的；引人注目的foliage — 叶子；（植物的）枝叶outlet — 出口；排放口；（情感）宣泄途径liquidate — 清除；清算；变卖（资产）sane — 理智的；清醒的；合理的panegyric — 颂词；赞文；推崇备至的言论centripetal — 向心的；向心力的
 
 The Garden That Spun
 Guided strictly by professional principle rather than personal pride, an obedient apprentice gardener offered full expiation for accidentally trampling the historic greenhouse by building a remarkably fetching, rotating wheel of dense foliage. Her highly sane, logical design masterfully harnessed centripetal force to guide rainwater smoothly toward each drainage outlet, which simultaneously helped to completely liquidate a destructive aphid infestation on the stems. The brilliant layout inspired the visiting mayor to deliver an enthusiastic panegyric beneath the beautifully turning vines.
 
-Story 428
+Story 0428
 
 homogeneity — 同质性；均一性bellwether — 领头羊；风向标；前导者everlasting — 永恒的；持久的；无休止的sill — 窗台；门槛accumulate — 积累；堆积；逐渐增加pan — 平底锅；严厉批评；（镜头）平移blunder — 错误；疏忽；笨拙地行事；犯错protrude — 突出；伸出；鼓出incongruity — 不协调；不相称；不合时宜ladle — 长柄勺；舀取
 
 The Stew on Raven Pass
 At a remote, cozy inn on Raven Pass, the village bellwether used a battered iron ladle to stir a pot of "everlasting" house stew whose thick texture and structural homogeneity visitors would frequently pan as utterly tasteless. However, when heavy mountain snow began to rapidly accumulate above the window sill, one massive, uncut carrot happened to protrude straight up from the pot like a bright orange flag. That highly cheerful, visual incongruity instantly turned the old cook's culinary blunder into a beloved, heartwarming winter custom for travelers.
 
-Story 429
+Story 0429
 
 naivety — 天真；幼稚；质朴（亦写作 naïvety）cue — 提示；信号；线索；（台球）球杆granulate — 使成颗粒；（伤口）长出肉芽elbow — 肘；用肘推挤；（管道的）弯头liability — 责任；累赘；债务；倾向lofty — 高耸的；崇高的；高傲的intercede — 调解；求情；说情aerate — 使通气；充气；使（血液）通过呼吸变新鲜progenitor — 祖先；创始者；（事物的）前身afflict — 折磨；使痛苦；困扰
 
 The Vine Above the Quarry
 With touching, idealistic naivety, a young vintner took a singing blackbird's early morning cue to carefully aerate the hardened soil around a lofty, ancient vine that was historically said to be the valley's original genetic progenitor. However, when a heavy industrial machine nearby began to noisily granulate stone for a new quarry path and aggressive workers tried to roughly elbow past him, his older sister had to quickly intercede. She sharply warned the corporate foreman that the crumbling earth terrace was a massive structural liability that could easily slide and permanently afflict the entire historic vineyard below.
 
-Story 430
+Story 0430
 
 vestment — 法衣；祭司礼服；礼服burnish — 擦亮；磨光；改善（形象/声誉）filter — 过滤；筛选；过滤器convoy — 护送队；护航队；护送percolate — 渗透；过滤；（思想等）逐渐传开；（咖啡）滤煮vituperative — 辱骂的；恶言相向的；谩骂的amnesia — 失忆症；健忘症calibrate — 校准；标定；精确度量mayhem — 混乱；骚乱；大闹fidget — 坐立不安；摆弄；（使）烦躁的人
 
 The Vestment on the Mountain Road
 During a high-security museum transport convoy through the narrow mountain passes, a senior textile conservator suffering from temporary, stress-induced amnesia began to nervously fidget with her keys as a vituperative assistant director aggressively demanded she immediately burnish and restore an ancient royal vestment on the truck. Sudden, unexpected roadside weather mayhem forced the entire fleet to a halt. In the quiet cabin, the sharp smell of fresh espresso left to percolate on a small camp stove beautifully helped her remember her training, allowing her to perfectly calibrate the transport's automated humidity filter and save the fragile silk.
 
-Story 431
+Story 0431
 
 drollery — 诙谐；滑稽表演；滑稽幽默demean — 贬低；有损尊严；降低身份deficit — 不足；赤字；亏空fervor — 热情；热忱；炽热nauseate — 使恶心；使厌恶；作呕subdued — 柔和的；（颜色/声音）暗淡的/压低的；被抑制的overriding — 首要的；压倒一切的；最重要的orchard — 果园drought — 干旱；旱灾；（某物的）长期匮乏lace — 点缀；（在食物/饮料中）掺入；蕾丝
 
 The Moonlit Orchard Stage
 During a devastating summer drought, a local traveling theater troupe successfully staged a brilliant drollery right inside the community apple orchard using subdued, low-wattage paper lanterns, firmly refusing to demean or mock the struggling village because of its current severe water deficit. Their absolute, overriding concern throughout the night was public safety. Consequently, they chose to lace no intermission drinks with local wild herbs that might potentially nauseate the sensitive crowd, yet they performed their comedy with such infectious physical fervor that even the dry, thirsty trees seemed to rustle and applaud.
 
-Story 432
+Story 0432
 
 surly — 脾气坏的；粗暴的；阴沉的anthem — 颂歌；国歌vying — 竞争的；争夺的prevaricate — 支吾其词；推诿；搪塞corral — 畜栏；把……赶入围栏evade — 逃避；躲避；规避insolate — 使受日晒；曝晒distracted — 心烦意乱的；分心的musket — 火枪；前装滑膛枪jabber — 急促含糊地说；喋喋不休
 
 The Anthem at High Noon
 While two surly ranchers were aggressively vying for the honor to lead the town’s annual festival anthem, a distracted security guard began to jabber nervously and prevaricate about the sudden disappearance of a historic exhibition musket. This operational chaos allowed a clever thief to completely evade pursuit by slipping away to hide inside a nearby horse corral, where workers had just gathered to insolate piles of damp, freshly harvested winter grain.
 
-Story 433
+Story 0433
 
 forecast — 预测；预报swig — 大口喝；痛饮；一口的量browbeat — 威逼；恫吓；肆意欺凌radical — 激进的；根本的；彻底的；极端的dignity — 尊严；庄重；高贵incompatible — 不相容的；不兼容的；矛盾的preface — 序言；前言；以……为开端descry — 远远看见；察觉；辨认出flagging — 衰弱的；萎靡的；下垂的den — 兽穴；隐蔽处；（家中的）小起居室
 
 Storm over the Mountain Den
 The evening weather forecast was undeniably grim, yet Mina calmly took a slow swig of warm herbal tea and flatly refused to let her radical, hot-tempered guide browbeat her into changing plans. Expertly preserving her quiet dignity, she steadily explained that his homemade mountain map was entirely incompatible with the safe historic route described in the preface to the expedition logbook, pointing out that she could already descry dark smoke rising beyond the flagging pines right near the bear’s winter den.
 
-Story 434
+Story 0434
 
 studied — 刻意的；经过深思熟虑的；有学问的backhanded — 间接讽刺的；有下划线暗讽的；反手的frequent — 经常发生的；频繁的；常去hearsay — 传闻；道听途说perishing — 严寒的；濒死的；令人难受的interplay — 相互作用；相互影响deify — 神化；把……奉若神明obligation — 义务；责任jocular — 诙谐的；爱开玩笑的；滑稽的cringing — 畏缩的；卑躬屈膝的；阿谀奉承的
 
 The Actor in the Snow
 During a perishingly cold opening night, the highly studied lead actor gracefully answered a critic’s backhanded compliment with a theatrical, jocular bow. He firmly refused to deify the arrogant writer, whose frequent reliance on malicious backstage hearsay completely ignored the subtle, emotional interplay of professional duty and paralyzing stage fright built into his dark role; furthermore, he felt an absolute moral obligation to publicly defend his cringing, visibly terrified understudy from the press as well.
 
-Story 435
+Story 0435
 
 erstwhile — 从前的；往昔的；过去的flaccid — 松弛的；软弱的；没力气的delineate — 描绘；阐明；勾勒……的轮廓sheen — 光泽；光辉；流光soothe — 安慰；缓和；使平静quirk — 怪癖；奇特之处；（偶然的）巧合cohesion — 凝聚力；结合；团结artery — 动脉；干道；主流线spruce — 云杉；整洁漂亮的；打扮整洁milestone — 里程碑；重大事件；里程石
 
 The Restored Theater
 An erstwhile principal dancer used a beautiful scale model carved from wild spruce to carefully delineate how the sweeping corridors forming the old theater’s main traffic artery could regain their structural cohesion. Meanwhile, adding a rich, deep blue velvet sheen to the wall panels successfully helped soothe the board's aesthetic concerns about each aging, flaccid stage curtain. The head architect enthusiastically called her ingenious historical lighting quirk a true milestone in modern architectural restoration.
 
-Story 436
+Story 0436
 
 scorching — 灼热的；严厉的；酷热的deductive — 演绎的；推论的vendor — 小贩；供应商innuendo — 影射；暗讽；含沙射影rankle — 使恼怒；使耿耿于怀；（伤口）化脓wrought — 精心制成的；造成的；（金属）锻造的rumple — 弄皱；使凌乱philology — 语文学；文献学assessment — 评估；评价；估价libretto — （歌剧、音乐剧等的）歌剧剧本
 
 The Scorched Libretto
 Underneath the scorching canvas awning of a busy summer street market, an old antique vendor offered a slightly rumpled operatic libretto that was wrought with intricate, hand-drawn gold borders and written entirely in faded iron-gall ink. A quiet philology student’s rapid deductive assessment of the text soon exposed a hidden political innuendo targeting the local university, a discovery that he knew would deeply rankle the conservative college dean enough to heavily rumple his historically immaculate white collar.
 
-Story 437
+Story 0437
 
 contraband — 违禁品；走私货accuse — 指控；控告；谴责impulse — 冲动；脉冲；推动力agony — 极度痛苦；苦恼；（临死的）挣扎inebriate — 使醉；使糊涂；醉汉execration — 憎恶；诅咒；痛骂warden — 监狱长；看守人；管理员byline — （报刊文章开头的）作者署名行resentment — 怨恨；愤慨；不满oratorio — 清唱剧；神剧；宗教剧
 
 The Warden's Byline
 On a sudden, compassionate impulse, the prison warden chose not to officially accuse the shaking inebriate of smuggling contraband tightly rolled inside the pages of an old oratorio musical score. Instead, a deeply moving investigative article later published under the warden's own byline detailed the broken man's raw physical agony and deep-seated social resentment. Written entirely without bitter moral execration, the thoughtful piece profoundly touched the community, prompting the local church choir to step forward and offer the inmate professional rehabilitation help.
 
-Story 438
+Story 0438
 
 layman — 外行；普通信徒retinue — 随行人员；扈从；随从panic — 恐慌；惊慌；使惊慌失措broker — 经纪人；代理商；居间促成（协议等）hybrid — 混合物；杂交种；混合动力的vivid — 生动的；鲜明的；历历在目的implode — 内爆；彻底崩溃；向内坍塌insoluble — 无法解决的；不溶的available — 可获得的；有空的；可购得的insensate — 无知觉的；麻木的；愚蠢无理性的
 
 The Glass Engine
 An uneducated layman standing quietly within the eccentric inventor's massive retinue watched a wealthy patent broker proudly unveil a vivid new hybrid engine prototype. However, a wave of sheer panic instantly spread through the workshop when a highly insoluble chemical coolant violently clogged every single available relief valve. Left with nowhere to vent the immense pressure, the heavy, insensate piece of machinery began to rapidly shake and structurally implode right before their eyes.
 
-Story 439
+Story 0439
 
 erupt — 爆发；喷发；（战争等）突发aesthete — 审美家；唯美主义者demonstrate — 证明；论证；演示；举行示威游行turquoise — 绿松石；青绿色的veteran — 老兵；经验丰富的人；资深人士synoptic — 概要的；大纲性的；综观全局的comma — 逗号seafaring — 航海的；以航海为业的；航海生活unsound — 不健全的；不可靠的；（建筑）不稳固的descendant — 后裔；子孙；（由先前类似事物）衍生而来的东西
 
 The Turquoise Logbook
 The exact moment the island volcano threatened to violently erupt, a retired seafaring veteran and his young descendant scrambled into the flooding archives to rescue a priceless turquoise leather logbook. The historic text contained a brilliant synoptic navigation map that could definitively demonstrate to the admiralty that the company's official shipping route was structurally unsound. Ironically, it was a sharp-eyed museum aesthete who first noticed a single, crucial comma hidden within the script's ornate calligraphy, which completely altered the coordinates.
 
-Story 440
+Story 0440
 
 unsettling — 令人不安的；扰乱人心的purchase — 购买；采购；（攀登、移动物体时的）抓力/支撑点desert — 沙漠；荒原；抛弃；逃离fasten — 系牢；固定；扎紧constraint — 限制；约束；束缚；克制interaction — 相互作用；互动；交流unflappable — 镇定自若的；处变不惊的subvention — 补助金；津贴；财政援助grace — 优雅；恩典；风度；使优美oxidize — 氧化；生锈
 
 The Desert Sculpture
 Despite receiving the deeply unsettling morning news that her primary government arts subvention had completely vanished, the unflappable metal artist calmly refused to abandon her project. Using her very last affordable purchase—a thick, heavy coil of copper wire—she scaled the frame to securely fasten delicate metallic leaves onto her massive desert sculpture. Standing in the sun with absolute poise and grace, she explained to her students how the natural, daily interaction of intense desert heat and morning air would slowly oxidize the copper plates, masterfully turning her financial constraint into a canvas of shifting blue-green beauty.
 
-Story 441
+Story 0441
 
 surmount — 克服；解决（困难）；登上diabolic — 恶魔般的；残忍的；极为狡猾的hermetic — 密封的；不透气的；深奥难懂的complementary — 互补的；补充的detraction — 贬低；诽谤；减损rib — 肋骨；（伞、船等的）骨架；取笑；戏弄disintegrate — 瓦解；碎裂；解体gosling — 小鹅；年轻无知的人penumbra — 半影；（日食、月食的）边缘阴影；模糊边界flail — 乱挥；胡乱摆动；（用连枷）打谷
 
 The Gosling in the Eclipse
 Deep within the solar eclipse's eerie penumbra, a panicked wild gosling began to violently flail its wings right beside a heavily sealed, hermetic museum jar. Working quickly under the dim light, the twin researchers masterfully combined their complementary scientific skills to surmount the container's diabolic, rusted metal locking clasp. They managed to pry it open right before a brittle, structural rib of ancient glass could permanently disintegrate under the pressure, resolutely ignoring every cynical detraction from the jeering crowd of onlookers outside the barrier.
 
-Story 442
+Story 0442
 
 epoch — 时代；纪元；重要时期hoary — 灰白的；古老的；陈腐的deface — 损坏……的外观；丑化；涂污revelation — 揭示；惊人的新发现；天启secede — 脱离；退出（组织、联邦等）embitter — 使怨恨；使痛苦；使更苦涩rinse — 冲洗；漂洗；洗刷cutlery — 餐具；（尤指）刀剪用具demeanour — 举止；风度；行为（美式拼写：demeanor）albeit — 尽管；虽然
 
 The Banquet Revelation
 The hoary old master chef's calm, elegant demeanour beautifully concealed a shocking personal revelation. Albeit fully prepared to permanently secede from the international culinary guild by midnight, he adamantly refused to let past administrative politics embitter his final landmark banquet. Instead, he meticulously polished the vintage silver cutlery, carefully rinsed every porcelain plate himself, and strictly forbade his young apprentices to deface or scratch the restaurant's magnificent, epoch-old mahogany dining table.
 
-Story 443
+Story 0443
 
 skyrocket — 猛增；飞涨；（向高空）冲刺authoritarian — 独裁的；专制的；专制主义者protuberant — 突出的；隆起的；鼓出的eulogy — 颂词；颂扬；悼词commission — 委员会；委托（书）；佣金；委任enmesh — 使陷入；缠住；网罗cuticle — 表皮；（指甲根部的）死皮/角质层ode — 颂诗；赋neologism — 新词；新造的话sleigh — 雪橇
 
 The Poet's Winter Protest
 The exact winter the state's authoritarian regulatory commission imposed a massive new luxury tax on every single wooden transportation sleigh, consumer prices across the valley began to skyrocket out of control. In response, a local political poet with a prominent, protuberant battle scar across his jaw wrote a brilliant satirical ode. The piece featured a clever, weaponized linguistic neologism that instantly enmeshed the greedy governor in a net of public ridicule. After its publication, even the governor's subsequent, formal televised eulogy to civic order could not hide the fact that the poet’s words had cut his reputation like a painfully torn nail cuticle.
 
-Story 444
+Story 0444
 
 crucial — 至关重要的；关键性的belie — 掩饰；证明……虚假错误；与……不符poncho — 斗篷式雨衣；（南美风格的）披风substantive — 实质性的；重大的；独立存在的sangfroid — 沉着；冷静；临危不惧的胆略pomposity — 自负；傲慢；浮夸的言行flora — （某地区或时期的）植物群migratory — 迁徙的；流浪的coward — 胆小鬼；懦夫iridescence — 彩虹色；（因光线折射而产生的）流光溢彩
 
 The Marsh at Dawn
 Demonstrating remarkable professional sangfroid during a sudden, violent coastal thunderstorm, a field scientist wrapped in a heavy rubber poncho made the crucial environmental discovery of the decade. She proved that the wetland's mysterious midnight iridescence actually came from a rare, glowing aquatic flora that naturally guided endangered migratory birds along their flight path. This massive, substantive scientific finding would definitively belie the greedy mayor's pompous development claims, and permanently prove to the town council that her incredibly cautious young lab assistant was absolutely no coward.
 
-Story 445
+Story 0445
 
 zephyr — 和风；西风；微风putrefy — 腐烂；使腐败prune — 修剪；除去；梅干cooperate — 合作；协作；配合dock — 码头；船坞；（法庭的）被告席；扣除（薪水/分数）antique — 古董；古老的；古风的antenna — 天线；（昆虫的）触角humane — 人道的；仁慈的；高尚的sovereignty — 主权；最高统治权；独立自主
 
 The Island Signal
 A gentle evening zephyr carried the pungent smell of forgotten tropical fruit beginning to putrefy across the damaged concrete dock. Beneath the storm clouds, the stranded islanders chose to selflessly cooperate to prune the battered palm trees and carefully raise a rusted, antique radio antenna. When a massive navy rescue ship finally answered their crackling signal, the locals' balled, anxious fists relaxed; they realized that this deeply humane rescue mission would simultaneously serve as a powerful international assertion of their legal sovereignty.
 
-Story 446
+Story 0446
 
 stash — 藏匿；储藏物；隐藏处nonthreatening — 不具威胁性的；温和的disposable — 一次性的；可任意处理的；可支配的cyclical — 循环的；周期性的dissociation — 分离；脱离关系；（心理）解离/人格分裂conquer — 征服；克服；战胜supple — 柔韧的；灵活的；顺从的overpowering — 压倒性的；强烈的；不可抗拒的forthright — 直率的；坦诚的；有话直说的prop — 支撑物；支柱；（戏剧/电影的）道具
 
 The Prop Room Confession
 Concealed directly behind a large, nonthreatening cardboard tree prop, the young actress unexpectedly discovered a forgotten stash of dusty disposable surgical masks left over from a cyclical series of historical plague plays. Looking at them, their overpowering visual sameness suddenly triggered an unsettling, temporary sense of psychological dissociation. However, with a supple, elegant gesture of her hands and a deeply forthright backstage confession to her director, she courageously chose to conquer the paralyzing fear that each exhausting theatrical role was slowly erasing her true identity.
 
-Story 447
+Story 0447
 
 abut — 邻接；毗连；紧靠grief — 悲痛；悲伤；不幸screen — 屏幕；银幕；纱窗；遮蔽；审查provisory — 临时的；附带条件的；暂时的thrash — 猛烈摆动；（因痛苦/挣扎而）翻滚；痛打；大比分击败group — 群体；团体；组合；把……分组impersonate — 扮演；模仿；冒充ancillary — 辅助的；附属的；副的crochet — 钩针编织；钩针织物；用钩针编织smite — 重击；猛击；使深受……影响/折磨
 
 The Provisory Stage
 On a crude, provisory wooden stage directly abutting the old stone village chapel, an ancillary community drama group used a beautifully hand-woven crochet mesh screen to creatively impersonate the town's historical puritan founders. However, a wave of raw, unresolved personal grief seemed to heavily smite the lead actor mid-monologue, freezing him in place. He remained silent until a sudden, violent summer thunderstorm began to loudly thrash the tin roof above them, forcing an honest, welcome pause in the dramatic performance.
 
-Story 448
+Story 0448
 
 intermittent — 间歇的；断断续续的；时断时续的convivial — 欢乐友好的；联欢的；欢快活泼的invade — 入侵；侵扰；涌入stellar — 星的；星球的；杰出的；出色的blare — 刺耳地响；高声播放；（声音的）响亮喧闹cereal — 谷物；谷类植物；早餐麦片blowhard — 吹牛大王；自命不凡者boost — 提升；促进；推动；增加transience — 短暂；无常；瞬时性reprobate — 堕落者；恶棍；谴责；斥责
 
 The Breakfast Broadcast
 During an agonizing stretch of intermittent radio signal, a usually convivial morning talk-show host foolishly allowed a notorious, local blowhard reprobate to loudly blare out unverified claims that a fleet of hostile aliens was preparing to actively invade the county's primary breakfast cereal factory. Rather than letting the public panic, a stellar university astronomer cleverly used the absurd, chaotic broadcast as a strategic opportunity to significantly boost public scientific interest in the natural transience of seasonal meteor trails.
 
-Story 449
+Story 0449
 
 evenhanded — 公平的；不偏不倚的；公允的gratis — 免费地；无偿的；免费的snare — 陷阱；圈套；诱捕；罗网maraud — 劫掠；袭击；四处搜寻delicacy — 美味；佳肴；精致；娇嫩；微妙excitability — 易兴奋性；敏感性；易怒wheeze — 喘息；喘鸣声；艰难地呼吸squirt — 喷射；（液体）喷出；细喷流sedulous — 勤勉的；孜孜不倦的；刻苦的nightmare — 噩梦；可怕的经历；梦魇
 
 The Fairground Rescue
 A highly evenhanded festival judge kindly offered a VIP grandstand admission ticket gratis to a sedulous young girl who had smartly noticed a pair of undercover thieves preparing to maraud the crowded country fair. The criminals had carefully set a wire foot snare for an elderly vendor who was carrying the event's most expensive prize delicacy—a tray of imported chocolate truffles. Despite her natural emotional excitability and a frightened asthma wheeze, the girl aimed accurately and sent a sharp squirt of cold water directly at the trap's mechanical trigger, springing it early and successfully ending the vendor's impending financial nightmare.
 
-Story 450
+Story 0450
 
 boast — 吹嘘；自夸；以拥有……自豪tripod — 三脚架；三脚支架retrieve — 取回；恢复；挽回；索回ethnology — 民族学；人类文化学doctrinaire — 教条主义者；教条的；空谈理论的perjure — （在法庭上）作伪证；发假誓（常构成 perjure oneself）reimburse — 偿还；报销；退还excess — 过量；超额；无节制；过度的surveyor — 测量员；勘测师；房产检验员lexicon — 词典；（某领域的）全部词汇/词汇表
 
 The Surveyor's Lost Lexicon
 A notoriously rigid, doctrinaire regional land surveyor liked to constantly boast to his colleagues that his academic ethnology lexicon of local tribal dialects was absolutely flawless. However, after his heavy metal equipment tripod accidentally toppled over a cliff and sank into the roaring river, his rigid principles took over; he firmly refused to perjure himself on his official government tax forms regarding the financial losses in excess of his seasonal project budget. Instead, he personally promised to fully reimburse the brave native guide who risked his life to swim out and successfully retrieve the floating document container.
 
-Story 451
+Story 0451
 
 bottleneck — 瓶颈；交通堵塞toupee — 男用假发dumbfound — 使惊呆；使因困惑而张口结舌willful — 任性的；故意的；执拗的curd — 凝乳；凝结物turmoil — 混乱；骚动；动荡untoward — 不利的；不合宜的；不幸的achromatic — 无色的；消色差的intentional — 故意的；有意的necessitous — 贫困的；急需的；迫切的
 
 The Colorless Banquet
 At a narrow traffic bottleneck directly outside the grand banquet hall, a sudden, untoward gust of wind lifted the pretentious mayor's expensive toupee straight into a large vat of fresh goat curd. The ridiculous accident caused such immense, noisy turmoil through the crowd that it completely dumbfounded even his usually willful and outspoken press aide. The necessitous kitchen cook frantically insisted to the guards that the messy mishap was entirely not intentional, working quickly under the tense atmosphere to salvage the pristine, achromatic culinary dish before the guests entered.
 
-Story 452
+Story 0452
 
 serrated — 有锯齿的；锯齿状的brace — 支撑；加固；使做好准备；支架junction — 交叉路口；连接处；中继站（注：原词为 injunction，意为禁令/强制令）attach — 系上；贴上；附加；使依恋rickety — 摇晃的；不牢靠的；患佝偻病的calligraphy — 书法；美术字indenture — 契约；学徒契约；师徒契约imponderable — 难以衡量的；不可估量的事物backwater — 穷乡僻壤；闭塞之地；回水compliant — 顺从的；听话的；合规的
 
 The Bridge Scribe
 Deep inside a forgotten backwater village, a quiet, compliant apprentice masterfully used traditional calligraphy to copy an ancient parchment indenture for the town elders. However, a sudden, emergency administrative injunction forced her to immediately stop her writing and help attach a heavy, serrated iron brace to the village's only rickety wooden bridge. They worked frantically to reinforce the trembling structure before facing the imponderable environmental risks of the impending spring flood.
 
-Story 453
+Story 0453
 
 refectory — （修道院、学院的）食堂/餐厅craving — 强烈渴望；瘾；嗜好impale — 刺穿；钉住；使陷于困境irrevocable — 不可撤销的；无法挽回的wax — （月亮）渐圆；（力量/情感等）逐渐增强；蜡mill — 磨坊；碾磨机；碾磨；乱转reserve — 储备；预留；预订；含蓄adage — 谚语；格言virago — 泼妇；悍妇；强悍女子hangdog — 羞愧的；垂头丧气的；沮丧的
 
 The Candle Supper
 Inside the dim abbey refectory, a hangdog mill boy quietly tried to reserve the last loaf of sourdough bread to satisfy his intense midnight hunger craving. However, a stern, imposing village virago loudly caught him in the act and sharply quoted an old traditional adage about the spiritual importance of communal sharing. As the group's collective hunger began to heavily wax in the cold room, she calmly used a metal skewer to impale a row of roasted onions for a common meal, making the boy gratefully realize that his selfish choice need not be irrevocable.
 
-Story 454
+Story 0454
 
 content — 满足的；满意的；内容；含量grease — 油脂；大棒油；给……涂油presentiment — 预感；（尤指不祥的）预兆invigorate — 使振奋；使精力充沛；增强活力striate — 加条纹；使呈条纹状ravish — 使陶醉；使狂喜；强夺；蹂躏gadfly — 牛虻；烦人的批评者；到处惹起麻烦的人settle — 解决；定居；安顿；降落flammable — 易燃的；可燃性的goldbrick — 偷懒者；逃避工作的人；逃避工作
 
 The Striped Workshop
 A notoriously sharp gadfly safety inspector arrived at the warehouse with a strong presentiment that the resident studio goldbrick had intentionally used highly flammable industrial grease to quickly striate a rare theater mask. Standing firmly over the workbench, he forced the lazy worker to immediately settle the severe safety violation by scraping away the toxic residue. Ultimately, the clean, beautifully vivid replacement mask would completely ravish the acting troupe on stage, heavily invigorate their tired director, and leave everyone entirely content.
 
-Story 455
+Story 0455
 
 occlude — 堵塞；遮蔽；吸收knoll — 小丘；圆丘；土墩redemptive — 救赎的；赎回的；弥补过失的obstinacy — 固执；顽强；难治exclude — 排除；拒绝接纳；排斥override — 推翻；凌驾于；（以权力）否决；压倒maneuver — 调动；巧妙行动；机动；操纵cygnet — 幼天鹅clamber — 攀爬；费力地爬petulant — 任性的；易怒的；脾气暴躁的
 
 The Cygnet on the Hill
 When thick river reeds began to rapidly occlude the narrow stream running below the grassy knoll, a petulant park ranger tried to entirely exclude a lost, shivering cygnet from the wildlife rescue operation. However, the compassionate town mayor chose to firmly override his cold obstinacy and skillfully maneuver a flat-bottomed boat close enough into the marsh for a brave child to clamber aboard and save the bird in one beautiful, redemptive act.
 
-Story 456
+Story 0456
 
 sartorial — 服装的；裁缝的；衣着的installment — 分期付款；（连载、连环剧的）一集/一部分seedling — 幼苗；树苗insider — 内部人士；知情者；圈内人divine — 神圣的；极好的；推测；预言straiten — 使陷入困境；限制；使变狭窄verbose — 冗长的；啰嗦的patrician — 贵族的；上流社会的；贵族retard — 延缓；阻碍；妨碍unify — 统一；使联合；使一致
 
 The Tailor's Green Parade
 A pompous, verbose patrician aggressively demanded an exquisite sartorial masterpiece from the local clothing shop by the time the next annual installment of the spring parade rolled around. However, a well-informed industry insider could easily divine that a mountain of hidden debt would soon heavily straiten the independent tailor and severely retard his physical work. This impending crisis eventually forced the entire tailors' guild to tightly unify around a much humbler, beautiful linen coat embroidered with a single green tree seedling.
 
-Story 457
+Story 0457
 
 grandiose — 浮夸的；宏伟的；堂皇的asset — 资产；财富；有用的人/物scabrous — 粗糙的；有鳞甲的；猥亵的；棘手的abase — 贬低；使卑微；使极其屈辱tenuous — 脆弱的；牵强的；纤细的；稀薄的sanny — 矶鹬；沙锥鸟（注：原词为 snipe，泛指鹬鸟类的 sanny / sanny bird）vague — 模糊的；含糊的；不明确的injection — 注射；注入；充血kudos — 荣誉；赞誉；名声obsolete — 过时的；淘汰的；废弃的
 
 The Marsh Clinic
 The arrogant, grandiose city doctor loudly dismissed an old, obsolete marsh map and actively tried to abase his quiet wilderness guide in front of the team. However, a wild, chirping sanny bird flying overhead suddenly became an unexpected asset by leading them over a highly tenuous, muddy path straight to a stranded ranger whose scabrous, infected leg wound desperately needed an immediate antibiotic injection. This lifesaving success earned the humble guide immense public kudos from the town, despite the doctor's remarkably vague and unhelpful medical directions throughout the trek.
 
-Story 458
+Story 0458
 
 statute — 法令；成文法规；条例tightfisted — 吝啬的；小气的simper — 傻笑；假笑；痴笑cloy — 使腻烦；使厌倦；因过甜而令人恶心bolster — 支持；鼓励；加强；长枕dose — 剂量；一剂；（给……）服药urchin — 顽童；流浪儿；海胆cite — 引用；引证；传唤；表彰finite — 有限的；有限之物sacrament — 圣礼；圣事；誓言
 
 The Bell Tower Medicine
 A notoriously tightfisted village apothecary began to nervously simper when a clever young street urchin boldly threatened to cite a medieval statute that strictly required a free medicine dose for visiting pilgrims. To heavily bolster his legal plea before the crowd, the brave boy solemnly invoked the holy sacrament. He sharply warned the greedy merchant that while their physical medicine supply on the shelves was inherently finite, human mercy should never be, flatly refusing to let the apothecary's sugary, false flattery cloy or distract the waiting lines of weary pilgrims.
 
-Story 459
+Story 0459
 
 unmoved — 无动于衷的；坚定的；未被移动的calumniate — 诽谤；中伤；诬蔑creep — 爬行；悄悄移动；慢行vaporization — 汽化；蒸发impenetrable — 无法穿透的；费解的；顽固的heirloom — 传家宝balmy — 温和宜人的；芳香的；（俚语）疯狂的gerontocracy — 老人统治；长老政治；老人政府dialect — 方言；地方话traceable — 可追溯的；能查出的；可追踪的
 
 The Vanishing Kettle
 On a balmy summer evening, water inside a priceless heirloom copper kettle underwent rapid vaporization, causing thick plumes of steam to slowly creep from its narrow spout. Although the conservative village gerontocracy remained entirely unmoved by the kettle's nearly impenetrable geometric inscription, a passing young potter instantly recognized the ancient regional dialect. He masterfully proved that the historic relic was directly traceable to an artisan ancestor whom jealous political rivals had once aggressively tried to calumniate centuries ago.
 
-Story 460
+Story 0460
 
 ratification — 批准；正式认可；签署stiff — 僵硬的；严厉的；不灵活的；（价格）高昂的shudder — 战栗；发抖；（机器等）剧烈震动uncommitted — 未承诺的；中立的；未定妥的advertise — 做广告；宣传；展现whelp — 幼犬；（狼、狮等的）幼崽；产仔；（粗俗）小家伙lot — 一批；（土地的）地块；命运；份额souvenir — 纪念品；伴手礼hallow — 使神圣；尊崇；把……奉为神圣ventriloquist — 腹语表演者；腹语术士
 
 The Puppet and the Pup
 A generally uncommitted town council gathered at City Hall for the official ratification of a modern budget plan to hallow and preserve the old abandoned theater. On stage, a local ventriloquist brilliantly used a stiff wooden fox puppet to advertise a charity souvenir sale, continuing his comedic routine until a stray hound whelp suddenly leaped onto the theater lot and made the startled audience shudder with pure delight.
 
-Story 461
+Story 0461
 
 decentralize — 分散管理；权力下放；使分散swarm — 蜂拥；一大群（昆虫、人等）；挤满ensnare — 诱捕；使陷入困境；圈套imbroglio — 纠葛；混乱局面；复杂的误会percussion — 打击乐；敲击；撞击evacuate — 疏散；撤离；排泄court — 法院；法庭；争取；奉承；追求inequity — 不公平；不公正monetary — 货币的；金钱的；金融的stickler — 坚持细节的人；严格坚持常规者；顽固者
 
 The Drums of City Hall
 When an unexpected swarm of wild bees suddenly filled the municipal plaza during a lively percussion concert, a strict stickler for administrative safety rules immediately ordered everyone to evacuate the area. This sudden rush inadvertently exposed a massive corporate imbroglio, in which city officials had been trying to court wealthy private donors with underhanded monetary favors. The resulting public exposure of systemic inequity quickly persuaded the local court to decentralize zoning authority before political patronage could ensnare another historic district.
 
-Story 462
+Story 0462
 
 rive — 撕裂；劈开；（因痛苦、矛盾）撕碎cavort — 欢跃；嬉戏；雀跃mirth — 欢乐；欢笑；欢欣cogitate — 深思；思考；慎重考虑contemplate — 沉思；考虑；注视；打算stint — 限制；吝惜；一段工作期；定量populace — 民众；百姓；平民renown — 名望；声誉；声名显赫predator — 捕食者；掠夺者；食肉动物scotch — 阻止；挫败；平息（谣言等）；浅切口
 
 The Kite Above the Square
 During her seasonal stint as the village festival keeper, Mara paused in the quiet morning to carefully cogitate and contemplate how to effectively scotch a predatory hawk's sudden attack without causing a mass panic among the gathered populace. She decided to let a massive, brightly colored silk kite dynamically rive the thick coastal fog. When the flying predator finally veered away in confusion, the neighborhood children began to joyfully cavort through the square with infectious mirth, while her quiet renown as a clever protector rapidly spread through the valley.
 
-Story 463
+Story 0463
 
 casualty — 伤亡者；损失；受害者；事故hone — 磨利；磨炼（技术）；（因不平而）抱怨slice — 薄片；切开；划分ambulatory — 可行走的；门诊的；流动的；（建筑）回廊tedium — 单调乏味；冗长；无聊chaffing — 摩擦；擦伤；（戏谑性的）开玩笑/嘲弄（注：原词为 chafing / chaffing 分别指物理摩擦和言语戏弄，此处兼顾双关）commemorate — 纪念；庆祝；成为……的纪念avenge — 为……报仇；雪耻；惩罚（罪行）blush — 脸红；红润；羞愧cipher — 密码；暗号；无足轻重的人；计算
 
 The Nurse's Hidden Message
 An ambulatory battlefield casualty desperately tried to escape the daily, mind-numbing tedium of his hospital recovery by attempting to decode a cryptic cipher hidden in a note sewn beneath his bandages. However, his recovery comrades' lighthearted verbal chaffing and constant teasing quickly made him blush with embarrassment. Stepping into the ward, a supportive nurse used a sharp slice of leather to carefully hone her surgical needle. In doing so, she uncovered his private written wish to peacefully commemorate rather than violently avenge his fallen childhood friend, and gently carried the finished letter over to the chapel.
 
-Story 464
+Story 0464
 
 affectation — 做作；假装；装腔作势reap — 收割；获得；享受到（好处）sepulchral — 阴森的；坟墓般的；低沉凄凉的xerophyte — 旱生植物acerbic — 尖刻的；酸涩的steer — 引导；驾驶；掌舵concussion — 脑震荡；强烈的震动/冲击astigmatic — 散光的；像散的tepid — 微温的；不热情的；平淡的helot — 奴隶；受压迫者
 
 The Desert Stage
 An astigmatic actor playing the role of a rebellious helot firmly refused his director's offer of tepid water and acerbic performance advice after surviving a mild on-set concussion. Standing his ground in the heat, the actor deliberately dropped his exaggerated, sepulchral affectation to steer his entire theatrical troupe over toward a large, living desert xerophyte. Beneath its resilient branches, the actors could finally reap the full benefit of some natural shade and finish recording the grueling desert scene with raw honesty.
 
-Story 465
+Story 0465
 
 rookie — 新手；菜鸟sticky — 黏的；棘手的；闷热的stately — 庄严的；宏伟的；高贵的collection — 收藏；收集物；聚集retroactive — 追溯生效的；有追溯力的marvel — 惊叹；奇迹；令人惊异的事embodiment — 化身；典型体现disrepute — 坏名声；声名狼藉；失去信用overreach — 做事过头；因野心勃勃而失败；伸得过远hyperactivity — 活动过度；多动症
 
 The Museum's Midnight Rookie
 A rookie security guard, who was the absolute embodiment of nervous physical hyperactivity, rushed carelessly through the stately national museum and accidentally knocked a sticky identification label clean off a rare fossil collection. Fearing immediate professional disrepute among his peers, he foolishly tried to overreach his authority by inventing a retroactive security rule to blame the cleaning staff. However, his panic dissolved into awe as he watched the head curator calmly step forward to help him carefully verify and restore the historical display.
 
-Story 466
+Story 0466
 
 discernible — 可辨认的；明显的；看得清的preoccupation — 全神贯注；心事；先入之见yawn — 打哈欠；（裂口、深渊）敞开/裂开entry — 进入；参赛作品；条目oracle — 神谕；预言者swift — 迅速的；敏捷的；雨燕bleachers — （球场等的）露天看台conclusive — 决定性的；确凿的；令人信服的tributary — 支流；进贡的；纳贡国warmonger — 战争贩子；好战者
 
 The River Race Prophecy
 Sitting high up in the wooden bleachers right beside a rushing river tributary, a sleepy local oracle quietly stifled a massive yawn and unexpectedly declared that the final tournament entry would soundly defeat the invading warmonger. At first, her mystical preoccupation seemed completely absurd to the restless crowd, until a remarkably swift racing boat rounded the riverbend to reveal a clearly discernible peace emblem emblazoned on its sail, securing a conclusive victory that permanently ended the tribal feud.
 
-Story 467
+Story 0467
 
 crater — 火山口；弹坑；陨石坑ordinance — 条例；法令；训令underutilized — 未充分利用的bid — 出价；试图；投标；努力guzzle — 狂饮；大量消耗；狼吞虎咽signify — 表示；意味着；有重要性rejoin — 重新加入；反驳；答辩propitiate — 安抚；抚慰；取悦theoretical — 理论上的；假设的sequela — 后遗症；继发症（复数形式为 sequelae）
 
 The Observatory Well
 Hoping to propitiate angry local residents over a strict new municipal water ordinance, a visionary astronomer made a strategic bid to convert a large, underutilized volcanic crater into a massive community water cistern. He passionately argued that its massive theoretical storage capacity would provide more than enough clean water for the valley's livestock to guzzle freely during droughts. After fully recovering from a lingering viral sequela, he was finally able to safely rejoin the council chambers, where a row of raised blue flags would soon signify the board's official approval of the project.
 
-Story 468
+Story 0468
 
 yeast — 酵母；促进因素；发酵粉atrocious — 糟糕的；残暴的；极坏的vindication — 证明正确；洗清嫌疑；辩护mosaic — 马赛克；镶嵌图案tactic — 策略；战术；手段invulnerable — 无懈可击的；不会受伤的；安全的torpor — 迟钝；蛰伏；麻木；无生气strip — 剥去；脱衣服；狭长地带；连环画antecedent — 前因；先例；祖先；先行词quagmire — 沼泽；湿地；（引申为）困境
 
 The Baker's Mosaic Trail
 After an atrocious winter storm left the isolated mountain town in a state of freezing, paralyzed torpor, a resourceful baker used fresh active yeast to quickly bake hundreds of loaves of high-energy bread. As an ingenious tactic to guide freezing families across a dangerous mud quagmire, she laid down a bright, reflective strip of colorful mosaic tiles from her shop. Although absolutely no historical antecedent existed for such an eccentric rescue plan and the slippery route was admittedly hardly invulnerable, the safe, warm arrival of every single neighbor brought her ultimate professional vindication.
 
-Story 469
+Story 0469
 
 vernacular — 方言；本地话；土话；（建筑的）民间风格acerbity — 尖刻；（语言的）辛辣；（水果的）酸涩moralistic — 说教的；道德主义的lap — 大腿部；（跑道的）一圈；重叠purse — 钱包；（因不满而）噘嘴unprecedented — 前所未有的；史无前例的mystic — 神秘主义者；神秘的；神妙的extremist — 极端主义者；过激分子grind — 磨碎；碾碎；苦差事；（使）劳累quintessence — 精髓；典范；完美的典型
 
 The Mystic's Final Lap
 Right on the exhausting final lap of an unprecedented cross-country mountain marathon, a quiet mystic stopped when she heard an angry extremist delivery a highly aggressive, moralistic political speech in the local vernacular. With an edge of quiet acerbity in her voice, she firmly closed her leather coin purse, flatly refused to grind or purchase his bitter medicinal herbs, and calmly told the gathered crowd that mutual community aid was the absolute quintessence of true human courage.
 
-Story 470
+Story 0470
 
 timid — 胆怯的；羞怯的；缺乏自信的painkiller — 止痛药wreak — 造成（破坏/灾难）；施加（报复）upstart — 暴发户；傲慢的新手；自命不凡的人distal — 远端的；末梢的congregate — 聚集；集合forfeit — 丧失；失去；罚金；没收物nourish — 滋养；培养；怀有（希望/仇恨）delectable — 美味的；宜人的；令人愉快的trawl — 拖网捕捞；用拖网搜集/搜寻
 
 The Fisher's Healing Feast
 A naturally timid young fisher deeply cut the skin right over the distal joint of his index finger while trying to manually trawl the bay before dawn. Entirely unwilling to forfeit his massive morning catch, yet determined not to let a reckless, upstart rival captain wreak havoc on their shared waters, he safely ordered his boat back ashore. He took a strong prescribed painkiller immediately after carefully bandaging the wound, and happily invited his entire exhausted crew to congregate around a delectable seafood stew designed to nourish their mutual trust.
 
-Story 471
+Story 0471
 
 addict — 使沉迷；沉迷者；瘾君子charade — 装模作样；看手势猜字谜游戏；明显的骗局denigrate — 贬低；诋毁；抹黑gynaecocracy — 女性统治；女权政治（亦写作 gynecocracy）curriculum — 课程；课程体系lancet — 柳叶刀；外科小手术刀；尖顶窗projectile — 抛射物；射弹；导弹furor — 轰动；公愤；狂热（亦写作 furore）portable — 便携的；手提式的；轻便的jocund — 欢乐的；愉快的；高兴的
 
 The Queen's Traveling School
 A jocund and beloved young queen permanently ended the court's stiff, traditional charade by personally launching a portable countryside school whose modern curriculum directly examined the history of gynaecocracy. When conservative critics tried to aggressively denigrate her as a mere addict of reckless novelty, a sudden stray projectile fired from a nearby hunting field caused a massive furor through the crowd. Remaining completely composed, the queen calmly used a silver medical lancet to free a trapped falcon from a wire fence and immediately reopened her history lesson.
 
-Story 472
+Story 0472
 
 ironclad — 坚不可摧的；无懈可击的；装甲的self-absorbed — 自我专注的；自恋的；一意孤行的domain — 领域；领地；势力范围suppliant — 恳求者；哀求者；哀求的quaint — 古雅的；别致的；古怪有趣的gorgeous — 华丽的；绚丽的；极好的original — 原创的；原作；最初的sluice — 水闸；（冲洗用）人工水道；冲洗foyer — 门厅；休息厅；（剧场、酒店的）大堂dalliance — 调情；闲荡；短暂而漫不经心的涉足
 
 The Floodgate in the Painted Foyer
 Standing in the gorgeous, hand-painted foyer of a quaint country manor, a highly self-absorbed young heir carelessly dismissed a muddy, shivering suppliant's urgent weather warning as a mere childish dalliance with structural matters completely outside her personal domain. However, the determined visitor immediately produced an original, certified local map containing ironclad geographic evidence. The blueprint proved that opening just one hidden reservoir sluice gate would completely save the entire vulnerable valley village from the rapidly rising river.
 
-Story 473
+Story 0473
 
 enjoin — 命令；禁止；嘱托lapidary — 宝石雕刻的；精炼的；刻在石头上的pulverize — 粉碎；彻底击败；使成粉末formality — 礼节；常规手续；正式程序ambrosial — 美味的；神仙饮料般的；特别芬芳的wigwag — 摇摆；用旗语（或灯光）信号通信impudent — 无礼的；厚颜无耻的；粗鲁的truncate — 截短；删节；把……截顶superiority — 优越；优势；傲慢lynch — 私刑处死；动用私刑
 
 The Signal above Quarry Square
 When an impudent quarry foreman aggressively tried to enjoin the gathering crowd to lynch a suspected runaway thief, a brave female lapidary quickly climbed the high structural arm of the quarry crane. Standing in the wind, she masterfully used traditional wigwag flag signals to reveal to the town that the desperate man had merely taken a single ambrosial apple pie from the kitchen windows. Her terse, beautifully direct words—which no legal formality or corporate objection could truncate—completely pulverized the arrogant foreman's false claim of moral superiority and instantly restored calm to the town square.
 
-Story 474
+Story 0474
 
 pressing — 紧迫的；急切的；极重要的hemophilia — 血友病（英式拼写：haemophilia）inter — 埋葬；葬riddle — 谜；谜语；使布满孔洞；筛选tarpaulin — 防水油布；大篷布self-assertion — 坚持己见；自我肯定；独断专行lowbred — 教养差的；粗俗的；下贱的interdict — 禁令；（法庭的）强制令；禁止folksy — 亲切朴实的；民间的；有大众风格的philately — 集邮；邮票研究
 
 The Stamp beneath the Tarpaulin
 A folksy historical curator faced a deeply pressing riddle when a sudden midnight rainstorm poured through dozens of old structural holes that riddled the historic museum's rotting roof. A rigid, century-old legal interdict strictly barred her from moving the rare philately exhibit from its display tables. Fortunately, a passing visitor suffering from hemophilia demonstrated enough bold self-assertion to challenge a lowbred, unhelpful security guard. The visitor rushed past the barrier to successfully spread a heavy tarpaulin directly over the historic stamp albums, beautifully freeing the grateful curator to inter a late donor's ashes in the memorial garden exactly as planned.
 
-Story 475
+Story 0475
 
 wholesome — 有益健康的；健康的；健全的brassy — 黄铜色的；刺耳张扬的；厚脸皮的amiable — 和蔼的；友善的；亲切的incubus — 梦魇；恶梦；极其沉重的负担morbid — 病态的；阴郁的；（医学）疾病的genome — 基因组；染色体组earthy — 泥土般的；质朴的；粗俗直率的commune — 亲密交流；群居团体；（法国的）公社suitcase — 手提箱；小型旅行箱ravenous — 饥饿难耐的；贪婪的；极其狼吞虎咽的
 
 Supper at the Seed Commune
 An amiable agricultural geneticist arrived at a remote, earthy mountain commune carrying nothing but a heavy metal suitcase packed with a unique grain variety whose tailored genome successfully resisted environmental blight. Although a loud, brassy local lodge host continually treated the region's recent winter famine as a morbid, unavoidable incubus of fate, the ravenous valley villagers quickly baked a delicious, wholesome supper from the fresh grain samples. Sitting together around the fire, they happily discovered that genuine human hope could be cultivated just as carefully as an organic seed.
 
-Story 476
+Story 0476
 
 volatile — 易变的；易爆的；反复无常的；挥发性的adjust — 调整；使适应；校准vagabond — 流浪者；流浪的；漂泊的bar code — 条形码unaffected — 不受影响的；自然的；真挚纯朴的saintly — 圣洁的；品德高尚的refurbish — 翻新；整修；刷新extort — 敲诈；勒索；强索palliative — 缓解的；治标的；（医疗）缓解剂/治标措施expand — 扩大；扩展；膨胀；展开
 
 The Clinic in the Old Railcar
 A highly unaffected and resourceful neighborhood vagabond kindly offered to completely refurbish a long-abandoned industrial railcar so that a saintly local nurse could significantly expand her free medical clinic. However, when a volatile street gang suddenly tried to illegally extort massive protection fees from the facility by secretly blacking out every single medicine bottle bar code, the nurse refused to panic. She calmly stayed up all night to manually adjust the chemical inventory by hand, masterfully turning what was meant to be a temporary emergency palliative into a lasting, legendary public service for the community.
 
-Story 477
+Story 0477
 
 egalitarian — 平等主义的；平等主义者aboveboard — 光明正大的；公开诚实的；在甲板上paradox — 悖论；自相矛盾的人或现象subdue — 制服；抑制；减轻；征服gimmick — 噱头；花招；（巧妙的）小装置boulder — 巨石；大卵石gobble — 狼吞虎咽；（快速地）大口吞食；迅速吞并/侵占currish — 恶犬般的；卑劣的；坏脾气的subliminal — 潜意识的；阈下的emphatic — 强调的；断然的；明显的
 
 The Feast beside Equality Rock
 At an egalitarian community picnic held right beside a historic monumental boulder, an emphatic town mayor loudly promised the crowd a completely fair, aboveboard pie-eating contest. Yet, a hidden, corporate-sponsored subliminal slogan flashing on the electronic score screen subtly urged spectators to quickly gobble and purchase the rival team's entire table of pies. A sharp child in the front row quickly exposed the digital gimmick, publicly calling the organization's currish trick a bizarre paradox of real fairness, and successfully helped her neighbors subdue the rising vocal quarrel before their festive summer dessert could turn into a physical battlefield.
 
-Story 478
+Story 0478
 
 arabesque — 蔓藤花纹；（芭蕾舞的）阿拉贝斯克舞姿gourmand — 美食家；贪吃者；大食客persecute — 迫害；残害；无休止地纠缠compelling — 引人入胜的；令人信服的；强烈的endearing — 惹人喜爱的；讨人喜欢的nippy — 寒冷刺骨的；敏捷的；（说话）尖酸的snitch — 告密者；小偷；告密；偷窃requite — 回报；酬谢；报答；报复glee — 欢欣；高兴；幸灾乐祸sting — 刺痛；（昆虫）蜇伤；激怒
 
 The Pastry Chef's Arabesque
 On a nippy winter festival morning, an arrogant gourmand magistrate threatened to legally persecute a young village baker after an anonymous snitch blamed her when a batch of mislabeled almonds made his throat sting. However, the baker's endearing young kitchen assistant stepped forward and gave a highly compelling, logical account of the labeling error. Deeply moved, the judge chose to generously requite their honesty with an exhibition grand prize, prompting the joyful baker to trace an elegant arabesque in powdered sugar across her cakes amid the gathering crowd's sheer glee.
 
-Story 479
+Story 0479
 
 polyandry — 一妻多夫制severe — 严重的；严厉的；不加装饰的reminisce — 追忆；（愉快地）聊起往事/怀旧intersperse — 散布；点缀；使……穿插于hypocritical — 虚伪的；伪善的striated — 有条纹的；有沟纹的utopian — 乌托邦式的；理想主义的；空想的mallet — 木槌；（球棍的）马球槌privilege — 特权；荣幸；优惠sensible — 明智的；合情理的；实用的
 
 The Bell of Three Households
 Inside a striated canyon settlement traditionally founded on ancient polyandry, the village elders would regularly gather to reminisce about their community's utopian founding charter, carefully interspersing each historical tale with a loud, rhythmic mallet strike on the central bronze council bell. However, a severe summer drought soon exposed their deeply hypocritical claim of absolute social privilege over the valley's groundwater reservoir, continuing until a sensible young shepherd proposed a fair system of equal water rations for every household.
 
-Story 480
+Story 0480
 
 evict — （依法）驱逐；赶出；收回（财产）consul — 领事telling — 有力的；显著的；显露真实心迹的untimely — 过早的；不合时宜的；不凑巧的sanitize — 给……消毒；净化；把（有害内容）删减改制phantom — 幽灵；幻象；错觉griddle — 平底煎锅；烤饼用的铁板；用煎锅烹调presumption — 假定；推定；放肆；冒昧chronic — 慢性的；长期的；有网瘾等痼疾的abuse — 滥用；虐待；恶言谩骂
 
 Breakfast at the Haunted Consulate
 The regional consul confidently planned to evict his veteran head cook after a sudden, untimely kitchen smoke alarm revived a chronic, superstitious local rumor of a phantom haunting the mansion's deep wine cellar. However, a highly telling, diagonal scorch mark on the bottom of the cast-iron griddle soon exposed an administrative aide's reckless abuse of the faulty electric stove. Immediately abandoning his foolish presumption of the cook's guilt, the consul helped sanitize the messy kitchen himself and kindly invited the cook back for a peaceful breakfast.
 
-Story 481
+Story 0481
 
 foppish — 浮华纨绔的；过分讲究衣着弄姿的graphic — 生动的；形象的；绘画的；图表/图像的mute — 沉默的；哑的；弱音器；消除（声音）labored — 费力的；不自然的；吃力的stricken — 受灾的；患病的；（因恐惧等）极其悲痛的gluttonous — 贪吃的；贪婪的；饕餮的superficiality — 肤浅；表面性；浅薄的事物agglomerate — 聚集；使凝聚；结块；团块guilt — 内疚；罪责；罪行projector — 投影仪；放映机；计划者
 
 The Silent Film at Harbor Hall
 An arrogant, foppish director screened his graphic wartime documentary using a failing electronic projector, but the movie's heavily labored narration and the director's obviously gluttonous appetite for raw tragedy reduced a deeply storm-stricken coastal town to mere Hollywood superficiality. However, the exact moment the film's audio soundtrack unexpectedly went completely mute, the unedited background images began to naturally agglomerate on screen into an honest, powerful portrait of survival. His sudden creative guilt promptly forced him to turn off the microphone and let the actual survivors tell their own story.
 
-Story 482
+Story 0482
 
 warehouse — 仓库；货栈；储存grasping — 贪婪的；唯利是图的；紧抓不放的credit — 信用；赞扬；学分；把……归功于；相信muddy — 泥泞的；浑浊的；使模糊；弄脏confidential — 机密的；秘密的；受信任的dodge — 躲闪；避开；（以诡计）规避frigid — 严寒的；冷淡的；刻板的shear — 剪（羊毛/头发）；切断；剪切（力）manuscript — 手稿；原稿drain — 排水沟；下水道；消耗；排干
 
 The Manuscript in Warehouse Nine
 During a frigid midnight flash flood, a grasping publishing executive hid a valuable confidential manuscript deep inside a private storage facility and actively tried to dodge its frantic author. However, muddy river water rapidly rose through the building's floor drain until a brave local shepherd suddenly used his heavy iron sheep shears to slice through the security ropes securing the elevated wooden crate. He masterfully rescued the historical pages from ruin, successfully ensuring that the poor village poet finally received full creative credit and payment.
 
-Story 483
+Story 0483
 
 elephantine — 巨大的；笨重的；呆板的crevice — （岩石/墙壁的）裂缝；缝隙capsize — （船只）倾覆；翻船bowdlerize — 删改；净化（书、剧本等的内容）sere — 枯萎的；干枯的（亦写作 sear）cultivate — 耕作；栽培；培养；结交（朋友）hieroglyph — 象形文字；难解的符号/秘密符号bracket — 托架；支架；括号；把……归为一类immune — 免疫的；不受影响的；免除的pathology — 病理学；（情况、行为的）病态表现/病变
 
 The Hieroglyph below the Waterline
 A massive, elephantine marine research barge nearly capsized when a sere old wooden structural bracket suddenly split open right beside a deep hull crevice. Yet, a brilliant university student studying aquatic immune responses and coral pathology unexpectedly discovered a faint carved hieroglyph marking an ancient historical repair at that exact spot. Rather than trying to bowdlerize or erase the embarrassing mistake from the captain's logbook, she recorded the historical data and taught the crew to cultivate natural reef grass that permanently steadied the eroding shore.
 
-Story 484
+Story 0484
 
 embarrass — 使尴尬；使窘迫；使受累mettle — 勇气；气质；奋斗精神plentitude — 丰富；充足；完全（亦写作 plenitude）festive — 节日的；喜庆的；欢乐的homiletics — 讲道术；布道学；说教法preamble — 序言；前言；（行动的）开场白latitude — 纬度；地区；（选择的）自由度/大范围epidermis — 表皮；外皮exhilaration — 兴奋；振奋；狂喜coy — 腼腆的；故作忸怩的；含糊其辞的
 
 The Sermon beneath the Orange Trees
 A naturally coy young novice deeply feared she would embarrass herself during the village's festive autumn harvest service. However, following a brief, witty preamble on the academic history of homiletics, she beautifully demonstrated her professional mettle with a moving sermon. She compared the thick orange epidermis—naturally tough enough to thrive in their freezing northern latitude—to human moral courage. The inspired congregation answered her words with absolute exhilaration, happily offering a massive plentitude of fresh fruit to the local homeless shelter.
 
-Story 485
+Story 0485
 
 velocity — 速度；速率macabre — 恐怖的；与死亡有关的；惨烈的strive — 努力；奋斗；力求inculpate — 归罪于；控告；使连累depraved — 堕落的；邪恶的；腐化的peaky — 憔悴的；苍白虚弱的；有尖峰的transfigure — 使变得庄严美丽；使美化/变形shipwright — 造船匠；造船工人eternal — 永恒的；无休止的；不朽的genesis — 起源；创始；发生
 
 The Shipwright's Comet
 A peaky local shipwright found a macabre old ship figurehead racing down the mud hill at an alarming, dangerous velocity. Although suspicious villagers immediately tried to legally inculpate a supposedly depraved young woodcarving apprentice for the incident, she chose to relentlessly strive for the objective truth. That midnight, a sudden passing comet's bright light seemed to beautifully transfigure the wooden wreckage, revealing a frayed, naturally broken rope that marked the accident's true genesis and permanently ending their eternal family feud.
 
-Story 486
+Story 0486
 
 crab — 螃蟹；海蟹；（机械）起重小车；抱怨；发牢骚imitation — 仿制品；模仿；赝品economical — 经济的；节俭的；实惠的epithet — 称号；别称；（常指）贬称/辱骂词vandalism — 故意破坏公物/古迹的行为approximate — 大约的；近似的；接近；估计spire — （教堂的）尖塔；尖顶；螺旋形的一圈deprivation — 匮乏；剥夺；丧失betray — 背叛；出卖；流露（情感）；暴露（秘密）nitpick — 吹毛求疵；挑剔
 
 The Crab Mosaic on Saint Orla's Spire
 After a sudden act of senseless vandalism completely shattered the historic glass crab mosaic on the chapel’s towering spire, an economical local mason carefully made a beautiful imitation using salvaged beach glass. However, a harsh art critic began to aggressively nitpick its approximate colors, publicly using a cruel epithet that seemed to callously betray and mock the village's long years of economic deprivation. Yet, at sunset, the humble, handmade repair unexpectedly shone far brighter and more beautifully than the original ever had.
 
-Story 487
+Story 0487
 
 peel — 剥皮；削皮；脱落；（水果、蔬菜的）外皮multiple — 多个的；多种多样的；倍数malaise — 不适；萎靡；心神不安spatter — 溅洒；飞溅物；（雨）滴答落plumber — 水管工miasma — 瘴气；有害的污浊气氛/空气belch — 打嗝；（火山/烟囱）喷出；吐出prophetic — 预言的；有预见性的declination — 衰退；衰落；下倾；（天文学）赤纬pendulum — 摆；钟摆；（引申为）摇摆不定的局势
 
 The Observatory's Clogged Pipe
 When multiple visiting astronomers suddenly felt a strange physical malaise while measuring a distant star's declination beneath the massive observatory pendulum, a local plumber was called to investigate. His findings immediately made the elder custodian's old, dismissed warning about a blocked maintenance vent seem remarkably prophetic. A massive pile of rotting orange peel had caused an underground pipe to violently belch green chemical spatter and a foul, choking miasma into the air currents, but one quick mechanical repair completely cleared both the air and the scientific mystery.
 
-Story 488
+Story 0488
 
 blather — 喋喋不休；废话；胡扯sidestep — 回避（问题）；侧步躲开miff — 使脑怒；使恼火；小争执machination — 阴谋；诡计；暗中策划harsh — 严酷的；刺耳的；刻薄的boom — （经济等）繁荣；轰鸣；迅速发展lyric — 歌词；抒情诗；抒情的blossom — 开花；（人/精神）变得更有魅力/繁荣beguile — 迷住；吸引；欺骗；诓骗opponent — 对手；反对者
 
 The Lyric in the Orchard Debate
 A slick city council opponent tried to aggressively beguile the farming community with empty blather about an impending regional mining boom, attempting to smoothly sidestep every single harsh environmental question from the audience. However, the exact moment the local apple trees began to blossom beautifully, a single historic protest lyric sung by a young activist completely exposed his corporate machination. Shamed by the truth, even the minor political miff that had divided the neighboring farmers instantly faded as they united to vote and protect their valley.
 
-Story 489
+Story 0489
 
 scrub — 擦洗；刷洗；取消（计划）；灌木丛furrow — 沟槽；皱纹；（因焦虑等）使皱眉gangly — 瘦长笨拙的heady — 令人兴奋的；任性的；烈性的；强烈的physiological — 生理的；生理学上的predecessor — 前任；前身；被取代的事物stodgy — 古板的；枯燥乏味的；（食物）厚重难消化的jurisprudence — 法理学；法律体系；法律知识resound — 回响；鸣响；广为传颂；充满声音trench — 壕沟；沟槽；战壕
 
 The Judgment in the Lavender Trench
 A gangly young military apprentice was ordered to painstakingly scrub thick mud from each furrow of an ancient battlefield trench before presenting his modern physiological study on soldiers' acute combat fear. Although his conservative, stodgy predecessor dismissed the entire paper as nothing but heady, unstructured speculation, the chief judge's landmark final ruling completely reshaped military jurisprudence. The historic decision made the apprentice's brilliant testimony resound through the lecture halls of every academy in the nation.
 
-Story 490
+Story 0490
 
 continent — 大陆；洲；（古生动）克制的/有节制的duet — 二重唱；二重奏overweening — 自负的；傲慢的；过分的waffle — 含糊其辞；胡扯；华夫饼refugee — 难民；流亡者partiality — 偏爱；偏袒；不公平interlock — 连锁；（使）紧密连接/互相咬合mesh — 网眼；网状物；（齿轮）啮合overstate — 夸大；言过其实consonance — 和谐；一致；（音乐）协和音程
 
 The Duet across the Border Mesh
 On a politically divided continent, a displaced refugee violinist and a lonely border guard began to spontaneously play a classical duet through the rusty wire boundary mesh, letting their contrasting melodies interlock in a sudden, unexpected artistic consonance. An overweening regional governor aggressively tried to overstate the security danger to the press and waffle about his ongoing administrative partiality toward keeping the crossing permanently closed. However, inspired by the beautiful music, the gathered families confidently stepped forward and opened the heavy iron gate themselves.
 
-Story 491
+Story 0491
 
 longing — 渴望；热望；思念graze — 吃草；擦伤；放牧；（皮肤）擦破sla — 杀死（中古英语、早期苏格兰语历史词汇，等同于 slay）phial — 小药瓶；小玻璃瓶（亦写作 vial）ornithologist — 鸟类学家productivity — 生产力；生产率；效率intumescence — 肿胀；膨大；（因热/液体而）隆起pinpoint — 精确指出；准确查明；针尖大小的stilted — 不自然的；生硬的；呆板的rip — 撕裂；扯破；猛冲；（衣服等的）裂口
 
 The Falconer's Forgotten Word
 A young ornithologist felt a deep professional longing to pinpoint exactly why the rare wild falcons that routinely graze the cliffside wire fences developed an unusual muscle intumescence. At first, her dense, stilted academic report offered no real clues to the laboratory team. However, a sudden accidental rip in the leather binding of an old 17th-century falconer's diary suddenly exposed a handwritten medical warning: “sla no hawk with iron.” Using this clue, a small phial of natural herbal balm quickly restored the birds, while the subsequent installation of safer rubberized fencing significantly improved the sanctuary staff's daily productivity.
 
-Story 492
+Story 0492
 
 bit — 一点；小块；少量；（马）嚼子superstition — 迷信；盲目恐惧kin — 亲属；亲戚；同类dispense — 分发；分配；免除（义务/法律责任）；配（药）ostrich — 鸵鸟；逃避现实的人pendent — 悬垂的；悬而未决的；吊着的（亦写作 pendant）queer — 奇怪的；古怪的；酷儿的（非异性恋的代称）knack — 诀窍；本领；熟练技术accessible — 可进入的；可接近的；易懂的；可理解的dishevel — 弄乱（头发/衣服）；使蓬乱
 
 The Pendent Key
 At a beautifully eccentric, queer roadside wildlife menagerie, Lin's anxious older kin warned her that a dark local superstition would heavily dishevel and curse anyone who dared to touch a mysterious pendent iron key hanging from the gate. Choosing to ignore the warning, she masterfully used her innate, practical knack with rusted mechanisms to unlock the heavy padlock, making the large ostrich enclosure safely accessible to the team. She managed to quickly dispense a bit of emergency grain feed and free the trapped bird just minutes before the raging flash flood arrived at the compound.
 
-Story 493
+Story 0493
 
 detrimental — 有害的；不利的serene — 宁静的；安详的；晴朗无云的gladiator — （古罗马的）角斗士；（引申为）论战者/斗士dissonant — 不和谐的；刺耳的；（想法）不一致的unbridled — 不受约束的；放纵的；狂野的instate — 任命；使就职；安置intestine — 肠；（常复数）内脏；内部的；国内的millennium — 一千年；千禧年；（理想中的）黄金时代oration — （正式、庄严的）演说；致辞stifle — 抑制（感情）；使窒息；闷灭（火）
 
 The Silent Arena
 Deep inside a serene ancient arena that had been physically sealed away from human eyes for an entire millennium, a brave young gladiator firmly refused to stifle his dissonant doubts during the high governor's imperial victory oration. Standing tall before the crowd, he loudly warned that such unbridled commercial spectacle was inherently detrimental to the long-term survival of the city’s moral culture. After miraculously surviving a brutal battlefield wound to his lower intestine, he was ultimately chosen by the grateful populace to instate a completely new, fairer system of independent judges for the public games.
 
-Story 494
+Story 0494
 
 fainthearted — 胆怯的；懦弱的；优柔寡断的rebate — 折扣；退还款；减免scabbard — 剑鞘upgrade — 升级；提升；（设备/职务的）升级版drizzle — 毛毛雨；下毛毛雨morsel — 一小块（食物）；一口；少量rebuttal — 反驳；驳斥；抗辩plot — 情节；密谋；（小块）土地；绘图shelter — 避难所；庇护；庇护所；遮蔽gradation — 渐变；等级；阶段
 
 The Map in the Scabbard
 During a freezing, endless winter drizzle, a naturally fainthearted courier unexpectedly discovered a detailed treasonous plot map hidden deep inside an antique leather scabbard. Gathering his courage, he carefully carried the evidence up to the remote mountain shelter, where a warm fire and a single savory morsel of bread quickly revived his energy. The next morning, his calm, articulate factual rebuttal completely exposed the camp’s hidden traitor before the council. His bravery earned every loyal guard an immediate upgrade in rank alongside a generous tax rebate, while forensic tests on the document revealed a subtle, clever gradation of color in the secret ink.
 
-Story 495
+Story 0495
 
 cherubic — 天使般的；圆脸可爱的encipher — 把……译成密码；加密limb — 肢；大树枝；分支landslide — 山体滑坡；（选举中的）压倒性胜利generality — 概论；普遍性；笼统的话lullaby — 摇篮曲；催眠曲peeve — 使恼怒；触怒；气恼的事ornery — 脾气坏的；难对付的；顽固的cumber — 妨碍；拖累；受累chunk — 大块；厚块；相当大的部分
 
 The Lullaby in the Cedar
 A cherubic young child insisted she heard a faint lullaby coming from inside a fallen cedar limb right after a massive midnight landslide exposed its ancient roots. However, an ornery park ranger quickly dismissed her story with a sweeping generality meant to peeve and silence her. Unwilling to let his bad temper cumber the emergency rescue efforts, she smartly used sticky tree sap marks to encipher the exact coordinates to a trapped hiker, who was buried deep beneath a chunk of heavy stone.
 
-Story 496
+Story 0496
 
 consistent — 一致的；始终如一的；连续的relic — 遗物；遗迹；圣骨；废墟sermonize — 说教；布道；大发议论pastor — 牧师edict — 法令；敕令；布告testy — 易怒的；不耐烦的；暴躁的mimic — 模仿；极为相似；模仿者milk — 牛奶；挤奶；榨取stream — 溪流；流动；流出desideratum — 必需品；渴望之物（复数形式为 desiderata）
 
 The Bell by the Stream
 Beside a rushing mountain stream, a testy local pastor began to loudly sermonize the community about an ancient, long-forgotten church edict. However, a playful child nearby managed to perfectly mimic the cracked iron relic's exact musical tone by striking an empty glass milk bottle. The bottle's surprisingly consistent acoustic echo ultimately revealed the village's ultimate ecological desideratum: a pristine, historic freshwater spring flowing quietly beneath the chapel floor.
 
-Story 497
+Story 0497
 
 wrench — 猛扭；扳手；（离别的）痛苦gulch — 狭谷；大冲沟dike — 堤坝；沟渠（亦作 dyke）caterpillar — 毛毛虫；（引申为）履带式重型车辆depute — 委任；授权；指定（某人为代表）virus — 病毒resurgence — 复苏；再起；复活minnow — 米诺鱼；（泛指）各种溪流小鱼；无足轻重的人/物oasis — 绿洲；（繁忙或痛苦中的）宜人之地/避风港stake — 木桩；桩子；赌注；利害关系
 
 The Gulch at High Water
 When a sudden winter virus heavily delayed the chief conservation ranger, she was forced to quickly depute Arun to protect the lower gulch from flooding. Working fast, he used a heavy metal wrench to bolt and brace the central safety dike, carefully marked the structurally weak bank with a wooden stake, and watched a stray caterpillar, a school of tiny minnows, and the canyon's hidden oasis successfully survive the river's sudden, violent seasonal resurgence.
 
-Story 498
+Story 0498
 
 excogitate — 深思；想出；设计出charity — 慈善机构；仁爱；施舍intercessor — 调解人；仲裁者；代求者prolixity — 冗长；啰嗦；拖沓infest — （大批害虫、盗贼等）大量侵扰；充斥；寄生于distract — 使分心；转移（注意力）；使焦虑solidify — 凝固；使巩固；使变结实asphyxiate — 使窒息；窒息而死coma — 昏迷；（天文学）彗发carat — 克拉（宝石重量单位，亦作 karat）
 
 The Diamond in the Wax
 At a chaotic charity appraisal workshop, a legal intercessor deliberately tried to distract investigating reporters with a wall of technical prolixity while swarms of wood beetles began to aggressively infest the adjacent wax-casting room. Mei had to rapidly excogitate a makeshift emergency ventilation system before heavy toxic chemical fumes could completely asphyxiate a neighboring jeweler and leave him in a medical coma. Once the fans cleared the air, she watched the cooling liquid wax slowly solidify around a missing, priceless one-carat diamond.
 
-Story 499
+Story 0499
 
 summarily — 立即地；草率地；一概地table — 桌子；（动词）搁置；将……提付讨论undermine — 暗中破坏；削弱；从根基处挖空hamstring — 使受限制；使瘫痪；（医学）腿后腱burial — 埋葬；葬礼；墓地flourish — 繁荣；茂盛；（华丽地）挥舞；生机勃勃mold — 模具；霉菌；塑造；（英式拼写：mould）agreeable — 宜人的；欣然同意的；讨人喜欢的adjunct — 附属物；助理；副职；兼职的maze — 迷宫；迷惘
 
 The Garden Beneath the Table
 The historic museum director aggressively tried to table the entire ancient burial excavation exhibit and summarily dismiss its highly agreeable adjunct curator. He continuously voiced false, paranoid concerns that subterranean mold would slowly undermine the main artifact collection and severely hamstring tourist attendance. However, the curator's brilliant discovery of a vintage blueprint mapping a hidden hedge maze nearby definitively revealed exactly where a lost Elizabethan garden could safely flourish right beneath the facility's old flagstone floor.
 
-Story 500
+Story 0500
 
 annihilate — 消灭；彻底击败；毁灭elysian — 极乐的；幸福美好的；天堂般的champion — 冠军；捍卫者；拥护；为……而战lateral — 侧面的；横向的terrace — 露台；（山坡的）梯田；排屋emaciate — 使消瘦；使衰弱（常作过去分词 emaciated）certitude — 确信；确定无疑；把握disclaim — 否认；放弃（权利/所有权）；声明撇清关系bankrupt — 破产的；彻底缺乏的；使破产ramshackle — 摇摇欲坠的；破旧的；东倒西歪的
 
 The Last Terrace Orchard
 With quiet, unwavering certitude, a passionate young champion of local sustainable village farms firmly refused to disclaim structural responsibility for a ramshackle mountain terrace whose eroding lateral retaining wall threatened to collapse into the canyon. She warned the town hall that a sudden landslide would completely annihilate the historic fruit orchard, financially bankrupt its family owners, and eventually emaciate the local grazing cattle by completely burying their primary green valley pasture. Fortunately, her prompt emergency structural repairs successfully restored the fragile slope to a state of elysian calm.
 
-Story 501
+Story 0501
 
 toxin — 毒素；毒物mediocrity — 平庸；平庸之人；普通regress — 倒退；退化；逆行alternate — 交替的；轮流的；替代的；（动词）交替eugenic — 优生学的；优生（学）的discriminatory — 歧视性的；有辨别力的drawbridge — 吊桥impassive — 无动于衷的；冷漠的；面无表情的yank — 猛拉；猛拽ebb — 退潮；衰退；（体力/感情等）逐渐减弱
 
 The Museum Drawbridge
 The exact moment the evening coastal tide began to rapidly ebb, an impassive and corrupt tour guide tried to forcefully yank shut the old museum drawbridge to intentionally hide a highly controversial, discriminatory eugenic propaganda poster from the visiting students. However, an alternate historical curator on duty boldly stepped forward to block the door, passionately arguing that trying to conceal the ugly cultural toxin of human history would only cause public civic memory to permanently regress into a dangerous state of uneducated mediocrity.
 
-Story 502
+Story 0502
 
 rout — 击溃；彻底溃败；驱逐plagiarize — 剽窃；抄袭unbecoming — 不得体的；不体面的；不相称的fetid — 恶臭的；有恶臭的objection — 反对；异议；不赞成morale — 士气；斗志solo — 独奏；独唱；单独的；单飞exiguous — 极少的；微小的；极其匮乏的aplomb — 沉着；自信；泰然自若privy — 知情的；参与机密的；私用室外厕所（常构成 be privy to）
 
 The Solo in the Drain
 Being quietly privy to a bitter rival's underhanded plan to plagiarize her beautifully exiguous melody, Nia formally raised a structural objection with absolute, ice-cold aplomb before the musical committee. To prove her original ownership beyond doubt, she boldly performed the complex solo right beside a fetid municipal storm drain where she had composed it. While critics called the unbecoming venue completely scandalous, the raw performance deeply mesmerized the gathering audience, whose roaring cheers successfully helped her rout her plagiarism rival and permanently restore the entire orchestra's flagging morale.
 
-Story 503
+Story 0503
 
 bouquet — 花束；（酒的）芳香/香气remission — （病情的）缓解；期满免除（刑罚）；赦免molar — 臼齿；（物理/化学）摩尔的corrosive — 腐蚀性的；有害的；（语言）尖刻的bout — 一阵（疾病/情绪）；一场（比赛/辩论）hypnotic — 催眠的；令人着迷的；催眠药pecan — 山核桃；长寿果coalesce — 合并；联合；结合；愈合lamentable — 令人惋惜的；可悲的；糟糕的locomotion — 移动；运动；运动力
 
 The Clockwork Pecan
 During a lamentable, sudden midnight bout of severe toothache, a ballet dancer whose chronic illness was otherwise in full remission accidentally cracked a rear molar on a hard piece of wild pecan just hours before a major theater performance. Despite the intense physical pain, her fluid, almost hypnotic locomotion across the stage earned her a massive standing ovation and a gorgeous bouquet of winter roses. Deeply moved by her dedication, the entire casting crew began to dynamically coalesce around a new financial plan to cover her medical bills. Meanwhile, an alert stagehand quickly used a heavy brass key to permanently lock away a dangerous bottle of corrosive cleaning fluid that had been carelessly left behind backstage.
 
-Story 504
+Story 0504
 
 adlib — 即兴表演；即兴发言；即兴地（亦写作 ad-lib）versant — 精通的；熟悉的；（名词）山坡/斜坡calcium — 钙carapace — （蟹、龟等动物的）甲壳；外壳disburse — 支付；拨款；付出dishearten — 使灰心；使气馁flossy — 绒毛般的；轻软的；华丽丝质的pulse — 脉搏；（植物）豆类；脉冲prey — 猎物；捕食；受害者；（动词）捕食/折磨idiom — 习语；成语；（特定时期的）艺术风格/表达方式
 
 The Turtle's Improvised Signal
 A field marine biologist who was highly versant in the unique coastal idiom of local fishermen was forced to completely adlib her entire keynote lecture when an endangered sea turtle with a tangled, flossy strand of nylon net wrapped tightly around its carapace washed ashore right beside the pavilion. The animal's dangerously weak, fading pulse did not dishearten her for a second. After administering a specialized, calcium-rich liquid diet that successfully restored its physical strength enough to return to the ocean and safely avoid becoming shark prey, the deeply impressed town mayor formally agreed to immediately disburse an emergency cache of ecological rescue funds to her laboratory.
 
-Story 505
+Story 0505
 
 spartan — 简朴的；艰苦的；刻苦的；斯巴达式的lackey — 仆从；走卒；马屁精；（动词）巴结scrape — 刮擦；刮除；（艰难地）勉强通过/凑足trim — 修剪；除去；整理；（形容词）整齐的/苗条的fast — 快的；紧的；（名词/动词）禁食/绝食；（副词）紧紧地/迅速地debouch — 流出；从窄道进入开阔地amulet — 护身符；避邪物decant — 倾析；（小心地）把液体倒出trunk — 树干；大箱子；汽车后备箱；（大象的）鼻子confine — 限制；关押；监禁；（常复数）边界/范围
 
 The Amulet in the Trunk
 Following a grueling, week-long spartan political fast, the imprisoned queen's loyal lackey successfully escaped the narrow, suffocating confine of his underground cell through a newly dug drainage tunnel that would debouch directly beside an ancient oak tree trunk. Working under the cover of absolute darkness, he used a sharp stone shard to carefully scrape away the thick mud from a stolen royal gold amulet. He then proceeded to decant clear, clean rainwater from his travel flask straight into its hollow mechanical center to activate the hidden spring, expertly trim the worn silk neck cord, and ride fast away on horseback toward the northern border.
 
-Story 506
+Story 0506
 
 retainer — 随从；家臣；（律师等的）预聘费neolithic — 新石器时代的（亦作 Neolithic）ineluctable — 不可避免的；必然发生的underestimated — 被低估的；轻视的frivolous — 轻浮的；草率的；无聊的spectrum — 光谱；范围；幅度canary — 金丝雀；淡黄色；（旧称）告密者observatory — 天文台；气象观测站offend — 冒犯；触怒；违反（法律/传统）dim — 昏暗的；模糊的；使变暗
 
 The Canary at Dusk
 Inside a dim, windswept hilltop observatory, an elderly retainer quickly dismissed a captive canary's frantic agitation as mere frivolous animal behavior. However, a nearby, historically underestimated neolithic stone mirror suddenly split the incoming moonlight into a sharp, crystalline spectrum that clearly exposed an ineluctable structural roof collapse. Utterly unwilling to offend sacred architectural tradition by damaging the frame, the clever keeper still acted instantly, ordering everyone outside right before the rafters caved in.
 
-Story 507
+Story 0507
 
 jingoism — 极端爱国主义；沙文主义norm — 标准；行业常态；规范homograph — 同形异义词（如 lead 铅 / lead 领导）plenary — 全体参加的；充分的；无限的compose — 创作；组成；使镇静；使安定fealty — 忠诚；效忠exhilarate — 使振奋；使高兴；使极其欢欣inelasticity — 缺乏弹性；无弹性；刚性pinch — 捏；夹痛；（名词）困境；紧急关头remove — 移除；清除；距离；差距
 
 The Word That Changed the Anthem
 During a critical plenary choir rehearsal, a sharp-eyed music scholar suddenly noticed that a subtle homograph within the lyric sheet could accidentally turn the anthem's traditional expression of fealty into aggressive, warmongering jingoism. In a sudden pinch, she helped the director quickly compose a completely new verse. The brilliant wit of the modification would heavily exhilarate the choir, permanently remove the harsh political passage, boldly challenge the historic societal norm, and masterfully expose the old rhythmic meter's rigid inelasticity.
 
-Story 508
+Story 0508
 
 incertitude — 不确定；疑惑；迟疑不决worship — 崇拜；敬神；礼拜；（动词）崇拜/做礼拜honorarium — 酬金；谢礼（常指给自由职业者的专业报酬）transition — 过渡；转变；转型期lobby — 门厅；休息厅；（动词）游说appeal — 呼吁；吸引力；上诉；（动词）呼吁/吸引fractional — 极少的；微小的；分数的wade — 涉水；艰难地前行garble — 歪曲；混淆；（信号等）受到干扰变得无法辨认disconcert — 使不安；使困惑；打乱（计划）
 
 The Flooded Radio Lobby
 During the coastal town's frantic midnight transition from a historic worship hall into a temporary emergency flood shelter, exhausted volunteers had to wade through a deep, muddy layer of water clogging the central lobby. Heavy atmospheric static threatened to completely garble every emergency rescue appeal broadcast over the airwaves. Despite a fractional statistical chance of technical success and a wave of deep community incertitude, Mara flatly refused to let the chaotic noise disconcert her. She expertly repaired the shorted transmitter components and politely declined the town’s offered financial honorarium.
 
-Story 509
+Story 0509
 
 actuate — 驱动；促使；激励；使（机器）动作bard — 诗人；（尤指历史上的）吟游诗人unstinting — 慷慨的；不吝惜的mutton — 羊肉licit — 合法的；正当的misinform — 向……提供错误信息；误导idle — 闲置的；懒散的；停顿的；无目的的nick — 刻痕；轻微割伤；（名词）刻痕；（俚语）监狱weld — 焊接；使紧密结合；（名词）焊接处convert — 转变；改造；使改变信仰；（名词）改宗者
 
 The Bard's Copper Oven
 A remarkably unstinting village bard generously offered fresh, hot mutton pies to anyone who could successfully convert an idle industrial copper drum into a fully licit, code-compliant street baking oven. When a greedy rival merchant tried to actively misinform the visiting safety inspector about the fuel lines, a prominent, deep nick in the metal chassis helped the local blacksmith perfectly align his emergency weld. This quick mechanical adjustment allowed them to safely actuate the high-pressure bellows just minutes before sunset.
 
-Story 510
+Story 0510
 
 seclude — 使隐居；使隔离；使孤立prick — 刺；扎；刺痛；（名词）刺伤；小孔melon — 瓜；甜瓜；（俚语）巨额暴利parasite — 寄生虫；寄生植物；谄媚奉承者glance — 一瞥；扫视；（动词）看一眼；闪烁bane — 祸根；克星；致命之物respiration — 呼吸；呼吸作用cerebral — 大脑的；理性的；理智的superb — 极佳的；卓越的；华丽的byzantine — 复杂难懂的；拜占庭式的；阴险的（亦作
 
 Byzantine）The Melon House Labyrinth
 To effectively seclude a superb but highly fragile variant of winter melon from a destructive local vine parasite, Ivo carefully studied an incredibly dense, Byzantine greenhouse blueprint manual. He masterfully identified the relevant structural ventilation diagram at a single glance, used a microscopic thorn prick to check the exact density of the plant’s outer rind, and monitored the fruit's internal respiration rates with a steady, cerebral patience. His methodical care beautifully made the shifting humidity levels—which had been once regarded as the crop's absolute historical bane—remarkably easy to control.
 
-Story 511
+Story 0511
 
 taking — 迷人的；讨人喜欢的；夺取；（常复数）取得/进款allergic — 过敏的；对某事强烈反感的inspired — 卓越的；受启发的；凭灵感创作的foreshadow — 预示；成为……的前兆contumely — 侮辱；无礼；傲慢无礼的言行litigation — 诉讼；打官司supreme — 最高的；至高无上的；极好的rowdy — 喧闹的；粗暴的；无秩序的；（名词）粗暴的人horn — （动物的）角；喇叭；号角；触角oversight — 疏忽；失察；监督；管理
 
 The Horn Above the Courthouse
 A highly taking, historically accurate mural depicting a golden hunting horn seemed to eerily foreshadow severe administrative trouble when a rowdy commercial real estate developer answered the public's environmental concerns with blatant personal contumely. However, a brilliant circuit judge who was notoriously allergic to corporate corruption quickly spotted a massive permit oversight in the company’s structural filing papers. Her inspired legal ruling immediately ended the multi-million dollar litigation and permanently preserved the supreme falcon nesting grounds located right above the city courthouse roof.
 
-Story 512
+Story 0512
 
 ruffian — 恶棍；暴徒；流氓slump — （价格/经济）暴跌；萎靡；消沉；（动词）惨跌/陷落materialize — 实现；成为现实；突然出现；（使）物质化premium — 额外费用；附加费；保险费；（形容词）优质的高级的discredit — 使丧失信誉；怀疑；彻底破坏……的名声transport — 运输；运输工具；交通系统；（动词）运送/使狂喜monochromatic — 单色的；黑白的；单调乏味的semblance — 表象；外观；伪装；微少的光景adjudicate — 裁决；判定；仲裁zone — 区域；地带；（词组）划分地带/分成区
 
 The Gray-Port Standoff
 During a chaotic transport strike that paralyzed the entire monochromatic, industrial harbor zone, a violent local ruffian aggressively tried to discredit the union leadership by making a phantom fuel tax premium suddenly materialize on the shipping logs. However, the exact moment the region’s critical logistics trade began to heavily slump into a depression, a federal arbitrator arrived at the docks to personally adjudicate the volatile dispute. Her swift and transparent industrial rulings successfully restored a necessary semblance of civilian order to the waterfront.
 
-Story 513
+Story 0513
 
 reptilian — 爬行动物的；冷酷的；卑劣的effervesce — 冒泡；起泡；洋溢着热情/充满活力diplomatic — 外交的；外交官的；圆滑老练的prime — 首要的；主要的；全盛时期的；（名词）全盛时期/黄金时代incantation — 咒语；符咒；作法thematic — 主题的；主旨的ire — 愤怒；大火（通常指怒火）odoriferous — 芳香的；气味浓烈的；名声不好的impressed — 印象深刻的；钦佩的；被印上记号的informed — 见多识广的；获悉的；有见识的
 
 The Embassy Greenhouse
 At the prime minister's elegantly designed thematic garden reception, a highly informed and diplomatic government botanist quietly watched a rich, odoriferous herbal brew smoothly effervesce inside a glass bowl right beside an ancient reptilian stone idol. Although the tribal shaman's strange, rhythmic vocal incantation initially stirred the conservative ambassador's visible bureaucratic ire, everyone present was deeply impressed when every single rare, night-blooming flower in the greenhouse miraculously opened its petals at that exact moment.
 
-Story 514
+Story 0514
 
 decibel — 分贝（声音强度单位，缩写为 dB）astrolabe — 星盘（古代天文测量仪器）pitfall — 隐患；陷阱；隐藏的危险narcissism — 自恋；自我陶醉（亦作 narcism）spiny — 多刺的；棘手的；麻烦的endorse — 支持；赞同；（在支票背面）背书；签署libido — 性欲；生命欲；精神源动力maple — 枫树；枫木attrition — 消耗；人员流失；摩擦；（神学）不彻底的忏悔gainsay — 否认；反驳；与……矛盾
 
 The Astrolabe in the Maple
 Absolutely no critic in the hall could gainsay the thunderous, eighty-decibel wave of public applause when Mira successfully used an ancient brass astrolabe hidden inside a hollow grandfather maple tree to locate the lost geological team's spiny ridge camp. Firmly refusing to endorse the rescue guide's arrogant personal narcissism or his reckless, inappropriate displays of baseline libido on the trail, she thoroughly exposed each major terrain pitfall that had caused the historic mountain expedition's slow, agonizing personnel attrition.
 
-Story 515
+Story 0515
 
 instantaneous — 瞬间的；即时的colony — 殖民地；（生物）群体；聚居区pauper — 穷人；贫民warranted — 有正当理由的；获授权的exposition — 说明；阐述；博览会shuck — 剥去（外壳）；（名词）外壳；皮loyal — 忠诚的；忠实的furnace — 熔炉；高炉；火炉horology — 钟表学；钟表制造术climax — 高潮；顶点
 
 The Clockmaker's Furnace
 At the settlement colony's highly anticipated annual horology exposition, a loyal but destitute pauper humbly offered to manually shuck a mountain of corn just to earn a general admission ticket. However, an instantaneous mechanical furnace failure inside the display hall suddenly threatened to ruin the event's grand finale climax. Acting with remarkable grit, the pauper engineered an improvised cooling system repair that was fully warranted by the technical necessity of the crisis, successfully making every single antique clock in the hall strike noon at the exact same moment.
 
-Story 516
+Story 0516
 
 damn — （动词/副词/感叹词）该死；严厉谴责；（诅咒）bleach — 漂白；使褪色；（名词）漂白剂aggression — 侵略；攻击性；侵犯行为bonny — 漂亮的；健美的；有吸引力的（亦作 bonnie）shove — 猛推；乱塞；挤撞loon — 潜鸟；疯子；傻瓜resume — 恢复；继续；重新占用sketchy — 粗略的；不完全的；可疑的fundamental — 根本的；基础的；（名词）基本原则mitigate — 缓和；减轻；缓解
 
 The Loon on Whitewater Lake
 “Damn this sketchy and incomplete route map,” muttered the bonny young canoeist as a wild arctic loon let out a haunting cry directly overhead. Knowing time was short, she had to quickly shove her boat off the muddy riverbank before the upstream chemical factory runoff could permanently bleach the shoreline reeds. Her goal was to safely resume her ecological field survey and gather a pool of fundamental scientific evidence to successfully mitigate the industrial mill owner's ongoing legal aggression toward local conservationists.
 
-Story 517
+Story 0517
 
 jamb — 门框侧柱；窗框侧壁；（动词）卡住/夹伤buffoon — 小丑；滑稽可笑的人；粗俗的蠢货askance — 怀疑地；斜眼地；不赞成地（常构成 look askance at）predilection — 偏爱；嗜好；钟爱（常构成 predilection for）neonate — 新生儿redeem — 弥补；赎回；挽回（名誉）；履行（诺言）premeditated — 预谋的；有预谋的confess — 坦白；承认；供认reverberate — 回响；产生深远反响；轰鸣thump — 重击声；砰然跳动；（动词）砰砰地响/重击
 
 The Thump Behind the Jamb
 The exact moment an ominous, rhythmic thump began to loudly reverberate from behind the heavy wooden nursery door jamb, the lead head nurse looked askance at an orderly who was notoriously known as a brainless buffoon with a childish predilection for performing workplace pranks. Caught under her sharp glare, he was forced to nervously confess that his premeditated practical joke had accidentally trapped the electric neonate warming blanket mechanism inside the wall cavity. To redeem himself, he had to carefully dismantle the frame to free the life-saving gear safely.
 
-Story 518
+Story 0518
 
 credo — 信条；宗旨preen — （鸟）梳理羽毛；精心打扮；（因某事而）沾沾自喜agog — 兴奋期待的；极度好奇的spell — 一段时间；轮班；（动词）拼写；意味着bar — 酒吧；吧台；栅栏；法庭；（动词）阻挡/禁止outshine — 胜过；比……耀眼；使黯然失色astringent — 收敛性的；严厉的；（味道）酸涩的；（名词）收敛剂pantry — 食品储藏室；配膳室skew — 歪斜；曲解；使偏斜；（形容词）歪斜的relentless — 不懈的；无情的；持续不断的
 
 The Pantry Peacock
 The village was absolutely agog when a giant wild peacock smoothly slipped past the local inn's crowded main bar to comfortably preen its feathers inside the quiet food pantry. Along the way, its relentless pecking accidentally toppled and spilled a bottle of the chef's expensive, astringent citrus cordial. For one comic spell of about twenty minutes, the beautiful bird seemed fully ready to culturally outshine the eccentric head chef, whose personal storytelling credo was never to let dry, boring facts skew a genuinely good dramatic tale.
 
-Story 519
+Story 0519
 
 judicial — 司法的；审判的；公正明断的hieroglyphic — 象形文字的；难解的；（名词常复数）象形文字glower — 怒视；投以怒目；（名词）怒视pullet — 小母鸡（尤指一岁以内尚未下蛋的母鸡）chauvinistic — 沙文主义的；盲目自大的；极端爱国主义的puncture — 刺穿；（使）泄气；（名词）小孔/刺伤postpone — 推迟；延期dilate — 扩大；使膨胀；详述（瞳孔等在黑暗中放大）quail — 畏缩；胆怯；（名词）鹌鹑porous — 多孔的；有渗透性的；有气孔的
 
 The Pullet and the Stone Tablet
 A stray farm pullet accidentally scratched what looked like a historic hieroglyphic mark onto a highly fragile, porous limestone courthouse tablet on display. This minor incident prompted a highly chauvinistic museum curator to furiously glower at the guards and aggressively demand a formal judicial inquiry. Amused by the absurdity, the presiding judge flatly refused to postpone his scheduled lunch hour. Instead, he quietly watched the bird sharply puncture a nearby grain sack, and saw the curator's eyes dilate in complete shock as even the naturally timid wild quail outside the window began to match and copy the exact same pattern.
 
-Story 520
+Story 0520
 
 discerning — 有眼光的；敏锐的；有识别力的encapsulate — 概括；封装；压缩bridle — 马笼头；（引申为）抑制；控制transaction — 交易；业务；办理ventilate — 通风；公开讨论；表达（情绪）snob — 势利小人；自命不凡者diagram — 图表；图解；示意图quasi — 类似的；准的；纯粹手势上的increment — 增量；增加；微调arresting — 引人注目的；醒目的；迷人的
 
 The Arresting Saddle Design
 A highly discerning veteran saddler used a visually arresting technical diagram to perfectly encapsulate exactly how each tiny structural increment in leather bridle tension physically affected a horse’s movement. However, when an arrogant corporate snob callously dismissed the quasi-scientific display as completely useless during a high-value purchase transaction, she refused to lose her temper. Instead, she calmly opened the massive workshop bay doors to thoroughly ventilate the stuffy room, led the customer out to the stables, and effortlessly proved every single engineering measurement on a live stallion.
 
-Story 521
+Story 0521
 
 founder — 创办人；建立者；（船只）沉没；（计划）失败diameter — 直径fluffy — 蓬松的；轻软的；绒毛状的arrogate — 擅取；侵占；僭称（常构成 arrogate credit/power to oneself）deadpan — 面无表情的；冷面笑匠的；呆板的emerald — 祖母绿；翡翠；翠绿色的buck — 雄鹿；公羊；（美钞）；（动词）猛烈反抗/尥蹶子bandage — 绷带；（动词）用绷带包扎ferrous — 含铁的；亚铁的imp — 小淘气；顽童；小恶魔
 
 The Emerald Compass
 The famously deadpan museum founder firmly refused to arrogate any credit to herself when a fluffy-haired village imp unexpectedly discovered a rare raw emerald buried right beside a historical ferrous compass. During the excitement, a startled wild buck accidentally caught its leg on a circular steel display rail measuring exactly one meter in diameter. Remaining completely composed, the founder quickly used her own wool neck scarf as an emergency bandage to soothe the animal, successfully securing its leg and rescuing it without causing a scene.
 
-Story 522
+Story 0522
 
 nymph — 宁芙（山林水泽仙女）；（昆虫的）若虫/幼虫nausea — 恶心；作呕；极度厌恶deposit — 沉积物；存款；押金；存放detached — 分离的；超然的；客观看待的；孤立的purity — 纯净；纯度；纯洁intrigue — 激起兴趣；引发好奇；（名词）阴谋/诡计overexposure — 过度曝光；过度接触；暴露过度deplete — 耗尽；大量减少；使枯竭assemble — 集合；组装；聚集mottle — 使呈斑驳状；使有杂色；斑点
 
 The Nymph in the Salt Pool
 A detached insect wing discovered right beside a rare dragonfly nymph began to heavily mottle and discolour after suffering from sudden overexposure to a strange, radioactive mineral deposit. Intrigued by the anomaly, an elite team of university biological researchers quickly assembled at the edge of the remote coastal salt pool. Despite suffering from a localized wave of heat nausea in the sun, lead scientist Leila masterfully traced the true source of the scientific intrigue to a strain of invasive algae that aggressively deplete oxygen levels overnight, all without reducing the water's crystalline apparent purity.
 
-Story 523
+Story 0523
 
 hibernate — 冬眠；蛰伏；（引申为）闲居sheathe — 把（刀、剑）插入鞘；覆盖；包裹counterbalance — 抗衡；平衡物；（动词）起平衡作用/抵消espousal — 支持；拥护；信奉；婚礼bravado — 虚张声势；逞强；蛮干trustworthy — 值得信赖的；可靠的clannish — 排他的；宗族观念强的；不爱与外人打交道的impenitent — 不悔改的；顽固不化的retail — 零售；零售的；（动词）详述/唠叨staid — 稳重的；古板的；严肃的
 
 The Bear-Safe Market
 Right before the local mountain bears were scheduled to naturally hibernate for the winter, a remarkably staid and trustworthy forest ranger visited every single merchant at the mountain retail market. She strictly commanded them to carefully sheathe their butchering knives and heavily secure their organic food lockers by curfew. Her vocal espousal of these strict new safety rules initially met with intense, clannish resistance and a wave of impenitent bravado from the older local vendors. However, her newly engineered heavy steel market gate served as a flawless mechanical counterbalance against the animals, successfully saving the entire facility from a chaotic midnight raid.
 
-Story 524
+Story 0524
 
 disgruntle — 使不满；使怨恨vicar — 教区牧师peep — 窥视；偷看；（鸟、鼠等）吱吱叫；（车辆的）嘟嘟声aspect — 方面；外观；方位；朝向dissect — 解剖；仔细剖析；切开injurious — 有害的；侮辱性的；带来伤害的endure — 忍受；容忍；持续；持久inventory — 清单；财产盘点；存货reprehend — 谴责；指责；非难disengage — 脱离；松开；使解脱
 
 The Bell-Rope Mystery
 A faint, muffled peep coming from high up in the belfry led the quick-thinking vicar to immediately disengage the emergency pull rope and closely inspect every functional aspect of the old iron mechanism. Rather than publicly reprehend the nervous church caretaker or aggressively dissect his weekly maintenance inventory in front of the congregation, she climbed the rafters herself. There, she discovered an injurious thorn trapping a tiny, wild swift, whose frantic cries would understandably disgruntle anyone forced to endure them throughout the quiet night.
 
-Story 525
+Story 0525
 
 deference — 尊重；顺从；敬意shuttle — 穿梭；航天飞机；（短途穿梭的）班车/渡轮；梭子missile — 导弹；投射物；飞弹aureole — 光环；日冕；圣光underscore — 强调；在……下划线depredation — 掠夺；破坏；蹂躏（常复数 depredations）liberate — 解放；释放；使解脱compartment — 隔间；（火车、汽车的）车厢/置物箱；划分flaggy — 富含扁石的；多旗帜的；像旗帜般飘动的；（植物）多菖蒲的rigmarole — 冗长复杂的程序；废话；胡言乱语
 
 The Aureole Above Flaggy Moor
 With deep deference to local ancestral custom, Iona decided to skip the town hall's tedious permit rigmarole and immediately took an emergency rescue shuttle straight across the treacherous, flaggy moor. Mid-trek, a bright distress flare suddenly rose into the dark night sky like a missile, burning with a vivid, glowing aureole. The direct tracking beam successfully helped her locate and liberate a wild owl trapped inside a hidden compartment of an illegal wire cage, allowing her to definitively underscore the poachers' destructive depredation of the nature reserve to the local press.
 
-Story 526
+Story 0526
 
 operative — 工作中的；运行着的；有效的；（名词）特工/探员/技工distant — 遥远的；疏远的；冷淡的；心不在焉的daubster — 拙劣的画匠；糟糕的画家mariner — 水手；船员magpie — 喜鹊；喜欢收集零碎物品的人；喋喋不休的人windbag — 夸夸其谈的人；空谈家tureen — 盖碗；（盛汤用的）大盖汤碗saucy — 无礼的；俏皮的；傲慢的；漂亮的loosen — 松开；放宽；解开；使松动ready — 准备好的；现成的；乐意的
 
 The Magpie's Painted Map
 A newly arrived mariner from a distant sea hired a local daubster to paint a detailed map of his shipping route onto an expensive porcelain tureen. However, a saucy wild magpie suddenly swooped down and stole the paintbrush right from the canvas, all while a notorious local windbag loudly offered useless advice on the dock. The operative clue to finding the map's coordinates turned out to be a bright blue feather left on a branch. Once she was fully ready to climb the old oak tree, the mariner's daughter could loosen the tangled nest cord and safely recover her father's original blueprint.
 
-Story 527
+Story 0527
 
 trespass — 擅闯（他人土地）；侵犯；违犯；（名词）擅闯/过失absenteeism — 旷工；旷课；（地主的）长期在外mistimed — 时机不当的；极其不合时宜的summation — 总结；总和；（法庭）结辩陈词benign — 良性的；和善的；（气候）宜人的hem — 衣边；裙边；（动词）给……缝边/包围liberty — 自由；擅自的越轨行为；特许（权）subsist — 维持生活；勉强生存；存在；（法律）有效testify — 作证；证明；表明conduct — 行为；举止；实施；管理；（动词）指挥/引导/实施
 
 The Seamstress of Liberty Orchard
 Accused of illegal criminal trespass after a poorly mistimed afternoon picnic, a humble local seamstress confidently offered to testify before the court that countless local families routinely subsist entirely on fallen fruit collected from the historic Liberty Orchard. Her flawless personal conduct and exceptionally low absenteeism record as a seasonal orchard worker—along with her polite, creative offer to hem the aging caretaker's torn winter coat—heavily informed the magistrate's final, remarkably benign summation of the case, leading to an immediate dismissal of all charges.
 
-Story 528
+Story 0528
 
 careworn — 忧悴的；疲惫的；饱经风霜的prepossessing — 讨人喜欢的；有魅力的；给人好感的witch — 女巫；巫婆；（动词）施巫术/迷住eulogize — 颂扬；赞美；称赞valedictory — 告别的；告别致辞；（名词）告别演说auxiliary — 辅助的；备用的；附属的；（名词）辅助人员/助动词rung — （梯子的）梯级/横档；（椅子的）横撑；ring的过去分词scuff — 磨损；磨坏（鞋尖等）；拖着脚走；（名词）磨损处augur — 预示；成为……的预兆；占卜师；预言家wroth — 愤怒的；暴怒的
 
 The Last Rung of Moon Tower
 A deeply careworn, elderly witch slowly climbed the very last wooden rung of the towering Moon Tower to deliver her lifetime valedictory address and highly eulogize the brilliant work of her prepossessing young apprentice. A prominent new scuff mark discovered on the casing of their auxiliary brass telescope initially seemed to augur an impending disaster to the apprentices. Instead, upon closer alignment, the clean lens perfectly revealed the path of a historic incoming comet, a stunning cosmic event that instantly made the once wroth and skeptical town council stand up and cheer.
 
-Story 529
+Story 0529
 
 outfox — 智胜；骗过；以计谋胜过prank — 恶作剧；开玩笑sycophant — 马屁精；谄媚者；阿谀奉承者pedestrian — 行人；徒步的；（引申为）平淡无奇的；乏味的heartrending — 令人心碎的；极其悲惨的hoist — 吊起；升起；提升；（名词）起重机/吊车dehydrate — 使脱水；使干燥；脱水imposing — 壮观的；威严的；气势宏伟的school — 学校；学派；（鱼、鲸等海洋生物的）群；（动词）成群结队sprain — 扭伤；（名词）扭伤
 
 The Banner Above Gull School
 Hoping to completely outfox a manipulative corporate sycophant who had planned a cruel, destructive publicity prank, a brave local pedestrian masterfully operated an imposing industrial crane to hoist a giant rescue banner high above the Gull School maritime harbor. The heartrending, desperate cry of a stranded baby seal nearby made her entirely ignore a painful wrist sprain she had sustained earlier. She kept working resolutely, even though the intense midday summer heat began to severely dehydrate her long before emergency medical help officially arrived at the docks.
 
-Story 530
+Story 0530
 
 lumen — 流明（光通量单位，缩写为 lm）unregenerate — 不悔改的；未改造的；顽固不化的；（宗教）未得新生的barb — （鱼钩、箭头的）倒钩；（无情、尖刻的）批评/嘲讽的话coat — 外套；大衣；（动物的）皮毛；（动词）覆盖/涂上一层ruse — 诡计；策略；骗局unimpassioned — 冷静的；不动感情的；理智客观的induce — 诱导；引起；导致；催产base — 基部；底部；基础；（形容词）卑劣的/低劣的duel — 决斗；（两人、两派间的）激烈竞争/对抗；（动词）决斗/竞争soluble — 可溶的；易溶的；可解决的
 
 The Thousand-Lumen Duel
 During a high-stakes, thousand-lumen theatrical lamp engineering duel, an unregenerate rogue inventor used an underhanded ruse to heavily coat his bulb's electrical base with an illegal, highly soluble liquid salt solution to induce a brilliant, artificial flash of light. Standing across the workbench, his veteran rival calmly gave a quiet, unimpassioned warning to the judges. She pointed out that if the base short-circuited, every single sharp glass barb of the expanding, cracked light fixture could instantly shatter and scatter explosively across the public stage.
 
-Story 531
+Story 0531
 
 patriotism — 爱国主义；爱国心；爱国情怀annoy — 使恼怒；打扰；使烦恼originality — 独创性；新颖；创意pleonastic — 赘述的；冗词的；含有不必要重复的synthesis — 综合；合成；（化学）合成物；（哲学）综合体underdog — 处于劣势者；（比赛中）不被看好的一方；弱者individual — 个人；个体；独特的；个别的；（形容词）独特的/一脉相承的critique — 评论；批评；批判性分析；（动词）发表评论evoke — 唤起；引起；激起（情感、记忆等）bud — 芽；蓓蕾；（动词）发芽/开始发育
 
 The Underdog's Paper Garden
 A quiet, individual mixed-media artist, who was widely considered the absolute underdog in a high-profile national design contest, meticulously folded every single delicate paper flower bud into a stunning structural synthesis of regional folk art styles. Her brilliant creative originality deeply impressed the international panel of judges, completely overshadowing a pleonastic, overly wordy written critique from a rival team that had merely served to annoy the committee. Ultimately, the serene, breathtaking paper garden came to beautifully evoke a generous, unifying sense of modern patriotism among the spectators.
 
-Story 532
+Story 0532
 
 incision — 切口；切割；雕刻blackmail — 勒索；敲诈；（动词）勒索/胁迫provision — 供给；供应；（法律、合同的）条款/规定；准备grill — （烤架）烧烤；烤炉；（动词）严厉盘问/拷问/烧烤stoke — 添燃料；（给火炉）加煤；激起（愤怒/恐惧等）photorespiration — 光呼吸（植物在光照下消耗氧气释放二氧化碳的过程）squash — 压扁；挤碎；（运动）壁球；（植物）南瓜/西葫芦；（动词）压制/平息slouch — 懒散的站姿/坐姿；无精打采地走；（动词）没精打采地坐/站/走shrewd — 精明的；敏锐的；机灵的concession — 让步；妥协；特许权；（价格上的）优惠
 
 The Greenhouse Cut
 After a deep, deliberate incision in a main automated greenhouse water pipe clearly exposed an act of industrial sabotage, Mara firmly refused to yield to the criminal's extortionist blackmail. While her loyal lab workers calmly stoked the facility's heavy baseline boiler and used a nearby portable grate to grill fresh winter squash for their lunch, she invoked a highly shrewd, forgotten insurance provision in the property lease. This clause allowed her to aggressively grill the primary culprit about his illegal attempt to stoke public market panic over a fictional photorespiration crisis, causing his arrogant, habitual slouch to instantly vanish the moment he made a final, complete legal concession before the police.
 
-Story 533
+Story 0533
 
 espy — 窥见；远远看见；发现carve — 雕刻；切开；（通过努力）开创plenitude — 丰富；充足；完全（亦写作 plentitude）forswear — 发誓放弃；坚决戒除；否认glitter — 闪耀；华丽；流光溢彩；（名词）闪光clog — 堵塞；阻碍；木底鞋；（动词）阻塞contrite — 悔恨的；痛悔的vintner — 葡萄酒商；酿酒师hearken — 倾听；听从（亦写作 harken）chaff — 谷壳；糠皮；（戏谑性的）开玩笑/逗弄
 
 The Bell in the Vineyard
 At dusk, the weary vintner could just espy a strange, metallic glitter reflecting beyond the rows of grapevines. He paused on the trail to carefully hearken to the wind, eventually discovering that a massive pile of dry grain chaff had been tightly packed into the historic chapel bell as a deliberate clog. His heart sank, and he grew deeply contrite as he realized his arrogant public boasts about the autumn harvest's immense plenitude had deeply angered the struggling village. Resolving to mend relations, he chose to completely forswear his pride and carve a beautiful, handwritten apology directly into the timber of the old gate.
 
-Story 534
+Story 0534
 
 visage — 面容；脸；外表dictum — 格言；名言；权威意见discord — 不和；纷争；（音乐）不和谐音wrinkle — 皱纹；（布/纸的）褶皱；（引申为）小难题/窍门secretive — 秘而不宣的；遮遮掩掩的；极其守秘密的easel — 画架linger — 逗留；流连；持续（存在）；（因病）苟延残喘axle — 车轴；轮轴stout — 结实的；粗壮的；矮胖的；勇敢坚定的shanty — 简陋棚屋；小木屋；（旧时水手的）船歌（亦作 shantey）
 
 The Portrait in the Shanty
 Deep inside a drafty wooden shanty located right by the busy commercial harbor, a highly secretive portrait painter carefully set his stout oak easel right beside a rusted, broken wagon axle. He sat quietly for hours to study each deep wrinkle etched upon the aging captain's weathered visage. The painter's lifelong artistic dictum was that honest, raw art must always outlast temporary human discord. True to his word, he let the very final echoing note of a traditional sailors' shanty linger in the warm room before finally turning the canvas around to reveal the finished masterpiece.
 
-Story 535
+Story 0535
 
 threat — 威胁；恐吓；凶兆；隐患raptorial — 猛禽的；捕食性的；适应于掠夺的intertwine — 缠绕；（使）交织/紧密相连cosy — 舒适的；惬意的；亲密无间的（美式拼写：cozy）colonnade — 柱廊；（排列整齐的）树群hallmark — 标志；特征；（金银器上的）纯度印记mercantile — 商业的；商人的；重商主义的matrix — 矩阵；（地质）基体/脉石；母体；模型idyll — 田园乐章；田园诗；优美宁静的风景/生活（亦作 idyl）arrant — 彻头彻尾的；臭名昭著的；极坏的
 
 The Falcon Above the Colonnade
 A sudden raptorial shadow swiftly crossed the grand marble colonnade, appearing at first like a dark physical threat to the town's cosy open-air market idyll. However, upon looking closer, an alert merchant noticed a thick vine of wild ivy beautifully intertwine around a buried brass engraving matrix. Recognizing the object as the official hallmark of a rare, ancient mercantile navigation map, he held it up to the crowd, successfully demonstrating to the nervous authorities that the recent, arrant rumor of buried insurgent weapons in the plaza was entirely false.
 
-Story 536
+Story 0536
 
 fabric — 织物；布料；（社会/建筑物等的）结构/基本构造slumber — 睡眠；沉睡；（动词）睡眠/微睡illegitimate — 非法的；（法律）非婚生的/私生的；不合理的gene — 基因rapacious — 贪婪的；掠夺成性的；（动物）强夺的taxing — 费力的；繁重的；有压力的stolid — 表达冷漠的；迟钝的；缺乏热情的malodor — 恶臭；难闻的气味（亦作 malodour）downpour — 倾盆大雨；暴雨notorious — 臭名昭著的；声名狼藉的
 
 The Cloth Mill Storm
 During a violent midnight summer downpour, a notorious and rapacious textile mill owner woke with a start from his deep slumber when a choking, toxic chemical malodor suddenly filled his private offices above the dye room. Running downstairs, a stolid and unblinking young apprentice carefully traced the thick vapor through the mill's woven fabric water filters. He discovered that the smell came from an illegal, illegitimate commercial bio-experiment involving a gene-edited variant of synthetic mold. The dangerous and highly taxing cleanup rescue operation that followed finally forced the shamed owner to permanently close the laboratory for good.
 
-Story 537
+Story 0537
 
 guru — 大师；权威；专家certainty — 确定性；确信；必然的事brood — 一窝幼鸟/幼崽；（因担忧而）忧思；沉思advisable — 明智的；可取的；明智的stalemate — 僵局；（国际象棋）和棋；（动词）使陷入僵局cornet — 短号；圆锥形纸袋；冰淇淋锥形筒contented — 满足的；心满意足的ruminant — 反刍动物；（形容词）反刍的/沉思的disfranchise — 剥夺公民权；剥夺权利（亦作 disenfranchise）pun — 双关语；说双关语
 
 The Election at Clover Farm
 The village agricultural guru declared with absolute certainty that it was entirely not advisable to disfranchise any local farmer, even a quietly contented parent whose energetic brood helped raise the valley's ruminant livestock. When the town hall debate reached a tense political stalemate, she calmly lifted a brass cornet and instantly ended the room's defensive tension with a clever pun about every single ballot having true "pasture value."
 
-Story 538
+Story 0538
 
 governance — 治理；管理；统治方式arraign — 传讯；控告；提审philanthropic — 慈善的；博爱的；赞助慈善的quarantine — 隔离；检疫；（动词）隔离/检疫brattish — 顽劣的；孩子气的；不听话的（亦作 bratty）littoral — 沿海的；滨岸的；（名词）沿海地带trigger — 触发；引起；（名词）扳机/触发器fury — 狂怒；暴怒；（狂暴的）自然力量convey — 传达；表达；运输；运送defraud — 诈骗；欺骗；不法剥夺
 
 The Littoral Relief Boat
 During a strict medical quarantine at a littoral community clinic, a brattish courier aggressively tried to defraud a private philanthropic relief fund. However, the facility's highly transparent governance allowed the head nurses to smoothly convey the financial evidence to the police, trigger an immediate federal inquiry, formally arraign the culprit despite his explosive fury, and safely recover their emergency maritime relief boat right before the storm hit.
 
-Story 539
+Story 0539
 
 remainder — 剩余部分；余数；残存者；（动词）廉价出售（剩书）impalpable — 难以触知的；无法摸到的；微妙而难以捉摸的clumsy — 笨拙的；（物品）粗陋的/不便使用的relaxation — 放松；缓和；消遣；娱乐bewitching — 迷人的；令人着魔的；妖娆的protocol — 礼仪；外交礼节；（科学/医疗）规程/协议ticklish — 怕痒的；（问题）棘手的/冒风险的/需谨慎处理的texture — 质地；（食物的）口感；（音乐/文学的）结构sly — 狡猾的；诡诈的；暗中的；会意的ransom — 赎金；赎回；（动词）赎回/勒索赎金
 
 The Bewitching Carpet
 A sly antique dealer aggressively demanded a massive cash ransom for a reportedly bewitching Persian carpet. However, its strange, impalpable metallic shimmer and unusually rough structural texture quickly exposed the textile as nothing but a clumsy modern copy. Following strict museum protocol throughout the highly ticklish negotiation, Lina successfully secured the genuine remainder of the private historical collection and finally enjoyed a welcome hour of complete relaxation.
 
-Story 540
+Story 0540
 
 sedulity — 勤勉；专心；孜孜不倦grovel — 卑躬屈膝；唯唯诺诺；匍匐；爬行crumble — 崩碎；瓦解；（食物）弄碎；（名词）碎屑slab — 厚板；（石/木/肉的）大块厚片intangible — 无形的；难以捉摸的；（名词）无形资产constellation — 星座；（群星璀璨的）群体/荟萃fascinate — 使着迷；使极其心动ploy — 策略；花招；（巧妙的）计谋stethoscope — 听诊器ingenue — （戏剧/电影中的）天真少女/清纯女角；天真无邪的女孩（亦作 ingénue）
 
 The Star Map Beneath the Slab
 With remarkable, professional sedulity, a young ingenue playing the lead role of a doctor used her theatrical stethoscope to carefully detect a strange hollow resonance beneath a heavy concrete stage slab. As the old wall plaster began to visibly crumble under her touch, she firmly refused to grovel before her arrogant director. She boldly exposed his cheap corporate publicity ploy, and successfully uncovered a beautifully hidden, intangible etched pattern of musical notes shaped exactly like a cosmic constellation that would permanently fascinate the credit-starved whole cast.
 
-Story 541
+Story 0541
 
 notability — 名人；显著；值得注意的事物punch — 猛击；潘趣酒（一种混合果汁酒）；（动词）打孔/猛击irritable — 易怒的；暴躁的；易受刺激的ripple — 涟漪；波动；（声音等）起伏；（动词）荡漾/泛起涟漪vaporous — 蒸气般的；多蒸气的；空幻的；虚无的（亦作 vapourous）cloister — 修道院回廊；隐居处；（动词）使隐居/禁锢于修道院comestible — 可食用的；（名词常复数）食品/食物roister — 喧闹作乐；狂欢；招摇过市hydrant — 消防栓；水龙头predominate — 占主导地位；占优势；（在数量上）占绝大多数
 
 The Cloister Feast
 An irritable local notability aggressively tried to roister inside the quiet monastery cloister with a massive ceremonial bowl of spiked fruit punch. However, a sudden burst water hydrant outside sent an immediate ripple of panic through the misty, vaporous dining hall. Rational calm soon began to heavily predominate when the resourceful monks successfully saved every single hot comestible dish from the flooding water and politely invited their drenched, embarrassed guest to quietly sit down and share a peaceful supper.
 
-Story 542
+Story 0542
 
 collected — 镇定的；泰然自若的；收集在一起的legend — 传说；传奇人物；（地图/图表处的）图例/说明yarn — 纱线；（长篇）故事；（动词）讲故事retouch — 润色；修整；（照相）修版unison — 齐奏；齐唱；一致；协调（常构成 in unison）filly — 小母马（尤指四岁以下的小雌马）；活泼的女孩factorable — 可因式分解的；可归纳出因数的redistribution — 再分配；重新分配intuition — 直觉；直觉力barren — 贫瘠的；不育的；荒凉的；枯燥无味的
 
 The Filly and the Woven Map
 Guided entirely by raw intuition, a collected young girl carefully followed a historic landscape legend woven in thick red yarn. She paused at each stone marker to gently retouch its faded geographic symbols, masterfully leading a lost, shivering filly across miles of barren high-desert ground. The factorable geometric numbers carved onto each tribal marker eventually revealed a beautifully fair, forgotten redistribution of regional water wells, causing the grateful incoming settlers to stand up and cheer in perfect unison.
 
-Story 543
+Story 0543
 
 exotic — 异国的；奇特的；具有异国情调的tattle — 泄密；告密；闲聊inculcate — 反复灌输；极力教导boggle — （因惊愕而）犹豫；使惊讶；使困惑tipple — 经常饮酒；贪杯；（名词）烈酒pennant — 三角旗；锦旗feisty — 活跃好斗的；精力充沛的；刚毅的satisfied — 满意的；满足的finale — 终场；终曲；结局laggard — 落后者；迟缓者
 
 The Pennant at the Finale
 Hoping to deeply inculcate a necessary sense of intense teamwork before the highly anticipated exotic street parade finale, the feisty team captain sternly warned every potential laggard on the squad not to tattle to the press or tipple backstage. Although the dynamic, acrobatic dance route was complex enough to completely boggle any nervous newcomer, the entire proud troupe successfully finished their routine directly beneath the stadium's golden championship pennant, utterly exhausted but deeply satisfied.
 
-Story 544
+Story 0544
 
 acuity — 敏锐；敏度；（视力/听力/智力的）尖锐性consensus — 共识；一致意见validate — 验证；认可；使生效；证实quaver — 发颤音；颤抖；（名词）颤音；颤抖；八分音符syndrome — 综合征；典型表现scab — 痂；（伤口结的）疤；工贼（拒绝参加罢工的工人）sod — 草皮；草地；（俚语）讨厌鬼insincerity — 不真诚；虚伪；虚情假意timber — 木材；原木；树木；大木料ineffable — 难以言喻的；不可言传的；神圣不可冒犯的
 
 The Song Beneath the Timber
 Her exceptional diagnostic acuity helped validate that the lead singer's sudden vocal quaver actually came from a rare neurological syndrome rather than basic emotional insincerity on stage. After the village council finally reached a compassionate consensus regarding the accident, strong forestry workers lifted the massive fallen pine timber that had pinned the theater roof. They gently laid fresh green sod over the torn earth like a healing skin scab, and stood back as they heard the artist deliver an ineffable, hauntingly beautiful final song to the valley.
 
-Story 545
+Story 0545
 
 coax — 哄劝；劝诱；巧言诱导brocade — 织锦；锦缎；用织锦缎装饰exculpate — 开脱（罪责）；证明……无罪marrow — 骨髓；精华；精髓；（英式）西葫芦croak — （青蛙/乌鸦）呱呱叫；（人因嗓子干哑）低沉嘶哑地说juggernaut — 无法抗拒的强大力量；巨型卡车/重型车辆reconcile — 调和；使和解；使一致；（顺从地）接受（困境）metallurgy — 冶金学；冶金术veterinary — 兽医的；兽医circuitous — 迂回的；绕行的；（言语）拐弯抹角的
 
 The Brocade Elephant
 While on a highly circuitous emergency veterinary mission through the crowded festival grounds, Priya had to gently coax a panicked elephant away from a massive parade juggernaut that was heavily draped in golden brocade. A specialized academic consultant in metallurgy carefully traced a sharp metallic shard lodged deep near the animal's leg bone marrow straight back to a cracked wheel axle on the float. Meanwhile, a local handler's urgent warning croak loudly alerted the medical team to the shifting structural danger; this definitive engineering evidence successfully helped to exculpate the innocent driver and completely reconcile two deeply anxious families.
 
-Story 546
+Story 0546
 
 palette — 调色板；（画家/设计师使用的）整套色彩/色彩范围glorify — 颂扬；美化；赞美（神）unscented — 无香味的；无气味的brooch — 胸针；领针potboiler — （为糊口而）粗制滥造的文艺作品/商业小说marked — 显著的；明显的；有记号的badger — 纠缠；烦扰；大肆质问；（名词）獾cabal — （政治）阴谋集团；秘密派系guillotine — 断头台；（切纸/切钢板的）大型切纸机/断头机；（动词）用断头台处死rote — 死记硬背；机械的程序（常构成 by rote）
 
 The Brooch in the Potboiler
 A heavily marked page hidden deep inside an old, forgotten Victorian potboiler novel safely led the head museum curator to an unscented envelope containing a priceless antique brooch. Her chemical analysis of the artifact's tiny, enameled artist palette clearly proved that the piece did not seek to glorify the old oppressive regime, but instead cleverly exposed a secret aristocratic cabal. Armed with this historical proof, no aggressive reporter could badger her into repeating by rote the long-accepted city myth that the treasure belonged beneath the museum's grim, miniature guillotine display model.
 
-Story 547
+Story 0547
 
 unnoticed — 未被注意的；被忽视的draftsmanship — 绘图技艺；设计图样水平；起草技巧minimize — 最小化；使减到最少；贬低……的重要性/淡化shale — 页岩fleeting — 短暂的；飞逝的；转瞬即逝的crypt — （教堂地下的）地下室/地下墓穴fecundity — 丰饶；多产；繁殖力；（思维）肥沃reflect — 反映；映出；深思；思考（常构成 reflect on）palmy — 繁荣的；棕榈茂盛的；（尤指过去）鼎盛的unsubstantiated — 未经证实的；无事实根据的
 
 The Shale Door
 A long-ignored, unnoticed architectural sketch displayed absolutely superb technical draftsmanship, clearly showing the entrance to a forgotten structural crypt hidden directly beneath several heavy geological layers of black shale. Although conservative city officials aggressively tried to minimize the fleeting structural clue's historical importance by publicly calling the map completely unsubstantiated, a cache of ancient preservation seeds found inside the vault soon proved the valley's ancient, legendary agricultural fecundity. This undeniable physical proof ultimately forced global scholars to thoroughly reflect on the region's long-forgotten palmy past.
 
-Story 548
+Story 0548
 
 landfill — 垃圾填埋场purport — 声称；意图；主旨fold — 折叠；褶皱；（动词）折叠/合拢execrate — 憎恶；诅咒；痛骂nonporous — 无孔的；不渗透的；不透水的（亦作 non-porous）canvas — 帆布；画布；（动词）彻底检查/征求意见assail — 猛攻；轰炸；（因怀疑、恐惧等）困扰/抨击bungle — 搞砸；笨拙地处理；（名词）拙劣的工作upswing — 上升；好转；（经济/情绪的）高涨tear — 撕裂；扯破；（名词）眼泪/裂口
 
 The Canvas Over the Landfill
 Environmental volunteers carefully covered the municipal landfill with a massive, heavy-duty nonporous canvas, taking exceptional care not to tear or fold the delicate material during the process. Meanwhile, a group of local political critics who always purport to protect the town’s ancestral interests continued to relentlessly assail the engineering plan and publicly execrate its head designer. However, because no one on the ground managed to bungle the complex installation, the subsequent clean-air sensor readings quickly showed a highly welcome regional upswing.
 
-Story 549
+Story 0549
 
 deviation — 偏差；偏离；背离常规doldrums — 低迷；忧郁；赤道无风带（常构成 in the doldrums）hypotenuse — （直角三角形的）斜边preside — 主持（会议/仪式）；担任主席（常构成 preside over）deluxe — 豪华的；高级的；最顶级的pitch — 投掷；（声音的）音高；（足球等的）球场；（动词）投掷/搭帐篷turret — 炮塔；角塔；小塔楼file — 文件；档案；锉刀；（动词）把……归档/锉平defoliate — 使落叶；剥夺……的叶子dogged — 顽强的；坚持不懈的；执拗的
 
 The Turret Measurement
 Hoping to escape her deep, creative winter doldrums, a dogged young mathematics student used the long hypotenuse of a chalk-drawn triangle to accurately measure the height of the historic castle turret. She carefully recorded every micro deviation in her leather-bound field file, and politely asked her geometry teacher to formally preside over her final project pitch before the committee. Ultimately, even a sudden winter storm fierce enough to completely defoliate the courtyard trees did not stop her from winning the grand prize—a deluxe astronomical telescope.
 
-Story 550
+Story 0550
 
 digress — 离题；偏离主题firebrand — 煽动者；（政治）激进分子；燃烧的木条choice — 选择；抉择；（形容词）优质的/上等的/精心挑选的vest — 背心；汗衫；（法律）赋予/授予（常构成 vest in）fastness — 要塞；稳固；牢固；（色彩的）耐洗度kaleidoscope — 万花筒；千变万化的景象typhoon — 台风sociable — 好交际的；友善和蔼的；社交的rescission — 废除；撤销；（法律）解除合同/宣告无效indecipherable — 无法辨认的；字迹潦草的；难懂的
 
 The Contract in the Fastness
 While sheltering from a raging ocean typhoon inside a reinforced mountain fastness, a surprisingly sociable political firebrand unexpectedly discovered an indecipherable colonial contract tucked inside the hidden lining of his canvas vest. Rather than digress into his usual long-winded rants about old historical grudges, he smartly used a child's toy kaleidoscope to filter the light and reveal the chemical hidden ink beneath the text. Making the definitive choice to seek an immediate legal rescission of the deed, he successfully returned the ancient timber land rights to the valley village.
 
-Story 551
+Story 0551
 
 dimension — 维度；尺寸；特征；面积tractability — 易处理性；温顺；易驭性impervious — 不受影响的；不透水的；不能穿透的（常构成 impervious to）trepidation — 惊恐；惶恐；战栗supplement — 补充；增刊；附录；（动词）补充/增补sceptical — 怀疑的；不相信的（美式拼写：skeptical）exemplify — 例证；作为……的典型物；体现vicissitude — 变迁；兴衰；坎坷（常复数 vicissitudes）tempestuous — 狂暴的；动荡的；（情感等）剧烈起伏的wizened — 干瘪的；苍老的；皱缩的
 
 The Impervious Model
 With a trace of visible trepidation, a wizened old shipyard boatwright showed a highly sceptical city council his new scale model, whose precise third dimension could visually exemplify both the design's structural strength and the raw material's unexpected tractability. He confidently proved that after weathering every single tempestuous vicissitude at sea, the vessel's advanced, impervious synthetic outer coating would require only a small seasonal supplement of fresh organic resin to remain completely seaworthy.
 
-Story 552
+Story 0552
 
 sliver — 薄片；裂片；小碎块superlative — 最高级的；极佳的；卓越的；（名词）最高级词jape at — 嘲弄；戏弄；嘲笑cougar — 美洲狮；（俚语）熟女unscrupulous — 不择手段的；没有道德原则的nutrition — 营养；滋养；营养学recall — 回忆；召回；想起；（动词）回忆/收回suffocate — 窒息；压制；扼杀；使闷死epic — 史诗；宏大的；（形容词）英雄的/壮丽的fixate — 使专注；固着；（眼睛等）凝视（常构成 fixate on）
 
 The Cougar on the Ridge
 An unscrupulous trail guide aggressively tried to jape at a nervous novice hiker and continuously fixate on his own self-proclaimed, superlative hunting reputation. However, the quick-witted novice calmly recalled a childhood biology lesson on wild cougar nutrition and patterns, knowing that casting a small sliver of dried venison meat might safely lure the predatory animal away from their path. Her absolute poise during the epic mountain rescue successfully kept the heavy smoke from their signal fire from causing anyone on the ledge to suffocate.
 
-Story 553
+Story 0553
 
 parabola — 抛物线chaos — 混乱；无秩序状态tensile — 抗拉的；可伸展的；张力的fungi — 真菌（单数形式为 fungus）overwhelm — 压倒；淹没；使不知所措；无力承受kinetic — 运动的；动力学的；有活力的apoplectic — 暴怒的；中风的；气得浑身发抖的fester — 化脓；恶化；（怨恨等）积压加深presage — 预示；预兆；（动词）预示receptacle — 容器；插座；贮藏器
 
 The Parabolic Seed Vault
 A deep structural wall crack shaped precisely like a parabola seemed to eerily presage complete administrative chaos within the global seed vault, causing the paranoid director to grow outright apoplectic. However, a rapid kinetic engineering test soon showed that the underlying, high-tensile steel structural support cable remained entirely intact. Before absolute panic could overwhelm the anxious laboratory crew, toxic mold fungi could spread through the vents, or the damp wall cracks could fester, they safely sealed every electrical receptacle and systematically repaired the plaster.
 
-Story 554
+Story 0554
 
 faze — 使慌乱；打扰；使惊慌失措ramify — 分枝；产生分支；（引申为）向各方蔓延/后果扩大wizen — 使干瘪；使枯萎；（形容词）干瘪的（亦作 wizened）prate — 空谈；喋喋不休；胡扯（常构成 prate about）downplay — 淡化；低估……的重要性；贬低abstract — 抽象的；纯理论的；摘要；（动词）提取/分离gesture — 手势；姿态；示意动作；（动词）做手势raspy — 刺耳的；粗糙的；沙哑的hereditary — 遗传的；世袭的slue — 猛转；（车辆等）侧滑/打转（亦作 slew）
 
 The Orchard's Hidden Branch
 The raspy old botanist would constantly prate about an abstract, ancestral hereditary curse blighting the valley, but his ominous words did not faze Mina for a second when her research truck began to wildly slue beside a row of apple trees that seemed to prematurely wizen. With one direct, confident hand gesture toward the soil, she clearly demonstrated to her team how diseased fungal roots ramify extensively underground, firmly refusing to let the farm owners downplay the urgent necessity of a practical chemical cure.
 
-Story 555
+Story 0555
 
 contrived — 人为的；不自然的；精心设计的；做作的mirage — 海市蜃楼；幻象；幻想regulate — 调节；监管；控制；校准tribute — 贡品；颂词；致敬；体现recompense — 补偿；报酬；酬谢；（动词）赔偿/酬报somnolent — 困倦的；催眠的；昏昏欲睡的falsify — 篡改；证明为假；伪造（数据/文件）forbidding — 令人生畏的；严峻的；（外表）冷酷的extract — 提取；摘录；拔出；（名词）提取物/摘要rejoice — 欣喜；庆祝；高兴
 
 The Mirage Pump
 At a forbidding, remote desert outpost station, a somnolent night guard initially mistook a column of escaping steam for a mere heat mirage. However, a visiting field engineer quickly discovered a highly contrived, illegal bypass valve that had been rigged to artificially regulate the main water pump so that its wealthy corporate owner could extract far more than his fair share of the shared aquifer. Because their automated computer records would definitively falsify the thief's alibi claim, the grateful oasis town offered her a handsome financial recompense as a permanent tribute to her honesty, and joyfully gathered to rejoice.
 
-Story 556
+Story 0556
 
 rampart — 城墙；壁垒；防御土墙；（动词）保护woo — 追求；争取（支持等）；（动物）求偶magisterial — 威严的；权威的；长官公职的encomiast — 赞颂者；奉承者arbitrate — 仲裁；裁决；公断eccentric — 古怪的；异乎寻常的；偏心的；（名词）古怪的人bequeath — 遗赠；把……传给后代assoil — 赦免；洗清（罪恶）；释放locomotive — 机车；火车头；推动的；运动的otter — 水獭
 
 The Otter at the Rampart
 An eccentric, high-society encomiast arrived at the village by steam locomotive to passionately woo community support for building a protected wild otter sanctuary directly beside the town's historic stone rampart. Her magisterial aunt, who served as the region's chief magistrate, formally agreed to personally arbitrate the ongoing real estate land dispute. The ruling would completely assoil the falsely accused sanctuary keeper of environmental violations, and permanently bequeath the beautiful, lush riverside meadow to the town trust for conservation.
 
-Story 557
+Story 0557
 
 digestion — 消化；领会captious — 吹毛求疵的；爱挑剔的outspoken — 直言不讳的；坦率的appraise — 评估；鉴定；估价forage — 觅食；搜寻；粮草；饲料escapism — 逃避现实；幻想revise — 修订；修改；复习scissor — 剪；（像剪刀般）交叉移动ghastly — 可怕的；惨白的；极糟的defense — 防御；辩护；答辩（英式拼写：defence）
 
 The Forage Manual
 An outspoken wildlife ranger used a pair of sharp, heavy-duty scissor blades to carefully pry open a ghastly cardboard package and appraise its rotten, spoiled winter forage. However, when a captious regional editor sought easy escapism in comforting municipal myths rather than facing the park's crisis, the ranger firmly pushed back. She confidently chose to completely revise the official wilderness manual with hard, undeniable facts about local animal digestion, successfully strengthening the nature reserve's long-term defense against regulatory neglect.
 
-Story 558
+Story 0558
 
 pierce — 刺穿；穿透；洞察；看穿codify — 编纂；将……整理成法典/规范fleck — 斑点；微粒；（动词）使有斑点ancestry — 祖先；世系；血统fillet — 鱼片；肉片；带状物；（动词）把……切成片hunk — 大块；厚片；（俚语）健壮迷人的男子abusive — 辱骂的；虐待的；欺骗性的inhabit — 居住于；栖息在sop — 浸透之物；面包片；（旨在平息愤怒的）小恩小惠；（动词）浸湿frumpy — 邋遢的；衣着过时的；不吸引人的
 
 The Fleck on the Fillet Knife
 A tiny, faded fleck of industrial blue paint discovered on an antique fish fillet knife unexpectedly helped a frumpy local archivist pierce a century-old historical mystery. Her research revealed that an abusive colonial trader had once used a moldy hunk of rye bread as a quick, messy sop to clean his stamping ink while systematically forging tax records about the families who legally inhabit the island. Armed with this physical proof, she vowed to formally codify the historical evidence and permanently restore the rightful registry of their regional ancestry.
 
-Story 559
+Story 0559
 
 gingerly — 小心翼翼地；极其谨慎地immure — 禁闭；监禁；（在墙里）嵌入/筑进gall — 胆汁；（不可理喻的）厚颜无耻；使恼怒concise — 简明的；扼要的hurdle — 障碍；（赛跑中的）栏架；（动词）跨越indemnify — 赔偿；保障；使免受损失/法律责任explicit — 明确的；直率的；清晰显露的biennial — 两年一次的；（名词）二年生植物equity — 公平；公正；（公司的）资产净值/股票权益declamation — 慷慨陈词；朗诵；高调演讲
 
 The Biennial Gate
 At the town's prestigious biennial athletic games, corrupt track officials tried to completely immure a heavily damaged, splintered race hurdle behind a row of wooden advertisement boards to avoid a lawsuit. However, an injured runner boldly stepped gingerly forward in front of the crowd, delivering a concise, exceptionally explicit public declamation about administrative safety and equity. She possessed more than enough moral gall to comfortably stand her ground, ultimately forcing the wealthy corporate sponsors to fully indemnify every single athlete injured during the event.
 
-Story 560
+Story 0560
 
 woodcut — 木刻；木版画；木刻术solicitude — 关怀；挂念；焦虑reciprocal — 相互的；互惠的；（数学）倒数sensitization — 敏化；增敏；使产生意识nugatory — 无价值的；无效的；微不足道的amateur — 业余爱好者；外行；（形容词）业余的brag — 吹嘘；自夸；（名词）吹牛archive — 档案；档案馆；（动词）把……存档gnarled — 多节的；扭曲的；粗糙老化的precipitate — 促成；使突发；（化学）沉淀物；（动词）使沉淀
 
 The Gnarled Pear Woodcut
 A humble amateur artist completely refused to brag when her beautifully detailed woodcut of an ancient, gnarled pear tree was officially accepted into the national historical archive. Years of public sensitization to regional environmental conservation needs had taught her that a steady, reciprocal solicitude between independent artisans and museum keepers was critical to protecting old prints. She proved that such collaboration could easily prevent damp storage vault air from producing a pale, destructive chemical precipitate on paper, successfully ensuring that no careful, long-term restoration repair would ever be rendered nugatory.
 
-Story 561
+Story 0561
 
 hide — 隐藏；躲藏；（大动物的）兽皮/皮革mountainous — 多山的；巨大的；（波浪等）如山的大rotten — 腐烂的；糟糕的；腐败的idolater — 偶像拜者；盲目崇拜者subject — 主题；学科；国民；（动词）使遭受/使服从adore — 热爱；崇拜；极喜欢pilgrim — 朝圣者；朝圣旅人；（引申为）漫游者parochial — 狭隘的；教区的；地方性的succor — 救助；援助；（动词）救助/援助（亦作 succour）jovial — 快活的；友善的；开朗高兴的
 
 The Pilgrim's Mountainous Detour
 A jovial and adventurous traveling pilgrim unexpectedly discovered a deeply rotten, collapsing rope bridge spanning a dangerous gorge in the mountainous pass. He flatly refused to hide the severe physical danger from oncoming travelers, even though a greedy, parochial local idolater aggressively tried to subject the stranded vacationers to an extortionist roadside toll at the junction. Stepping into the dispute, nearby valley villagers who deeply adore the freedom of the open road quickly brought tools and financial succor to the site, happily rebuilding a safe, permanent stone crossing together.
 
-Story 562
+Story 0562
 
 accord — 协议；一致；符合；（动词）给予/相符intricate — 错综复杂的；精细复杂的perfidy — 背信弃义；背叛bale — 大包；大捆；灾祸；不幸decency — 体面；正派；合乎礼仪的举止roe — 鱼卵；雌鱼肚miniature — 微型的；缩影；（名词）微型画/微缩模型debunk — 揭穿；驳斥；暴露……的真相hanker — 渴望；向往；苦苦思恋（常构成 hanker after/for）glow — 发光；红光；（因喜悦、运动等产生的）容光焕发/满足感
 
 The Miniature Hatchery
 Hoping to definitively debunk widespread local rumors of commercial perfidy, two competitive fishers systematically opened each heavy bale of nets under the municipal fishery hatchery's warm evening glow. Inside the gear, they successfully discovered a miniature tracking tag tucked right beside a batch of valuable sturgeon roe. Their intricate physical evidence instantly restored a sense of professional decency to the local industry, produced a formal cooperative safety accord, and finally allowed both rival families to peacefully hanker after the upcoming spring fishing season.
 
-Story 563
+Story 0563
 
 convict — 宣判……有罪；证明……错误；（名词）囚犯/服刑人员pummel — 连续猛击；用拳头连环打（亦作 pommel）embryonic — 萌芽期的；胚胎的；未成熟的resigned — 顺从的；听天由命的；已辞职的extrude — 挤出；逐出；（通过模具）压出/突出throne — 王座；宝座；君权；王位insecticide — 杀虫剂shroud — 遮蔽；隐藏；裹尸布；幕罩；（动词）覆盖/掩盖geometrician — 几何学家amiss — 不对劲的；有问题的；错误地（常构成 take sth. amiss）
 
 The Geometrician's Throne
 A resigned university geometrician immediately noticed that something was heavily amiss when an automated preservation machine began to improperly extrude an unstable, embryonic plastic lattice directly around the museum's priceless royal throne. Acting fast, she tore away the protective canvas shroud, discovered that a massive leak of chemical insecticide was corroding the machine's internal brass gears, and used a heavy wooden mallet to violently pummel the emergency release latch, helping local police safely convict the corporate saboteur.
 
-Story 564
+Story 0564
 
 cater — 承办宴席；迎合；满足（需要）（常构成 cater for/to）malicious — 恶意的；恶毒的；蓄意伤人的custody — 监护；保管；（由警察）拘留/看管（常构成 in custody）tease — 戏弄；取笑；强求；梳理（羊毛/头发）fanfare — 号角齐鸣；（为引起注意的）大张旗鼓的宣传/吹嘘fawn — 幼鹿；小鹿；浅黄褐色的；（动词）阿谀奉承/巴结crackpot — 怪人；狂想者；（形容词）古怪的/疯狂的spineless — 无骨气的；懦弱的；无脊椎的negate — 否定；取消；使无效；否认……的存在impose — 强加；征收（税款）；把……强加于；利用
 
 The Fawn Before the Fanfare
 Just hours before the opening festival fanfare, the event cooks who had been hired to cater the grand banquet unexpectedly found a wild, shivering fawn held in temporary illegal custody behind the main equipment tent. A notoriously malicious local critic immediately called the young animal's rescuer a spineless academic crackpot and tried to aggressively tease her before the gathering media. Luckily, a row of honest eyewitnesses stepped forward to completely negate his toxic tale and successfully impose absolute silence through the crowd until the healthy animal was safely released back into the woods.
 
-Story 565
+Story 0565
 
 sustain — 维持；支撑；经受（损失/伤害）；证实skeleton — 骨架；框架；梗概；骷髅；（形容词）最基本的hassle — 麻烦；困难；争论；（动词）烦扰/纠缠evasion — 逃避；躲避；遁词；借口declassify — 解密；撤销（文件/信息等）的保密级别lance — 长矛；（外科）柳叶刀；（动词）用刀切开/刺破quote — 引用；引述；报价；（名词）引文/报价centaur — （希腊神话中的）半人马；半人马座（亦作 Centaur）squint — 眯眼看；斜视；（动词）眯眼/斜视；（名词）斜视staccato — 断奏的；不连贯的；断断续续的（声音）
 
 The Centaur File
 The exact moment government officials officially declassify a forgotten, century-old archaeological excavation file, a museum curator must carefully squint at a staccato handwritten note discovered right beside a giant mammalian skeleton, and loudly quote its ominous preservation warning to her team. Entirely without hesitation or political evasion, she confidently uses a specialized, lance-shaped carbon fiber probe to sustain the fragile structural frame of the ancient fossil, managing to protect the priceless centaur display model despite experiencing every continuous bureaucratic hassle from the board.
 
-Story 566
+Story 0566
 
 locust — 蝗虫sideshow — （马戏团等的）附带戏/小节目；枝节问题；次要事件console — 安慰；慰问；（名词）控制台/仪表盘/游戏机divert — 转移（注意力）；使分流；使消遣/使娱乐cactus — 仙人掌（复数形式为 cacti 或 cactuses）muggy — 闷热潮湿的catharsis — （通过艺术等实现的）情感宣泄/精神净化；排泄liberality — 慷慨；大方；思想开明；宽容slacken — 放松；变缓；（速度/气流等）减缓hush — 安静；寂静；（动词）使安静/掩盖（常构成 hush up）
 
 The Locust Sideshow
 Inside the sticky, muggy county fairground pavilion, a sudden invasive locust swarm unexpectedly turned the historic community cactus exhibition into a chaotic side event sideshow. Remaining completely unflappable, the lead organizer quickly used her centralized environmental control console to divert the heavy ventilation fans directly toward the incoming insects. Within minutes, the crowd's panicked shouting began to safely slacken into a respectful hush, and her financial liberality toward the frightened, out-of-town vendors brought a wave of unexpected emotional catharsis to the entire agricultural marketplace.
 
-Story 567
+Story 0567
 
 daguerreotype — 银版照片；早期的银版照相法cross — 穿过；横渡；（形容词）恼怒的/生气的metabolize — 代谢；（使）新陈代谢totter — 蹒跚；摇摇欲坠；跌跌撞撞enlighten — 启发；阐明；使明白subsume — 将……归入；把……包含在内suspicion — 怀疑；嫌疑；微量rudder — 舵；方向舵；（引申为）指导原则char — 烧焦；把……烧成焦炭；（名词）焦炭/家庭杂务tweak — 微调；轻扭；（在心里上）折磨
 
 The Daguerreotype by the Rudder
 A rare, historic daguerreotype discovered hidden right beside the ship's massive steel rudder completely explained why the coastal research vessel would violently totter whenever it attempted to cross the shallow bay. Equipped with this visual clue, the chief biochemist was able to slightly tweak an automated fuel filter system. This mechanical adjustment allowed specialized marine microbes to successfully metabolize contaminated fuel without leaving any destructive carbon char, fully enlighten the confused engineering crew, and permanently subsume every earlier administrative suspicion under one elegant, mechanical explanation.
 
-Story 568
+Story 0568
 
 doff — 脱（衣/帽）；摘下（帽子致意）cello — 大提琴landlocked — 内陆的；几乎被陆地包围的plaza — 广场；购物中心eviscerate — 取出……的内脏；（引申为）彻底削弱/使失去实质核心harrow — （农具）耙；（动词）使极其痛苦/折磨irritate — 激怒；使恼火；刺激（皮肤、眼睛等）disgorge — 吐出；（大批人/车）涌出；流出；被迫交出vehicle — 车辆；交通工具；（思想/艺术的）媒介/载体brawl — 斗殴；（大声的）争吵；（动词）喧闹/斗殴
 
 The Cello in the Plaza
 Deep inside a remote, landlocked farming town, a heavy delivery vehicle accidentally began to disgorge crates of rotting fish right across the central historic plaza, heavily irritating the morning passersby. A brewing verbal brawl between the angry merchants quickly threatened to completely eviscerate the local cultural festival's community goodwill. Stepping into the chaos, a local farmer calmly set down his heavy field harrow, politely chose to doff his stained riding hat, and masterfully played a beautiful classical melody on his cello that instantly calmed everyone down.
 
-Story 569
+Story 0569
 
 vaporize — 汽化；蒸发；（使）消失lubricious — 润滑的；光滑的；滑溜的；好色的/不正经的（亦作 lubricous）diva — 著名女歌唱家（尤指歌剧歌后）；大牌名媛badge — 徽章；奖章；证章；标志nipping — （天气）寒冷刺骨的；尖酸的；紧咬的portfolio — （艺术家/建筑师的）作品集；投资组合；部长职务obelisk — 方尖碑；方尖柱harshly — 严厉地；刺耳地；严酷地disembodied — 脱离躯体的；无形体的；灵魂不附体的duplicitous — 欺骗的；两面派的；搞双面化的小人
 
 The Voice Beneath the Obelisk
 In the freezing, nipping dawn air, an opera diva suddenly heard a strange, disembodied voice echoing from beneath the ancient town obelisk, and harshly accused a passing night watchman who wore a tarnished silver badge. However, a set of forgotten blueprints discovered inside her own travel leather portfolio soon revealed the truth. A duplicitous stage manager had secretly coated a hidden microphone speaker with a slick, lubricious gel and used an industrial induction heater to vaporize water from the ground, masterfully concealing the illegal electronic recording equipment in a thick screen of morning fog.
 
-Story 570
+Story 0570
 
 scission — 切断；分裂；分离；割裂dull — 迟钝的；无趣乏味的；（光泽、颜色）暗淡的/阴暗的onus — 责任；义务；负担（常构成 the onus of / the onus is on sb.）archetype — 原型；典型；完美典型（亦作 architype）caress — 抚摸；轻拂；（动词）爱抚/温柔地触摸breadth — 宽度；（胸怀/知识的）广度/宽宏大度reverse — 反转；颠倒；彻底改变；（名词）背面/相反情况scripture — 经文；圣典；经典著作（亦作 Scripture）hypothesis — 假说；假设；前提（复数形式为 hypotheses）bonnet — 女帽；无边便帽；（英式）汽车引擎盖；（美式）童帽
 
 The Scripture Under the Bonnet
 A heavily faded, dull metal inscription discovered right under an old carriage bonnet prompted a brilliant university research hypothesis that a sharp, centuries-old religious scission had historically divided the mountain valley populace. The heavy academic onus of proof immediately fell on a quiet independent scholar, whose immense breadth of historical knowledge quickly allowed her to reverse the faded carbon rubbing. She successfully identified a matching linguistic archetype from an ancient text of holy scripture, and gently caressed the newly restored gold letters with her brush tip.
 
-Story 571
+Story 0571
 
 inspection — 检查；视察；审视bifurcate — 分叉；分成两支ford — 浅滩；（动词）涉过；渡河racy — 生动的；活泼的；有风味的；（言语等）略显粗俗的/色情的warble — （鸟）啭鸣；（人）颤声欢唱；（名词）鸟鸣声institutionalized — 制度化的；因长期收容而体制化的；根深蒂固的snipe — 鹬；（动词）暗中抨击/狙击/偷袭even — 平坦的；均匀的；双数的；（副词）甚至/连……都dispatch — 派遣；调遣；迅速处理；（名词）派遣/急件bluff — 悬崖；峭壁；（动词/名词）虚张声势/吓唬；（形容词）直率的
 
 The Ford Below the Bluff
 During a routine engineering inspection directly below the high river bluff, surveyors quietly watched the rapid river currents bifurcate around a natural stone ford while a wild snipe began to beautifully warble in the reeds. Completely focused on their task, they entirely ignored a racy local tabloid pamphlet that aggressively tried to snipe at their highly institutionalized geological testing methods. Working quickly, they made the foundation stones perfectly even and prepared to immediately dispatch an emergency repair crew before the heavy mountain rain arrived.
 
-Story 572
+Story 0572
 
 disarm — 缴械；解除（武装）；消除敌意/消解（疑虑）conjure — 变戏法；（以巫术）唤起/变出；（脑海中）浮现（常构成 conjure up）tally — 计数；记录；积分；（动词）符合/吻合/一致（常构成 tally with）plait — 把（头发/绳子）编成辫；（名词）辫子；发辫（美式常读作 /pleɪt/ 或 /plæt/）anterior — 前部的；先前的；前面的vestigial — 退化的；残留的；残余的repellent — 令人厌恶的；驱虫剂；防水布；（形容词）驱虫的/防水的manacle — 手铐；脚镣；束缚；（动词）给……戴手铐/束缚causal — 因果关系的；构成原因的boycott — 抵制；拒绝购买/参加；（名词）抵制
 
 The Plaited Evidence
 A small vestigial scratch discovered on the anterior edge of a ceremonial iron manacle did not historically tally with the state's official military account of the prison rescue. Intrigued, a lead historian carefully used a detailed plait of organic native plant fibers to visually conjure up the artifact's original manufacturing shape. Her brilliant causal argument about the weapon's origin successfully helped to completely disarm her political critics, and rapidly inspired a massive public boycott of the museum's highly repellent and biased propaganda exhibition.
 
-Story 573
+Story 0573
 
 disabuse — 纠正错误观念；使省悟（常构成 disabuse sb. of sth.）indent — 缩进（缩格）；使表面留凹痕；（名词）凹痕/订货单wispy — 纤细的；缕缕的；微弱的；一簇的acquired — 后天获得的；学到的；已取得的touching — 感人的；动人的；令人同情的；（介词）关于steward — （客轮/客机/列车等的）乘务员；服务员；（大庄园的）管事/总管fanatic — 狂热者；盲信者；（形容词）狂热的offish — 冷淡的；疏远的；不愿与人交往的sibling — 兄弟姐妹shiftless — 懒散的；无能的；没有志气的
 
 The Wispy Signature
 The ship's chief steward deeply hoped to permanently disabuse an offish, aggressive tech fanatic of the deeply unfair notion that the steward's quiet young sibling was entirely shiftless. He produced a highly touching personal letter written with a delicate, wispy fountain-pen signature that beautifully described the child's newly acquired mechanical drafting and navigation skills. Furthermore, a unique angular indent stamped onto the margin of the newly repaired ship's logbook perfectly matched a unique tool found on the child's drafting desk, definitively confirming exactly who had completed the careful, masterful restoration work.
 
-Story 574
+Story 0574
 
 jibe — 符合；一致；嘲讽；挖苦（美式亦作 vibe/gibe）dominant — 占主导的；显性的；统治的dispute — 争议；纠纷；（动词）反驳/对……表示异议amble — 缓行；漫步；（马）慢跑circumstantial — 间接的；依情况而定的；（描述）详尽的interpose — 插入；介入；提出（异议等）regale — 款待；（以故事等）使愉悦/娱乐（常构成 regale sb. with sth.）facsimile — 复制品；摹本；传真construct — 建造；构想；编制；（名词）构想/概念chipmunk — 花栗鼠
 
 The Chipmunk Facsimile
 As curious morning visitors peacefully amble through the historic archive corridors, a tour guide masterfully uses a rare paper facsimile to regale them with an eccentric local folk tale about a clever wild chipmunk. However, a sharp student in the crowd soon notices that the text’s highly circumstantial geographical details do not jibe with the university's dominant evolutionary theory. Feeling a professional obligation, the student has to boldly interpose mid-lecture, formally dispute the document's original colonial date, and construct a much sounder scientific account based strictly on the age of the stamping ink.
 
-Story 575
+Story 0575
 
 sprawling — 蔓延的；无计划四处延伸的；杂乱伸展的appropriate — 合适的；恰当的；（动词）挪用/盗用/拨（专款）medicate — 用药治疗；（在食物/饮料中）掺药stowaway — 偷渡者；（车、船等上的）匿乘者/藏匿者proselytize — 劝人改信（宗教）；（引申为）拉拢/说服（亦作 proselytise）chivalrous — 有骑士风度的；（对女性）彬彬有礼的/英勇尊重的conciliatory — 安抚的；调和的；愿意和解的exhume — 掘出（尸体）；（引申为）发掘/使重见天日detonation — 爆炸；引爆；剧烈爆炸声colt — 小公马；（尤指四岁以下的）幼驹；（引申为）新手
 
 The Colt in the Quarry
 A panicked stowaway colt wandered aimlessly through the deep, sprawling stone quarry just minutes before a scheduled construction detonation. Stepping forward, a chivalrous traveling preacher flatly refused to use the chaotic moment to proselytize the gathering workers. Instead, he used a soft, conciliatory voice to carefully calm the trembling animal down, while a local wildlife medic found it entirely appropriate to gently medicate the young colt to ease its fear. Working together under immense pressure, they successfully helped the excavation crew safely exhume a deeply buried blasting cable that had tightly snagged the animal's leather harness.
 
-Story 576
+Story 0576
 
 empyrean — 最高天；九天之上；苍穹；（形容词）天空的/神圣的missive — 信函；（尤指沉闷或正式的）公文/官方长信enenerate — 使衰弱；使无力；使失去活力gutter — 排水沟；路旁檐槽；（引申为）贫民窟；（动词）流淌/（烛火）摇曳capacious — 宽敞的；容量大的；广阔的demoralize — 使泄气；挫败……的士气；使道德败坏（亦作 demoralise）mortgage — 抵押；按揭贷款；（动词）抵押pending — 待定的；悬而未决的；即将发生的；（介词）直到……为止/在等待……期间hemostat — 止血钳；止血用具beet — 甜菜；甜菜根
 
 The Empyrean Greenhouse
 An unexpected morning legal missive concerning a sharp, pending property mortgage heavily threatened to completely demoralize the independent organic growers inside their capacious corporate greenhouse. However, the resilient farming family flatly refused to let administrative financial worry enervate their working spirit. A few minutes later, after an elderly beet cutter accidentally slipped on the slick tiles and dropped a blade into the deep drainage gutter, a visiting camp nurse quickly retrieved it using a sterile medical hemostat, allowing everyone to safely return to their winter work directly beneath the magnificent, empyrean glass roof.
 
-Story 577
+Story 0577
 
 cajole — 哄骗；巧言劝诱；（以甜言蜜语）说服（常构成 cajole sb. into/out of sth.）skirt — 绕过；沿……的边缘走；回避（话题）；（名词）裙子/边缘vitrify — （因高温等）使玻璃化；（成）玻璃质（亦作 vitrify）loom — （阴影、危险、问题等）隐现/逼近/赫然耸现；（名词）织布机propulsion — 推进；推动力；推进力infelicity — 不恰当；不体面；不恰当的言行/不幸之事barricade — 路障；障碍物；（动词）设路障阻挡/挡住assert — 断言；明确声称；维护（权利/权威）；坚持（常构成 assert oneself）elaboration — 详细说明；精心制作；精心设计的细节/复杂结构limousine — 豪华轿车（常简写为 limo）
 
 The Glass Barricade
 The exact moment a wealthy executive's stretched limousine aggressively tried to skirt the security check barricade, regional terminal engineers saw a massive chemical propulsion-fuel tank loom ominously on the heavy cargo trailer hooked behind it. They firmly refused to let the angry owner cajole or bribe them into granting a clearance stamp. Instead, they confidently asserted that a prominent structural infelicity discovered within the owner's legal elaboration of the shipping permit conditions concealed a highly dangerous valve leak. They warned that a spill could instantly vitrify the nearby soil in an accident, so the industrial road remained completely closed.
 
-Story 578
+Story 0578
 
 plank — 木板；大厚板；（政党、竞选纲领的）核心条目/政纲条目even-tempered — 性情平和的；不易发脾气的；沉着的headstrong — 任性的；刚愎自用的；固执己见的petrify — 使石化；使变呆滞；使（因恐惧等）惊呆/吓傻dagger — 匕首；短剑；（印刷）剑号（†）extend — 延伸；扩展；给予（帮助/同情/款待）；延长pliers — 钳子；老虎钳（通常用作复数名词 pliers 或 a pair of pliers）generic — 通用的；非专有的；普通的；（生物）属的filial — 子女的；孝顺的；第一代（杂交）的exterminate — 消灭；根除；彻底灭绝
 
 The Dagger in the Plank
 A remarkably even-tempered old workshop carpenter carefully used a pair of heavy rusted pliers to manually pull an antique steel dagger straight out from a thick structural floor plank. Nearby, his naturally headstrong but deeply filial young daughter watched in absolute terror, fearing the dark historical discovery would completely petrify her father with anxiety. Instead, the wise artisan chose to calmly extend unconditional mercy to the house's previous tenant, quietly labeled the sharp iron weapon with a standard, generic archival description, and immediately set to work to thoroughly exterminate the colony of wood termites thriving around its ancient hiding place.
 
-Story 579
+Story 0579
 
 automation — 自动化accost — 上前搭话；搭讪unthreatening — 不构成威胁的；温和的exorcise — 驱邪；祛除（恐惧、痛苦等）derangement — 精神错乱；紊乱；骚乱hankering — 渴望；向往inhumane — 不人道的；残忍的spoil — 破坏；溺爱；（名词常复数）战利品/掠夺物freelancer — 自由职业者antediluvian — 大洪水前的；极其古老的；陈旧的
 
 The Antediluvian Automaton
 A talented digital freelancer with a lifelong engineering hankering for forgotten machines successfully used modern automation to revive a complex, antediluvian clockwork robot. However, when an inhumane private collector tried to aggressively accost her at the gallery and spoil the public display by loudly calling the unique mechanism definitive evidence of structural derangement, she remained perfectly calm. She easily proved the massive machine was completely unthreatening and used its gentle internal music box to permanently exorcise the gathering crowd's growing fear.
 
-Story 580
+Story 0580
 
 bibulous — 嗜酒的；吸水的gawky — 笨拙的；瘦长的；手足无措的quaff — 痛饮；大口喝hale — 健壮的；硬拖；（词组）拽走hiss — 嘶嘶声；发嘘声；（动词）发出嘘声/作低沉的声音cognizance — 认识；审理权；知晓（常构成 take cognizance of）align — 对齐；校准；使结盟；使协调一致valve — 阀门；瓣膜gourmet — 美食家；美食的；讲究的cloudburst — 暴雨；突发性大暴雨
 
 The Gourmet Valve
 During a sudden and violent summer cloudburst, a gawky but remarkably hale gourmet restaurant owner heard an ominous water valve hiss deep beneath the historic brick cellar floors. He quickly took full cognizance of the impending basement flood before his bibulous dinner guests could happily quaff another expensive bottle of wine. Working fast in the dark, he helped his kitchen crew perfectly align the shifting pipe, completely saved his valuable food pantry from ruin, and served his dry bread and cheese courses to the tables with a touch of theatrical pride.
 
-Story 581
+Story 0581
 
 tidy — 整洁的；整齐的；整理；（动词）整理/收拾jeopardy — 危险；危局；受到审判/生命危险（常构成 in jeopardy）diagnose — 诊断（疾病）；判断（问题原因）adhesive — 黏合剂；胶水；（形容词）有黏性的/胶粘的porcupine — 豪猪cosmic — 宇宙的；巨大的；天空的lusty — 强健的；精力充沛的；（声音）响亮有力的crouch — 蹲伏；蜷缩；弯腰wizardry — 魔法；巫术；非凡技巧/杰出才能obeisance — 鞠躬；敬意；（动词词组）表示尊崇/下跪
 
 The Cosmic Porcupine
 Inside a tidy, highly organized astronomical observatory, a sudden, lusty emergency alarm accidentally put a visiting wild porcupine in deep structural jeopardy, making it frantically crouch beneath the metal lens chassis. Demonstrating impressive technical wizardry, a junior keeper used a diagnostic lamp to quickly diagnose that the animal merely had some harmless adhesive tree sap stuck onto its sharp outer quills. He safely freed the creature out under the magnificent cosmic dome, and offered a playful, deep obeisance as it quietly departed into the forest.
 
-Story 582
+Story 0582
 
 frisk — 搜身；（动物）轻快跳跃/欢跃；（名词）搜身anarchy — 无政府状态；混乱；无法无天draggy — 拖沓的；沉闷缓慢的walrus — 海象deteriorate — 恶化；退化；变坏champ — 大声咀嚼；（马）咬（嚼子）；（名词）冠军（colloquial）armistice — 停战协议；休战condemn — 谴责；判刑；宣告（建筑物）不安全tambourine — 铃鼓ingrate — 忘恩负义者；（形容词）忘恩负义的
 
 The Walrus at the Checkpoint
 During the peak of the localized civil anarchy, a draggy border guard slowly began to aggressively frisk an out-of-town walrus trainer while the bored, heavy animal noisily champed at its thick travel rope. Just as physical conditions at the border station threatened to heavily deteriorate, a passing street tambourine player loudly announced that an official armistice had just been signed between the rival checkpoint crews. The sudden breakthrough was so immense that it successfully made even the loudest, most bitter political ingrate stand up and openly condemn the previous day's chaos.
 
-Story 583
+Story 0583
 
 disparage — 贬低；诋毁；轻视crinkle — （使）起皱；沙沙作响；（名词）皱纹/沙沙声defame — 诽谤；中伤；破坏名誉marshal — 组织；安排；（常作大写）元帅/警察局长/消防队长；（动词）集结emasculate — 削弱；使无男子气概；剥夺……的核心活力holocaust — 大屠杀；大毁灭；浩劫（大写时特指犹太人大屠杀）superintend — 监督；主管；管理draconian — 严酷的；苛刻的；（法律）极其严厉的（亦作 Draconian）pediatrics — 儿科学；儿科（英式拼写：paediatrics）aloft — 在高处；向上；在高空中
 
 Kites above the Memorial
 The chief city marshal formally asked a prominent university professor of pediatrics to superintend the central community memorial event for the victims of the Holocaust. Although a row of draconian, hyper-critical conservative politicians aggressively tried to disparage her credentials and publicly defame her character in the newspapers, she firmly refused to let them emasculate the event's core historical message. On the day of the ceremony, hundreds of beautiful paper cranes rose high aloft into the sky, with every single paper crinkle beautifully audible in the quiet plaza.
 
-Story 584
+Story 0584
 
 disjunction — 分离；脱节；（因不协调而产生的）分裂sock — 短袜；猛击；（动词）狠推/揍（常构成 sock it to sb.）tauten — 拉紧；绷紧；使（肌肉/神经等）紧张vex — 使烦恼；使恼火；使困惑（常构成 vexed question）bribe — 贿赂；收买；（名词）贿赂金/收买物apprise — 通知；告知（常构成 apprise sb. of sth.）grit — 毅力；刚毅；（沙/石的）砂砾；（动词）咬紧牙关/咬碎grate — 磨碎；轧碎；使人恼怒/擦伤；（名词）壁炉架/铁栅栏yowl — （猫、狗等的）嚎叫；长呼gerontology — 老年学；老年医学
 
 The Cat in the Lecture Hall
 A prominent disjunction between abstract academic theory and daily reality began to heavily vex the university gerontology class the moment a stray alley cat sneaked in and stole a wool sock from a student's gym bag. Absolutely no small food bribe from the front row could silence its continuous, sharp yowl, so Mira quickly showed some true practical grit. She used a heavy structural cord to firmly tauten the loose window screen, loudly began to grate some aromatic cheese on her desk to lure the animal down from the rafters, and sent a classmate to immediately apprise the campus caretaker of the problem.
 
-Story 585
+Story 0585
 
 scintillate — 闪耀；闪烁；才思敏捷/妙趣横生poisonous — 有毒的；有害恶毒的oversee — 监督；监视；管理coeval — 同时代的；同龄的；同时代的人或物（常构成 coeval with）grim — 严峻的；阴沉的；冷酷的；极其糟糕的minutia — 细枝末节；微末细节（通常用作复数 minutiae）spatial — 空间的；（关于）空间能力的commute — 通勤；（法律）减轻刑罚；（动词常构成 commute to）kennel — 狗舍；犬类饲养场；（动词）把……关入狗舍henpecked — 惧内的；怕老婆的
 
 Blueprint for a Better Kennel
 During his grueling daily morning train commute, a notoriously henpecked architect reluctantly agreed to oversee a complete, expensive kennel renovation project for a wealthy client. The facility's grim and short-tempered owner obsessively worried over every single minor structural minutia on the paper blueprints. However, a brilliant, coeval layout designer hired by the firm made their final boardroom presentation thoroughly scintillate by introducing a clever, high-efficiency spatial floor plan that simultaneously completely removed a hazardous, poisonous local vine from the perimeter.
 
-Story 586
+Story 0586
 
 smirk — 得意地笑；假笑；讥笑；（名词）自鸣得意的笑amoral — 不讲道德的；与道德无关的；无从区分是非的unpalatable — 难吃的；味道极差的；（事实等）难以接受的saunter — 闲逛；漫步；（名词）闲逛/散步warrant — 正当理由；根据；令状；搜查令；（动词）保证/证明合理gamble — 赌博；冒险；（名词）冒险/赌博loam — 壤土；肥土deflated — 泄气的；瘪的；灰心丧气的hoodwink — 欺骗；蒙蔽；瞒骗gleam — 微光；闪烁；（情感的）闪现；（动词）发微光/闪烁
 
 The Pumpkin Bet
 An amoral local farm vendor aggressively tried to hoodwink our family with a heavily deflated prize pumpkin and a completely unpalatable autumn squash pie. However, his arrogant, defensive smirk instantly vanished the moment he realized he could produce absolutely no legal permit warrant for his high-stakes agricultural street gamble. Choosing not to engage in an argument, we calmly chose to saunter back home together as the beautiful midnight moonlight cast a silver, reassuring gleam over the rich, organic loam of our garden fields.
 
-Story 587
+Story 0587
 
 histology — 组织学preliminary — 初步的；预备的；（名词常复数）预备活动/初赛ulcer — 溃疡；（社会的）毒瘤quota — 配额；定额；限额berserk — 狂暴的；失控的；（因愤怒而）疯狂的（常构成 go berserk）sap — 削弱；逐渐破坏（精力/信心）；树液；（名词）傻瓜modulate — 调节（声音/频率等）；转调；（音乐）变调expostulate — 劝诫；抗议；（因不赞成而）争论（常构成 expostulate with）windfall — 意外之财；被风吹落的果实/风倒木palaver — 空谈；毫无意义的喧闹交涉；（动词）胡扯/闲聊
 
 The Microscope Windfall
 A routine, preliminary clinical histology test unfortunately revealed a serious internal stomach ulcer, but the medical clinic's rigid monthly patient quota heavily threatened to sap staff morale. When the hot-headed facility director went completely berserk because a minor clerical error jeopardized their million-dollar scientific windfall research grant, the head nurses boldly began to expostulate with her in the hallway. They continued to object until she was finally forced to modulate her aggressive tone, recognize her team's exhaustion, and permanently end the loud, unproductive bureaucratic palaver.
 
-Story 588
+Story 0588
 
 scorch — 烧焦；灼伤；（使）枯萎brackish — 微咸的；（味道）不好的glowing — 炽热的；容光焕发的；赞扬的sip — 小口喝；抿；（名词）一小口humor — 幽默；脾气；迁就；迎合（美式拼写：humor / 英式：humour）throttle — 节流阀；油门；扼住……的喉咙；掐死luxury — 奢侈；奢侈品；奢华；享受freestanding — 独立式的；自立的；不依靠支撑物的（亦作 free-standing）monopolize — 垄断；独占；专占（时间/注意）（亦作 monopolise）signal — 信号；暗号；（动词）示意/发信号；（形容词）显要的
 
 Tea at the Salt Marsh
 At a beautiful, freestanding salt-marsh wooden café, Lina calmly took a slow sip of hot, brackish herbal tea just as a malfunctioning, glowing clay stove nearby began to heavily scorch the antique pine counter. Demonstrating excellent personal humor and presence of mind under pressure, she smoothly pulled the main gas safety throttle, sent an immediate structural signal to the kitchen staff, and firmly refused to let one loud, complaining tourist monopolize the quiet luxury of their peaceful morning calm.
 
-Story 589
+Story 0589
 
 decomposition — 分解；腐烂；变质disinter — 掘出；发掘（尸体/历史真相）shack — 简陋的小屋；棚屋；（动词）居住/同居undeserved — 不应得的；无辜的；不公的queue — 队列；行列；（动词）排队tusk — （象、野猪等的）长牙；獠牙sterilize — 消毒；杀菌；使不育（亦作 sterilise）bland — 平淡的；乏味的；温和的；面无表情的maverick — 特立独行者；行为不羁的人；（未烙印的）迷途牲畜ambience — 氛围；环境；格调（亦作 ambiance）
 
 The Mammoth in the Shack
 A massive community queue rapidly formed outside a maverick local paleontologist's temporary research shack as she carefully prepared to disinter a newly discovered prehistoric mammoth tusk before summer decomposition advanced any further on the bone. She meticulously chose to thoroughly sterilize each surgical tool herself, entirely ignored the undeserved public ridicule from conservative university rivals, and beautifully managed to enliven the otherwise bland, sterile laboratory ambience with rare arctic field discovery songs.
 
-Story 590
+Story 0590
 
 debase — 贬低；降低（价值/品质/人格）delinquency — 违法行为；（青少年的）不良行为；拖欠（债务等）roundabout — 迂回的；转弯抹角的；（名词）环岛/旋转木马trickery — 欺骗；诡计；花招reconstitute — 重组；使复原；（使面粉等加水）还原pessimism — 悲观；悲观主义shoot — 拍摄（电影/照片）；射击；（名词）嫩芽/拍摄pastoral — 田园的；牧歌式的；乡村的；（教会）牧师的hippopotamus — 河马（常简写为 hippo）inscribe — 铭刻；题写；（在心中）牢记
 
 The Hippo Film Reel
 At a busy commercial traffic roundabout, an independent director stopped her production crew to shoot a serene, pastoral documentary scene featuring a rare local hippopotamus. However, the corporate vehicle rental company suddenly arrived to aggressively seize her camera equipment over a minor logistics account delinquency. Although absolutely no underhanded legal trickery could instantly reconstitute her ruined afternoon film reel, she completely rejected any creative pessimism, flatly refused to debase or blame her tired camera crew, and instead proudly chose to inscribe each of their names onto the credits of the upcoming remake blueprint.
 
-Story 591
+Story 0591
 
 watershed — 分水岭；（历史的）重要转折点；集水区preempt — 抢先取得；预先占有；先发制人（亦作 pre-empt）gum — 牙龈；树胶；口香糖；橡胶；（动词）用胶粘menace — 威胁；恐吓；危险的人/物；（动词）威胁/恐吓gander — 雄鹅；（俚语）看一眼/瞧瞧（常构成 take a gander at）musky — 麝香味的；有麝香气味的lance — 长矛；（外科）柳叶刀；（动词）用刀切开/刺破serial — 连续的；连载的；（名词）连载小说/电视连续剧murmur — 低语；轻轻抱怨；（心脏的）杂音；（动词）低语violet — 紫罗兰；蓝紫色的；（名词）紫罗兰色/紫罗兰花
 
 The Violet Marsh
 Crossing the dense, swampy river watershed quickly became a complex serial adventure for the team when a massive, highly aggressive musky gander suddenly emerged from the reeds as a severe physical menace. Hoping to preempt a dangerous territorial attack, Nia quickly smeared sticky organic gum from a nearby pine tree onto a long hollow reed. She held the stick forward firmly like a protective combat lance to distract the angry bird, peacefully listened to the rushing river water murmur beneath her boots, and safely hid among a thick patch of wild violet flowers.
 
-Story 592
+Story 0592
 
 diverge — 分叉；（道路/意见等）产生分歧/分道扬镳fetus — 胎儿（英式拼写常作 foetus）marbled — 有大理石纹的；斑驳的definitive — 权威的；决定性的；最终的esophagus — 食道（英式拼写常作 oesophagus）peculate — 挪用公款；盗取pedagogy — 教学法；教育学amortize — 分期偿还（债务）；（资产）摊销（亦作 amortise）bludgeon — 大棒；短棍；（动词）用大棒打/强迫/威逼tatter — 撕碎；扯破；（名词常复数）破布/碎条（常构成 in tatters）
 
 The Marbled Anatomy Book
 Two veteran medical biology teachers heavily diverge over standard university pedagogy when a newly published, definitive marbled anatomy model shows a human fetus on one layout panel and the detailed structure of the esophagus on an adjacent sheet. Rather than attempting to bludgeon their confused students with dense, clinical textbook jargon, they mutually agree to carefully audit their internal research grant so that absolutely no administrator can peculate the funds. They formalize a plan to amortize the expensive model's replacement cost over three semesters, and mended the fragile historic wall paper chart before it could tatter any further.
 
-Story 593
+Story 0593
 
 unspotted — 无斑点的；清白无瑕的；未受玷污的fume — 烟气；有毒废气；（动词）（因愤怒而）冒火/发怒；冒烟stamp — 邮票；印章；跺脚；（动词）跺脚/盖印/铭刻pharisaic — 伪善的；形式主义的；自命清高的（亦作 Pharisaic）flip — 翻转；轻弹；拔动；（形容词）无礼的/轻率的flange — （机械管件、车轮的）凸缘；轮缘；边盘sorcery — 巫术；魔法；妖术impeach — 弹劾（公职人员）；控告；质疑（诚信/名誉）grateful — 感激的；尊重的；愉快的invigorating — 令人振奋的；使精力充沛的
 
 The Unspotted Seal
 A beautifully fresh, invigorating sea breeze quickly cleared the heavy, fume-filled mechanics workshop just as a deeply grateful senior railway mechanic used a heavy metal stamp to code-mark a newly cast, unspotted iron flange. However, when her highly pharisaic and unhelpful shop foreman aggressively stepped up to call her efficient structural repair nothing but illegal sorcery, she refused to back down. She confidently chose to flip the central engineering evidence display board around right in front of the inspectors, using the historical blueprints to completely impeach his fraudulent safety account.
 
-Story 594
+Story 0594
 
 compliment — 赞美；称赞；（名词）问候/敬意gentle — 温和的；轻柔的；高贵的redirect — 使改道；转移（注意力/资金等）；重新投递guileless — 诚实的；天真的；厚道老实的girdle — 腰带；环绕物；（动词）环绕/束缚fig — 无花果；无价值之物（常构成 not care a fig）reliance — 依赖；信任；信心humidity — 湿度；潮湿corpuscle — 血球；微粒；（物理）微粒（尤指红血球/白血球）votary — 信徒；热心追随者；崇拜者
 
 The Fig Garden Clinic
 A guileless young votary offered a freshly picked basket of fruit as a polite compliment to the gentle village doctor, who was resting in his clinic. Standing before his patients, the doctor masterfully used a simplified plastic model of a red corpuscle to gracefully redirect their ongoing medical discussion away from local, superstitious myths. He debunked theories that blamed extreme atmospheric humidity or an overly tight clothing girdle for their physical illness, successfully convincing the farmers to end their excessive reliance on unverified organic tonics from the market.
 
-Story 595
+Story 0595
 
 lank — 瘦长的；平直的；（草木）稀疏的wobble — 摇晃；摆动；（动词）动摇/犹豫；（名词）晃动sear — 烧灼；使干枯；使（记忆/烙印）深深刻入；（形容词）枯萎的acclaim — 称赞；欢呼；（动词）为……喝彩/公认titular — 名义上的；头衔的；有称号的egocentric — 自我中心的；利己的；（名词）自我中心的人pane — 窗格玻璃；（窗户/门上的）一块玻璃；嵌板justification — 正当理由；辩护；辩解trickle — 细流；缓慢流动；（动词）一滴滴地流/缓缓移动solitude — 独处；孤寂；荒凉之地
 
 The Cracked Observatory Pane
 In absolute solitude inside the mountain facility, a lank independent astronomer quietly watched the heavy glass pane wobble as icy rain began to slowly trickle down the metal casing. The titular observatory director offered absolutely no valid justification for the facility's structural neglect, but his highly egocentric speech to the university board could not diminish the widespread public acclaim for her emergency repairs. Her brilliant work under pressure would permanently sear her professional competence and dedication into everyone's memory.
 
-Story 596
+Story 0596
 
 magniloquent — 夸夸其谈的；夸大的；华丽的soil — 土壤；国土；（动词）弄脏/污辱irksome — 令人厌烦的；讨厌的；恼人的bondage — 奴役；束缚；奴隶身份throwback — 返祖现象；复古的人/物；（向过去状态的）倒退oscillate — 摆动；摇摆；（思想/情绪）波动/动摇incredulity — 怀疑；不轻信；怀疑的神色gavel — 法槌；（拍卖官/法官用的）小木槌raffish — 放荡不羁的；潇洒的；粗俗的；不名誉的calipers — 卡尺；测径器（亦作 callipers）
 
 The Clockmaker's Hearing
 Resting his heavy wooden gavel directly beside his high-precision steel calipers, a raffish old clockmaker confidently faced an irksome administrative hearing over a giant, custom-built timepiece. The device featured an eccentric, throwback pendulum designed to dynamically oscillate right above a large laboratory tray of organic soil. He met the panel's intense cultural incredulity without making any magniloquent engineering claims, calmly demonstrating that their rigid regulatory tradition was merely a form of creative bondage that choked innovation.
 
-Story 597
+Story 0597
 
 unfeigned — 真诚的；不虚伪的；纯真的scuttle — 急促跑；仓促逃跑；（动词）故意凿沉（自己的船）；（名词）煤斗mast — 桅杆；旗杆；橡树果/山毛榉果enshrine — 珍藏；神圣地置于……之中；（将权利等）写入法律unidimensional — 一维的；单方面的；肤浅线性的orifice — 孔口；开口；小孔cocoon — 茧；保护层；（动词）把……紧紧包裹/保护cheeky — 厚脸皮的；俏皮的；无礼放肆的breach — 缺口；违反；破裂；裂痕；（动词）突破/违反harmony — 和谐；和声；协调一致
 
 The Song inside the Mast
 After a cheeky wild mouse made a prominent physical breach in the hollow wooden mast and began to rapidly scuttle through its core, a senior sailor showed unfeigned concern for a rare emperor moth whose fragile silk cocoon was securely tied nearby. He carefully used his knife to enlarge a small orifice in the safety wire mesh covering to safely free the insect. Inspired by his care, the entire crew voted to reject a rigid, unidimensional mechanical repair plan in favor of a creative layout that would permanently enshrine a necessary harmony between structural safety and natural mercy.
 
-Story 598
+Story 0598
 
 disposed — 乐意的；有倾向的breed — 品种；繁殖brunt — 冲击；主要压力；正面撞击static — 静止的；静电的；不动的enfetter — 束缚；禁锢；给……戴脚镣pincers — 钳子；（蟹等的）螯sloth — 树懒；懒惰bricklayer — 砌砖工；泥瓦匠waylay — 拦截；伏击；（半路）纠缠screed — 冗长的文章；长篇大论；抹灰条
 
 The Sloth on the Scaffold
 A veteran bricklayer who was naturally disposed to kindness bore the severe brunt of workplace mockery when a lost wild sloth unexpectedly tried to waylay him high on the construction scaffold. Carefully using a pair of rusted iron pincers, he gently freed the animal from a tangled, static guy wire rather than choosing to enfetter or cage it on the site. He then completely ignored a long, angry administrative screed delivered by his foreman regarding the dangerous nature of its wild breed.
 
-Story 599
+Story 0599
 
 aeronautics — 航空学；飞行术equine — 马的；似马的；（名词）马lark — 嬉戏；恶作剧；云雀；（词组词）纯粹开玩笑/图开心sheriff — 郡治安官；警长encyclopedia — 百科全书lineaments — 面部轮廓；（外形的）特征/线条heckle — 起哄；诘问；大声质问haunt — 萦绕；（鬼魂）常出没于；常去的地方appetizing — 诱人的；开胃的；引人入胜的inertia — 惯性；惰性；不活动
 
 The Sheriff's Flying Horse
 Purely for a lighthearted holiday lark, the eccentric local sheriff entered a massive, equine-shaped glider into the regional aeronautics fair. Although a row of competitive engineering critics continually heckled him from the sidelines and physics inertia kept the heavy craft grounded on the grass, he refused to quit. He spent the night consulting a technical encyclopedia, masterfully adjusted its painted aerodynamic lineaments, and made the vibrant memory of an appetizing celebration victory supper heavily haunt his hungry team.
 
-Story 600
+Story 0600
 
 specimen — 标本；样本；样品accurate — 准确的；精确的foresight — 远见；先见之明；深谋远虑crotchety — 脾气坏的；反复无常的；古怪挑剔的pension — 养老金；退休金；（动词）发养老金退休asterisk — 星号（即符号 *）hue — 色调；色彩；观点formation — 形成；编队；队形；（地质）岩层immemorial — 远古的；久远的；无法追忆的summary — 摘要；概述；（形容词）速决的/草率的
 
 The Asterisk on the Fossil
 A notoriously crotchety museum curator willingly chose to delay his official retirement pension just to finish studying a rare marine specimen whose distinct blue hue marked an organic formation dating back to time immemorial. Demonstrating absolute scientific foresight, he carefully added a tiny red asterisk next to the catalog code and compiled a flawlessly accurate technical summary of the strata before officially opening the grand exhibition to the public.
 
-Story 601
+Story 0601
 
 conduit — 导管；渠道；输送管impair — 损害；削弱；减少suffice — 足够；满足……的需要；（常与 for 连用）shuffle — 拖步；慢吞吞地走；洗牌；（名词）洗牌/拖步untutored — 未受教育的；纯朴自然的；缺乏专业知识的inkling — 略知；隐约觉得；一丝暗示（常构成 have an inkling of）monotone — 单调的；单一色调的；（名词）单调的声音/色彩withdraw — 撤回；退出；提款；（使）撤退spike — 尖钉；（价格/数量等）急剧激增；（动词）戳破/掺入caste — （印度的）种姓制度；（排他的）社会阶层/等级
 
 The Village Water Conduit
 An untutored local mason had an uncanny, instinctive inkling that a sudden physical spike in ground pressure would heavily impair the village's primary underground water conduit. Unfortunately, his quiet, monotone warning did not suffice to convince the town engineers until lines of workers of every distinct social caste suddenly broke their weary afternoon shuffle. They collectively chose to withdraw the high-powered drill rig from the ledge, inspected the main pipeline, and realized he had saved them from an ecological crisis.
 
-Story 602
+Story 0602
 
 request — 请求；要求；（动词）请求/要求opacity — 不透明度；不透明；（语言/意思的）晦涩难懂byproduct — 副产品；意外收获（亦作 by-product）wont — 习惯；惯常的；（名词）习惯/习俗（常构成 be wont to）pejorative — 贬义的；轻蔑的；（名词）贬义词wean — 使断奶；使（逐渐）摆脱/戒除（常构成 wean sb. off/from sth.）waspish — 易怒的；尖刻的；（性格）暴躁的pamper — 纵容；娇养；娇惯mischievous — 淘气的；恶作剧的；（言行等）有害的/含恶意的verbal — 言语的；口头的；动词的
 
 The Fox Cub's Request
 At a senior park ranger's formal request, a remarkably waspish wildlife guide strictly tried to wean a mischievous orphaned fox cub from tourist snacks rather than continuously pamper it with food. His daily wont was to loudly issue aggressive verbal commands across the camp, but the pejorative nickname the locals gave him and the utter structural opacity of his security rules were highly unfortunate byproducts of his explosive temper.
 
-Story 603
+Story 0603
 
 discomfit — 使尴尬；使难堪；挫败（计划）congest — 堵塞；（医学）使充血/拥挤yummy — 美味的；味道极佳的（口语）plebeian — 平民的；粗俗的；社会下层的；（名词）平民/大众unprovoked — 无端的；未受挑衅的；无缘无故的monstrous — 巨大的；可怕的；极其丑陋恶毒的finery — 华服；盛装；华丽的装饰receipt — 收据；发票；收到；（常复数）收入/款项pest — 害虫；有害之物；讨厌的人/令人烦恼的事物atone — 赎罪；弥补；（为过错）受罚（常构成 atone for）
 
 The Pie beneath the Finery
 An ambitious plebeian baker wore borrowed, high-society finery to an art gala specifically to discomfit a monstrous, hyper-critical food critic. However, a sudden, completely unprovoked swarm of wild honeybees began to aggressively congest the main exhibition hall. To swiftly atone for previously calling each insect a useless farm pest in public, the baker carefully followed the beekeeper's emergency instructions, moved his yummy sugar pie safely indoors, paid her honey relocation invoice on the spot, and tucked away the paper receipt.
 
-Story 604
+Story 0604
 
 settled — 稳定的；稳定的；已解决的；定居的snobbish — 势利的；自命不凡的；谄上傲下的enormous — 巨大的；庞大的shawl — 披肩；大围巾rivalry — 竞争；对抗soporific — 催眠的；令人困倦的；（名词）催眠药fluvial — 河流的；因河流作用而产生的ribald — 粗俗幽默的；下流开玩笑的anecdote — 轶事；名人趣闻picayunish — 琐屑的；无足轻重的；微不足道的（美式亦作 picayune）
 
 The Shawl beside the River
 The exact moment their bitter, decade-long professional rivalry was finally settled by a lab audit, a famously snobbish university geologist kindly wrapped an enormous wool shawl around her local field guide's shoulders. She warmly traded a slightly ribald historical anecdote for his long, otherwise soporific academic lecture on coastal fluvial sand formations, quietly admitting to the team that their own picayunish background quarrels had unnecessarily wasted the entire morning.
 
-Story 605
+Story 0605
 
 ferocious — 凶猛的；凶恶的；激烈的；极度的connotation — 含义；隐含意义；意蕴lurk — 潜伏；埋伏；（网络）潜水awkward — 笨拙的；尴尬的；棘手难处理的donate — 捐赠；捐献；赠送budget — 预算；（动词）编制预算；（形容词）低廉的/划算的trophy — 奖杯；奖牌；战利品；纪念品address — 处理；解决；向……发表演说；（名词）演讲/地址autobiography — 自传knit — 编织（衣物）；使紧密结合；（骨头）接合；（眉头）紧锁
 
 The Trophy in the Attic
 While helping her grandmother to knit winter blankets for the local shelter on a remarkably tight financial budget, an awkward young college athlete unexpectedly found a ferocious-looking metal trophy that seemed to eerily lurk behind a pile of dusty old storage boxes. She later decided that her upcoming published autobiography would thoroughly address the strange, violent connotation behind the prize, and fully explain to her readers why she ultimately chose to donate the vintage artifact to a local sports museum instead.
 
-Story 606
+Story 0606
 
 dimple — 酒窝；（金属等的）小凹痕flannel — 法兰绒；（常复数）法兰绒衣服；虚情假意的奉承话leniency — 宽大；仁慈；（惩罚的）从轻（亦作 lenience）dissociate — 使分离；将……隔离开；脱离关系（常构成 dissociate oneself from）aquiline — 鹰钩状的；（面部特征）如鹰般高鼻梁的devastate — 彻底毁坏；毁灭；使极其震惊/蹂躏actuarial — 机构精算的；保险精算师的solitary — 独居的；单独的；寂寞的；（名词）隐士/独居者stipulation — 规定；条款；（合同等的）明文约定sensitivity — 敏感；灵敏度；体贴入微
 
 The Flannel Coat Clause
 A solitary village tailor with a prominent aquiline nose and a single deep cheek dimple carefully used professional actuarial tables to insure his historic storefront inventory of flannel coats. However, a sudden, unfair risk calculation stipulation hidden in the fine print of the policy threatened to completely devastate his family business. Standing up for the artisan, an empathetic senior insurance agent chose to show immense leniency, cultural sensitivity, and an immediate willingness to permanently dissociate actual geographic risk from corporate prejudice.
 
-Story 607
+Story 0607
 
 off-key — 走调的；不协调的；不妥当的；（副词）走调地reputing — 名声；声誉；（动词常作被动）认为/视作（常构成 be of repute / reputed to be）nonsensical — 荒谬的；无意义的；瞎扯的interdisciplinary — 跨学科的civilian — 平民；老百姓；民用的；（形容词）平民的/民用的ragged — 破旧的；衣衫褴褛的；不整齐的；参差不齐的munch — 大声地咀嚼；用力嚼sidesplitting — 令人捧腹的；极其好笑的（亦作 side-splitting）hortative — 劝告的；鼓励性的；激人奋进的simian — 似猴的；猿猴的；（名词）类人猿/猴子
 
 The Off-Key Field Chorus
 An international interdisciplinary research team of exceptional academic repute quietly watched a ragged, slightly wild simian performer sitting on the logs, contentedly munching on ripe bananas while singing completely off-key. However, the performance's highly emotional, hortative musical finale powerfully urged every gathered civilian to actively protect their local rainforests, masterfully turning what had initially looked like a completely nonsensical street act into a massive, sidesplitting public success.
 
-Story 608
+Story 0608
 
 solvent — 溶剂；溶解力；（形容词）有偿付能力的/能够还清债务的debonair — 潇洒自信的；温文尔雅的；无忧无虑的（亦作 debonaire）detestable — 可憎的；恶劣讨厌的；可耻的stance — 立场；观点；（站立的）姿势/姿态prude — 过分拘谨的人；假正经的人；保守古板的人guy — 家伙；小伙子；（建筑）牵索/拉绳；（动词）取笑/用牵索固定coagulate — 凝结；凝固；（血等）凝块entree — 主菜；入场权；准许加入特权（英式拼写常作 entrée）deputize — 委任为代理；代理职务；指派（某人为代表）（亦作 deputise）wink — 眨眼（示意）；（脉冲）闪烁；（名词）眨眼/瞬间/闪烁（常构成 give a wink）
 
 The Sauce Inspector
 A debonair head chef took a remarkably firm, unyielding professional stance when a highly detestable corporate health inspector openly mocked him as an old-fashioned kitchen prude. The chef flatly declared that he would deputize no modern administrative fool to add artificial chemical solvent into his premium dinner entree. Instead, he stood over the copper pot to watch the natural glaze perfectly coagulate on its own, and confidently gave the stunned inspector a knowing, triumphant wink.
 
-Story 609
+Story 0609
 
 chapel — 小教堂；（大教堂的）小礼拜堂；（医院/学校等的）祈祷室heretic — 持异端者；异教徒；（引申为）坚决持不同意见的人frantic — 疯狂的；慌乱的；（因恐惧/焦虑而）发疯似的disproof — 反证；反驳；驳倒……的证据invidious — 招人怨恨的；不公正的；引起反感的prosecute — 起诉；控告；依法检举；继续执行/进行synergic — 协同的；协同作用的（亦作 synergistic）unilateral — 单方面的；单边的conscience — 良心；道德心fosse — 壕沟；护城河；（解剖学）窝/槽（亦作 foss）
 
 The Chapel beyond the Fosse
 A frantic, terrified religious heretic scrambled across the deep stone fosse to seek emergency political shelter inside a historic sanctuary chapel. There, a powerful wave of synergic eyewitness testimony successfully supplied definitive disproof of a highly biased, invidious corporate conspiracy charge against him. Ultimately, the presiding high magistrate's moral conscience simply would not let her prosecute the young runner based purely on a corrupt, unilateral accusation from the state.
 
-Story 610
+Story 0610
 
 nibble — 小口咬；轻咬；（对建议等）表现出微弱兴趣；（名词）一小口gust — 阵风；（大风的）突然狂吹；（情感的）突然爆发commonwealth — 联邦；共和国；（大写特指）英联邦；共同体constitute — 构成；组成；设立（机构）；任命incarcerate — 监禁；关押；禁闭dribble — 滴流；点滴流出；（足球等）运球/盘球；流口水；（名词）细流extinguish — 熄灭（火等）；毁灭；消灭（希望等）；（法律）废除smattering — （对语言/技术的）略知/浅薄知识；（名词）一丁点indelible — 不可磨灭的；擦不掉的；根深蒂固的truss — 桁架；（支撑用的）托架；束带；捆扎；（动词）捆绑/支撑
 
 Fire on the Commonwealth Bridge
 A sudden, violent wind gust aggressively drove flying sparks directly across the historic commonwealth timber bridge, where a loose structural steel truss and a dark dribble of engine oil already constituted a real physical danger. Local volunteers equipped with only a minor smattering of emergency safety training immediately abandoned their quick dinner nibble, rushed forward to help extinguish the spreading blaze, and left the town with an indelible historical lesson on mutual cooperation without needing to incarcerate or penalize anyone for structural neglect.
 
-Story 611
+Story 0611
 
 sheath — 鞘；（刀、剑等底部的）护套；紧身连衣裙；（机械）外壳flummox — 使困惑；使极其惊慌失措/使彻底糊涂raisin — 葡萄干auspicious — 吉祥的；吉利的；非常有利的trilogy — （小说、电影、戏剧的）三部曲topple — 倾倒；（使）推翻/倒塌；（首脑等）垮台ridicule — 嘲笑；奚落；（动词）嘲笑/奚落derelict — 废弃的；荒废的；玩忽职守的；流浪汉；（形容词）荒废的mastermind — 精英策划者；主谋；（动词）精心策划/暗中主导forum — 论坛；讨论会；公开辩论的场所
 
 The Raisin Trilogy
 Inside a packed community forum held right inside the shell of a long-abandoned, derelict theater, a highly creative child masterfully used a single dried raisin, an antique sword sheath, and a beautiful auspicious brass bell to mastermind an avant-garde theatrical trilogy. Her brilliant performance was designed to completely flummox her hyper-critical local newspaper reviewers, heavily topple the city's stale artistic conventions, and answer decades of structural community ridicule with pure, collective audience laughter.
 
-Story 612
+Story 0612
 
 packed — 拥挤的；装满的waggish — 诙谐的；顽皮的manumit — 解放；释放（奴隶）disfranchise — 剥夺公民权；剥夺权利emblazon — 醒目装饰；颂扬；纹章装饰extradite — 引渡（逃犯）exhale — 呼气；散发（气味/蒸气）gormandize — 狼吞虎咽；大吃大喝（亦作 gormandise）chaperone — 陪护；（集会时的）监护人；（动词）青年陪护（亦作 chaperon）compulsory — 强制的；必修的
 
 The Packed Civic Pageant
 Inside a packed community hall, a waggish festival chaperone quietly watched the young local actors eagerly gormandize at the buffet table right before the start of a compulsory civic pageant. High above the stage, bright banners emblazoned the crowd's passionate political demands: to immediately manumit political captives, never disfranchise minority voters, and legally extradite fleeing foreign tyrants. The historical show was a massive success, concluding with a grand finale where the exhausted singers exhaled together in one final, powerful collective note.
 
-Story 613
+Story 0613
 
 torpid — 迟钝的；无精打采的；蛰伏的；冬眠的uphold — 支持；维护（法律/传统）；确认（判决）coltish — 活泼莽撞的；不羁的；如幼驹般的authentic — 真实的；正宗的；可靠的patronage — 赞助；惠顾；（政治上的）任人唯亲/庇护dowse — （用神杆）探测水源/矿藏；浇灭（火）；（名词）探水（亦作 douse）dorsal — 背部的；背侧的thicket — 灌木丛；茂密丛林insentient — 无知觉的；无生命的；没有思想的wag — 摇摆；摆动；诙谐幽默的人；（动词）摇尾巴/摇晃（常构成 wag one's tail）
 
 Water beneath the Thicket
 A highly coltish stray dog began to joyfully wag its tail directly beside a torpid wild lizard resting in the shade of a dense berry thicket. Watching the scene, an authentic local dowser carefully traced his wooden split-stick right along the sleeping lizard's prominent dorsal ridge. He gently set a large, insentient granite stone aside from the path, successfully located a hidden underground spring to completely dowse their smoking campfire, and earned immense community patronage by helping the villagers uphold and reinforce their historic central well.
 
-Story 614
+Story 0614
 
 smart — 聪明的；整洁漂亮的；（动词）刺痛/难过；（名词）剧痛dire — 可怕的；紧急的；极其严重的vomit — 呕吐；吐出；（大批）涌出；（名词）呕吐物vermin — 害虫；寄生虫；（引申为）社会恶棍/害虫fibrous — 纤维状的；由纤维组成的amplify — 放大（声音）；增强；阐述；详述ignoble — 卑劣的；卑微的；不光彩的lounge — 休息室；候机室；（酒店的）雅座；（动词）闲坐/懒散地倚靠plunge — 猛冲；骤降；暴跌；投入；（动词常构成 take the plunge）chisel — 凿子；（动词）凿/雕刻；（俚语）欺骗
 
 The Fibrous Wall
 A smart structural restorer confidently used a steel hand chisel on a damp, fibrous lath-and-plaster wall inside the historical hotel lounge. However, a sudden, dire organic smell emanating from the structural cavity accidentally made several nearby visitors violently vomit. Rather than letting the frantic media amplify widespread, ignoble rumors about a toxic plague vermin infestation in the walls, she boldly took the plunge, dismantled the heavy wood panelling, and discovered nothing but a cluster of harmless, deeply tangled ancient tree roots.
 
-Story 615
+Story 0615
 
 hypothetical — 假设的；假定的；纯理论的gustation — 味觉；品尝arboreal — 树栖的；树木的；活在树上的disfigure — 毁容；损毁……的外观；使变丑compass — 指南针；罗盘；范围；界限；（动词）理解/包围frowzy — 邋遢的；霉臭的；不整洁的（亦作 frowsy）parquet — 镶木地板；（剧场的）正厅后排座；（动词）铺镶木地板mode — 模式；方式；（服装/艺术的）风尚/流行laminate — 层压材料；压合板；（动词）把……压成薄片/复合shelve — 搁置（计划）；把……装架子；（陆地/海底）逐渐倾斜
 
 The Treehouse Tasting Room
 Inside a highly eccentric, hypothetical arboreal café built high in the rainforest canopy, the sensory experience of flavor gustation completely replaced the traditional compass as every incoming guest's navigation guide. The cottage’s slightly frowzy but charming owner deliberately chose a rustic, eco-friendly structural mode for the interior. She expertly used a transparent protective laminate to shield the expensive oak parquet floors, firmly refused to disfigure the living tree branches piercing the walls, and proudly vowed she would never shelve a single historic local recipe from her menu.
 
-Story 616
+Story 0616
 
 glucose — 葡萄糖masquerade — 化装舞会；假面剧；伪装；（动词）伪装/冒充（常构成 masquerade as）perimeter — 周界；周长；（机场/基地的）边缘防御线comprehend — 理解；领会；包含raffle — 抽奖；（动词）以……作抽奖torso — （人体的）躯干；未完成的雕像/残缺不全之物raid — 突袭；搜查；（抢劫性的）袭击；（动词）突袭/搜查bulldoze — 推平；清除；（以武力）强迫/胁迫（亦作 bulldose）deliberate — 深思熟虑的；故意的；（动词）商讨/慎重考虑maculated — 有斑点的；弄污的；不洁净的（亦作 maculate）
 
 The Maculated Mask
 During a high-stakes, charity masquerade raffle event, a heavily maculated theatrical mask resting on a carved stone torso was found to secretly conceal a cache of medical glucose tablets. The security guards simply could not comprehend exactly why anyone would risk life and limb to breach the gallery's heavy outer perimeter fence just to raid this specific historical exhibit. Consequently, they made a deliberate, tactical choice not to bulldoze or dismantle the fragile display cabinet until forensic investigators arrived.
 
-Story 617
+Story 0617
 
 almond — 杏仁；杏树；杏仁状物；（形容词）杏仁状的/淡黄褐色的arachnid — 蛛形纲动物（如蜘蛛、蝎子、蜱螨等）pretentious — 自命不凡的；炫耀的；矫饰的lobe — 叶；（尤指）耳垂；肺叶/脑叶perpetual — 永久的；长期的；无休止的；（职务）终身的efface — 擦除；抹去；使（自己）不显眼/使黯然失色resurrect — 使复活；恢复（传统/制度）；重新掘出（尸体）die-hard — 顽固分子；死忠者；（形容词）顽固到底的/死硬的（亦作 diehard）fail-safe — 故障保护的；安全防错的；（名词）自动防故障装置（亦作 failsafe）daredevil — 冒险家；鲁莽大胆的人；（形容词）蛮干的/铤而走险的
 
 The Almond-Shaped Balloon
 A legendary daredevil entomologist enthusiastically attempted to resurrect a long-canceled, die-hard regional hot air balloon contest. For his entry, he designed a massive craft shaped like a pretentious, stylized giant arachnid, whose bloated, almond-shaped body structure and brightly painted lower wing lobe seemed designed to fly for a perpetual duration. Although a sudden mountain rainstorm threatened to completely efface the balloon's exterior artwork, his newly installed, fail-safe internal pressure relief valve successfully brought the vessel down safely and gently onto the grass.
 
-Story 618
+Story 0618
 
 bawdy — 猥亵的；粗俗下流的；（尤指下流幽默的）didactic — 说教的；教诲的；教学法的espionage — 间谍活动；刺探活动circumlocution — 迂回说法；累赘的话invigilate — 监考（英式常用，美式多用 proctor）pied — 杂色的；斑驳的（常大写用于 Pied Piper 斑衣吹笛人）convoke — 召集（会议）；传唤institute — 设立；制定；开始（法律诉讼）；（名词）学院/协会/机构forger — 伪造者；（金属）锻工/铁匠conformist — 墨守成规者；顺从习俗的人；（形容词）墨守成规的
 
 The Pied Examination Paper
 A prestigious scientific institute was forced to urgently convoke its executive board after a student forger was caught hiding military espionage notes directly beneath a heavily patterned, pied chemistry examination paper. The rigid corporate conformist who had been hired to invigilate the test initially tried to handle the scandal using long, dense didactic circumlocution in his office. However, a single, incredibly blunt and bawdy joke cracked by the suspect mid-interrogation accidentally exposed the key to the entire coded cipher.
 
-Story 619
+Story 0619
 
 aristocracy — 贵族；上层阶级；贵族统治统治者oppose — 反对；抵制；反抗；使对立weed — 杂草；野草；（动词）除草/清除（常构成 weed out）distinctive — 独特的；有特色的；与众不同的gratitude — 感激；感谢；感恩的心kidney — 肾；肾脏；（引申为）脾气/性格/类型（常构成 of the same kidney）foreclose — 取消（抵押人）赎回权；排除；（动词常构成 foreclose on）hunker — 蹲下；弯腰；坚持（观点/常规）（常构成 hunker down）obsessive — 痴迷的；强迫性的；（名词）强迫症患者/过度着迷的人descent — 下降；下坡；血统；世系；祖籍
 
 The Garden of Descent
 A professional botanical gardener belonging to the old regional aristocracy, who felt deeply uneasy about his immense inherited wealth and privileged ancestral descent, chose to hunker down directly beside a patch of distinctive wild weed. He vowed to fiercely oppose his family estate's plans to legally foreclose on the adjacent public community garden plot. After a sudden, severe chronic kidney illness unfortunately ended his years of obsessive daily labor, his deeply moved neighbors successfully took over the land and tended the beautiful property in pure gratitude.
 
-Story 620
+Story 0620
 
 offstage — 台下的；幕后的；（副词）在幕后disenchant — 使不再抱幻想；使清醒bandy — 传播；传抄；来回传递；（双腿）向外弯曲的potentiate — 增强；使有力；促进（药物等）的疗效denture — 假牙；一副假牙gab — 闲聊；多嘴；喋喋不休tornado — 龙卷风；大暴风tenor — 男高音；（法律/演讲的）大意/主旨；（形容词）男高音的obtrude — 强加；闯入；（使）突出（常构成 obtrude oneself on/upon）mobility — 流动性；活动能力；迁移率
 
 The Tenor's Flying Denture
 Offstage, a sudden catastrophic summer tornado heavily threatened the theater cast's emergency mobility and accidentally sent the leading opera tenor's custom dental denture flying straight into a stage prop. Nearby, a group of panicking stagehands began to wildly gab and bandy malicious background rumors that could deeply disenchant his global fans, aggressively obtrude on the paramedics' rescue work, and heavily potentiate the chaotic corporate confusion backstage. However, remaining thoroughly professional, the brilliant singer completely kept his composure until the storms passed.
 
-Story 621
+Story 0621
 
 athletics — 体育运动；田径运动；体育竞技plausible — 看似合理的；花言巧语的；巧妙狡辩的inclusive — 包容的；包含一切的；（价格等）全包的pretension — 自命不凡；虚饰；（对权利/财富的）主张/要求plutocracy — 财阀统治；富豪统治；财阀统治集团osseous — 骨质的；由骨构成的drizzly — 下着毛毛雨的；阴冷潮湿的testator — 立遗嘱人illustrate — （加插图）说明；阐明；作为……的典型例证salute — 敬礼；致意；表示敬意；（名词）敬礼/礼炮
 
 The Testator's Rainy Track
 On a freezing, drizzly autumn morning, an elderly terminally ill estate testator used his sturdy, osseous medical walking baton to formally salute a stadium full of inclusive youth athletics participants. Specifically to illustrate his lifelong philosophical opposition to corporate plutocracy and elite real estate development, he legally bequeathed the multi-million dollar track directly to the neighborhood. The council declared it a perfectly plausible, high-value community gift executed entirely without an ounce of personal vanity or upper-class pretension.
 
-Story 622
+Story 0622
 
 extravagance — 奢侈；奢侈的言行；挥霍；放肆（亦作 extravagancy）jot — 略记；匆匆记下；（名词）一丝/一丁点（常构成 not a jot）unjustly — 不公正地；极其冤枉地navigate — 航行；导航；顺利应付（困难局面）prosecution — 起诉；原告检方；继续执行tresses — （女人的）长发；卷发；发辫（通常用复数 tresses）icing — （蛋糕上的）糖霜/糖衣；（飞机/路面的）严重结冰relenting — （风雨/惩罚等）减弱的/变宽容的；（动词变位）屈服balm — 香膏；镇痛膏；（精神上的）慰藉/安慰物puddle — 水坑；泥潭；（动词）搅浑/用黏土密封
 
 The Icing Trail
 Hoping to safely help blind pedestrians navigate their way around a deep construction street puddle, a resourceful local baker with long floury tresses used a wooden stick to quickly jot clear directional lines in thick cake icing right onto the concrete pavement. Seeing this, the newly relenting municipal prosecution formally admitted in court that she had been highly unjustly accused of criminal public property damage and business extravagance. The judge's official public apology subsequently became a deep psychological balm to her family.
 
-Story 623
+Story 0623
 
 devotee — 爱好者；热心追随者；信徒deferential — 恭敬的；恭顺的；尊重的puberty — 青春期；发育期infant — 婴儿；幼儿；（形容词）初期的/新生的/婴儿的hallowed — 神圣的；受尊崇的；历史悠久的disband — 解散（组织/军队）；（使）散伙biosphere — 生物圈sedative — 镇静剂；止痛药；（形容词）使镇静的/止痛的stupendous — 惊人的；巨大的；极其了不起的dune — 沙丘
 
 The Hallowed Dune
 A deeply deferential international biosphere devotee carefully led a group of university students researching the physical metrics of mammalian puberty past a rare, newborn infant leopard seal resting on a hallowed coastal dune. The experienced guide smoothly demonstrated to the class that an emergency veterinary chemical sedative was entirely unnecessary for the operation, for the sheer physical beauty of the stupendous horizon sunset completely calmed everyone down before the field research group finally chose to disband for the night.
 
-Story 624
+Story 0624
 
 repartee — 机智的应答；幽默生动的口才turpitude — 卑鄙；道德败坏（常构成 moral turpitude）speculative — 推测的；投机的；理论上的crate — （运输用的）板条箱；大柳条筐；（动词）装入板条箱ferret — 雪貂；（动词）搜寻/查获/搜出（常构成 ferret out）peer — 凝视；费力地看；（名词）同龄人/同辈/贵族rumble — 隆隆声；低沉的说笑声；（美式俚语）街头帮派打斗；（动词）发出隆隆声recession — 经济衰退；萧条期；（土地/潮水等的）退去leery — 警惕的；猜疑的；机警的（常构成 be leery of）haughty — 傲慢的；目中无人的
 
 The Ferret in the Crate
 During the height of a severe regional economic recession, a naturally leery investigative reporter suddenly heard a strange, scratching rumble coming from inside a giant wooden shipping crate of highly expensive, speculative modern art. She bent down to carefully peer through a narrow structural crack in the timber. Suddenly, a wild ferret emerged from the packing straw, completely puncturing the haughty gallery dealer's smooth, arrogant verbal repartee and instantly exposing his systematic customs fraud and corporate turpitude to the public.
 
-Story 625
+Story 0625
 
 promenade — 散步道；（海滨的）长廊；（学校的）正式舞会；（动词）散步/漫步tan — 晒黑；棕褐色；（动词）晒黑/鞣革；（形容词）黄褐色的deign — 屈尊；俯就；（常用于否定句）贬低身份去做某事（常构成 deign to do）assess — 评估；估价；评定（特质/形势等）damp — 潮湿的；有湿气的；（名词）潮湿；（动词）抑制/减弱/减振monograph — 专题著作；学述专著insanity — 精神失常；疯狂；极其愚蠢的言行dappled — 有斑点的；斑驳的；杂色的amity — 友好；和睦；亲善关系（常构成 live in amity）lunatic — 疯子；狂人；（形容词）疯狂的/精神失常的
 
 The Dappled Promenade
 While walking along a cold, damp sea promenade, a deeply tanned wealthy stranger flatly would not deign to even assess a beautiful, newly painted dappled public mural until its struggling young artist personally offered him a copy of her academic monograph. The stranger’s initial rude remark calling the abstract historical work absolute insanity admittedly made him sound like a total elitist lunatic to the crowd, but an hour of quiet, deep technical conversation eventually restored mutual professional amity between them.
 
-Story 626
+Story 0626
 
 enamel — 珐琅；景泰蓝；牙釉质；（艺术用）搪瓷；（动词）涂上珐琅consonant — 辅音；辅音字母；（形容词）一致的/符合的（常构成 consonant with）spindly — 细长瘦弱的；（植物）纺锤状拔高的thorny — 多刺的；（问题）棘手的/麻烦的/痛苦的compel — 强迫；迫使；迫使发生（常构成 compel sb. to do）band — 乐队；带子；波段；人群；（动词）用带子扎/联合nonchalance — 漠不关心；从容淡定；冷淡avow — 公开承认；郑重声明；坦白oleaginous — 油腻的；（言行等）奉承谄媚的；产油的slink — 偷偷溜走；潜行；早产（牲畜）；（名词）早产的牲畜
 
 The Enamel Consonant
 A creative, spindly pop singer meticulously painted a single, giant linguistic consonant in bright blue enamel directly onto her jacket before leading her backup musical band through a complex, thorny botanical garden paths. An overbearing, oleaginous corporate manager nearby aggressively tried to compel fake applause from the VIP guests on the terrace. However, she bravely chose to publicly avow her formatting mistake on the live stream with absolute nonchalance, leaving the embarrassed manager to quietly slink away into the shadows.
 
-Story 627
+Story 0627
 
 trapeze — 高空秋千；吊秋千bilk — 诈骗；逃债；使挫败infer — 推断；推定；暗示；意指（常构成 infer sth. from sth。）counterproductive — 适得其反的；产生相反效果的cavalcade — 骑兵队；（礼仪性的）车队/队伍/行列neutron — 【物理】中子conversant — 熟悉的；精通的；（对某国语言）有流利交流能力的（常构成 conversant with）obfuscate — 使模糊；故意混淆；使深度困惑/使晦涩rider — 骑手；马车夫；（法律/合同的）附加条款/附文exaltation — 兴奋；狂喜；（高度的）赞扬/提升/提拔
 
 The Neutron Cavalcade
 A lead motorcycle rider who was highly conversant with advanced nuclear physics masterfully led a massive weekend charity cavalcade straight beneath a circus high trapeze brilliantly decorated with a giant neon neutron symbol. Local corrupt venue officials aggressively tried to obfuscate a counterproductive parking fee sheet on the gate to systematically bilk the incoming spectators out of cash. However, the alert crowd could easily infer the entire financial scheme from miles away, instantly replacing their festive holiday exaltation with a powerful, roaring political protest.
 
-Story 628
+Story 0628
 
 probity — 正直；廉洁；诚实relent — 变宽容；（风雨、惩罚等）减弱/松动transcribe — 抄写；誊写；转录genteel — 文雅的；上流社会的；有教养的illuminate — 照亮；阐明；启发extrapolate — 外推；（依据已知事实）推断/推测lambaste — 痛斥；严厉谴责；狠打（亦作 lambast）rag — 破布；抹布；（动词）嘲弄/戏弄stubborn — 顽固的；顽固不化的；（污渍等）难除的germicide — 杀菌剂
 
 The Stubborn Stain
 A genteel archivist carefully used a clinical germicide and a soft wool rag to treat a stubborn ink stain on an ancient parchment, then asked her young intern to accurately transcribe the faded note. The newly uncovered facts beautifully illuminated the original author's absolute financial probity, ensuring that external critics could no longer extrapolate a false political scandal or continue to publicly lambaste her character. Shamed by the material proof, the hostile panel eventually chose to relent and dismissed the case.
 
-Story 629
+Story 0629
 
 engrave — 雕刻；铭记；牢记transfuse — 输血；灌输（思想/活力）sated — 饱足的；厌腻的；（充分满足的）microscopic — 微小的；极其细微的；显微镜的delegate — 代表；委员；（动词）委派/授权gait — 步态；步法jamboree — 欢庆会；（大型的）童子军大集会oblation — 供品；祭品；奉献spiritual — 精神的；宗教的；心灵的；（名词）黑人灵歌pollster — 民意调查员
 
 The Microscopic Inscription
 At a grand spiritual jamboree held in the open-air pavilion, an independent political pollster quietly watched an elderly delegate with a weary, limping gait carefully engrave a microscopic inscription onto a solid silver oblation cup. After the sated dinner guests had fully enjoyed their banquet and generously donated blood at the field tents, clinical coordinators prepared to immediately transfuse the vital plasma into neighboring emergency hospital patients.
 
-Story 630
+Story 0630
 
 quest — 探索；追寻；寻求（常构成 in quest of）choir — 合唱团；歌咏队；（动词）合唱greenhouse — 温室；花房confiscate — 没收；充公；（形容词）被没收的initial — 最初的；开始的；（名词）首字母；（动词）签姓名的首字母premeditate — 预先谋划；预谋presumable — 可推测的；可能的recessive — 隐性的；后退的；退缩的；【遗传学】隐性基因的seraphic — 天使般的；纯洁高尚的；美丽的recast — 重塑；改写；重新铸造；更换（演员）
 
 The Greenhouse Choir
 On a creative quest to completely recast its initial winter musical program, a famous community choir met for a rehearsal inside a heated botanical greenhouse. They carefully chose a seraphic young soloist whose family carried a rare, recessive genetic trait for an operatic vocal range. Soon after, forensic guards discovered that the facility's presumable landlord had tried to maliciously premeditate a major seed theft, acting quickly to legally confiscate his stolen packets from his luggage.
 
-Story 631
+Story 0631
 
 moat — 护城河；壕沟；（动词）用护城河围绕existential — 存在主义的；关乎生存的；存在的paean — 赞歌；颂歌；（胜利或喜悦的）热烈赞扬intuitive — 直觉的；易懂的；凭直觉获知的termite — 白蚁lapse — 失误；（时间的）流逝；（习惯等）陷入/衰退；（动词）失效/滑入feckless — 无能的；不负责任的；粗心大意的presupposition — 预设；前提；预先假定buoy — 浮标；救生圈；（动词）使振奋/支持/漂浮（常构成 buoy up）lubricant — 润滑剂；润滑油；（形容词）润滑的
 
 The Buoy in the Moat
 Sitting right beside a deep castle moat, a feckless local inventor confidently challenged the state's rigid presupposition that every single wood-boring termite automatically caused an existential safety crisis for historical structures. After correcting one minor baseline engineering lapse, she carefully applied a layer of industrial lubricant to the rusty release mechanism of a heavy wooden buoy. The device's highly intuitive design functioned flawlessly, inspiring a roaring paean of praise from the crowd the exact moment it safely floated to the water's surface.
 
-Story 632
+Story 0632
 
 loophole — 漏洞；空子；（城堡墙上的）瞭望孔/枪眼submit — 提交；呈递；屈服；主张（常构成 submit sth. to sb.）superimpose — 叠加；覆盖；把……放在上面（常构成 superimpose sth. on sth.）calibre — 才干；能力；（枪管/弹药的）口径（美式拼写：caliber）incrustation — 硬壳；结垢；（表面形成的）外皮/饰面（亦作 encrustation）idolatrize — 偶像化；盲目崇拜；奉为神明（亦作 idolatrise）refractory — 难驾驭的；顽固的；耐火的；（医学）无反应的eclat — 辉煌；喝彩；轰动极其成功（亦作 éclat）liaison — 联络；联系；私通；（语言）连读leash — （牵狗的）牵引绳；皮带；束缚；（动词）用皮带系住/控制
 
 The Refractory Statue
 Mara masterfully used a newly discovered legal loophole to formally submit a modern design blueprint that would beautifully superimpose a stylized bronze mask directly onto a centuries-old, incrustation-covered coastal statue. However, her professional arts liaison had to keep the notoriously temperamental, refractory sculptor on an incredibly short leash. She intervened until he finally stopped trying to blindly idolatrize ancient classical artists of supposed high calibre, allowing him to successfully unveil the final completed monument to the public with spectacular international eclat.
 
-Story 633
+Story 0633
 
 oak — 橡树；橡木；（形容词）橡木制的prorogue — （议会等）休会；中止会期；延期antibiotic — 抗生素；（形容词）抗生的/抗菌的spin — 旋转；（快速的）转动；（政治/公关等）编造有利说法/润色；（动词）纺纱/编造hoop — 圆环；（铁/木制的）大圈；篮圈；（动词）用圈围住coffer — 金库；保险箱；（常复数）资金/财库shed — 棚屋；厂房；（动词）流（泪/血）；脱落（皮/叶）；倾吐/发出farewell — 告别；再见；辞行；（形容词）告别的sate — 充分满足；使饱足；过分满足metropolitan — 大都市的；大主教管区的；（名词）大城市人/大主教
 
 Farewell beneath the Oak
 The exact moment the historic metropolitan council voted to formally prorogue its winter session for the holidays, Lina quietly hid a critical medical antibiotic vial inside a heavy, reinforced oak coffer stored in the backyard maintenance shed. She casually gave an old metal play hoop a fast spin on the path to completely distract the courtyard guards, and emotionally bade a final farewell to her team only after ensuring that a batch of fresh warm bread was fully ready to completely sate the hungry refugees waiting at the gate.
 
-Story 634
+Story 0634
 
 soggy — 湿透的；泥泞的；松软的satiny — 光滑如缎的；柔滑的pulsation — 脉动；搏动；规律敲击audacious — 大胆的；无畏的；鲁莽的retentive — 记性好的；保持力强的；有记忆力的conclave — 秘密会议；闭门会议；（天主教）教宗选举会议consolidate — 巩固；合并；加强steadfast — 坚定的；忠实的；始终如一的oath — 誓言；宣誓；诅咒drawn — 憔悴的；面色苍白的；（拔出的）
 
 The Flooded Conclave
 At a soggy riverside conclave, an audacious but visibly drawn envoy felt the river's deep pulsation vibrating beneath the wooden floorboards. Remaining entirely composed as the water rose, she spread out a smooth, satiny deployment map across the table and masterfully used her retentive memory to consolidate the rival high-country clans. She stayed absolutely steadfast to her ancestral military oath even as the freezing muddy waters began to spill over the threshold.
 
-Story 635
+Story 0635
 
 toil — 辛劳；苦干；（动词）艰难缓慢地移动/苦干irreducible — 不可简化的；根本的；最基本的engaged — 忙碌的；（专注于某事的）；订婚的；（电话）占线的itinerary — 行程；旅行路线；旅行计划fatuity — 愚昧；愚蠢的言行/蠢话curmudgeon — 坏脾气的人；守财奴cushion — 垫子；坐垫；缓冲器；（动词）起缓冲作用/保护dally — 磨蹭；拖延；闲荡；调情archipelago — 群岛；群岛环绕的海域apostate — 叛教者；变节者；（形容词）变节的/脱党的
 
 The Apostate's Itinerary
 A newly engaged cartographer purposefully began her daily, exhausting toil across the remote tropical archipelago with a sense of irreducible hope. She completely ignored the arrogant fatuity of an old local curmudgeon who lounged lazily on a silk cushion near the dock. Refusing to dally or waste a single hour of daylight, she meticulously mapped the coordinates while safely hiding a political apostate's true name inside the margins of her official travel itinerary.
 
-Story 636
+Story 0636
 
 scan — 扫描；细看；浏览；（诗的）格律符合；（名词）扫描/浏览anaerobic — 厌氧的；【生物】厌氧菌的trance — 恍惚状态；催眠状态；昏睡状态；（动词）使发呆/使恍惚discursive — 离题的；不着边际的；推论的mournful — 悲哀的；凄凉的；令人伤心的quiver — 颤抖；发抖；（名词）颤抖；箭袋/箭筒gild — 镀金；表面涂金；虚饰/粉饰（常构成 gild the lily）envision — 想象；展望；预想victimize — 迫害；使受害；欺骗（亦作 victimise）theses — 论文；论点；核心假设（单数形式为 thesis）
 
 The Gilded Microscope
 Lost in a mournful, quiet trance after long hours in the laboratory, Ivo carefully used a digital laser to scan a highly volatile anaerobic bacterial culture, feeling his cold hands slightly quiver with exhaustion. His lengthy, discursive academic theses strictly refused to gild the harsh clinical truth or victimize the desperate trial patients for personal fame, yet his meticulous biochemical data still managed to beautifully envision real medical progress for the hospital.
 
-Story 637
+Story 0637
 
 dabble — 涉猎；浅尝辄止；（在水中）嬉水/玩耍（常构成 dabble in）dissect — 解剖（动植物）；仔细剖析（文章/思想）；切开impasse — 僵局；死胡同；绝境（常构成 reach an impasse）habitable — 适于居住的；可居住的narrative — 叙事；故事；（形容词）叙事体的/故事形式的integrity — 正直；诚实；完整性；完好gargoyle — （老式建筑上的）滴水嘴怪兽雕像；面貌丑陋的人peachy — 极好的；漂亮的；桃色的（口语）moratorium — （行动、付款的）暂停/延期偿付；（名词）暂缓执行令mansion — 宅邸；官邸；公馆；大厦
 
 The Gargoyle Moratorium
 During an official city moratorium on historical demolition, June began to actively dabble in stone masonry, work to carefully dissect the mansion's false real estate narrative, and prove with absolute scientific integrity that a hollow granite gargoyle concealed an entire habitable secret room. The appreciative town mayor publicly called her structural discovery absolutely peachy, instantly breaking the weeks of bureaucratic development impasse that had paralyzed the preservation society.
 
-Story 638
+Story 0638
 
 skyscraper — 摩天大楼utter — 说出；发出（声音）；（形容词）完全的/彻底的excrete — 排泄；分泌；排出wend — 行进；（缓慢地）前往（常构成 wend one's way）vanity — 虚荣；虚荣心；浮华；徒劳/无益personification — 化身；典型；拟人化/拟人表现consort — 配偶（尤指王室配偶）；（动词）结交/鬼混（常构成 consort with）calorie — 卡路里（热量单位，缩写为 cal）rhapsody — 狂想曲；热情赞颂；（文学）史诗片段caldron — 大锅；大鼎；（引申为）大动荡（亦作 cauldron）
 
 Rhapsody above the Caldron
 Standing proudly atop a towering luxury skyscraper, the eccentric head chef would regularly utter dramatic lines from a classical rhapsody as he carefully watched the active yeast excrete warm gas into a vast copper caldron. He would then slowly wend his way downstairs to the dining room alongside his elegant consort, who jokingly called his extreme, daily obsession with measuring every single food calorie the absolute personification of human vanity.
 
-Story 639
+Story 0639
 
 asunder — 分离地；四分五裂地；劈开（常构成 tear asunder）serried — 密集排列的；（队伍）密集的dotage — 老年昏聩；耄耋之年（常构成 in one's dotage）gastritis — 胃炎suspect — 怀疑；猜想；（名词）嫌疑人；（形容词）可疑的fodder — 饲料；草料；（创作的）素材/炮灰auction — 拍卖；（动词）拍卖/竞卖（常构成 auction off）enthralling — 迷人的；扣人心弦的；引人入胜的acorn — 橡子；橡果municipality — 市政府；自治市；地方当局
 
 The Acorn Auction
 Although a severe, painful bout of acute gastritis and the onset of mental dotage continually threatened to tear his business plans asunder, the veteran auctioneer confidently faced the packed row of serried bidders. He held their attention by weaving an enthralling historical tale around an old wooden acorn, successfully making the highly skeptical municipality suspect that this common piece of fireplace fodder actually hid a priceless medieval relic.
 
-Story 640
+Story 0640
 
 impartial — 公正的；不偏不倚的misrepresent — 歪曲；误传；不实地叙述/伪称excruciate — 折磨；使极其剧痛；使苦恼（常作过去分词 excruciating）nag — 唠叨；不断烦扰/使苦恼；（名词）爱唠叨的人/老马resuscitate — 使复苏；使恢复知觉；重振（经济等）erase — 擦除；抹去；消除（记忆/罪名等）clot — 血块；（黏稠液体的）凝块；（动词）凝结/结块quartet — 四重奏；四重唱；四人组royalty — 王室；皇族；（著作/发明等的）版税/专利使用费proceeds — （活动、销售的）收益；款项；收入（复数名词）
 
 The Quartet's Proceeds
 A highly impartial high-court doctor firmly refused to misrepresent exactly how the intense, burning pain from a deep vein clot could physically excruciate the lead violinist during a performance. Despite a row of corrupt managers who continued to aggressively nag her to alter the chart, she successfully helped resuscitate the musician, completely erase his crushing post-injury concert debt, and direct the entire chamber quartet's performance proceeds and continuous royalty payments straight to a struggling rural clinic.
 
-Story 641
+Story 0641
 
 pestle — 杵；研磨棒malinger — 装病以逃避工作uproarious — 喧闹的；极其滑稽的；令人捧腹的suffragist — 妇女参政权论者porcelain — 瓷器；瓷制的pavid — 胆怯的；害怕的thrifty — 节俭的；精打细算的doctrine — 学说；信条；教义erect — 建立；建造；竖立；直立的amass — 积聚；大量收集
 
 The Suffragist's Porcelain Bell
 A naturally pavid court clerk tried to awkwardly malinger at his desk the moment an uproarious local suffragist used a heavy brass pestle to loudly ring a pristine porcelain bowl in the town square. Refusing to be intimidated by the police, her remarkably thrifty and tactical campaign would successfully amass enough spare coins from the gathering onlookers to eventually erect a permanent community hall, where absolute gender equality was established as the guiding legal doctrine.
 
-Story 642
+Story 0642
 
 uniform — 制服；统一的；一律的enact — 制定（法律）；通过；演出（剧本）equate — 等同；使相等；把……视作等同（常构成 equate sth. with sth.）raillery — 善意的嘲弄；打趣；开玩笑deport — 驱逐出境；（流放）；举止/端行（常构成 deport oneself）blazon — 醒目展示；纹章装饰；颂扬brandish — 挥舞（武器/物件）；（炫耀地）展示exude — 散发；渗出；流露出（信心/喜悦等）instrumentalist — 器乐演奏家；乐器演奏者mattress — 床垫
 
 The Mattress Parade
 A rebellious military instrumentalist clad in full ceremonial uniform chose to boldly enact a piece of comic street protest on the base. Masterfully using sharp verbal raillery to equate rigid bureaucratic pomp with absolute human folly, he proceeded to wildly brandish his conductor's baton and blazon chaotic musical notes directly across a row of stacked army mattresses. Even the stiff guards who had been sent to promptly arrest and deport him from the compound instead began to visually exude pure, uncontrollable delight.
 
-Story 643
+Story 0643
 
 cadaver — （供解剖用的）尸体prim — 一本正经的；拘谨的；整洁古板的flush — （因尴尬/兴奋而）脸红；冲洗（马桶）；（名词）红晕/冲洗specter — 幽灵；亡魂；（对丑恶之事的）恐惧/阴影（亦作 spectre）brochure — 小册子；资料手册illusive — 虚幻的；迷惑人的；虚假的wage — 发动（战争）；开展（活动）；（名词常复数）工资/薪水allegory — 寓言；讽喻；托物言志munition — 军需品；军火；弹药（常复数 munitions）pillage — 掠夺；抢劫；洗劫；（名词）掠夺/赃物
 
 The Prim Specter's Brochure
 A highly prim university archives curator unexpectedly found a vintage, faded brochure resting right beside an anatomical cadaver display. She began to visibly flush with academic anger as she realized the document’s illusive author had offered an eerie, haunting specter of a political allegory. The text explicitly condemned the history of greedy kings who routinely wage unprovoked territorial wars, continuously stockpile dangerous chemical munitions, and completely pillage the economic stability of their own nation's future.
 
-Story 644
+Story 0644
 
 temper — 缓和；使温和；（冶金）回火/淬火；（名词）脾气/情绪resplendent — 辉煌的；华丽灿烂的；灿烂夺目的madrigal — 牧歌；（尤指文艺复兴时期的）无伴奏多声部合唱曲nethermost — 最低的；最底层的；最深处的heir — 继承人；后嗣ordain — （法律/神）注定；任命（牧师等）；天意规定denouement — （小说、戏剧、事件的）结局/收场/落幕（亦作 dénouement）tentative — 试探性的；暂定的；犹豫不决的hinder — 阻碍；妨碍；阻挡chip — （电脑）芯片；（木头/石头等的）碎片；（动词）削碎/凿裂
 
 The Nethermost Madrigal
 Right at the highly tentative, quiet denouement of a resplendent classical madrigal performance, the orchestra's young female heir unexpectedly discovered a hidden digital music micro-chip buried beneath the building's nethermost stone stair. She realized that absolutely nothing could hinder her from playing the recorded track to safely temper the conservative executive council's rising rage, intervening brilliantly before the board could officially ordain that a newly hired singer should permanently take her place in the company.
 
-Story 645
+Story 0645
 
 critical — 关键性的；至关重要的；批判的；（医学）危重的burrow — （兔子等挖的）地洞/隧道；（动词）钻进/扒洞/搜寻tournament — 锦标赛；联赛；（中世纪的）骑士比武poise — 镇定；泰然自若；姿态；平衡；（动词）使平衡/准备好gibe — 嘲讽；奚落；嘲笑（亦作 jibe）exclamation — 惊呼；感叹；感叹词saboteur — 破坏者；敌后破坏特工barge — 驳船；大型平底船；（动词）粗鲁地闯入/撞入（常构成 barge in）scamp — 淘气鬼；小无赖；顽童drove — （人群、牲畜等）一大群；一队（复数常构成 in droves）
 
 The Tournament Burrow
 At a highly critical, tie-breaking moment in the championship golf tournament, a clever local scamp suddenly heard an unusual metallic exclamation coming from right beneath the putting green. He flawlessly kept his mental poise despite enduring every loud, distracting corporate gibe from the hostile grandstands. Dropping to his knees, he crawled deep into a freshly dug animal burrow, completely exposed a hidden industrial saboteur trying to rig the underground cup, and single-handedly drove the culprit straight toward a waiting police patrol barge on the river.
 
-Story 646
+Story 0646
 
 understudy — 替补演员；（兼职）替角；（动词）做……的替补演员tongs — 夹具；钳子；（厨房/实验室用的）火钳（通常用作复数 a pair of tongs）squabble — （为琐事）争吵；口角；（名词）口角/争论phenomena — 现象（名词 phenomenon 的复数形式）safeguard — 保护；防护措施；安全保障；（动词）保护/捍卫flak — 猛烈批评；【军事】高射炮火；反方火力（亦作 flack）scorpion — 蝎子；【天文学】天蝎座simultaneous — 同时的；同时发生的expiration — 到期；期满；呼气；吐气protract — 延长；拖延；（数学）绘制
 
 The Understudy and the Scorpion
 The quick-witted backstage understudy calmly used a pair of long laboratory tongs to carefully lift a wild, live scorpion straight off the stage, successfully ending an intense technical squabble just as two simultaneous, bizarre physical phenomena deeply puzzled the acting cast: the venomous creature began to glow in the dark while the wooden background scenery hummed with static electricity. Despite facing a wave of heavy administrative flak from city inspectors over her operating permit's technical expiration, her brilliant emergency safeguard successfully kept the chaotic incident from further protracting the opening night show.
 
-Story 647
+Story 0647
 
 primate — 灵长类动物；大主教；首席主教reportage — 新闻报道；报道文学；报告文学devise — 设计；发明；想出（方法等）；【法律】遗赠（地产）temp — 临时雇员；临时工作；（动词）做临时工academic — 学术的；学业的；纯理论的；（名词）高校教师/学者obvious — 明显的；显而易见的incur — 招致；遭受；承担（成本/责任/惩罚）（常构成 incur ridicule/costs）carafe — 玻璃水瓶（常指盛水或酒的无把大口瓶）cohesive — 有凝聚力的；连贯的；团结的associate — 同事；伙伴；（动词）联系/交往；（形容词）副的/联合的
 
 The Primate Reportage
 A clumsy young temp working at a prestigious academic science journal accidentally spilled an entire glass carafe of water across his desk while frantically trying to devise a cohesive news reportage piece about a newly discovered mountain primate species. Within seconds, it became blindingly obvious to everyone in the bustling newsroom that he would inevitably incur intense professional ridicule from the chief editor, unless his highly experienced senior research associate could quickly supply the missing field notes from her personal locker.
 
-Story 648
+Story 0648
 
 coven — 女巫聚会；女巫团enfeeble — 使衰弱；使无力withhold — 隐瞒；扣留；拒绝给credible — 可信的；可靠的autonomy — 自治；自主权；独立性unleash — 释放；发泄；突然发动prowl — （动物/贼等）潜行；徘徊；（名词）潜行/搜寻redoubtable — 令人敬畏的；强大的；强劲的gratuitous — 无端的；无理由的；免费的forsake — 抛弃；离弃；遗弃
 
 The Coven's Autonomy
 A redoubtable regional coven firmly refused to withhold critical, credible evidence revealing that the corrupt duke had been using gratuitous dark curses to enfeeble local villagers. Vowing never to forsake their ancestral autonomy, the members boldly unleashed a legendary guardian owl to nightly prowl the perimeter of his stone castle tower, successfully mapping his movements for the resistance.
 
-Story 649
+Story 0649
 
 veracity — 真实性；诚实；精确性hack — 劈砍；（粗暴地）乱砍；雇佣文人/（无创见的）平庸创作者clinical — 临床的；冷静客观的；冷冰冰的grain — 谷粒；细粒；（木材/织物等的）纹理/质地；一点点collate — 核对；整理（文献/数据等）loop — 环；圈；回路；循环；（动词）使成环/绕行vicissitudinous — 变迁无常的；饱经沧桑的；多变的compile — 汇编；编纂；搜集（资料）sawdust — 锯末；刨花undulate — 起伏；波动；呈现波浪形
 
 The Undulating Grain
 Hoping to test the exact historical veracity of a highly vicissitudinous family legend, a clinical museum archivist hired a local research hack to painstakingly collate old letters and compile accurate dates. While they worked inside the drafty library, a sudden cold wind through the window made a thin layer of fine sawdust undulate beautifully right over a distinct loop in the wooden floorboards' ancient oak grain.
 
-Story 650
+Story 0650
 
 pacify — 平息；安抚；使平静sedition — 煽动叛乱；煽动言论drub — 痛打；彻底击败；（用脚）敲击villainous — 邪恶的；可憎的；极其恶劣的pottery — 陶器；陶艺；制陶作坊artificial — 人造的；人工的；虚假的；做作的metamorphose — 使变形；蜕变；使彻底改变（常构成 metamorphose into）salutation — 问候；称呼；致意maritime — 海事的；沿海的；航海的callus — 老茧；（骨折后的）骨痂；胼胝
 
 The Maritime Potter
 A master maritime potter with a thick, rugged callus on each palm used a highly courteous vocal salutation to successfully pacify a crew of angry sailors who had been falsely accused of sedition. He then let his roaring kiln fire slowly metamorphose raw river clay into exquisite pottery. The vessels were painted with vibrant artificial colors and boldly featured a villainous navy captain's face, providing the crew with mugs they could safely drub with their spoons during dinner as a release.
 
-Story 651
+Story 0651
 
 omelet — 煎蛋卷；烘蛋嫩豆腐（亦作 omelette）squeeze — 挤压；挤出；榨取（财富/权利）；（名词）挤压/拥挤intellect — 智力；理解力；知识分子；才智cubicle — （办公室/宿舍等的）小隔间procreate — 生育；繁殖misperceive — 误解；看错；（对形势等）认知错误duct — 管道；导管；【解剖学】腺管；（动词）用管道输送tatty — 破旧的；寒酸的；不整洁的scope — 范围；余地；机会；眼界；【仪器】显示屏unregulated — 未受监管的；无官方约束的
 
 The Omelet in Cubicle Nine
 Operated from a cramped, tatty workshop cubicle, a clumsy and completely unregulated new machine was designed to automatically squeeze eggs through a metal processing duct to make a fresh morning omelet. However, the device’s extremely limited electronic intellect routinely caused it to misperceive incoming computer orders, hilariously demanding that the facility's live hens should continuously procreate—a chaotic directive that went far beyond the intended scope of a standard breakfast service.
 
-Story 652
+Story 0652
 
 muddle — 混乱；糊涂；困惑；（动词）弄乱/使困惑/混淆jesting — 开玩笑的；滑稽幽默的；（名词）开玩笑/戏谑generosity — 慷慨；大方；宽宏大量traverse — 穿越；横跨；横越；详细研究mulct — 罚款；诈取；骗取（常构成 mulct sb. of/out of sth.）droll — 滑稽的；古怪有趣的；逗趣的；（名词）小丑/滑稽演员scroll — 卷轴；纸卷；画卷；（电脑）滚动avoid — 避免；躲开；规避（法律责任等）；宣告无效purlieu — （常复数）边缘地带；常去的地方；郊区jog — 慢跑；轻推；唤起（记忆）；（名词）慢跑/轻推（常构成 jog one's memory）
 
 The Droll Scroll
 To completely avoid a potential diplomatic muddle at the border, a jesting local courier took a rapid morning jog directly through the thick forest purlieu. He strategically used an eccentric, droll scroll stamped with fake family crests to successfully traverse the heavily armed military checkpoint, and warmly repaid the head guard's subsequent generosity with a bottle of wine before any corrupt official could illegally mulct him of his cargo.
 
-Story 653
+Story 0653
 
 trammel — 束缚；阻碍；限制；（名词常复数）羁绊/妨碍/三层刺网sash — 饰带；肩带；腰带；窗框；窗饰tumult — 骚乱；喧嚣；（内心的）狂暴激荡fructify — 使结果实；使富有成果；繁衍precipitant — 轻率的；鲁莽的；（名词）促成因素；【化学】沉淀剂intent — 意图；目的；（形容词）专心致志的/执着的（常构成 intent on）truant — 逃学者；旷工者；偷懒的人；（形容词）逃学的/拖延的debut — 首次亮相；初次登台；（动词）初次登台（亦作 début）denizen — 居民；（特定地区的）常客/动物/植物demand — 要求；需求；（动词）要求/强烈需要
 
 The Truant's Debut
 Fiercely intent on making a spectacular debut at the upcoming community music festival, a headstrong young school truant, who was a well-known denizen of the old village orchard, proudly tied a bright crimson silk sash onto her classical harp. She completely ignored the noisy administrative tumult and every precipitant civic demand that threatened to trammel her creative freedom, steps forward to play a historic melody that was locally said to naturally fructify even the most barren of fruit trees.
 
-Story 654
+Story 0654
 
 denominate — 命名；称呼；以某特定单位/货币表示tare — 皮重；（包装的）重量；【植物】野豌豆/毒麦bauble — 廉价的饰品；华而不实的小玩意；（引申为）无价值之物parity — 平等；相同；同等；【计算机】奇偶校验estranged — 疏远的；分居的；不和的grouse — 抱怨；发牢骚；【鸟类】松鸡；（动词常与 about 连用）weasel — 黄鼠狼；狡猾欺诈的人；（动词）逃避/钻空子（常构成 weasel out）prosperous — 繁荣的；富裕的；兴旺昌盛的overdose — 过量服用（药物）；（名词）过量/药物过量；（动词过量服用）farce — 闹剧；荒唐的事；滑稽剧
 
 The Bauble of Parity
 An estranged local merchant aggressively attempted to denominate a glittering brass bauble as legitimate royal currency, completely ignoring the heavy, wooden material tare of its oversized velvet display box. However, a highly prosperous traveling weasel trainer in the market plaza began to loudly grouse that the merchant's fraudulent scheme made the concept of economic parity an absolute farce. He sharply warned the gathering crowd that unchecked corporate greed could easily make a naive town overdose on false luxury.
 
-Story 655
+Story 0655
 
 chameleon — 变色龙；善变者inception — 开端；创立secure — 保护；获得；使安全obstruct — 阻碍；堵塞；妨碍consequence — 后果；重要性；结果dullard — 笨蛋；迟钝的人portend — 预示；预兆（尤指凶兆）titanic — 巨大的；强大的；极其有力的monumental — 巨大的；极重要的；纪念碑式的superannuated — 年老退休的；过时的；落伍的
 
 The Superannuated Chameleon
 From the very inception of the high-stakes island race, a slightly frail, superannuated chameleon desperately tried to secure a monumental golden trophy at the summit. However, a sudden storm caused a titanic tree branch to violently fall and obstruct her narrow climbing path. Only an absolute dullard would have completely ignored the dark, swirling mountain clouds that portended serious, life-threatening consequences for any competitor who delayed on the trail.
 
-Story 656
+Story 0656
 
 depravity — 堕落；邪恶；道德败坏hovel — 陋屋；棚屋；简陋小屋plinth — 柱基；底座；墙脚石mermaid — 美人鱼tundra — 苔原；冻原concave — 凹的；凹面的tadpole — 蝌蚪bench — 长凳；工作台；法官席；（动词）使退坐板凳veracious — 诚实的；真实的；准确的negotiable — 可协商的；可转让的；可通过的
 
 The Mermaid on the Tundra
 Deep inside a freezing stone hovel built on the windswept arctic tundra, a remarkably veracious captured mermaid carefully placed a tiny wild tadpole into a concave glass bowl resting upon a marble plinth. She sat quietly down on a nearby wooden bench, looked up at her captors, and calmly declared that any conditional terms of mercy or release were negotiable only in territories where absolute moral depravity ruled.
 
-Story 657
+Story 0657
 
 umpire — 裁判；仲裁者；（动词）任裁判aroma — 香气；芳香；（常指）食物或植物的香味balky — 倔强的；不肯配合的；（机器）时走时停的closed-minded — 思想封闭的；执拗偏狭的demolition — 拆除；摧毁；破坏squall — 飑；突发性暴风雪；短暂的喧闹/骚乱；（动词）嚎啕大哭iniquitous — 邪恶的；极不公正的；伤天害理的occidental — 西方的；西方人的；（名词大写时特指）西方人ungrudging — 慷慨的；真诚的；心甘情愿的assay — 化验；测定；（动词）化验/鉴定/尝试
 
 The Umpire's Assay
 A highly observant, ungrudging baseball umpire carefully followed a strange chemical aroma emanating from a balky furnace right before a sudden winter squall officially halted the stadium demolition project. Working under the cover of the storm, he masterfully used a professional laboratory assay to publicly expose an iniquitous, closed-minded antique dealer who had been systematically selling fake occidental silver artifacts to local history museums.
 
-Story 658
+Story 0658
 
 bathetic — 突降为平庸的；陈腐感伤的；流于俗套的browse — 浏览；（动物）吃草/啃树皮；（名词）轻率游览cranky — 暴躁的；古怪的；（机器）运转不稳的（亦作 crankier）conjoin — 结合；连接；（使）结合liquefy — （因加热等）液化；熔化；溶解（亦作 liquefie/liquefies）putrid — 腐烂的；发出恶臭的；令人厌恶的roughen — （使）变粗糙；（使）皮肤起皱bode — 预示；（尤指）预兆（常构成 bode well/ill）industrious — 勤劳的；勤奋的flatten — 压平；击倒；（使）变平
 
 The Cranky Glassmaker
 A highly industrious but notoriously cranky old glassmaker would regularly browse ancient industrial manuals, conjoin odd volcanic minerals together, and liquefy them over a furnace fueled by putrid-smelling coal. However, a series of microscopic air bubbles that began to visibly roughen each custom window pane bode a thoroughly bathetic, amateurish finale for his project, unless he could successfully find a way to perfectly flatten the molten glass sheets by dawn.
 
-Story 659
+Story 0659
 
 tutor — 导师；私人辅导教师；（动词）辅导/当导师thespian — 演员；戏剧演员；（形容词大写时特指）戏剧的/演员的zest — 热情；热心；风味；（橙子等）剥下的皮/橘皮incorporeal — 无形体的；非物质的；无实体的；灵魂的subside — （暴风雨、感情等）平息/消退；下沉；（地面）下陷movement — （演奏的）乐章；运动；移动；乐团动作produce — 生产；制造；（名词指）农产品/鲜副食品dislocate — 使（关节等）脱臼；扰乱；使（计划/交通等）混乱notable — 显著的；值得注意的；著名的；（名词）名人/要人submission — 提交；呈递；屈服；投降；（法律）抗辩
 
 The Incorporeal Tutor
 An eerie, incorporeal drama tutor silently taught a notable young thespian how to produce a beautifully lively stage performance. He trained her to execute each musical movement with raw physical zest, calmly wait for the audience's roaring applause to fully subside, and carefully revise her portfolio submission without trying to dangerously dislocate a shoulder purely for cheap dramatic effect.
 
-Story 660
+Story 0660
 
 girder — 大梁；钢梁；主梁understated — 低调的；朴素的；不夸张的wangle — 设法获得；（通过巧言/欺骗）哄骗/弄到（常构成 wangle sth. out of sb.）cabinet — 橱柜；储藏柜；（国家）内阁；（形容词）内阁的/私密的fumigate — 熏蒸消毒；以烟熏消除（害虫等）merited — 应得的；理所当然的；当之无愧的ramp — 斜坡；坡道；（价格等）猛增；（动词）使狂暴/猛增aquatic — 水生的；水上的；水栖的；（名词常复数）水上运动harry — 不断骚扰；折磨；掠夺；抢劫entrepreneur — 企业家；创业者
 
 The Aquatic Ramp
 A highly low-key, understated corporate entrepreneur aggressively tried to wangle a fast-track construction permit for a temporary aquatic boat ramp directly beneath a rusted railway girder. However, a massive colony of wood beetles would continually harry his construction crew, until they finally agreed to thoroughly fumigate the antique office cabinet where the team's long-merited safety approval documents had been hidden away.
 
-Story 661
+Story 0661
 
 imbecile — 笨蛋；傻瓜；低能儿；（形容词）愚蠢的/低能的transgress — 违背（道德/法律）；越界；侵犯contest — 竞赛；比赛；争辩；（动词）争取/争夺/反驳groan — 呻吟；（因痛苦、厌烦等）抱怨；（名词）呻吟声/抱怨osmosis — 【物理】渗透；【心理】潜移默化；耳濡目染pleat — （衣服上的）褶；（动词）给……打褶tendinous — 【解剖学】腱的；由腱构成的；多腱的laxative — 泻药；通便的；（名词）通便剂caucus — （政党的）核心会议；党团会议；（动词）召开党团会议scurvy — 【医学】坏血病；（形容词）卑鄙的/可耻的/龌龊的
 
 The Scurvy Caucus
 At a tense midnight sailors' caucus, absolutely no imbecile on board dared to contest the chief medical officer's definitive claim that basic water osmosis could not cure acute naval scurvy. A senior sailor suffering from a painful tendinous wrist injury began to loudly groan when the guards found an illegal bottle of liquid laxative hidden inside one tailored pleat of his coat, and the shamed culprit tearfully vowed never to transgress ship regulations again.
 
-Story 662
+Story 0662
 
 yearn — 渴望；思念；（因同情等）向往（常构成 yearn for/to do）dedication — 奉献；热诚；（书、画的）题献；落成典礼nucleus — 核心；中心；【生物】细胞核；【物理】原子核converse — 交谈；谈话；（形容词/名词）相反的/相反的事物overlap — （时间、空间、职责上的）重叠/交叉；（动词）重叠inverse — 相反的；倒转的；（名词）反面/倒数；（数）反元素biped — 两足动物；双足的cursive — 草书的；连笔的；（名词）草书/连笔字gaze — 凝视；注视；（动词）凝视/注视（常构成 gaze at）ruck — 皱褶；普通人群；（足球等）乱堆/拥挤；（动词）使弄皱
 
 The Cursive Nucleus
 On an ancient leather-bound manuscript where two historical expedition maps significantly overlap, an elegant, faded cursive dedication made a young biped academic intensely yearn to converse with its original author. Working carefully under the lens, beneath a slight ruck in the parchment paper, her steady gaze unexpectedly discovered the perfect, inverse geographic route leading straight to the mysterious island's geological nucleus.
 
-Story 663
+Story 0663
 
 purported — 据称的；传言的；谣传的impressionable — 易受影响的；幼稚天真的informer — 告密者；提供消息者frisky — 活泼的；欢闹的；精力充沛的magenta — 品红色；洋红色的perspicuity — （语言/表达的）明晰；清楚fatigue — 恢复；使疲惫；（名词）疲劳/劳累chancellor — 大臣；大法官；（大学）校长skunk — 臭鼬；卑鄙的人；（动词）彻底击败deficiency — 缺乏；缺陷；不足之处
 
 The Magenta Informer
 A remarkably frisky wild skunk dressed in a tiny magenta fabric vest unexpectedly led a naive, impressionable corporate informer straight to the dynamic site of the purported buried treasure. However, sheer physical fatigue and a severe, underlying deficiency of mental perspicuity later made his official written report so utterly muddled and convoluted that the state chancellor burst into loud laughter upon reading it.
 
-Story 664
+Story 0664
 
 snide — 挖苦的；尖刻不诚实的；卑劣的sinew — 肌腱；力量；源动力；（动词）加强arboretum — 植物园；树木园demure — 娴静的；端庄的；故作保守的unicorn — 独角兽cell — 细胞；小房间；单人牢房；（政治）小组natty — 整洁时髦的；利落漂亮的stir — 搅动；混杂；引起轰动/骚动；（名词）轰动/监禁repercussion — 反响；深远后果；（弹回/反弹）hemisphere — 半球；（大脑/地球的）半球
 
 The Unicorn Cell
 Inside a sprawling, dense arboretum located deep in the southern hemisphere, a demure tour guide wearing a natty winter coat completely ignored an aggressive, snide remark from a passing visitor. She strained every physical sinew to pry open a rusted, heavy steel research cell door. The rare, escaped legendary unicorn instantly caused a massive public stir, whose chaotic, far-reaching repercussions rapidly spread across the entire modern city overnight.
 
-Story 665
+Story 0665
 
 prejudice — 偏见；成见；损害；（动词）使抱有偏见/损害treaty — 条约；协定；谈判partial — 偏袒的；不公平的；局部的；（常与 to 连用指偏爱）gardenia — 栀子花；栀子树squelch — 压制；平息（谣言等）；发出嘎吱声；（名词）压碎声besiege — 围攻；困扰；（因问题等）接踵而至expeditious — 迅速高效的；快捷的aggrandize — 扩大（权力/财富）；吹捧；提高（地位）（亦作 aggrandise）refulgent — 辉煌的；灿烂夺目的；流光溢彩的gravel — 碎石；砂砾；使困惑/使不知所措
 
 The Gardenia Treaty
 Hoping to swiftly squelch political prejudice and tribal unrest before hostile rebel forces could actively besiege the royal palace, an expeditious envoy confidently crossed the grand gravel courtyard holding a fresh white gardenia flower. She locked herself in the study to draft a comprehensive peace treaty that was neither partial to the elite nor intentionally designed to artificially aggrandize the power of the refulgent golden throne.
 
-Story 666
+Story 0666
 
 inch — 英寸；（动词）缓慢移动；挪动shilly-shally — 犹豫不决；磨蹭；（形容词）犹豫不决的complicate — 使复杂化；使难懂interrogative — 疑问的；质问的；（名词）疑问词replica — 复制品；仿制品；一模一样的拷贝plateau — 高原；（上升后的）稳定期/停滞期；（动词）进入停滞期reckon — 认为；估计；计算；指望（常构成 reckon with）ranger — 护林员；巡逻兵；突击队员feud — 世仇；长期争斗；（动词）长期争斗execrable — 糟透的；可憎的；极坏的
 
 The Replica on the Plateau
 A veteran park ranger carefully watched a massive mechanical replica inch its way precariously across the narrow high-mountain plateau, firmly refusing to shilly-shally or delay his emergency deployment. He knew that issuing a direct, formal interrogative note to the local garrison would heavily complicate their ongoing historical border feud, but he could easily reckon that the paper's execrable, smeared ink handwriting concealed an urgent environmental warning.
 
-Story 667
+Story 0667
 
 fraternal — 兄弟般的；兄弟会的；（双胞胎）异卵的poster — 海报；招贴画；张贴帖子的人splendor — 壮丽；辉煌；华丽；光彩（美式拼写：splendor / 英式：splendour）slick — 光滑的；圆滑的；熟练巧妙的；（名词）油污/油斑escort — 护送；陪同；（名词）护卫者/陪同者/伴游epicure — 美食家；讲究饮食享乐的人hideous — 丑恶的；骇人的；极其极其丑陋的slanderous — 诽谤性的；中伤的audible — 听得见的；可听到的lucubrate — 刻苦钻研；挑灯夜作；（文字）苦心刻板写出
 
 The Epicure's Poster
 A supportive, fraternal security escort carefully led a famous culinary epicure right across the slick, rain-soaked public plaza, where a giant, hideous propaganda poster boldly bore a highly slanderous personal accusation against her restaurant, provoking a loud, audible gasp from the gathering crowd. Refusing to panic, she elegantly chose to lucubrate overnight in her private kitchen, masterfully answering the malicious insult the following evening with a stunning community feast of quiet, absolute splendor.
 
-Story 668
+Story 0668
 
 delectation — 愉悦；享受；（常指精神/感官的）娱乐（常作 for the delectation of）gestate — 孕育（胎儿）；在脑中构思（计划/想法）slot — 狭缝；狭槽；（电视/广播的）时间段/时段；（动词）插入dictator — 独裁者；专制者；发号施令的人patch — 补丁；（布料、土地的）小块地/碎片；（动词）修补/缝补bully — 欺凌；恐吓；（名词）仗势欺人者/恶霸；（动词）恐吓/欺负nonviable — 不可行的；无法生存的；无生育能力的（亦作 non-viable）mulish — 顽固的；骡子般的；执拗的dreary — 沉闷的；凄凉的；枯燥令人沮丧的prospect — 前景；期望；勘察；（动词）勘探/寻找（常与 for 连用）
 
 The Dictator's Empty Slot
 Purely for his own twisted sensory delectation, a highly mulish regional dictator tried to aggressively bully the local independent farmers into planting a single, dreary seasonal crop patch across the entire valley. However, the resilient community used months of secret midnight meetings to quietly gestate a massive political revolt. They hijacked an empty midnight state radio broadcast slot to thoroughly explain to the public why his nonviable agricultural plan offered absolutely no rational prospect of a successful harvest.
 
-Story 669
+Story 0669
 
 daze — 使茫然；使因困惑而木然；（名词）迷乱/恍惚状态（常构成 in a daze）demography — 人口统计学；人口结构spark — 火花；电火花；导火线；（动词）激发/触发/冒火花usury — 高利贷；高利贷行为negotiate — 谈判；协商；（成功地）越过/通过（困难地形等）crest — 顶峰；山脊；（鸟的）羽冠；纹章；（动词）达到顶峰rebarbative — 令人反感的；难亲近的；冷酷怪异的podiatrist — 足病医生；脚医hunch — 预感；直觉；弓起（背）；大块（食物）；（动词）弓着背fissure — 裂缝；裂隙；分歧；（动词）裂开/分裂
 
 The Podiatrist's Hunch
 A notoriously rebarbative local podiatrist had a sharp, sudden professional hunch that systemic, illegal corporate usury was rapidly reshaping the entire mountain village's baseline demography. She climbed up the steep path to the absolute mountain crest, discovered a deep rock fissure packed full of hidden predatory loan contracts, and masterfully used them to spark a wave of immense public outrage, successfully negotiating a sweeping series of financial reforms that left the corrupt lenders standing in a complete daze.
 
-Story 670
+Story 0670
 
 pregnant — 怀孕的；意义深长的；充满的reinforce — 加强；加固；增援zoom — 疾驰；变焦；急速上升nuptial — 婚礼的；婚姻的skiff — 小轻舟；小艇pallid — 苍白的；乏味的；暗淡的piercing — 刺耳的；锐利的；敏锐的scathing — 严厉批评的；尖刻的；刻薄的exaggerate — 夸大；夸张vampire — 吸血鬼
 
 The Vampire's Nuptial Skiff
 A pregnant silence fell over the misty harbor as a pallid vampire slowly boarded a beautifully decorated nuptial skiff. Suddenly, the piercing cry of a wild sea gull startled the horses on the dock, making the boat zoom away into the open water before a scathing local witness could even exaggerate the immediate danger. Finding themselves safely isolated in the fog, the resilient couple finally paused to reinforce their structural wooden mast against the oncoming wind.
 
-Story 671
+Story 0671
 
 prologue — 序幕；开场白alliterate — 使用头韵；押头韵spoke — 轮辐；辐条；（speak的过去式）blur — （使）变得模糊；污点；模糊不清的事物functionary — 官员；公职人员；小官吏colon — 冒号；结肠rave — 狂热赞扬；咆哮；胡言乱语；（名词）狂热赞誉clam — 蛤蜊；沉默寡言的人；（动词常构成 clam up 保持沉默）freak — 怪人；反常事件；畸形儿；（形容词）反常的/怪异的providential — 幸运的；天意的；凑巧的
 
 The Providential Colon
 Right during the play's dramatic opening prologue, a high-ranking city functionary completely clammed up on stage after a providential freak ink accident made every single punctuation colon on his performance script heavily blur. Forced to alliterate and rapidly improvise under the glaring spotlight, he masterfully began to enthusiastically rave about the absolute elegance of each silver spoke on the royal carriage wheel.
 
-Story 672
+Story 0672
 
 fallow — 休耕的；闲置的；未开发的libelous — 诽谤性的；造谣中伤的beleaguer — 围困；烦扰；（因困难等）饱受折磨fruition — 实现；完成；结果实（常构成 come to fruition）writ — 令状；（法院的）文书/命令；（古生动）文章（常大写指圣经 Holy Writ）acquisitive — 贪得无厌的；强烈的获取欲的bullion — 金银锭；金条；银条exceed — 超过；超越；胜过purgatory — 炼狱；暂时的苦难/折磨flustered — 慌乱的；不安的；心慌意乱的
 
 The Writ in the Fallow Field
 A highly flustered government courier crossed a vast fallow field carrying a strict court writ designed to completely beleaguer an acquisitive local baron. His highly detailed, libelous public claims alleged that the baron's hidden stash of gold bullion would significantly exceed all credible estimates from the ministry. However, the patient villagers finally saw true economic justice reach full fruition after enduring years of painful agricultural purgatory.
 
-Story 673
+Story 0673
 
 conifer — 针叶树；松柏科植物sloppy — 草率的；马虎的；（衣服）松垮的；（天气/道路）泥泞的sect — 宗派；教派；学派enzyme — 酶mitten — 连指手套；（动词常构成 give/get the mitten 拒绝/被拒绝）dross — 浮渣；糟粕；无价值之物rhythmic — 有节奏的；有韵律的（亦作 rhythmical）entail — 导致；使必需；【法律】限嗣继承rostrum — 讲台；讲坛；（教堂的）读经台；（动物的）喙/吻部benediction — 祝福；祈福；（天主教）圣体祝福仪式
 
 The Mitten on the Rostrum
 Directly beneath a towering ancient conifer tree, a sloppy, eccentric scholar from a traditional mountain religious sect calmly placed a heavy wool mitten onto the wooden rostrum and delivered a rhythmic closing benediction to the crowd. He systematically explained to the students that a newly isolated organic enzyme could effectively remove chemical dross from the valley's soil beds, but warned that the treatment would entail at least a week of patient work.
 
-Story 674
+Story 0674
 
 significant — 重要的；显著的；有意义的；意味深长的green — 绿色的；缺乏经验的；未成熟的；（名词）绿色/草坪savage — 猛烈抨击；（动物）凶猛撕咬；（形容词）野蛮的/残暴的resonant — 洪亮的；引起共鸣的；回荡的toy — 玩具；（动词）玩弄/漫不经心地考虑（常与 with 连用）conception — 构想；概念；怀孕；胚胎accrete — 增生；逐渐积累；连生；（动词使）附着合拢clash — 冲突；（金属等的）碰撞声；不协调；（动词）冲突/相撞sluggard — 懒汉；偷懒的人striking — 引人注目的；显著的；罢工的；容貌出众的
 
 The Resonant Green Toy
 A green and completely inexperienced young inventor successfully unveiled a striking children's toy whose beautifully resonant internal bells would unfortunately accrete a layer of dust if left unpolished. His highly significant engineering conception managed to safely survive a savage initial review from critics, a bitter legal clash with the conservative trade guild, and one lazy sluggard assistant who slept through the entire live demonstration.
 
-Story 675
+Story 0675
 
 perforate — 穿孔；打洞；穿透；（形容词）有孔的pithiness — （语言的）简练；精辟；（植物的）多髓deflect — 使偏转；转移（注意力/攻击等）；（使）转向immanent — 内在的；无所不在的；固有的onset — 开始；（坏事的）发作/袭击quisling — 卖国贼；内奸；变节叛徒bleary — （因疲劳等）视线模糊的；朦胧的；疲惫的interpolate — 插入（文字）；【数】内插/内插法giddy — 眩晕的；头晕目眩的；轻浮的；令人眼花缭乱的supernova — 【天文学】超新星
 
 The Bleary Supernova Cipher
 Right at the sudden, terrifying onset of a distant supernova explosion, a bleary and exhausted astronomer used admirable, technical pithiness to interpolate a vital encrypted warning into the ship's logbook. He revealed that a high-level corporate quisling planned to completely perforate the outer thermal shield and deflect the telescope's tracking array. The traitor intended to convince the giddy, terrified crew that a mythical courage immanent in every natural sailor would somehow make them invulnerable to the cosmic radiation.
 
-Story 676
+Story 0676
 
 garrulity — 喋喋不休；多嘴；唠叨camouflage — 伪装；保护色；迷彩服；（动词）伪装/掩饰full-fledged — 完全成熟的；正式毕业的；资格齐全的（亦作 full-blown）technocrat — 技术官僚；技术专家marine — 海洋的；海事的；海军陆战队的；（名词）海军陆战队士兵reactant — 【化学】反应物；反应体fictitious — 虚构的；编造的；假的；虚假捏造的epigram — 警句；讽刺短诗；趣语epilogue — 尾声；（戏剧的）收场白；（书的）结语（亦作 epilog）nice — 精细的；微妙的；合意的；令人愉快的
 
 The Technocrat's Epilogue
 A full-fledged marine technocrat meticulously hid each hazardous chemical reactant beneath heavy canvas camouflage nets on the deck, but her habitual garrulity during dinner accidentally exposed their highly fictitious exploration mission to the crew. In the play's dramatic, unedited historical epilogue, a single, incredibly nice and witty epigram delivered by the ship's cook successfully persuaded the rebellious crew to peacefully turn the vessel around and sail back home.
 
-Story 677
+Story 0677
 
 devolve — 移交；退化；传下（常构成 devolve upon/on）conspire — 密谋；共同导致；（大自然/环境等）协同发生rattle — 发出咔嗒声；使慌乱；使惊慌失措；（名词）咔嗒声rifle — 步枪；（动词）翻找/搜寻/搜劫apropos — 恰当地；适时地；关于（常构成 apropos of）isolate — 隔离；孤立；使脱离treatise — 论著；专著；学术论文slither — 滑行；蜿蜒；爬行commit — 承诺；犯下（罪行/错误）；把……托付于（常构成 commit to memory）controvert — 反驳；对……表示异议；争辩
 
 The Slithering Treatise
 Apropos of a missing historical treatise, two senior librarians secretly conspired to isolate the entire central archive room, systematically rifle every single antique file drawer, and carefully follow a thin velvet marking ribbon that seemed to beautifully slither across the floor. They vowed to completely controvert the greedy mayor's fraudulent property claim before legal executive power could officially devolve to him, or before his frightened security guards could commit any acts of physical violence at each sudden, unexpected rattle of the wooden doors.
 
-Story 678
+Story 0678
 
 portray — 描绘；扮演；生动刻画bassoon — 巴松管；大管（一种低音木管乐器）lava — 熔岩；火山岩浆martial — 军事的；尚武的；有战争特点的behoove — 理应；有必要；对……适宜（通常用作 it behooves sb. to do）low — 低的；浅的；低落的；低声地；（动词指）牛叫声malediction — 诅咒；咒骂；恶言相向fuss — 忙乱；小题大做；大惊小怪；（动词）瞎忙活/过分关心numerous — 众多的；许多的deviate — 偏离；越轨者；违背常规；（动词常构成 deviate from）
 
 The Bassoon above the Lava
 To accurately portray a fierce martial hero on stage, it would heavily behoove the lead classical actor to keep the deep timber of his bassoon low and completely ignore each dynamic, scripted historical malediction from the characters. Without a single moment of personal fuss or outward hesitation, he steadily crossed a burning physical path of molten simulation lava while numerous nervous understudies quietly watched him beautifully deviate from the rigid original script to deliver a landmark performance.
 
-Story 679
+Story 0679
 
 expansive — 广阔的；豪爽健谈的；膨胀的；扩张的incessant — 不停的；连续不断的；无休止的earthly — 世俗的；尘世的；地球的；（用于否定句）究竟/一点也metropolis — 大都市；中心城市；（某行业的）中心ceremonious — 隆重的；讲究礼节的；仪式拘泥的confection — 甜点；精制工艺品；（服装等）精制品postscript — 附言；后记（信末的 P.S.）detonate — 引爆；爆炸；使爆发immerse — 沉浸；浸入（液体中）；（使）深陷于（常构成 immerse oneself in）halting — 迟疑的；不流畅的；一瘸一拐的
 
 The Confection Postscript
 Inside a grand, highly expansive cultural metropolis, a naturally hesitant and halting baker gave a deeply moving, ceremonious keynote speech over a magnificent, earthly sugar confection he had constructed for the gala. Standing before the audience, he calmly added a quick verbal postscript, asking his high-society guests to gently immerse each sweet slice in hot tea before the city's spectacular, incessant fireworks officially detonated along the riverfront to ring in the new festival year.
 
-Story 680
+Story 0680
 
 illuminati — 自称先觉者；秘密精英集团；有识之士（大写时特指光照派）grounded — 有根据的；稳固的；受过良好基础训练的；（飞机/船）停飞/搁浅shoddy — 劣质的；粗制滥造的；卑鄙不诚实的pelf — 钱财；不义之财；赃物pathos — 悲怆；（艺术作品的）感染力/感伤ensign — 旗帜；（舰艇）国旗；海军少尉；徽章apogee — 最高点；远地点；全盛时期；顶点outgrowth — 自然产物；结果；分枝；长出物proposal — 提议；建议；求婚vibrancy — 活力；鲜明；（声音的）共鸣
 
 The Ensign's Grounded Proposal
 A newly grounded and highly disciplined naval ensign fiercely rejected a corrupt local political illuminati's shoddy, backroom proposal to cynically trade his community's raw historical pathos for quick financial pelf. At the absolute apogee of the evening harbor festival, the profound moral vibrancy of his impromptu stage speech powerfully inspired the immediate outgrowth of dozens of honest, civilian-led oversight clubs across the district, ensuring long-term transparency.
 
-Story 681
+Story 0681
 
 mock — 嘲笑；模仿；（形容词）模拟的/虚假的；（名词）嘲笑/模拟考试snub — 冷落；怠慢；（动词）冷落/故意不理；（形容词）短平塌的（鼻子）parley — 谈判；会谈；（动词）会谈/（与敌方）谈判insouciance — 漫不经心；无忧无虑；漠不关心instinctive — 本能的；直觉的；天生的scooter — 小型摩托车；踏板车；滑板车inborn — 天生的；先天的；固有的crestfallen — 垂头丧气的；沮丧的dart — 猛冲；飞奔；飞镖；（动词）猛冲/投射（目光）uncanny — 离奇的；神秘莫测的；超乎寻常的
 
 The Uncanny Scooter Parley
 With a state of almost uncanny personal insouciance, a structurally crestfallen corporate courier calmly rode his motorized delivery scooter straight into the high-stakes trade parley grounds. He completely ignored every single snobbish snub and mock salute from the hostile perimeter security forces, and suddenly made a rapid, instinctive tactical dart through the heavy iron gate, guided entirely by an inborn, flawless sense of regional direction.
 
-Story 682
+Story 0682
 
 interchangeable — 可互换的；可交替的pester — 纠缠；烦扰；（因不断要求而）使烦恼（常构成 pester sb. for sth.）supremacy — 至高无上的地位；优势；最高权力mint — 铸币厂；薄荷；（形容词）崭新的/完美的；（动词）铸造ewe — 母羊multifarious — 多种多样的；五花八门的；各色各样的aperture — 孔；洞；（相机的）光圈/孔径skinflint — 吝啬鬼；守财奴mauve — 淡紫色的；紫红色的elite — 精英；精锐；（形容词）精英的/优秀的
 
 The Mauve Mint Door
 At the security entrance of the city's historic, elite silver mint, a notoriously greedy skinflint aggressively tried to pester the staff tour guide about the value of interchangeable ancient coins. He continued his rants until a giant stray ewe wrapped in a thick mauve wool blanket unexpectedly squeezed her way through a narrow structural ventilation aperture. The animal's sudden entrance scattered a tray of multifarious custom stamping dies across the floor, beautifully ending his arrogant, self-important lecture on global monetary supremacy.
 
-Story 683
+Story 0683
 
 rig — 装配；操纵（比赛等）；（非法）垄断；（名词）钻井架/大卡车kindle — 点燃；激起（兴趣/情感）；（火）开始燃烧protest — 抗议；反对；声明；（动词）抗议/断言gastronomy — 美食学；烹饪艺术；饮食文化circuit — 回路；巡回路线；环行；（法官等）巡回区forager — 觅食者；搜寻粮草者genetic — 遗传的；基因的；发展新生的prig — 自命不凡者；道学先生；死板拘谨的人bark — 树皮；狗吠；（动词）吠叫/厉声说imbibe — 饮用；吸收（知识/水分等）；吸入
 
 The Forager's Forest Circuit
 A highly practical university genetic researcher kindly helped an indigenous forest forager rig a series of temporary, eco-friendly cooking stations along a historical forest educational circuit, hoping to kindle public interest in seasonal gastronomy. However, an uptight urban prig immediately began to loudly protest the event the moment the incoming trail guests started to happily imbibe organic birch tea and grind dried willow bark directly beside a loudly barking camp dog.
 
-Story 684
+Story 0684
 
 captivate — 迷住；吸引；使神魂颠倒prescience — 预知；先见之明；预感noxious — 有害的；有毒的；（道德等）败坏的purify — 净化；提纯；使纯洁scheme — 计划；设计；阴谋；（动词）密谋/策划sincere — 真诚的；诚挚的；由衷的painstaking — 极其仔细的；费力的；刻苦的；（名词）辛苦/勤勉rove — 漫游；流浪；徘徊；（目光）扫视desirous — 渴望的；向往的；（常与 of 连用指渴望得到）ineligible — 不合资格的；没有资格的
 
 The Prescient Waterkeeper
 Demonstrating an almost uncanny historical prescience, a deeply sincere mechanical engineer masterfully devised a painstaking long-term scheme to systematically purify a highly noxious mountain spring. His project successfully managed to completely captivate and protect the local villagers, who used to routinely rove across dangerous valleys for fresh water. The impact was so profound that even those residents who were technically legally ineligible for the final state conservation prize were exceptionally desirous of helping him finish the system.
 
-Story 685
+Story 0685
 
 exacting — 要求严格的；费力的clasp — 紧握；扣子；钩子contiguous — 相邻的；接壤的fatten — 养肥；变胖；使充实accountability — 责任；问责制flavoring — 调味品；调味；特色（美式拼写：flavoring / 英式：flavouring）dowry — 嫁妆relinquish — 放弃；交出；让渡invoke — 援引；祈求；召唤；引起equator — 赤道
 
 The Equator Spice Pact
 At two contiguous spice farms nestled right along the tropical equator, an exacting family aunt would routinely invoke strict ancestral accountability before she would even consider to relinquish a solid silver clasp from an old heirloom dowry. Meanwhile, in the adjacent kitchen, the estate cooks quietly used a secret herbal flavoring to fatten the prize wedding geese for the evening's grand banquet.
 
-Story 686
+Story 0686
 
 antibody — 抗体illicit — 非法的；违禁的；不正当的philatelist — 集邮家；集邮爱好者foothold — 立足点；据点；稳固的立足处sadden — 使悲伤；使沮丧inflame — 激怒；使发炎；使红肿/煽动stall — 摊位；货摊；（动词）拖延/熄火ductile — 有延展性的；柔韧的；易受影响的bin — 箱子；储藏柜；大垃圾箱inured — 习惯于的；能忍受的；（因长期暴露而）冷漠的（常构成 be inured to）
 
 The Stamp in the Copper Bin
 An exceptionally inured old philatelist unexpectedly discovered an illicit medical antibody label hidden inside a rusted recycling bin tucked directly beneath his crowded market stall. Rather than letting the bizarre and sketchy discovery sadden his mood or unnecessarily inflame his temper, he steadily stepped up onto a wooden foothold, carefully bent a ductile copper wire into a hook, and successfully retrieved the rare, misplaced postage stamp from the debris.
 
-Story 687
+Story 0687
 
 antiseptic — 防腐剂；消毒剂；（形容词）内含防腐剂的/消过毒的/冷漠的adventitious — 偶然的；外来的；【生物】不定生的rubicund — （面容）红润的；健康的opinionated — 固执己见的；武断的finable — 可处以罚款的（亦作 fineable）pudgy — 矮胖的；圆胖的；（手指等）胖乎乎的robe — 长袍；礼服；（动词）穿上长袍/礼服gruff — 粗哑的；生硬的；（脾气）粗暴的icicle — 冰柱molt — 换羽；脱皮；（名词）换羽期（美式拼写：molt / 英式：moult）
 
 The Icicle Clinic
 A naturally rubicund, pudgy village healer dressed in a heavy wool robe carefully applied a herbal antiseptic onto an adventitious flesh cut caused by a falling jagged icicle. Nearby, his notoriously opinionated pet raven began to loudly molt its feathers on the counter, letting out a gruff croaking warning to the waiting patients that littering the pristine clinic floor was legally finable.
 
-Story 688
+Story 0688
 
 calculating — 精于算计的；老谋深算的；计算的abstinent — 戒除的；有节制的；禁欲的affirm — 断言；确认；证实；申明显明advert — 广告；【法律】提及/注意到（常与 to 连用指注意到）rigid — 僵硬的；严格的；刚正不阿的；刻板的rascal — 无赖；淘气鬼；无耻之徒felony — 【法律】重罪rosy — 玫瑰色的；乐观的；美好的blithe — 无忧无虑的；漫不经心的；快乐的panache — 潇洒；派头；神气十足
 
 The Rascal's Rosy Advert
 A calculating neighborhood rascal boldly posted a highly rosy advert on the town board for his upcoming, blithe weekend illusionist escape act. However, an abstinent local circuit judge with famously rigid moral principles immediately forced him to formally affirm before the town council that his previous stunt of stealing the theater's main props did indeed constitute a major felony. Caught in the act, the performer returned the stolen gear to the stage with unexpected, theatrical panache.
 
-Story 689
+Story 0689
 
 evaporate — 蒸发；水汽化；（消失/消逝）disquisition — 专题论述；学术报告；长篇演讲pulsate — 搏动；规律震动；（因兴奋等）跳动/充满活力populous — 人口稠密的；人口众多的query — 疑问；质问；（动词）询问/对……表示怀疑bewildering — 令人困惑的；使人眼花缭乱的adduce — 引证；举出（事实/证据等）glimmer — 微光；闪烁；（情感/希望的）一丝显现；（动词）发微光coarsen — 变粗糙；使粗俗；使低劣muzzy — 迷糊的；模糊不清的；（头脑）昏沉的
 
 The Pulsating Desert Lecture
 Inside a highly populous desert community hall, a visibly tired and muzzy scholar began a thoroughly bewildering scientific disquisition on exactly why deep wilderness lakes evaporate over time. Hoping to accurately answer one technical query from the audience, she could adduce clear geographic evidence from ancient salt crystals that naturally coarsen as the water line recedes, while a steady glimmer of structural heat makes the horizon visibly pulsate before the observer.
 
-Story 690
+Story 0690
 
 ringlet — 小卷发；（植物的）卷须hobble — 跛行；蹒跚；（动词）束缚/妨碍/（把马的双脚）系住；（名词）跛行trifle — 琐事；微不足道的东西；（英国的）一种果冻奶油松糕甜点；（动词）怠慢/玩弄upright — 直立的；正直的；挺拔的；（名词）垂直支撑柱；（副词）竖直地enlightening — 有启发性的；使人领悟的imitative — 模仿的；仿效的；（艺术）摹拟的committed — 坚定的；尽心尽力的；忠实的demolish — 拆毁；破坏；彻底击败（论点等）motility — 【生物】运动性；能动性；自动力lag — 落后；滞后；（名词）时间差/滞后/囚犯
 
 The Upright Puppet
 A deeply committed master puppeteer carefully used an imitative ringlet of thin steel wire to successfully keep her heavy wooden marionette perfectly upright on stage. A brilliant, enlightening introductory lesson in mechanical motility quickly helped the device to fluidly hobble across the stage floor without a single micro second of electronic lag, and subsequently demolish a massive replica pastry trifle during the show's comic finale.
 
-Story 691
+Story 0691
 
 thresh — 打谷；脱粒；（用连枷）鞭打；（动词词组常与 out 连用指反复推敲/彻底解决）tremendous — 巨大的；极大的；极好的；可怕的legacy — 遗产；遗留物；历史传统papyrus — 纸莎草；纸莎草纸（古代埃及的纸写材料）impuissance — 无力；虚弱；无能为力fertile — 肥沃的；多产的；富有成效的；（想象力）丰富的blast — 爆炸；（突然的）强风/猛吹；（动词）炸毁/猛烈抨击earsplitting — 震耳欲聋的；刺耳的（亦作 ear-splitting）petroglyph — 岩画；岩刻；岩石雕刻flatulence — 【医学】胃肠胀气；（引申为）自负/虚夸
 
 The Earsplitting Harvest Cave
 A group of local traditional farmers systematically thresh their winter grain on highly fertile ground directly beside a historic limestone cave, where a long-lost papyrus scroll beautifully described a tremendous cultural legacy. Centuries ago, a single, earsplitting volcanic blast had unexpectedly exposed a hidden petroglyph depicting an ancient king whose exaggerated physical flatulence in the carving masterfully symbolized the absolute impuissance of human pride.
 
-Story 692
+Story 0692
 
 illustrious — 杰出的；著名的；辉煌的；显赫的sulky — 生闷气的；阴沉的；（天气）昏暗的；（名词）轻便双轮马车gripping — 扣人心弦的；引人入胜的；紧握的tardy — 迟到的；缓慢的；迟延的grant — 授予；准许；（名词）拨款/政府资助/授予stride — 大步走；跨越；（名词）大步/进展/步幅（常构成 make rapid strides）unfasten — 解开；松开；使脱开slosh — （液体在容器中）晃荡/泼溅；（在泥泞中）重步行进crimp — 压褶；使（头发）卷曲；阻碍/束缚（发展/计划）maunder — 唠叨；漫无目的地走；胡扯；（声音）低沉地响
 
 The Tardy Explorer's Grant
 A famously illustrious but notoriously difficult mountain explorer arrived both tardy and highly sulky to the city hall to accept her annual research grant. Standing before the committee, she proceeded to tell a gripping survival tale: she had been forced to stride for miles through thick clay mud that would slosh wildly over her boots, carefully unfasten a trapped companion's foot from a rock crevice, endure a torn topographical map that put a major crimp in her navigating plans, and slowly maunder back home through a blinding wall of coastal fog.
 
-Story 693
+Story 0693
 
 encomiastic — 赞颂的； 颂扬的buxom — 丰满健美的； （女子） 健康而丰满的swank — 炫耀； 派头； （形容词） 时髦高档的； 别致的scarcity — 缺乏； 稀少； 匮乏guilty — 有罪的； 内疚的； 负有责任的indefatigable — 不知疲倦的； 坚韧不拔的barrister — 出庭律师catastrophe — 灾难； 惨败； 大祸yeoman — 自耕农； 小地主； 勤务员； （形容词） 尽职尽责的devotional — 虔诚的； 祈祷用的； （名词） 祷告/ 赞美诗
 
 The Yeoman's Flood Defense
 When a severe resource scarcity directly followed the sudden regional flood catastrophe, an indefatigable local yeoman and a sharp, buxom barrister firmly rejected any plans for a swank celebratory ceremony. Instead, they focused their energies on the ground, successfully uncovered a guilty commercial hoarder hiding survival supplies, and delivered a deeply moving, encomiastic yet devotional speech on the plaza steps honoring the village’s exhausted volunteers.
 
-Story 694
+Story 0694
 
 diabetes — 糖尿病despise — 鄙视； 厌恶； 瞧不起symposium — 专题研讨会； 座谈会embroider — 刺绣； 织锦； 渲染/ 润色（故事）gulp — 大口吞咽； 大口吸气； 倒吸一口气overwrought — 过度紧张的； 焦虑不安的； （艺术） 过度雕琢的transmit — 传送； 播送； 传播（疾病/ 信号）； 传导psalm — 圣歌； 赞美诗； 赞美诗篇evaluation — 评估； 评价； 估价crux — （问题的） 关键； 核心； 难题
 
 The Embroidered Glucose Sensor
 At an international professional diabetes symposium, an overwrought medical textile designer began to nervously gulp glass after glass of ice water while presenting her latest wearable prototype—a high-tech tracking sensor she could seamlessly embroider directly into soft cotton clothing. The absolute crux of the panel's complex technical evaluation was whether the delicate device could accurately transmit real-time bio-alerts without ever interrupting a live church choir's solemn vocal psalm, a noble design goal that absolutely no critic in the room could honestly despise.
 
-Story 695
+Story 0695
 
 asthma — 哮喘； 哮喘症regressive — 倒退的； 退化的； （税率） 递减的lymphatic — 淋巴的； 淋巴系统的； （引申为） 迟缓无力的magnificent — 壮丽的； 极好的； 华丽宏伟的impetus — 推动力； 促进； 刺激； 动量blackball — 投票反对； 排斥； 拒绝（某人）加入俱乐部impolitic — 不明智的； 失策的； 粗鲁的double-cross — 欺骗； 出卖； 玩弄双面手段perky — 活泼的； 自信的； 神气十足的enrage — 激怒； 触怒； 使暴跳如雷
 
 The Perky Runner's Appeal
 A remarkably perky young track runner suffering from chronic asthma delivered a magnificent, deeply inspiring appeal before the board against a regressive new club membership regulation. She forcefully argued that the committee's highly impolitic administrative attempt to systematically blackball and exclude competitive athletes with minor lymphatic medical conditions would deeply enrage the entire local sports community. She warned that the move would instantly give fresh, powerful impetus to reformist members who were already fully prepared to double-cross the arrogant club president at the upcoming internal elections.
 
-Story 696
+Story 0696
 
 institution — （大学、银行等） 机构； 制度； 惯例； 建立attune — 使协调； 使适应； 使习惯于； 为（乐器） 调音（常构成 attune to）deduct — 扣除； 减去； 推断abysmal — 极差的； 糟透的； 深不可测的cession — （领土、权利的） 割让； 转让axis — 轴； 轴线； 中心线； 【政】 轴心vantage — 有利位置； 优势； 有利条件（常构成 vantage point）rapt — 全神贯注的； 欣喜若狂的； 沉迷的swallow — 吞咽； 咽下； 忍受； （名词） 燕子/ 吞咽literal — 字面上的； 如实的； 刻板缺乏想象力的
 
 The Swallow on the Axis
 From a high architectural vantage point directly inside the old research institution's massive glass dome, a group of rapt university students watched a wild swallow fly past while carefully adjusting their telescope's heavy focal axis to smoothly attune the advanced optical instrument to its erratic flight path. Nearby, their strict, literal-minded astronomy tutor firmly warned them that he would immediately deduct points from their lab reports if anyone dared to romantically call their library's abysmal, ink-stained old star map a valid historical record of ancient territorial cession.
 
-Story 697
+Story 0697
 
 germ — 细菌； 病菌； （想法、计划的） 萌芽/ 雏形lucre — 钱财； 利益； 不义之财（常构成 filthy lucre）singularity — 【天文学】 奇点； 独特性； 奇特； 奇特行为interlope — 闯入； 擅自干涉； 管闲事（名词形式为 interloper）wanderlust — 旅行癖； 漫游欲； 渴望旅游的心relapse — （病情的） 复发； 故态复萌； 倒退； （动词） 复发/ 旧病复发implant — 植入物； 移植物； （动词） 植入/ 移入/ 灌输（思想）montage — 蒙太奇； 剪辑； 拼贴画； 混贴explicable — 可解释的； 可理解的； 明白的resilient — 有韧性的； 能复原的； 适应力强的
 
 The Resilient Spacefarer's Montage
 Driven entirely by an innate, lifelong sense of internal wanderlust rather than a cynical desire for corporate financial lucre, a remarkably resilient exploration pilot firmly refused to illegally interlope anywhere near the protected parameters of the newly mapped cosmic singularity. She unfortunately suffered a painful physical relapse just a week into the journey after a strange bacterial germ infected the surgical site of her neural navigation skull implant. However, every single terrifying technical glitch along the way eventually became beautifully explicable within her mission's final, breathtaking video voyage montage.
 
-Story 698
+Story 0698
 
 multitude — 众多； 大量； 群众； 大众（常构成 a multitude of）culmination — 顶点； 高潮； 终点； 巅峰budge — 移动； 挪动； （使） 改变主意/ 让步（通常用于否定句）allowance — 津贴； 补贴； 零花钱； 允许量/ 限额； 考虑infatuate — 使迷恋； 使糊涂（常作过去分词 infatuated, 意为迷恋的）talon — （猛禽的） 爪； （锁的） 爪stringent — 严格的； 严厉的； （财务） 紧缩的unrequited — （爱情） 得不到回应的； 单相思的； 未能报答的nestling — 雏鸟； 尚未离巢的幼鸟annul — 废除； 取消（法律/ 契约）； 使无效
 
 The Nestling's First Flight
 Right at the dramatic culmination of a highly dangerous, grueling wilderness wildlife rescue, a quiet multitude of onlookers watched a young falcon nestling tightly grip the narrow cliff ledge with one sharp talon and flatly refuse to budge. The head sanctuary keeper quickly realized she had become deeply infatuated with the brave bird, despite knowing perfectly well that her maternal affection might permanently remain unrequited. Without a trace of hesitation, she decisively used her entire corporate travel allowance to legally annul her upcoming flight plans for leaving the valley.
 
-Story 699
+Story 0699
 
 penultimate — 倒数第二的； 倒数第二项的snip — 剪； 剪断； （小片） 剪下的碎片； 便宜货； （动词） 剪/ 剪断encumber — 妨碍； 阻碍； 使负担重重； 拖累（亦作 incumber）vernal — 春天的； 似春天的； 温暖清新的publicize — 宣传； 公布； 做广告； 推广（亦作 publicise）eavesdrop — 偷听； 窃听（常构成 eavesdrop on sb.）discretionary — 可自行决定的； 自由支配的； 裁量的combustible — 易燃的； 可燃的； 易激动的； （名词） 可燃物attire — 服装； 盛装； 衣着； （动词） 盛装打扮/ 给……穿衣mutate — （基因） 变异； 变化； （使） 改变
 
 The Penultimate Spring Exhibit
 During the prestigious penultimate evening of the regional vernal fashion exhibit, a master tailor confidently used his strict discretionary executive authority to make one swift, sharp snip with his shears. This bold structural adjustment kept the heavy, traditional ceremonial attire from unnecessarily encumbering his lead dancer's fluid physical movements on stage. A few minutes later, independent journalists who happily managed to eavesdrop near the backstage dressing rooms overheard his brilliant new design blueprints—plans to widely publicize a high-tech synthetic fabric that could naturally mutate into entirely new vibrant colors depending on the room's light levels, yet safely remain completely non-combustible.
 
-Story 700
+Story 0700
 
 countrified — 乡村风情的；质朴的citation — 引文；嘉奖令；传唤scatter — 撒；驱散；消散slay — 杀死；使倾倒；使大为感动provenance — 来源；出处anagram — 易位构词；变位词prerequisite — 先决条件；前提wiggle — 扭动；摆动diligence — 勤奋；用功serenade — 小夜曲；演奏小夜曲
 
 The Countrified Anagram Contest
 With her charmingly countrified style, a traveling fiddler creatively used a word anagram as the prerequisite clue to uncover a long-lost violin's true historical provenance. After days of untiring academic diligence by the villagers, the local children finally saw the antique bow wiggle across the strings, heard a beautiful dawn serenade scatter the crows from the yard, and proudly awarded her an official citation for a brilliant performance that could thoroughly slay even the sternest town critic.
 
-Story 701
+Story 0701
 
 pushy — 咄咄逼人的；强求的；爱出风头的effluvia — 恶臭；（有毒）排放物；废气（单数形式为 effluvium）exactitude — 精确；严谨；一丝不苟wile — 诡计；花招；诱骗；（动词）欺骗heyday — 全盛期；黄金时代atonal — 【音乐】无调性的detour — 绕行；绕道；（动词）绕道而行askew — 歪斜的；不对称的；不和personable — 风度翩翩的；讨人喜欢的；英俊美丽的artillery — 火炮；大炮；炮兵部队
 
 The Askew Concert Route
 A highly personable local guide used mathematical exactitude to plot a safe pedestrian detour around a field of rusting military artillery and foul industrial effluvia. However, a pushy concert impresario tried every underhanded marketing wile to desperately restore his struggling atonal orchestra to its historical heyday, aggressively rearranging the arrows along the trail and leaving the critical emergency route signs completely askew.
 
-Story 702
+Story 0702
 
 fulfil — 履行；实现；完成（美式拼写为 fulfill）pony — 小马；矮马；（俚语）付钱/交钱（常构成 pony up）compendium — 汇编；概要；简编pop — 砰然响声；流行音乐；（动词）发出砰响/突然出现annotate — 注释；为……作评注crafty — 狡猾的；诡计多端的；灵巧的zealotry — 狂热；偏执；盲信overhaul — 彻底检修；大修；改造；（动词）彻底检修/赶上manure — 肥料；粪肥；（动词）给……施肥constitution — 宪法；章程；体质；身体素质；构成
 
 The Pony's Garden Constitution
 Determined to properly fulfil a long-standing village promise, a crafty young child used a lively pop song to successfully train her stubborn pony to haul bags of natural compost manure. To ensure long-term harmony, she formally chose to annotate their daily community garden constitution inside an official bound compendium, demanding a complete administrative overhaul whenever personal political zealotry threatened their agricultural cooperation.
 
-Story 703
+Story 0703
 
 bellicose — 好战的；挑衅的；好斗的ore — 矿石；矿砂impart — 传授；给予；告知（常构成 impart sth. to sb.）pound — 猛击；（连续）重击；（心脏）狂跳；磅（重量单位）mite — 微小生物；（尤指）螨虫；一丁点/微小的钱aorta — 主动脉ambush — 伏击；埋伏；（动词）伏击/埋伏delicate — 精致的；脆弱的；微妙的；娇嫩的hoarse — （声音）嘶哑的；沙哑的reclaim — 收回；开垦（荒地）；回收利用；挽救
 
 The Hoarse Miner and the Mite
 A hoarse older miner unexpectedly discovered a delicate, microscopic mite resting on a rich newly exposed vein of copper ore, and firmly refused to pound the rock wall with his hammer. This gentle, tiny creature unexpectedly helped expose a bellicose local gang's hidden midnight ambush, safely reclaim the lower mining shaft from corporate looters, and permanently impart a lesson to the young workers that true moral courage flows like blood straight through a healthy aorta.
 
-Story 704
+Story 0704
 
 maven — 专家；内行；行家credulous — 轻信的；易受骗的irremediable — 无法补救的；无可挽回的postulate — 假定；基本原理；假设；（动词）假定/假设presentation — 演示；报告；赠送；颁奖仪式abate — （风雨、噪音等）减弱/减少/消除animadvert — 批评；责备；非难（常与 on/upon 连用）expel — 驱逐；开除；排出（气体等）oppress — 压迫；压制；使烦闷/使心情沉重emend — 校订；修正；校正（文本）
 
 The Maven's Mutable Postulate
 A remarkably credulous student audience initially feared an irremediable logical error had been made in the visiting maven's highly technical whiteboard presentation. However, the expert gracefully chose to immediately emend one core scientific postulate rather than attempting to publicly animadvert on her nervous young assistant's data entry. Following this quick correction, the room's anxious panic began to rapidly abate, and absolutely no one on the university committee tried to unfairly expel or oppress the young scholar.
 
-Story 705
+Story 0705
 
 restive — 焦躁不安的；难驾驭的；不服管束的allege — 声称；（未经证实地）断言/指控coruscate — 闪耀；闪烁；（才华、灵智）焕发/光芒四射demonstrative — 感情外露的；公开流露情感的；【语法】指示的hymn — 赞美诗；颂歌；（动词）唱赞美诗goof — 犯傻；犯低级错误；（名词）蠢蛋/大错（常构成 goof up）taper — 逐渐变细；（力量、数量等）逐渐减弱/减小；（名词）细蜡烛extrovert — 性格外向的人；【心理】外向者acoustic — 声学的；原声的（非电声的）；（名词常复数）声学特征/音响效果asteroid — 小行星
 
 The Acoustic Asteroid Hymn
 A highly demonstrative and theatrical extrovert wrote an exquisite acoustic hymn dedicated to a newly discovered deep-space asteroid, whose distant burning sparks seemed to beautifully coruscate across the night sky. Although a few bitter media critics continuously allege that the restive young singer made an embarrassing, unpolished goof during the live performance, the crowd's roaring applause did not taper for a second when the observatory gallery doors officially opened.
 
-Story 706
+Story 0706
 
 dereliction — 玩忽职守；遗弃；废弃（常构成 dereliction of duty）pseudonym — 笔名；化名desperate — 绝望的；孤注一掷的；拼命的；极度渴望的clout — 影响力；势力；（用手/重物）猛击；（名词）猛击eulogistic — 颂扬的；赞美的；歌功颂德的immunity — 免疫力；（法律）豁免权（常构成 diplomatic immunity）astound — 使震惊；使大吃一惊ensconce — 安置；使安全隐蔽；使舒适地坐下（常构成 ensconce oneself）tinder — 火绒；引火物；易燃物variegate — 使多样化；使斑驳；使丰富多彩
 
 The Pseudonym in the Tinder Box
 A desperate under-cover poet safely used a clever pseudonym to publicly expose a local warden's systematic, historical dereliction of public safety duty. To protect her life, she then chose to carefully ensconce the original master manuscript inside an old iron tinder box hidden in the barn. Its powerful, eulogistic verses would soon completely astound city readers, brilliantly variegate the local public debate, and permanently deny the powerful warden legal immunity despite his immense political clout.
 
-Story 707
+Story 0707
 
 analogy — 类比；相似；相似之处（常构成 draw an analogy between）arrogant — 傲慢的；自大的；目中无人的narcotic — 麻醉药；致幻剂；吸毒成瘾的人；（形容词）麻醉的/催眠的grumble — 抱怨；发牢骚；（雷声/肚子等）隆隆作响；（名词）抱怨/隆隆声pullulate — 大量繁殖；充满；繁衍（常与 with 连用）proficient — 熟练的；精通的boisterous — 喧闹的；活跃的；（风/海浪）汹涌喧嚣的dunce — 笨学生；迟钝的人；劣等生laud — 赞美；颂扬；称赞（名词亦同）grieve — （因亲友去世等）深切悲伤；使悲痛/使伤心
 
 The Boisterous Apothecary Class
 A boisterous but highly proficient university teacher drew an engaging, simple analogy about mountain mushrooms that pullulate in autumn to explain the structural behavior of a dangerous narcotic herb. An arrogant pupil in the back row initially began to loudly grumble and mockingly call his lab partner an absolute dunce. However, after reviewing the lab results, he later chose to highly laud her scientific insight and genuinely grieve over his previous cruel insult.
 
-Story 708
+Story 0708
 
 exclaim — 呼喊；惊叫sovereign — 君主；至高无上的；独立自主的；（名词）君主sophism — 诡辩；谬论verge — 边缘；接近；（动词常构成 be on the verge of）serviceable — 实用的；耐用的plaintive — 哀怨的；悲伤的derogate — 贬低；减损；毁损（常与 from 连用）moan — 呻吟；抱怨；（动词）呻吟/抱怨colloquy — 对话；会谈；正式讨论spawn — 产卵；引发；造成；（名词）鱼卵/后代
 
 The Sovereign's River Colloquy
 On the absolute verge of spring, a compassionate sovereign held an urgent structural colloquy right beside a highly serviceable stone fish ladder. Hearing a plaintive, distant moan from the riverbank, she loudly exclaimed to her advisors that industrial chemical pollution could spawn a regional ecological disaster. She fiercely rejected every economic sophism from the developers, and strictly forbade city officials to ever derogate or undermine the local fishers' protective work.
 
-Story 709
+Story 0709
 
 dogma — 教条；信条；武断的观点pontifical — 教皇的；主教的；自负傲慢的ironic — 讽刺的；反语的awe — 敬畏；使惊叹；（动词）使敬畏/使惊叹knead — 揉（面团）；按摩；塑造pestilent — 致命的；有害恶毒的；讨厌烦人的airtight — 密封的；无懈可击的numismatist — 钱币收藏家；钱币学者discombobulated — 困惑的；慌乱的；混乱不清的lasting — 持久的；耐用的；深远的
 
 The Airtight Coin Loaf
 A thoroughly discombobulated neighborhood numismatist foolishly attempted to knead an antique silver coin directly into the seasonal festival bread dough. He had blindly trusted a highly pontifical baker's arrogant medical dogma that their new, airtight commercial oven successfully killed every single strain of pestilent flour mold. Ironically, the bizarre result inspired pure visual awe among the gathered crowd, but absolutely no lasting physical appetite.
 
-Story 710
+Story 0710
 
 provisional — 临时的；暂定的opus — 作品；大部头著作；（尤指著名的）音乐作品responsive — 反应灵敏的；积极回应的；有同情心的paranoia — 偏执；妄想；极端猜疑retention — 保留；保持；记忆力；扣留sophisticated — 复杂精密的；老练的；高雅的时髦的insurrection — 起义；暴动；叛乱plough — 犁；耕作；（动词）耕地/费力穿过（亦作 plow）mean — 意味着；意指；（形容词）卑鄙的/吝啬的/低微的jumble — 混杂；杂乱的一堆；（动词）把……混杂在一起
 
 The Provisional Plough Opus
 A highly sophisticated acoustic engineer carefully modified a responsive automated tractor plough to play her newly composed, provisional musical opus across the open fields. Surrounding neighbors initially mistook the loud, grinding jumble of electronic tones for the onset of a violent local worker insurrection. However, their better, long-term retention of the underlying rhythmic folk melody soon eased their immediate paranoia, beautifully demonstrating to the valley that strange design does not inherently mean dangerous.
 
-Story 711
+Story 0711
 
 sprint — 冲刺；短跑；（动词）全速奔跑/大步疾驰conflate — 合并；混淆；（将思想/文本等）结合在一起scads — 大量；许多（通常用复数 scads of）verify — 核实；验证；证实inexpiable — 无法赎罪的；不可宽恕的safe — 安全的；保险的；（名词）保险箱/保险柜blustering — 咆哮的；虚张声势的；狂风大作的chandelier — 枝形吊灯bazaar — 集市；义卖会；（商店陈列杂乱的）市场friction — 摩擦；冲突；摩擦力
 
 The Bazaar Chandelier Sprint
 Inside a crowded, bustling community holiday bazaar, scads of panicked shoppers suddenly saw a massive iron chandelier violently sway overhead and immediately began to sprint for the exit gates. A blustering, defensive safety guard aggressively tried to conflate their chaotic panic with criminal guilt, but a sharp site mechanic used deep structural friction marks on the cable to verify the objective truth. She proved that the cracked ceiling hook—now securely locked away in a laboratory safe—clearly revealed an inexpiable and signature act of corporate contractor negligence.
 
-Story 712
+Story 0712
 
 restitution — 归还（原物）；赔偿；补偿subjective — 主观的；个人的pettish — 易怒的；任性的；脾气暴躁的lasso — 套索；（动词）用套索捕捉/套住needle — 针；缝衣针；（动词）刺激/故意激怒/（用针）缝undisputable — 无可争辩的；无可置疑的（亦作 indisputable）underlying — 潜在的；根本的；基础的；（地质）下卧的indubitable — 确凿的；不容置疑的；明确无疑的humble — 谦逊的；地位低微的；简陋的；（动词）使谦卑/羞辱rhubarb — 【植物】大黄；（俚语）激烈的争吵/喧闹
 
 The Rhubarb Lasso Dispute
 A highly pettish market cook dynamically used a long rope lasso to successfully retrieve his stolen wicker basket of fresh winter rhubarb from a running thief. However, a humble neighborhood tailor soon discovered a critical underlying thread clue caught directly on one rusted sewing needle left at the scene. Despite a wave of highly subjective and malicious town gossip, the unique fiber mark offered indubitable, undisputable scientific proof of the true culprit's identity, successfully securing full legal restitution for the store before dusk.
 
-Story 713
+Story 0713
 
 abscission — 【生物】（叶/花/果的）脱皮/脱落；切断；切除conventional — 传统的；常规的；墨守成规的transplantation — 移植；迁移；【医学】（器官）移植outgoing — 外向的；开朗的；即将离任的/即将退职的fusion — 融合；熔合；核聚变；（音乐）爵士摇滚belongings — 财物；所有物；随身物件（复数名词）polar — 极地的；北极/南极的；（观点等）截然相反的heal — 治愈；愈合；（关系等）和解/恢复acrophobia — 【医学】恐高症sparing — 节俭的；小心的；少量的（常构成 be sparing with）
 
 The Polar Garden Transplant
 An outgoing, enthusiastic field botanist who suffered from severe acrophobia carefully packed her personal belongings for a year-long research stint at a polar greenhouse. Inside the facility, she knew that sparing, strictly managed artificial heat combined with conventional root transplantation methods could effectively heal the damaged arctic crops. She meticulously studied cellular leaf abscission patterns and used advanced protoplast fusion to successfully breed a highly hardy plant species, all without ever needing to climb the high maintenance gantry.
 
-Story 714
+Story 0714
 
 lout — 粗人；笨拙粗鲁的人overflow — 溢出；充满；（河流）泛滥；（名词）溢出/容纳不下的多余人ingredient — （烹韧的）原料；要素；组成部分sheaf — 一捆；一沓；（麦）捆；（纸）叠（复数形式为 sheaves）opaque — 不透明的；晦涩难懂的；（名词）不透明物niggling — 琐碎烦人的；（痛楚等）持续纠缠的/微弱的ambidextrous — 双手灵巧的；十分灵巧的anthropoid — 类人猿；（形容词）类人的/似灵人猿的bray — （驴的）叫声；刺耳的声音；（动词）大声而刺耳地叫festal — 节日的；欢乐的；节庆的
 
 The Festal Anthropoid Feast
 At a grand, festal zoo charity supper, a remarkably ambidextrous captive anthropoid effortlessly twisted open a heavily sealed, opaque glass jar, while a clumsy kitchen lout completely ignored a niggling fluid leak on the counter beside him. Within seconds, thick sugar syrup began to heavily overflow straight across a sheaf of newly printed dinner menus, causing each organic ingredient list to slide away into the mess just as a nearby donkey let out a loud, triumphant bray.
 
-Story 715
+Story 0715
 
 figurehead — 名义领袖；傀儡；（旧时船头的）船首雕像stencil — 模板；（用模板印刷的）图案/文字；（动词）用模板印刷unspoiled — 未受破坏的；质朴自然的；（人）未被宠坏的（亦作 unspoilt）sermon — 布道；布道词；长篇训诫；说教hexagon — 六边形；六角形drainage — 排水系统；排水；排污（亦作 drainages）epicurean — 美食家的；享乐主义的；（名词）享乐主义者（亦作 Epicurean）buggy — 小汽车；轻便马车；婴儿车；（形容词指电脑/机械）多故障的/臭虫猖獗的galaxy — 星系；银河系；群英；璀璨的群体（大写特指银河系 The Galaxy）scaffold — 脚手架；（建筑）施工台；断头台/刑台；（动词）搭脚手架
 
 The Galaxy Stencil Scaffold
 An epicurean town figurehead confidently climbed a towering bamboo construction scaffold to personally hand-stencil a vibrant galaxy of hexagon-shaped ceramic tiles high above the central food market. However, his long, theatrical sermon to the shoppers below regarding the vital importance of preserving their unspoiled historic square was cut short when a highly buggy, malfunctioning water main suddenly exposed a completely broken underground drainage network flowing directly beneath the grand feast tables.
 
-Story 716
+Story 0716
 
 incriminate — 使负罪；连累；牵连indulge — 沉溺于；放纵；满足（欲望/爱好）sparring — 拳击练习；（口头上的）争辩/舌战ersatz — 代用的；仿制的；劣质的假货dermatologist — 皮肤科医生denote — 表示；意味着；标志着crook — 骗子；无赖；（动词）使弯曲/钩住matriarchy — 母系社会；女权统治intermediary — 中间人；调解者；媒介olfaction — 嗅觉
 
 The Ersatz Perfume Bout
 During a lively sparring match in a traditional matriarchy, a senior medical dermatologist was forced to serve as an independent intermediary when a notorious traveling crook attempted to sell a batch of ersatz perfume to the audience. She firmly proved that the customers' unusual skin rashes did indeed denote product fraud and would legally incriminate him. Though the highly anxious spectators continued to indulge their deep fondness for exotic fragrance, they spent the rest of the afternoon cautiously relying entirely on their olfaction from a safe distance.
 
-Story 717
+Story 0717
 
 gerrymander — 不公正地划分选区（以利于某党派）argot — 行业隐语；黑话；暗语multiply — 增加；繁殖；相乘cemetery — 墓地；公墓critic — 批评家；评论家；挑剔的人studio — 工作室；演播室；制片厂nonesuch — 无与伦比的人或物；绝无仅有的人rabble — 乌合之众；暴民；下层民众insignia — 徽章；标志；袖章syllabus — 教学大纲；课程大纲
 
 The Cemetery Studio Syllabus
 A sharp political critic opened a research studio directly beside the old city cemetery and compiled a detailed lecture syllabus decoding complex campaign argot. Guided by his data, the students successfully traced a secret party insignia back to a group of shady operatives who routinely used voter records to illegally gerrymander districts. As they watched structural rumors multiply among the frantic local rabble, the class hailed their fearless teacher as a true, uncorrupt nonesuch.
 
-Story 718
+Story 0718
 
 indurate — 使硬化；（使）变冷酷/麻木不仁；（形容词）坚硬的/冷酷的sandal — 凉鞋churl — 粗野的人；吝啬鬼；脾气坏的乡巴佬dealing — 交易；交往；买卖；行为motto — 座右铭；格言；题词excerpt — 摘录；选段；（动词）摘录/引用homily — 枯燥的说教；宗教布道unpremeditated — 非预谋的；即兴的；无准备的buffet — 自助餐；（风浪等）连续猛击；（动词）猛击/打击silt — 淤泥；泥沙；（动词因泥沙沉积而）堵塞
 
 The Sandal in the Silt
 At a crowded riverbank charity buffet, an unexpected, unpremeditated stumble mid-step completely buried a volunteer's leather sandal deep inside a thick layer of river silt. A nearby, short-tempered churl immediately began a loud, patronising homily on the dangers of careless outdoor business dealing. However, a student quickly read aloud a carved excerpt from the ferry station's historic wooden motto, which stated: “Human kindness must indurate into daily habit,” successfully persuading the embarrassed man to roll up his sleeves and help.
 
-Story 719
+Story 0719
 
 spunk — 勇气；精神；火星；精神头inappreciable — 微不足道的；微小的；难以察觉的sarcastic — 讽刺的；挖苦的；嘲讽的pharmaceutical — 制药的；药物的；（名词常复数）药品/药物confound — 使困惑；挫败（计划/敌方）；混淆upstage — 抢风头；傲慢对待；（形容词/副词）舞台后部的/向舞台后部的stratum — 地层；（社会的）阶层（复数形式为 strata）leach — 滤去；（液体）渗出/沥滤；（动词）过滤/滤别purvey — 供应（食品）；传播（新闻/消息）；提供desiccate — 使干燥；使脱水；使干瘪
 
 The Desert Pharmaceutical Stratum
 A highly sarcastic local guide aggressively attempted to upstage a visiting female pharmaceutical geologist during her field presentation, but her sharp professional spunk quickly helped her purvey clear, undeniable data to the hiking team. She masterfully demonstrated on the rocks that even a micro, initially inappreciable geological crack could slowly leach critical chemical minerals straight away from a primary rock stratum, permanently desiccate the surrounding soil, and completely confound every careless commercial weather forecast.
 
-Story 720
+Story 0720
 
 setback — 挫折；倒退；（建筑物的）退台；（钟表的）倒拨infelicitous — 不恰当的；不幸的；不吉利的fuddle — 使迷糊；使醉；（因酗酒而）糊涂；（名词）烂醉/混乱refresh — 使恢复精神；刷新（网页等）；使恢复活力；使清爽trio — 三人组；三人队；三重奏；三件套dastard — 懦夫；卑鄙小人；（形容词）懦弱卑鄙的hypertension — 【医学】高血压；过度紧张viaduct — 高架桥；高架道路swoop — （鸟/飞机）俯冲；突然袭击；（动词）俯冲/扑向periphery — 外围；边缘；次要部分
 
 The Viaduct Rescue Trio
 After a poorly timed, infelicitous practical joke accidentally caused a minor operational setback for the team, an elite medical rescue trio quietly patrolled the long viaduct periphery. They ensured that absolutely no local political dastard could fuddle their structural focus as a wild mountain hawk suddenly began to swoop menacingly over the ledge. Meanwhile, they prepared a cool organic drink to properly refresh their lead member, who was currently managing a sudden spike in her chronic high hypertension.
 
-Story 721
+Story 0721
 
 ballerina — 芭蕾舞女演员marble — 大理石；弹珠；大理石雕刻；（形容词）大理石制的core — 核心；果核；（电缆的）芯线；（动词）去核/提取岩芯bicker — 争吵；（为琐事）斗嘴；（水）闪烁流淌terminology — 专门术语；专门用语；术语学peck — 啄；轻吻；（鸟）啄食；（名词）一小口/轻吻vim — 活力；精力；生机（常构成 with vim）lineal — 直系的；世袭的；线状的colossus — 巨像；巨人；极其重要的人或物（复数形式为 colossi）cull — 挑选；剔除（残次品）；（名词）剔除出来的残次品
 
 The Ballerina and the Marble Colossus
 A young ballerina filled with physical vim gracefully danced around a giant antique marble colossus while a panel of museum curators loudly bickered over proper structural restoration terminology. Stepping up to the researchers, she confidently traced the original sculptor's lineal historical descent, quietly watched a stray pigeon peck a discarded apple core on the stone steps, and helped the grateful team systematically cull verifiable facts away from century-old legends.
 
-Story 722
+Story 0722
 
 fault — 过错；毛病；【地质】断层；（网球）发球失误；（动词）挑剔/产生断层debate — 辩论；讨论；（动词）辩论/盘算enclosure — 围场；围地；（信中的）附件/圈占muniments — 【法律】（证明产权的）契据/产权文件profiteer — 奸商；牟取暴利者；（动词）牟取暴利podium — 讲台；讲坛；（乐队指挥的）指挥台；领奖台toss — 投掷；扔；颠簸；（因不安而）翻身；（名词）投掷/摇摆fender — （汽车的）挡泥板；（船只的）护舷/防撞垫；壁炉护栏overdue — 逾期的；早该发生的；迟到的evildoer — 作恶者；坏人
 
 The Overdue Podium Debate
 During a highly anticipated, long-overdue town hall debate, an elderly farmer confidently placed a folder of ancient property muniments straight onto the wooden podium. He loudly blamed a wealthy real estate profiteer for illegally fencing off a massive, historic public enclosure. A known corporate evildoer nearby aggressively attempted to toss the stolen files into the back of a truck with a dented steel fender, but a rapid geographical survey soon exposed the contractor's exact boundary fault line beyond dispute.
 
-Story 723
+Story 0723
 
 engaging — 迷人的；吸引人的；动人的putter — 慢条斯理地做；（高尔夫）推杆；闲荡；（动词）溜达/混日子（美式亦作 potter）compromise — 妥协；让步；危害（名誉/安全）；（名词）妥协/折中devoid — 缺乏的；全无的（常构成 be devoid of）consequential — 重要的；有深远重大后果的；自命不凡的；随之发生的ingress — 进入；准许进入；进入权；入口reconnoiter — 侦察；勘察；（进行）前期摸底（英式拼写为 reconnoitre）precarious — 不稳定的；危险的；岌岌可危的；依靠机会的harp — 竖琴；（动词常与 on 连用指）反复唠叨/喋喋不休retain — 保留；保持；聘请（律师）；记住
 
 The Harp Beyond the Precarious Gate
 An engaging classical musician would routinely putter around the mountain ruins each morning to carefully reconnoiter a safe ingress route for the film crew, firmly refusing to compromise or weaken a historically precarious stone archway. Although the underground chamber was entirely devoid of gold treasure, it was masterfully built to retain a rich acoustic resonance, perfectly suited for a large concert harp whose single consequential musical note beautifully awakened the sleeping bats high in the rafters.
 
-Story 724
+Story 0724
 
 coterminous — 边界相连的；同时终止的jagged — 锯齿状的；参差不齐的tempo — 速度；节奏bile — 胆汁；愤怒；坏脾气decoy — 诱饵；诱骗；（动词）诱骗/引诱intervene — 干预；介入；插话comatose — 昏迷的；极度困倦的moron — 笨蛋；傻瓜numinous — 神秘庄严的；神圣的；超自然的fiscal — 财政的；财务的；国库的
 
 The Numinous Border Tempo
 Along a stretch of coterminous provinces, a highly disciplined fiscal envoy carefully followed a jagged mountain trail toward a numinous ancient shrine. A sudden rise of bitter stomach bile unexpectedly made him lose his temper and call his local guide a complete moron. However, she quietly changed her walking tempo, smartly spotted a hidden military decoy trap ahead, and decisively chose to intervene when they suddenly discovered a comatose pilgrim collapsed by the side of the road.
 
-Story 725
+Story 0725
 
 vulpine — 狐狸的；像狐狸的；狡猾的lope — 大步慢跑；（名词）大步慢跑primp — 精心打扮；（在镜前）过度修饰headlong — 头朝前地；鲁蔓地；（形容词）迅猛的/草率的sanctify — 使神圣；批准；使合法化；净化stench — 恶臭；难闻的气味revue — 讽刺歌舞剧；时事讽刺剧stupefy — 使目瞪口呆；使麻木；使神志不清startle — 使惊吓；使吓一跳；吃惊contact — 接触；联系；（动词）联系/接触
 
 The Vulpine Revue
 A notoriously vulpine actor stopped to arrogantly primp in front of the mirror right before a woodland community revue, then suddenly began to lope headlong toward the main stage. Just as a strange chemical stench from a faulty lighting wire threatened to startle the gathering audience, he realized that direct physical contact with the expanding smoke could rapidly automate and stupefy them. Acting fast, a local priest hurried up to the altar to sanctify the stage before the chaotic finale could descend into injury.
 
-Story 726
+Story 0726
 
 prudish — 过分拘谨的；一本正经的；假正经的agitate — 搅动；使焦虑不安；煽动（政治运动）shrivel — 枯萎；皱缩；（数量等）大幅缩减ideology — 意识形态；思想体系pat — 轻拍；一小块（黄油）；（形容词）恰当的/现成的domesticate — 驯化（野生动物）；使（人）适应家庭生活banister — 楼梯扶手（常复数 banisters）awning — 遮篷；雨篷；帆布篷meddle — 干涉；管闲事；瞎弄（常与 with 连用）pelagic — 远洋的；海洋生物的；浮游的
 
 The Pelagic Seedling Awning
 A highly prudish museum curator aggressively attempted to meddle with a newly designed pelagic garden exhibit, falsely claiming that its wild botanical ideology could easily agitate and mislead young visitors. Remaining completely calm, the lead gardener gave a newly sprouted seedling a gentle pat of encouragement, flatly refused to domesticate its natural shape to please the committee, and quickly moved the display away from the wooden staircase banister over beneath a canvas weather awning before its unique leaves could permanently shrivel in the afternoon sun.
 
-Story 727
+Story 0727
 
 hypocrite — 伪君子；伪善者fulminate — 猛烈抨击；严厉谴责；（化学）爆炸（常与 against 连用）spangle — （衣服上的）亮片；小发光饰物；（动词）使闪闪发光oligarch — 寡头；权贵；财阀cement — 水泥；胶结材料；（动词）巩固/加强/粘牢thorn — 刺；荆棘；（引申为）棘手的问题/让人头痛的事物integrate — 融合；使一体化；（使）并入irreconcilable — 无法调和的；不共戴天的；（矛盾）截然相反的methodical — 有条理的；有系统的；讲究方法的boredom — 无聊；厌倦
 
 The Spangled Cement Protest
 A highly methodical local sculptor carefully used broken stained glass to spangle a massive block of wet cement, passionately hoping to integrate artistic beauty into a drab civic plaza and relieve seasonal community boredom. A wealthy real estate oligarch immediately began to loudly fulminate over a single, weaponized thorn motif built into the design. However, angry citizens quickly called the wealthy hypocrite's aesthetic objections completely irreconcilable with the gaudy, over-decorated design of his own corporate luxury tower nearby.
 
-Story 728
+Story 0728
 
 optimism — 乐观；乐观主义celebrity — 名人；名流；名声；名誉doyen — （某领域的）元劳；资深人物；老前辈glare — 怒视；投以恶狠狠的目光；强光；（动词）怒视/闪耀corporal — 【军事】下士；肉体的；身体的chortle — 咯咯笑；得意地笑；（名词）咯咯的笑声decry — 谴责；公开贬低；抨击condign — 应得的；适当的；（惩罚等）罪有应得的rivulet — 小溪；细流heavy-handedness — 高压手段；笨拙；粗暴行事
 
 The Doyen Beside the Rivulet
 An arrogant, high-profile celebrity military corporal unexpectedly met the village doyen resting beside a peaceful mountain rivulet and aggressively tried to decry a local youth peace parade with a fierce glare. However, the elder's infectious moral optimism successfully made the gathering neighborhood children chortle with laughter. Ultimately, widespread public disapproval of the corporal's behavior gave his administrative heavy-handedness a well-merited and condign legal rebuke from the town trust.
 
-Story 729
+Story 0729
 
 slaughter — 屠杀；宰杀（牲畜）；大比分击败；（名词）屠杀/宰杀creek — 小溪；水湾；小湾（美式常读作 /kriːk/ 或 /krɪk/）collapse — 倒塌；崩溃；虚脱；（名词）倒塌/崩溃/暴跌kiosk — （售书、卖饮料等的）小亭/售货亭；（公用电话）亭；亭子dissuade — 劝阻；阻止；劝……罢手（常构成 dissuade sb. from sth.）sentient — 有感知能力的；有感觉的sloven — 邋遢鬼；懒散不整洁的人custodian — 看管人；管理员；保管人；监护人skillet — （带长柄的）平底煎锅tire — 使疲倦；（使）厌烦；（名词）轮胎（英式拼写为 tyre）
 
 The Sentient Skillet Kiosk
 A notoriously lazy sloven carelessly left a hot, smoking iron skillet unattended inside a creek-side refreshment kiosk, but the facility's high-tech, newly installed sentient alarm system successfully warned the head building custodian minutes before the timber roof could collapse. Working quickly, the manager managed to firmly dissuade a tired, overworked cook from causing further culinary slaughter in the kitchen, and smoothly replaced one cracked rubber tire on their master food supply cart.
 
-Story 730
+Story 0730
 
 underplay — 淡化……的重要性；表演不充分；轻描淡写shell — 壳；外壳；炮弹；（动词）炮击/剥壳wrangler — 牧人；（美国西部的）马夫；争论者；（大写特指剑桥大学数学荣誉学位第一等获得者）knave — 无赖；流氓；恶棍；（扑克牌中的）杰克（Jack）farrow — 一窝小猪；（动词指母猪）产仔syringe — 注射器；冲洗器；（动词）用注射器冲洗/注射larva — （昆虫的）幼虫（复数形式为 larvae）poseur — 装腔作势的人；故作姿态的人infinitesimal — 极微小的；微不足道的；（名词）无限小/极微量apocryphal — 真伪可疑的；杜撰的；（圣经）外典的
 
 The Wrangler's Apocryphal Shell
 A highly pretentious artistic poseur aggressively attempted to underplay an ancient, apocryphal military tale regarding a local historic knave who had reportedly hidden an emergency medical syringe inside an empty artillery shell casing. However, a sharp, unblinking wilderness wrangler stepped forward to reveal that he had discovered a tiny, live infinitesimal insect larva thriving inside that exact spot, and carefully carried the delicate specimen past a protective barn sow that was just about to farrow.
 
-Story 731
+Story 0731
 
 peptic — 胃的；助消化的；胃液的；消化性（溃疡等）cord — 绳；索；粗绳；（电器的）电源线；（粗条纹的）灯芯绒bouncing — 健壮活泼的；一蹦一跳的；健康的duration — 持续时间；期间jade — 玉；翡翠；玉绿色；（动词指人/马）疲惫不堪（常作 jaded）braid — 辫子；穗带；（动词）编成辫子；（用穗带）装饰unification — 统一；联合；一体化luxurious — 奢华的；舒适豪华的；奢侈的concentric — 同心的；同轴的cobbler — 鞋匠；（美式）一种传统深盘水果馅饼；冰镇加糖的果汁饮品
 
 The Cobbler's Concentric Jade Clock
 A bouncing, energetic village cobbler masterfully used thick leather cord to braid beautiful concentric structural rings around a massive ornamental jade clock designed to celebrate their historic town unification. For the entire duration of the luxurious town hall victory banquet, a specialized, soothing peptic tonic accompanied every single fresh serving of warm peach cobbler distributed to the guests.
 
-Story 732
+Story 0732
 
 formative — 形成的；成长关键期的minatory — 威胁的；恫吓的trample — 践踏；踩坏conspectus — 概览；综述surrealism — 超现实主义cellar — 地窖；酒窖transcend — 超越；胜过canon — 准则；经典作品；规范gregariousness — 合群；爱交际entangle — 缠住；卷入
 
 The Cellar Manifesto
 During her formative summer as a museum intern, Lian found a minatory note hidden in the damp cellar warning visitors not to trample the curator's private, unpublished conspectus of surrealism. Rather than causing a scandal, her natural gregariousness helped entangle the stern head curator in a lively academic debate about artistic canon, which eventually inspired him to transcend his own narrow regulatory rules.
 
-Story 733
+Story 0733
 
 sentiment — 情感；观点；情绪spear — 矛；（动词）刺穿sinuous — 蜿蜒的；柔美的crescendo — （声音、强度的）渐强；高潮interference — 干扰；介入；干涉periphrastic — 迂回表达的；绕圈子的fledge — （幼鸟）长出飞羽；使成熟provincial — 外省的；地方性的；狭隘的detergent — 洗涤剂sledgy — 像雪橇的；沉重拖行的
 
 The Sinuous Ice Parade
 The provincial brass band followed a sinuous frozen trail with a heavy, sledgy, dragging rhythm, while a young heron began to fledge near the bank beside a spear-shaped channel marker. Despite sudden atmospheric radio interference and a tedious, periphrastic opening speech by the sponsor about industrial chemical detergent, the local crowd's festive sentiment quickly rose to a joyful, resounding crescendo.
 
-Story 734
+Story 0734
 
 stratify — 分层；使分级ordeal — 磨难；严峻考验incubator — 孵化器；培养器vandalize — 故意破坏；肆意捣毁collage — 拼贴画；拼贴screwdriver — 螺丝刀blue — 蓝色的；忧郁的infatuation — 迷恋；痴迷conserve — 保护；节约；保存badinage — 打趣；诙谐调侃
 
 The Blue Incubator
 Hoping to conserve a rare, endangered moth after a group of rowdy vandals tried to violently vandalize its automated incubator, Bo used a small screwdriver to carefully stratify pieces of blue glass by thickness before assembling them into a protective collage. His deep professional infatuation with exotic entomology successfully survived the entire freezing ordeal, softened throughout the night by the lighthearted, resilient badinage of his helpers.
 
-Story 735
+Story 0735
 
 tether — 拴绳；束缚；（动词）拴住rotate — 旋转；轮换ancestor — 祖先；先驱；原型cuddle — 拥抱；依偎；（动词）抚抱funky — 时髦独特的；有霉味的；带有恶臭的slaver — 垂涎；流口水；奴隶贩子lien — 留置权；扣押权containment — 控制；遏制；封锁communal — 公共的；群体的；社区的hyphen — 连字符
 
 The Hyphen on the Tether
 At a funky communal wildlife shelter, dedicated volunteers regularly rotate long night shifts just to cuddle an anxious, rescued llama and safely tether it during the facility's routine containment drills. A thorough investigation into an ancestor’s land deed recently revealed a forgotten legal lien on the property, which occurred because a notorious slaver in the 1840s account had accidentally erased a crucial structural hyphen from the ledger entry.
 
-Story 736
+Story 0736
 
 attic — 阁楼empower — 授权；使有能力；赋予力量shingle — 屋顶板；木瓦；卵石滩commodity — 商品；有用之物；日用品leakage — 泄漏；渗漏；漏损counteract — 抵消；对抗；消除presenter — 主持人；演示者；颁奖人prohibitive — 高得令人却步的；禁止性的perish — 死亡；毁灭；（食物等）腐烂nonplus — 使困惑；使窘迫
 
 The Attic Broadcast
 An independent attic radio presenter used a salvaged cedar shingle to dynamically demonstrate how structural roof leakage could make a community's stored winter grain rapidly perish from rot. Although the prohibitive initial price of professional commercial contractors would temporarily nonplus the local viewers, her brilliant plan to empower neighbors to pool their tool kits and collectively counteract storage waste successfully turned every spare commodity into emergency relief help.
 
-Story 737
+Story 0737
 
 frond — 叶状体；棕榈叶；蕨类大叶fraud — 欺诈；骗子；欺骗行为palter — 含糊其词；敷衍；玩弄花招torpedo — 鱼雷；（动词）破坏/暗中袭击ewer — 大口水壶；（瓷质）盛水瓶spank — 拍打；打屁股；（名词）一巴掌；（副词）干脆地incentive — 激励；动机；刺激chipper — 兴高采烈的；（名词）碎木机provender — 饲料；粮秣；食物numismatic — 钱币学的；钱币的
 
 The Coin beneath the Frond
 A chipper numismatic student unexpectedly found an ancient bronze coin buried right beneath a damp fern frond beside the farm's provender shed. When a local corporate fraud aggressively stepped up to palter about its legal ownership, she calmly poured clean water from a ceramic ewer over the artifact and exposed its false surface dye, giving the head security guard a sharp incentive to sound the radio alarm before the thieves could torpedo the entire country fair; nearby, an alert drummer gave the main parade drumhead a sharp, resounding spank to alert the gathering crowd.
 
-Story 738
+Story 0738
 
 jerk — 猛拉；猝然一动；（俚语）蠢人/混蛋accompany — 陪伴；伴随；（音乐）伴奏misshapen — 畸形的；变形的；丑陋的slur — 诋毁；中伤；含糊地说；（名词）诋毁/连音符pedal — 踏板；（动词）踩踏板/骑车literati — 文人；知识界；学者incogitant — 欠考虑的；轻率的；无思想的insouciant — 漫不经心的；无忧无虑的miraculous — 奇迹般的；超凡的gloaming — 黄昏；暮色
 
 The Bicycle at Gloaming
 Deep in the rural gloaming, a highly insouciant young poet kindly offered to accompany a group of visiting university literati on an evening bicycle tour of the valley. However, an incogitant jerk in a passing pickup truck intentionally made a cruel, loud slur regarding her clothes and swerved, striking her frame and heavily bending her left pedal. Despite the damage, the structurally misshapen wheel still managed to carry her back home with a truly miraculous level of stability.
 
-Story 739
+Story 0739
 
 herald — 预示；……的前兆；使者；（动词）预告/宣布bombardment — 轰击；连番指问；炮击huffy — 气恼的；易怒的；傲慢的canny — 精明的；谨慎的；节俭的crayon — 蜡笔；（动词）用蜡笔画remittance — 汇款；汇款额xenophobe — 排外者；仇外者conservatory — 温室；花房；音乐学院composure — 镇静；沉着；泰然自若applicant — 申请人
 
 The Crayon Audition
 A remarkably canny international applicant confidently entered the music conservatory carrying a bank receipt marked in bright blue wax crayon for her emergency tuition remittance. A huffy, conservative admissions panelist who was a known neighborhood xenophobe immediately began a stressful bombardment of technical questions to rattle her. However, keeping her absolute composure throughout the interrogation, her gorgeous and flawless vocal recital would brilliantly herald a much fairer, more transparent admissions season for the school.
 
-Story 740
+Story 0740
 
 homeostasis — 体内平衡；稳态tend — 照料；护理；往往会code — 代码；法规；行为准则halfhearted — 不热心的；敷衍的；敷衍了事的grave — 坟墓；墓穴；（形容词）严肃的/严重的meditate — 冥想；深思；沉思revitalize — 使恢复活力；使复兴floodgate — 水闸；（因决口而引发的）控制屏障/抑制物stunning — 惊人的；极美的；出色的filch — 偷窃；顺手牵羊
 
 The Floodgate Garden
 To effectively revitalize a historic riverside community garden built right beside a veteran's grave, local volunteers painstakingly tended rows of native reeds that preserved the area's delicate ecological homeostasis. However, after a halfhearted night security guard completely ignored the facility's strict access code, an undercover thief tried to filch a stunning marble display statue. He froze and paused to meditate on his life choices the exact moment the automated river floodgate suddenly burst open in the dark.
 
-Story 741
+Story 0741
 
 repugnance — 厌恶；强烈抵触；反感measly — 少得可怜的；微不足道的；不值钱的angular — 有棱角的；（骨骼）生硬突出的；瘦骨嶙峋的respondent — （诉讼之中的）被告；回答者；响应者gasification — 气化；气化作用sway — 摇摆；摆动；倾斜；摇蔽；（动词）影响/动摇odium — 憎恶；恶名；（因恶行而招致的）公愤smudge — 污迹；污斑；面部煤烟；（动词）弄脏/擦模糊proscenium — 舞台前部；（大幕前的）台口/前台barrage — 火力网；弹幕；连珠炮般的话/连续的轰击
 
 The Smudge on the Proscenium
 A highly sharp and angular corporate respondent calmly faced a heavy, stressful barrage of complex chemical questions while standing on the stadium proscenium regarding a measly government grant assigned to her biomass gasification research. Firmly refusing to let public hostility sway her baseline data, she elegantly wiped away a grease smudge from her glasses and calmly endured the room's vocal odium, despite harboring an intense personal repugnance for the biased hearing panels.
 
-Story 742
+Story 0742
 
 sacrilege — 亵渎（圣物）；大逆不道的冒犯行为scraggly — 蓬乱的；参差不齐的；杂乱无章的novice — 新手；初学者；生手；（修道院的）初学修士fissile — 可裂变的；【地质】（岩石）易分裂的/易解理的converge — 汇聚；（线条/观点等）趋同/聚集nippers — 钳子；（厨房/实验室的）小型夹具；（蟹的）大螯combat — 战斗；格斗；对抗；（动词）打击/消灭/对抗implement — 实施；执行；贯彻；（名词）工具/器具meander — 蜿蜒而行；（河流）盘旋；（人）漫步/闲逛patriot — 爱国者
 
 The Scraggly Memorial Path
 An enthusiastic young novice stone conservator carefully used a pair of micro steel nippers to systematically implement emergency structural repairs right where a scraggly dirt path began to meander toward a local patriot's landmark memorial. An enormous crowd of residents converged at the site to actively combat online corporate rumors claiming that structural stress testing on its fissile limestone would constitute a historical sacrilege to the family name.
 
-Story 743
+Story 0743
 
 malice — 恶意；怨恨；蓄意伤人之心gnomic — 格言式的；精辟深刻的；晦涩难懂的sensitive — 敏感的；灵敏的；易受影响的；（仪器）高精度的trek — 艰苦跋涉；（长途）艰苦旅行；（动词）长途涉水tempest — 暴风雨；暴风雪；（重大的）骚动/风暴bibliography — 参考书目；文献目录egoism — 利己主义；自我中心主义elementary — 基本的；初级的；基础的；（科学）元素的killjoy — 扫兴的人；大煞风景的人engulf — 吞没；席卷；使陷入（困境）
 
 The Bibliography in the Tempest
 During a grueling morning trek up the mountain to deliver supplies to an elementary school, a sensitive university scholar carefully guarded her handwritten master bibliography container as a terrifying sub-zero tempest threatened to completely engulf the valley below. A notoriously cynical, gnomic killjoy on the team continuously mocked her protective effort, but she calmly answered his bitter personal egoism entirely without an ounce of professional malice.
 
-Story 744
+Story 0744
 
 wig — 假发；（动词俚语）发怒/发狂（常构成 wig out）moor — 荒原；高沼地；（动词）系泊（船只）/固定fulcrum — （杠杆的）支点；关键支撑点/中枢arson — 纵火罪；恶意放火exuberant — 热情洋溢的；精力充沛的；（植物）繁茂多产的piecemeal — 零碎地；逐步地；一片片地colloquial — 口语的；通俗非正式的baron — 男爵；（特定行业的）大亨/巨头miserly — 吝啬的；小气的；少得可怜的squat — 蹲下；蜷伏；（形容词）矮胖的/粗短的
 
 The Baron's Wig on the Moor
 An exuberant traveling theatre actor playing the main role of a miserly real estate baron unexpectedly lost his oversized historical wig in the wind across the desolate moor, and was forced to awkwardly squat directly beside a rusty drainage lever's central fulcrum. Luckily, a row of piecemeal physical clues discovered in the mud alongside local colloquial gossip in the tavern then masterfully helped him expose a complex corporate arson plot against the reserve.
 
-Story 745
+Story 0745
 
 foreordain — 预先注定；冥冥中注定episodic — 片段式的；断断续续的；偶发的ligature — 连字；【医学】结扎线/缚带；（动词）结扎aftermath — 后果；（不幸事件的）余波/灾后时期malefactor — 罪犯；作恶者；坏人feminist — 女权主义者；女权主义的recombine — 重新组合；再结合cringe — 畏缩；退缩；（因尴尬等）感到难堪/难为情cartographer — 制图师；地图绘制员substitute — 代替；取代；（名词）替代品/替补人员
 
 The Cartographer's Ligature
 Right in the chaotic, muddy aftermath of a severe, episodic mountain rainstorm, a staunchly feminist cartographer firmly refused to cringe when a corrupt male landlord malefactor aggressively attempted to force her to substitute forged geometric land symbols onto her charts. She masterfully identified an antique printed ligature mark to perfectly recombine the torn sheets of the original historical map, definitively proving to the arbitration board that no territorial legend can foreordain a village's collective economic fate.
 
-Story 746
+Story 0746
 
 complacency — 自满；自鸣得意；满足现状ostracism — 排斥；放逐；（古希腊的）陶片放逐法indignity — 侮辱；轻蔑；有失尊严的待遇/伤自尊的事attain — 达到；获得；（通过努力）实现benison — 祝福；赐福；恩惠（古雅词）culinary — 烹饪的；厨房的；烹饪艺术的ineptitude — 无能；笨拙；不称职prophecy — 预言；预言能力modish — 时髦的；赶时髦的；风行的subtract — 减去；扣除；去掉
 
 The Modish Kitchen Prophecy
 An ancient, pessimistic kitchen prophecy had continuously claimed that no amateur apprentice could ever attain true technical mastery inside the kingdom's grand, modish culinary hall. However, Mei chosen to resolutely treat every minor initial indignity and temporary bout of social ostracism from the senior staff purely as a valuable management lesson. She smartly asked the head chef to permanently subtract arrogant complacency from their kitchen tradition, masterfully overcame her own early technical ineptitude, and ultimately earned his full, professional benison.
 
-Story 747
+Story 0747
 
 prevail — 获胜；战胜；盛行；普遍存在（常与 over 连用）matriculate — 被大学录取入学；注册入学；（名词）大学新生congeal — （液体）凝结；凝固；（因冷却而）变稠tickler — 提醒物；备忘录；备忘卡；极其棘手的问题/难题parlance — 说法；术语；用语；特定行业的行话（常构成 in common parlance）ellipsis — 【语法】省略号（……）；（文中词句的）省略canorous — 悦耳的；旋律优美的；响亮的（主要用于文学）exponentially — 指数级地；以几何级数迅猛地；激增地backslide — 倒退；故态复萌；堕落；（宗教等）变节toxic — 有毒的；恶劣的；中毒的；引起中毒的
 
 The Canorous Matriculation
 Right before she could officially matriculate into the university's environmental engineering department, Ava faced a highly complex technical tickler regarding a toxic wastewater pond where invasive green algae multiplied exponentially and would nightly congeal into thick organic mats. In standard scientific parlance, her detailed field report required absolutely no grammatical ellipsis, and its beautiful, canorous presentation to the council successfully helped defensive empirical evidence prevail, ensuring municipal officials would not backslide on their filtration budgets.
 
-Story 748
+Story 0748
 
 contravene — 违反； 抵触； 违背sparse — 稀疏的； 稀少的； 贫乏的natation — 游泳； 游泳术feeble — 虚弱的； 无力的； 微弱的hectic — 忙乱的； 紧张的； 狂热的readily — 乐意地； 容易地； 欣然地rewarding — 值得的； 有益的； 报酬丰厚的slate — 石板； 候选人名单； 蓝色； （动词） 预定/ 抨击scar — 伤疤； 创伤； 疤痕； （动词） 留下创伤/ 结疤personage — 要人； 名人； （小说/ 戏剧中的） 角色
 
 The Slate beside the Pool
 At a highly hectic community natation meet, a physically feeble but deeply determined local personage readily erased his own name from the elite championship candidate slate rather than contravene the board's newly revised safety rules. He quietly realized that guiding young novice swimmers through a patch of sparse river reeds at the perimeter proved far more rewarding to his spirit than continuing to hide the painful old emotional scar of an ancient training defeat.
 
-Story 749
+Story 0749
 
 contingent — 代表团； 小队； 偶然事件； （形容词） 取决于/ 视情况而定的（常与 on 连用）iterate — 反复说明； 重申； 迭代incarnate — 化身的； 典型的； 体现的； （动词） 体现/ 使具体化exempt — 免除； 豁免的； 被免除的（常与 from 连用）mordant — 尖刻的； 讽刺的； 犀利的； （名词） 媒染剂dismay — 沮丧； 惊愕； 气馁； （动词） 使惊愕/ 使沮丧cram — 塞满； 填满； 临时抱佛脚/ 苦读refrain — 克制； 节制； 避免； （名词） （诗/ 歌的） 副歌/ 叠句（常与 from 连用）skein — 一绞纱线； （大雁等飞行的） 一队； 错综复杂的事物mesmerize — 迷住； 使着迷； 使入迷（亦作 mesmerise）
 
 The Skein and the Refrain
 A visiting research contingent quietly watched an elderly master weaver iterate a mordant vocal refrain while dynamically transforming a tangled, dusty skein of wool into a striking textile tapestry resembling a phoenix incarnate. Much to the organizers' sudden dismay, a crowd of latecomers tried to forcefully cram inside the packed studio workshop gallery. However, absolutely no guest was exempt from the strict facility rule to completely refrain from making any background noise, ensuring the vivid, quiet traditional colors on the loom would deeply mesmerize them all.
 
-Story 750
+Story 0750
 
 sophistication — （思想/ 技术的） 老练； 精密； 复杂性； 诡辩magnate — 巨头； 大亨； 要人lunar — 月球的； 月亮的； 阴历的militant — 激进的； 好战的； 好斗的； （名词） 激进分子perspire — 出汗； 流汗stammer — 口吃； 结巴； （动词） 结结巴巴地说出peripheral — 次要的； 外围的； 周边的； 外部的elegy — 挽歌； 哀诗； 悲歌unsettle — 使不安； 扰乱； 动摇； 打乱（计划/ 心境）hygiene — 卫生； 保健； 卫生学
 
 The Lunar Elegy
 A highly aggressive, militant resource magnate attempted to completely unsettle the research crew at the deep-space lunar camp by publicly calling daily bio-waste hygiene a completely peripheral design concern. Although the site's young field medic initially began to heavily perspire and stammer nervously under his intense glare in the briefing room, the sheer intellectual sophistication of her moving vocal elegy dedicated to a recently lost polar explorer completely changed the entire crew's long-term environmental priorities.
 
-Story 751
+Story 0751
 
 dent — 凹痕； 压痕； 削弱； （动词） 使有凹痕/ 挫伤eaglet — 小鹰； 雏鹰apparition — 幽灵； 幻影； 特异景象shrub — 灌木； 灌木丛scribble — 潦草地写； 涂写； 乱画； （名词） 潦草的字迹/ 乱涂scenario — 情景； 设想； 方案； 剧本； 脚本overture — 序曲； 前奏曲； （常复数） 建议/ 提议/ 示好（常构成 make overtures to）goblet — 高脚杯； 金属高脚大酒杯debrief — 盘问； 听取汇报； 询问（任务执行情况）haft — （刀、剑、斧等的） 柄； 把手； 刀柄
 
 The Apparition by the Shrub
 The exact moment the orchestra's grand classical overture ended, a stray wild eaglet accidentally struck an antique crystal goblet on the sill and left a prominent dent on the base right beside a thorny rose shrub. The nervous museum guards immediately mistook its darting silhouette shadow for a supernatural apparition, so Mara calmly used the heavy wooden haft of her hand-held lantern to point out the loose feathers, safely scribble out a much calmer scenario on her pad, and thoroughly debrief the panicked acting cast.
 
-Story 752
+Story 0752
 
 ooze — 渗出； 缓缓流出； 显露； （名词） 淤泥； 软泥entice — 引诱； 诱惑； 吸引（常构成 entice sb. into/to do sth.）archer — 弓箭手； 射手scandal — 丑闻； 令人震惊的事； 耻辱； 流言蜚语verboten — 被禁止的； 严禁的（通常指受法律或权威禁止）fritter — 浪费； 挥霍（时间/ 金钱）； （名词） 切碎油炸的面团面饼（常与 away 连用）puissance — 权力； 力量； 影响力（主要用于文学/ 古雅语）novelty — 新奇事物； 新颖； 新奇； 小装饰品damped — 抑制的； 减振的； 弄湿的； 沮丧的cyclone — 旋风； 气旋； 飓风； 暴风雨
 
 The Archer after the Cyclone
 After a violent seasonal cyclone successfully damped the chaotic town festival's outdoor events, a clever female archer expertly used a rare novelty brass whistle to safely entice the playing children away from a deep pool of toxic industrial ooze. She knew that entering the cracked stone clock tower perimeter was strictly verboten by the town council, and she flatly refused to ever fritter her legal security puissance on a highly staged, corporate-sponsored media scandal.
 
-Story 753
+Story 0753
 
 therapeutic — 治疗的； 医疗的； 有益于健康的/ 有益身心的battalion — 营； 大队； （常复数） 大批部队/ 队仗repressed — 被压抑的； 受抑制的； 抑制（情感） 的filings — 锉屑； 铁屑； 锉渣； （动词file的现在分词）natal — 出生的； 故乡的； 诞生时的； 婴儿期的alkali — 碱； 可溶性强碱； 含碱的discography — 唱片目录； 录音作品目录； 唱片分类学throes — 剧痛； 极度痛苦； 困境； （革命等） 剧烈动荡（常构成 in the throes of）fortify — 加固； 加强； 增强（体力）； （酒等） 提高酒度botch — 笨拙地修补； 搞砸； （名词） 笨拙的工作/ 补丁
 
 The Battalion's Natal Song
 While caught deep in the stressful throes of slowly restoring an abandoned, war-torn natal clinic, a disciplined battalion medic carefully used a specialized alkali solution to clean heavy metal filings away from the window chassis and heavily fortify a new, therapeutic music therapy room. She firmly refused to let anyone botch the archive's historical regional discography database, which preserved a collection of beautiful folk songs that had been once brutally repressed by the previous military regime.
 
-Story 754
+Story 0754
 
 lucid — 清晰的； 易懂的； 神志清醒的； 清澈透明的stonewall — 阻挠； 拒绝回答； 拖延（常用于政治/ 辩论）gnat — 小飞虫； 蚊蚋； 琐碎烦人的小事glacial — 冰川的； 冰河时代的； 冷若冰霜的； 极为寒冷迟缓的variance — 差异； 分歧； 不一致； 变化； 【法】 变更（常构成 at variance with）preternatural — 超常的； 异常的； 超自然的； 不寻常的correspondent — 驻外记者； 通讯员； 书信往来者； 相关的事物bacchanal — 狂欢； 纵酒狂欢的人； 酒神节； （形容词） 狂欢的anorexia — 厌食症； 神经性厌食症（全称为 anorexia nervosa）contagious — 有感染力的； 传染性的； 引起感染的
 
 The Gnat at the Bacchanal
 A highly lucid, observant investigative radio correspondent suddenly noticed a tiny wild gnat circling the massive, glacial crystalline centerpiece ice sculpture at a wealthy corporate bacchanal, and promptly reported a preternatural variance in the structural layout of its frozen baseline blocks. Although the venue's corrupt corporate officials aggressively attempted to stonewall her inquiries, her genuine, highly contagious ethical concern effectively redirected the entire banquet's remaining massive luxury entertainment budget straight to a local, underfunded youth anorexia clinic.
 
-Story 755
+Story 0755
 
 reside — 居住； 定居； 存在于； 属于（常与 in 连用）derivative — 派生的； 缺乏原创性的； 模仿的； （名词） 派生物/ 导数simile — 明喻； 比喻（一种修辞手法）wilt — （植物等） 枯萎； 变蔫； （精神等） 萎靡/ 变得衰弱cephalic — 头部的； 头侧的； 有头部的tack — 图钉； 钉子； 策略； 方针； （动词） 用图钉固定/ 临时缝（常构成 change tack）dictate — 口述； 命令； 支配； 决定； （名词） 命令/ 指示/ 原则reprieve — 暂缓； 缓刑； （痛苦等的） 暂缓/ 缓解； （动词） 暂缓/ 缓期执行enumerate — 列举； 枚举； 逐一数出herbicide — 除草剂
 
 The Reprieve for the Wilted Field
 A dedicated team of biological researchers who currently reside right near the corporate valley farms systematically worked to enumerate each physical, cephalic deformity discovered in local pond tadpoles following a sudden act of massive commercial herbicide drift. Their finished environmental report—which contained no weak, derivative literary simile—successfully helped to dictate a completely new tactical tack for the county commission before the autumn crops could permanently wilt, and ultimately won the beautiful surrounding marsh meadow a lasting legal reprieve from development.
 
-Story 756
+Story 0756
 
 impression — 印象；压痕；效果additive — 添加剂；附加的；加法的majestic — 雄伟的；庄严的；高贵的down-to-earth — 务实的；朴实的；脚踏实地的inaugurate — 开创；为……举行开幕式；使就职lethargy — 倦怠；无精打采；呆滞状态whelm — 淹没；压倒；覆灭bulb — 球茎；灯泡；球状物ripen — 成熟；使成熟carbohydrate — 碳水化合物；糖类
 
 The Majestic Community Bulb
 To inaugurate a down-to-earth experimental food laboratory, a majestic head chef personally planted each heirloom garlic bulb and carefully inspected the wild grains as they began to ripen in the sun. His additive-free, raw carbohydrate stew completely overcame the isolated village's winter lethargy, leaving a lasting warm impression on the locals without letting rigid culinary ceremony whelm the grateful guests.
 
-Story 757
+Story 0757
 
 surge — 激增；涌动；（情感等）汹涌；（名词）激增/汹涌bend — 弯曲；（河流/道路的）转弯处；（动词）使弯曲/屈服procrustean — 强求一致的；削足适履的；残硬的（亦作 Procrustean）quixotic — 不切实际的；堂吉诃德式的；空想的annexation — 吞并；附加；合并piddling — 琐碎的；微不足道的；不值钱的disperse — 驱散；散开；消散；传播canto — （长诗的）章/节；【乐】主旋律sodden — 湿透的；浸透的；（因酗酒而）面色呆滞的slobber — 流口水；过分感伤的言行；（动词）流口水/过分感伤地哭
 
 The Sodden Canto
 After a violent midnight river surge completely flooded a sharp bend in the river right beside a sodden wooden performance stage, a quixotic young local poet defiantly recited a dramatic canto against political land annexation. City officials callously dismissed his performance as nothing but piddling and procrustean nonsense, but even a stray dog near the steps ceased to slobber as the deeply moved crowd flatly refused to disperse in the rain.
 
-Story 758
+Story 0758
 
 soar — 翱翔；高飞；猛增；剧增gadget — 小器具；精巧的小装置calculated — 精心策划的；蓄意的；适合的；计算出来的etch — 蚀刻；在……上留下深刻痕迹；（名词）蚀刻版画designate — 指定；标明；指派；（形容词）已指定而尚未就职的typo — 打字错误；印刷错误convoluted — 复杂难懂的；盘绕的；曲折的howler — （口语中的）大错/大谬误；嚎叫的人或动物cult — 崇拜；狂热崇拜；异教；邪教；（形容词）受狂热崇拜的queasiness — 恶心的；感到恶心的；（因恐惧等）心里不安的
 
 The Typo That Made a Kite Soar
 A calculated typo printed inside a highly convoluted equipment manual instructed Niko to etch a strange, forbidden cult symbol directly onto a new digital weather gadget and officially designate it as a functional howler tool. Feeling heavily queasy about the administrative error, he smartly corrected the label and instead watched the completely harmless, beautifully built tracking kite safely soar into the clouds.
 
-Story 759
+Story 0759
 
 ritzy — 豪华的；时髦高档的；傲慢的（口语）complaisance — 殷勤；顺从；讨好treachery — 背叛；不忠；变节行为coherent — 连贯的；一致的；条理清晰的reinstate — 恢复（职位、权力等）；使复职stray — 走失的；迷路的；（名词）走失的动物/流浪者；（动词）迷路/偏离brew — 酿造；冲泡（茶/咖啡）；（不祥之兆）酝酿；（名词）酿造啤酒/饮料ogle — 色眯眯地盯着；（贪婪/下流地）凝视；（名词）媚眼/注视stab — 刺；戳；刺痛；突发的一阵（痛苦）；（动词词组常构成 take a stab at 尝试）vital — 至关重要的；有生气的；生死攸关的；充满活力的
 
 The Stray at the Ritzy Cafe
 Inside a crowded, ritzy corner cafe, a stray mixed-breed dog unexpectedly exposed a wealthy guest's corporate treachery by dragging a portfolio of stolen blueprints straight out from his briefcase. The nimble manager immediately took a successful stab at delivering a coherent account of the incident to the police, firmly refused to let rowdy patrons ogle or humiliate the falsely accused waiter, and began to brew a fresh pot of herbal tea that was vital to restoring immediate calm to the room. He ultimately chose to reinstate the waiter after verifying that his naive, professional complaisance had been exploited by the thief.
 
-Story 760
+Story 0760
 
 inquiry — 调查；询问；质问；打听（亦作 enquiry）matte — 无光泽的；哑光的；不光滑的；（金属冶炼）冰/锍bedeck — 装饰；点缀；布满（常与 with 连用）convalescent — 康复中的；恢复期的；（名词）康复期患者hinterland — 内地；内陆腹地；穷乡僻壤bedizen — 把……装扮得艳俗；乱加装饰anthology — （诗、文、音乐等的）选集/文集glitch — 小故障；短暂的电涌失灵fantasia — 幻想曲；幻想作品；大杂烩grandstand — （运动场等的）大看台；（动词/形容词）哗众取宠/卖弄技术
 
 The Matte Fantasia
 Specifically for a talented convalescent classical pianist resting in the mountain hinterland, her local friends lovingly bedecked the grandstand pavilion stage with simple, matte paper stars, but flatly refused to over-decorate or bedizen her piano chair with cheap tinsel. Following a sudden technical sound glitch mid-performance, her sweeping modern fantasia seamlessly resumed, inspiring an analytical academic inquiry into local music that eventually became the final celebrated essay inside a new cultural anthology.
 
-Story 761
+Story 0761
 
 parallel — 平行的；类似的；同时发生的；（名词）平行线/类似之处；（动词）与……平行/相比sadistic — 虐待狂的；残酷成性的capitation — 按人头收费；人头税；人头费计算法unproductive — 无成效的；低产的；徒劳的columnist — 专栏作家revulsion — 强烈厌恶；（情绪的）剧变/巨变（常与 at/against 连用）sapling — 树苗；年轻人；小树thrust — 猛推；插入；刺；（言论的）要旨/核心；（动词）猛推/刺holograph — 亲笔文稿；（亲笔签字的）遗嘱文件；（形容词）亲笔的insolent — 傲慢无礼的；侮辱挑衅的
 
 The Holograph beneath the Sapling
 A prominent newspaper columnist unexpectedly found an ancient village healer's personal holograph buried deep beneath the roots of a wild willow sapling. She masterfully drew a historical parallel between old, oppressive capitation fees and a highly insolent, modern administrative hospital billing scheme. The resulting wave of intense public revulsion across the city gave major political thrust to her front-page article, successfully ending an unproductive, sadistic medical collection policy.
 
-Story 762
+Story 0762
 
 unjustified — 无正当理由的；未调整的；无必要的gustatory — 味觉的；品尝的subpoena — （法庭的）传票；传唤；（动词）传唤/传讯glimpse — 一瞥；短暂的感受；（动词）瞥见/隐约看见nip — 轻咬；夹伤；迅速走开；（名词）轻咬/夹/（烈酒的）一小口peckish — 有点饿的；（英式口语）易怒的vicinity — 附近；邻近地区；周围（常构成 in the vicinity of）doodle — 涂鸦；随手画的图案；（动词）信手涂鸦/混日子condiment — 调味品；佐料（如盐、芥末、酱油等）incidence — 发生率；影响范围；【物理】入射/入射角
 
 The Condiment Doodle
 Feeling slightly peckish during her night shift, a gustatory laboratory researcher took a quick nip of a new experimental chili sauce and unexpectedly caught a sharp glimpse of a coded digital doodle hidden on its margin label. A formal court subpoena quickly brought the factory owner straight from the surrounding vicinity to aggressively explain the facility's high incidence of microbial contamination, alongside their hidden, completely unjustified use of a legally banned synthetic chemical condiment.
 
-Story 763
+Story 0763
 
 multiplicity — 多样性；众多；多元化dogmatism — 教条主义；武断的见解；独断论melodrama — 情节剧；夸张的事件/过度戏剧化的行为want — 缺乏；需要；贫困；（动词）想要/需要/缺乏（常构成 for want of）tony — 高雅时髦的；高档奢华的（口语，亦作 tonier/toniest）opulent — 奢华的；富足的；富裕的；（植物）茂盛的apothegm — 格言；箴言；警句（亦作 apophthegm）invert — 颠倒；倒置；反转；使（前后/上下/内外）颠倒wily — 狡猾的；诡计多端的；机灵的drab — 单调乏味的；无生气的；土褐色的；（名词）土褐色布/黄褐色
 
 The Apothegm in the Drab Theater
 A highly wily art director aggressively tried to invert a bleak, drab historical melodrama into a tony, commercial spectacle decorated with opulent velvet stage curtains. However, his production's overwhelming multiplicity of digital special effects simply could not hide the severe, underlying want of genuine heart in the script. Ultimately, a single, beautifully delivered apothegm spoken by a veteran lead actor completely punctured the director's arrogant artistic dogmatism on opening night.
 
-Story 764
+Story 0764
 
 torment — 折磨；使极度痛苦；长期烦扰；（名词）折磨/痛苦/痛苦的根源monochrome — 单色的；黑白照片；（形容词）单色的/黑白的muted — （声音）柔和压低的；（颜色等）柔和暗淡的；缄默的/被抑制的beholder — 观看者；旁观者；目击者（常构成 in the eye of the beholder）accommodating — 乐于助人的；随和的；好通融的（亦作 accommodative）clench — 紧握（拳头）；咬紧（牙关）；（钉子等）钉牢；（名词）紧握/死扣tackiness — 俗气；小家子气；（油漆等的）黏性/黏度bluster — 咆哮；虚张声势地训斥；（狂风等）肆虐；（名词）咆哮/狂妄的话sampler — 刺绣样本；（食物等）样品集；【电子】采样器congruent — 全等的；几何完全一致的；（与某事）相符的（常与 with 连用）
 
 The Monochrome Sampler
 A highly accommodating museum curator proudly displayed an antique, monochrome textile sampler whose muted, hand-stitched geometrical triangles were perfectly congruent. However, a notoriously aggressive local critic immediately began to loudly bluster in the gallery about the artifact's alleged historical tackiness. Standing nearby, every single quiet beholder in the room clearly saw the independent young artist firmly clench her jaw, turn away, and end the public torment with a display of silent, unshakeable resolve.
 
-Story 765
+Story 0765
 
 closet — 壁橱；隐秘的；储藏室patronize — 屈尊对待；光顾；资助（英式拼写：patronise）cinder — 炉渣；余烬；煤渣flatcar — 平板铁路货车；平板车relieved — 放心的；减轻的；宽慰的brink — 边缘；生死关头；（常构成 on the brink of）complexion — 肤色；（局面的）面貌/特征squirrel — 松鼠；（动词指）贮藏/储蓄（常与 away 连用）decompose — 分解；腐烂；变质dirge — 挽歌；哀乐；悲歌
 
 The Squirrel on the Flatcar
 A terrified wild squirrel escaped from a dark storage closet and precariously perched on the edge of a flatcar right at the brink of a burning cinder pit. A row of deeply relieved workers flatly refused to patronize or mock the young animal rescuer, whose ash-streaked complexion immediately brightened the exact moment a nearby memorial dirge ended and the autumn leaves began to naturally decompose in the forest.
 
-Story 766
+Story 0766
 
 genealogy — 家谱；谱系；宗谱学shred — 碎片；极少；（动词）撕碎/切碎naivety — 天真；幼稚；纯朴（亦写作 naïvety）equable — 平和的；稳定的；（气候）温和的poll — 民意调查；投票；（动词）获得选票/对……进行民意测验blooming — 盛开的；非常的；（形容词作强调用）该死的furbish — 擦亮；翻新；磨光（常与 up 连用）cautionary — 警示的；劝诫的；（常构成 cautionary tale）jumpy — 神经紧张的；跳跃的；心惊肉跳的meet — 相遇；遭遇；（形容词）适宜的/恰当的（古雅语）
 
 The Blooming Genealogy
 At a large weekend family gathering, a highly jumpy child chanced to meet her remarkably equable older aunt after finding a faded, torn shred of missing genealogy buried directly beneath a blooming rose bush. She successfully used the historical discovery to furbish up a moving, cautionary tale about youthful naivety, and subsequently held a casual hands-up poll on the best methods for preserving the family archive.
 
-Story 767
+Story 0767
 
 steeple — （教堂的）尖塔；尖顶radius — 半径；周围距离；范围unpretentious — 朴实无华的；谦逊的；不炫耀的convergent — 汇聚的；趋同的；会合的personnel — 人员；职员；人事部门（集合名词）scrappy — 好斗的；爱吵架的；零碎杂乱的chimera — 幻想；空想；【生物】嵌合体；【神话】凯美拉怪兽unearthly — 怪异的；超凡脱俗的；神秘可怕的pastry — 油酥点心；糕点；面制点心imprecation — 诅咒；咒骂；（常指）恶言相向
 
 The Pastry beneath the Steeple
 Within the exact radius of the old cathedral steeple's morning shadow, a row of scrappy festival personnel aggressively chased a running thief dressed in a giant, paper chimera costume along the town's convergent lanes. A sudden, unearthly imprecation echoed loudly behind them, but it actually came from a completely unpretentious local baker calling after the culprit who had just stolen his very last fresh berry pastry.
 
-Story 768
+Story 0768
 
 simpleton — 傻瓜；笨蛋；易受骗的人overrule — 否决；驳回；（以权力）推翻/宣布无效avuncular — 伯父般的；慈祥的；长辈般关怀的kernel — （坚果的）核/仁；（问题的）核心/要害；谷粒speculate — 推测；猜测；投机；做投机买卖（常与 on/about 连用）stanza — （诗的）节；诗节fang — （犬、蛇等的）尖牙；毒牙sizzler — 炙热天；极热的天气；精彩绝伦的人或物（口语）damper — 抑制因素；阻尼器；（钢琴的）制音器；（炉子的）挡板（常构成 put a damper on）tonsorial — 理发的；剃须的；美发的（常用于幽默/正式语）
 
 The Tonsorial Sizzler
 A remarkably avuncular old neighborhood barber firmly refused to overrule a young child who creatively wanted a sharp snake fang design shaved straight into his hair for a school summer festival. While the surrounding conservative adults continued to anxiously speculate about the boy's behavior, the supposed simpleton calmly stood up and beautifully recited a classical poetic stanza about an organic corn kernel, successfully putting a heavy damper on their arrogant tonsorial snobbery.
 
-Story 769
+Story 0769
 
 gospel — 福音；真理；信条；绝对相信的话（大写特指圣经《福音书》）squab — 雏鸽；（供食用的）小鸽肉；厚坐垫；（形容词）矮胖的sobriety — 清醒；庄重；严肃；冷静unenlightened — 无知的；落后的；未受启发的grievance — 不满；委屈；不平之事（常构成 air a grievance）bullyrag — 威吓；欺凌；恐吓；（以言语）欺侮（美式亦作 bully-rag）abolish — 废除（法律/制度/习俗等）；取消；彻底消灭peevish — 易怒的；爱抱怨的；脾气坏的rapport — 融洽关系；和谐亲善关系（常与 with 连用）etymology — 词源学；词源（复数形式为 etymologies）
 
 The Squab and the Gospel of Words
 A highly peevish university lecturer aggressively attempted to bullyrag a quiet student over the exact etymology of the word squab, treating his own outdated glossary manual as absolute, unchallengeable gospel truth. Maintaining her complete composure and sobriety, she professionally aired her legal grievance before the department, built an immediate strong rapport with the rest of the class, and successfully helped to permanently abolish the school's unenlightened rule against student questions.
 
-Story 770
+Story 0770
 
 litter — 垃圾；一窝幼崽（猫、狗等）；轿子；（动词指）乱扔垃圾/散落falcon — 猎鹰；游隼mutineer — 叛变者；兵变者；暴动者azure — 天蓝色；蔚蓝的；（名词常作大写指）蔚蓝色holster — 枪套；把（皮手枪等）放入枪套straggle — 掉队；落后；散乱延伸；（植物等）杂乱蔓延figment — 虚构之物；臆想；空想出来的事情（常构成 figment of imagination）elongate — 拉长；延伸；（使）变长；（形容词）伸长的/拉长的sensation — 感觉；知觉；（引发的）轰动/轰动一时的人或物jigsaw puzzle — 拼图游戏；拼图
 
 The Azure Falcon Puzzle
 A rare, beautiful azure falcon unexpectedly became a massive international media sensation when it successfully carried a wooden jigsaw puzzle box straight up from a litter-strewn ship deck. Lines of curious sailors began to straggle after its flight path across the island while a nervous mutineer quickly hid his leather holster in the bushes. However, the unflappable captain called the visual threat a pure figment of his men's imagination, and cleverly used the scattered puzzle pieces to elongate their shipping map home.
 
-Story 771
+Story 0771
 
 comedienne — 女喜剧演员；喜剧女明星befuddlement — 困惑；迷糊；昏昏沉沉humid — 潮湿的；湿热的；多潮气的hegemony — 霸权；支配地位；盟主权（尤指国家间或阶层间）spool — 线轴；卷盘；卷筒；（动词指）把……缠绕在线轴上pyromania — 【医学】纵火癖；放火狂discombobulate — 使困惑；使慌乱；使混乱不堪（口语）numerology — 数字命理学；占数术spontaneity — 自发性；自然流露；自发行为belligerence — 好战；敌意；交战状态（亦作 belligerency）
 
 The Comedienne and the Spool
 Inside a sticky, humid community theater, a brilliant young comedienne masterfully used a simple wooden thread spool and a piece of mock numerology to completely puncture a hyper-critical reviewer's intellectual hegemony. Her infectious, raw spontaneity turned the audience's initial structural befuddlement into a wave of roaring laughter, while a sharp backstage joke about his alleged pyromania successfully managed to completely discombobulate his defensive belligerence.
 
-Story 772
+Story 0772
 
 passive — 被动的；消极的；缺乏活力的；【语法】被动语态的outskirts — 市郊；（城镇的）边缘地带/郊区（通常用复数 outskirts）cohabit — 同居；（不同的动物/植物在同一处）共栖/共存embrace — 拥抱；欣然接受（建议/挑战等）；信奉；包含willow — 柳树；柳木；（形容词）柳木制的defoliator — 落叶剂；【生物】食叶害虫/使植物落叶的虫或药sufficient — 足够的；充分的（常与 for 连用）sling — 投掷；扔；用吊带悬挂；（名词）投石器/（撑伤肢的）悬带/吊索homogeneous — 同质的；均匀的；由同类物组成的（亦作 homogenous）coloration — 着色；色彩特征；（生物的）天然颜色（英式拼写：colouration）
 
 The Willow on the Outskirts
 Deep on the northern outskirts of the valley, a cluster of rare insects exhibiting an unusual metallic coloration began to peacefully cohabit inside a massive, ancient weeping willow that was heavily threatened by an invasive defoliator pest. The community quickly realized that basic, passive observation was simply not sufficient to save the tree, so the local residents chose to embrace a highly unique, homogeneous organic clay treatment and sling protective mesh nets completely across the heavy branches.
 
-Story 773
+Story 0773
 
 igneous — 火成岩的；火成的shrink — 收缩；退缩；缩水photosynthesis — 光合作用crease — 折痕；起皱；（动词）使起皱capillary — 毛细管；毛细血管的centralization — 集中化；中央集权spackle — 填墙膏；腻子；（动词）填补pitiful — 可怜的；不足的；微不足道的ignorant — 无知的；不了解的；缺乏常识的spoor — （野兽的）足迹；踪迹
 
 The Spoor across Igneous Stone
 A dedicated field botanist followed a fresh animal spoor across jagged igneous stone straight to a pitiful, neglected greenhouse where administrative centralization had left the remaining field staff entirely ignorant of standard structural repairs. She immediately smoothed out each deep crease in the torn plastic sheeting, used white spackle on dozens of cracks in the brick walls, and carefully restored the automatic capillary watering lines. Within an hour, she watched no leaf shrink as natural photosynthesis successfully resumed across the crops.
 
-Story 774
+Story 0774
 
 adobe — 土坯；土坯房；泥砖communicate — 交流；传达；沟通census — 人口普查；统计；（动词）实施人口普查pelt — （雨、雹等）连续投掷/猛击；毛皮；（动词）猛打limber — 柔软的；使灵活；敏捷的pious — 虔诚的；伪善的；道貌岸然的statutory — 法定的；依法的；依照法令的shrug — 耸肩；不予理会；（名词）耸肩volley — 齐射；（言语、冰雹等的）连发/阵；（动词）齐射/连发muck — 污泥；粪肥；（动词）弄脏/清理污物（常与 up/out 连用）
 
 The Census at the Adobe
 A remarkably limber state census worker trudged through miles of thick winter muck to reach a remote, historic adobe dwelling where a pious village elder would only stubbornly shrug at her questions. When massive chunks of frozen hail suddenly began to pelt the roof in a violent volley, she kept her focus and used simple visual pictures to accurately communicate the critical, statutory purpose of her official visit.
 
-Story 775
+Story 0775
 
 eloquence — 雄辩；口才；文采know-how — 实用知识；技术诀窍；专门技能precursor — 先驱；前兆；前身score — 得分；赢得；二十；（动词）得分/赢得/刻痕margin — 边缘；余地；利润；差额agenda — 议程；目的；行动计划feat — 壮举；功绩；武艺/技艺refinery — 炼油厂；精炼厂vulgar — 粗俗的；庸俗的；下流的polarize — 使两极分化；使偏振；使对立（亦作 polarise）
 
 The Refinery Margin
 At a crowded, tense refinery safety forum, a senior chemical engineer masterfully used her sharp professional eloquence and deep technical know-how to score majority support for a complex structural renovation feat. Although a vulgar and disruptive heckler aggressively tried to polarize the boardroom, a recent near-miss mechanical accident—which had served as a stark precursor to the evening's new safety agenda—left the management board absolutely no margin for further delay.
 
-Story 776
+Story 0776
 
 renascent — 复兴的；再生的；新生绽放的brindled — 有斑纹的；（动物毛发）呈杂色斑纹的gouge — 剥削；敲竹杠；凿；（名词）圆凿/深坑；（动词）凿/挖/欺诈wrist — 手腕；腕关节surrogate — 代理人；代用品；代孕者；（形容词）替代的/代理的distrait — 心不在焉的；不注意的hurtle — 猛冲；飞驰；呼啸而过doting — 溺爱的；宠爱的offspring — 后代；子女；（动物的）幼崽enchant — 使着迷；施魔法；使神魂颠倒
 
 The Brindled Surrogate
 A beautifully brindled surrogate wolf quietly watched her energetic, adopted offspring safely hurtle through the thick underbrush of a newly renascent forest reserve. Nearby, a slightly distrait, doting sanctuary keeper accidentally bruised his own wrist while using a heavy metal gouge to repair the main enclosure gate, yet the wild, playful behavior of the pups continued to thoroughly enchant him throughout the evening.
 
-Story 777
+Story 0777
 
 tumble — 跌倒；翻滚；暴跌；打滚；（名词）跌倒/翻滚memento — 纪念品；引起回忆的东西modicum — 少量；一点点；些许（常构成 a modicum of）foray — 突袭；初次尝试；短暂涉足；（动词）袭击/掠夺uncooperative — 不合作的；不配合的；难以控制的timeworn — 陈旧的；久经使用的；饱经风霜的hive — 蜂巢；蜂群；热闹的场所；（动词）入巢/群居toll — 伤亡人数；通行费；（钟声的）鸣响；（动词）敲钟/征收beat — 敲打；击败；（脉搏）跳动；（名词）节拍/打字声；（形容词）疲惫的prong — （叉子、工具等的）尖头；叉尖；分支；（动词）刺/叉
 
 The Timeworn Hive Bell
 During her very first exploratory foray into an abandoned, timeworn hillside orchard, an uncooperative wild goat accidentally made a massive hornets' hive tumble straight down from a forked oak prong. Its young keeper immediately beat a hasty retreat from the swarm, later paid a heavy toll in painful stings across his face, and proudly kept a small, retrieved chip of ancient wax as a personal holiday memento with a modest modicum of pride.
 
-Story 778
+Story 0778
 
 purgative — 泻药；净化的；有洗涤心灵功效的；（名词）净化剂fern — 蕨类植物pillar — 柱子；支柱；中流砥柱；（动词）用柱支撑dowdy — 土气的；不整洁的；邋遢过时的qualified — 合格的；有资格的；有限制的/有保留的encyclopedic — 百科全书般的；广博的；知识渊博的（亦作 encyclopaedic）renovate — 翻新；修复；粉刷tumid — 肿胀的；（语言等）浮夸的/臃肿的glade — 林间空地rival — 对手；竞争者；可与……媲美的人或物；（动词）媲美/竞争
 
 The Fern Pillar in the Glade
 A highly qualified field botanist equipped with an exceptionally encyclopedic knowledge of forest ecology arrived in the valley to carefully renovate and stabilize a dowdy stone pillar hidden deep in the central glade. Right beneath a massive wild fern exhibiting a remarkably tumid, swollen stem structure, she unexpectedly discovered a rare, undocumented purgative herb that could easily rival the national museum's rarest botanical specimen.
 
-Story 779
+Story 0779
 
 despot — 暴君；专制者；独裁者alms — 施舍物；救济金；救济品（复数名词）far-reaching — 影响深远的；广泛的；长远的scalpel — 手术刀；解剖刀sledgehammer — 大锤；铁锤；（引申为）强硬手段/毁灭性打击sturdy — 结实的；强健的；坚定的diabolical — 恶毒的；残忍的；糟糕透顶的（亦作 diabolic）gloomy — 阴郁的；悲观的；昏暗的psychology — 心理学；心理；心理状态protagonist — （小说、戏剧的）主角；倡导者；领导者
 
 The Scalpel and the Sledgehammer
 In a deeply moving, gloomy theatrical play, the brilliant protagonist subtly used psychological insight and group psychology rather than a political sledgehammer to permanently defeat a diabolical village despot. On stage, a sturdy town healer confidently wielded a silver surgical scalpel to save the wounded while grateful villagers offered lines of alms, ultimately giving the dramatic finale a sense of far-reaching community hope.
 
-Story 780
+Story 0780
 
 corpus — 语料库；（文献、文章的）文集/汇编；全集contain — 包含；容纳；控制（情绪等）；遏制supplant — 取代；排挤；替代yaw — （船只、飞机）偏航；左右摇摆；（名词）偏航/摇摆baste — 涂油脂（于烤肉上）；（缝纫）粗缝/绗缝；狠狠抨击preliterate — 文字出现以前的；尚未识字的；原始语言的previous — 先前的；以前的；（俚语）过早的disaffect — 使疏远；使不满；使不忠（常作过去分词 disaffected）candidacy — 候选资格；参选（亦作 candidateship）weather — 经受住（风雨、困境）；天气；风化；（动词变位）使风化
 
 The Preliterate Sailcloth Corpus
 To heavily support her professional university candidacy, a dedicated young linguist formally promised the board that her upcoming research corpus would contain dozens of undocumented, preliterate sea songs that previous scholars had callously ignored. She proved she could successfully weather any administrative attempts to disaffect the community elders, personally helped to baste torn canvas sailcloth for the team, and kept the digital recording boat from falling into a dangerous ocean yaw rather than letting transient academic fashion supplant oral memory.
 
-Story 781
+Story 0781
 
 overthrow — 推翻； 掀翻； 打败； 绝灭ginger — 姜； 姜黄色的； 活力； （动词） 使有活力（常与 up 连用）panther — 黑豹； 美洲豹irk — 使烦恼； 使厌倦； 使苦恼familiarity — 熟悉； 亲昵； 精通； 肆无忌惮（常与 with 连用）choke — 窒息； 堵塞； 掐死； （因激动而） 哽咽fleet — 快速的； 敏捷的； 飞逝的； （名词） 舰队/ 车队standstill — 停顿； 停滞； 处于死线状态（常构成 come to a standstill）mate — 伙伴； 配偶； 助手； 船副； （动词） 结伴/ 交配affront — 冒犯； 公开侮辱； （动词） 冒犯/ 侮辱
 
 The Panther at the Ginger Dock
 A fleet wild panther and its mate unexpectedly brought a massive morning ginger shipment to a complete standstill when overgrown tropical vines began to tightly choke the main loading dock. While the unexpected logistics delay might understandably irk the local ship captains, their long-term familiarity with regional river wildlife successfully kept them from treating the animals' presence as a personal affront, beautifully helping the combined crews overthrow their initial panic.
 
-Story 782
+Story 0782
 
 timidity — 胆怯； 羞怯； 胆小cineaste — 电影爱好者； 影迷； 电影人（亦作 cinéaste）regime — 政权； 政治制度； 管理制度； 养生法cow — 奶牛； 母畜； （动词） 恐吓/ 吓倒/ 威吓pliable — 柔韧的； 易弯曲的； 易受影响的； 顺从的fleece — 羊毛； 绒头织物； （动词） 敲竹杠/ 欺诈/ 剥夺colloquium — 学术讨论会； 专题座谈会prophet — 先知； 预言者； 倡导者onslaught — 猛攻； 冲击； 强烈的打击husband — 丈夫； （动词） 节俭使用/ 妥善管理（资源/ 资产）
 
 The Prophet's Film at the Sheep Farm
 At a rural agricultural study colloquium, a traditionally timid young cineaste successfully overcame her natural timidity to screen a documentary showing how a pliable, heavy fleece layer was used for sheltering a frightened cow from a freezing mountain storm onslaught. Her supportive husband flatly refused to let the town's old administrative regime cow her during the question segment, and a visiting environmental prophet highly praised the creative result.
 
-Story 783
+Story 0783
 
 quadruped — 四足动物exposure — 暴露； 曝光； 显露； （因无遮蔽而受到的） 冻馁/ 曝晒cosset — 宠爱； 溺爱； 珍爱； （名词） 亲手喂养的小羊immunize — 使免疫； 使免除（常与 against 连用，亦作 immunise）oddment — 零碎物； 残余物； 奇特古怪的人或物（常复数 oddments）incommensurate — 不相称的； 不成比例的； 不能同等衡量的（常与 with 连用）dejected — 沮丧的； 灰心的； 气馁的mackintosh — 防水雨衣； 胶布雨衣（常简写为 mac/mack）harangue — 长篇大论的训斥； 慷慨陈词； （动词） 大声训斥/ 慷慨陈词particular — 特定的； 讲究的； 挑剔的； 详细的； （名词常复数） 详情/ 细节
 
 The Mackintosh for the Stray
 After prolonged environmental exposure to a winter blizzard left a dejected, shivering quadruped collapsed by the trail, a highly particular forest ranger quickly used an old oddment of a rubber mackintosh to shelter it. She vowed she would properly cosset but also systematically immunize the stray animal at the clinic, completely ignoring her supervisor's long administrative harangue whose bureaucratic fury was entirely incommensurate with her basic act of human kindness.
 
-Story 784
+Story 0784
 
 gabble — 急促含混地说； 喋喋不休； （鸭等） 鸣叫； （名词） 嘈杂的话/ 乱叫simpleton — 傻瓜； 笨蛋； 易受骗的人cloying — 甜得发腻的； （奉承等） 令人厌烦的/ 倒胃口的cosmos — 宇宙； 有秩序的系统； 【植物】 大波斯菊lachrymose — 爱哭的； 悲泣的； 引人落泪的； 伤感的cadence — （声音的） 节奏； 抑扬顿挫； 【乐】 终止/ 落音ravishing — 迷人的； 令人陶醉的； 极美丽的bemused — 困惑的； 出神的； 茫然的implicit — 含蓄的； 暗示的； 内在固有的； 盲从的（常与 in 连用）symbiosis — 【生物】 共生； 互利共生关系； （相互依赖的） 紧密关系
 
 The Cosmos Duet
 A slightly bemused aerospace astronomer began to frantically gabble about the mathematical rules of symbiosis in the deep cosmos, until a ravishing classical violin cadence from the stage completely calmed his nerves. Even the traditionally lachrymose lead folk singer dropped her overly sweet, cloying romantic refrain to listen, and the gathering crowd's quiet, implicit warning look instantly made a rowdy heckler in the back row feel like an absolute simpleton.
 
-Story 785
+Story 0785
 
 chaste — 纯洁的； 朴素不加装饰的； 贞洁的； 文雅的hydrate — 补充水分； 使水合； （名词） 水合物reminder — 提醒物； 提示； 纪念品disbar — 取消律师资格； 驱逐出法庭exact — 精确的； 严谨的； （动词） 强求/ 索取/ 勒索filigree — 金银丝细工； 窗花花格； （形容词） 精致玲珑的recantation — 公开撤回（誓言等）； 改变信仰/ 声明变节malapropism — 词语误用（尤指拼写或读音相似而含意完全不同的词）expediency — 权宜之计； 便利； 功利主义（亦作 expedience）velvety — 天鹅绒般的； 柔和的； （酒） 醇口柔滑的
 
 The Filigree Testimony
 Inside a structurally chaste courthouse decorated with nothing but heavy velvety curtains, a witness's delicate gold filigree medical brooch served as a timely physical reminder to the jury to hydrate during the long summer trial. The presiding judge firmly demanded an exact, recorded legal recantation of each bizarre malapropism spoken by the defense, flatly refusing, for mere political expediency, to unfairly disbar an honest young lawyer.
 
-Story 786
+Story 0786
 
 flabby — （肌肉等） 松弛的； 软弱无力的； 意志薄弱的frothy — 起泡的； 泡沫多的； 轻浮的； 浅薄的beckon — 招手； 召唤； 吸引； 示意scutter — 急促小跑； 仓皇奔走； （名词） 急促奔走声buttress — 扶壁； 支柱； 支撑物； （动词） 支持/ 强化/ 筑扶壁支撑scud — 疾行； 飞奔； （云/ 船） 掠过； （名词） 掠过的云/ 疾行sextant — 六分仪（一种航海测量仪器）bough — 大树枝； 主枝reek — 散发臭味； 冒烟； （名词） 恶臭/ 浓烟（常与 of 连用指散发……臭味）constringe — 使收缩； 压紧； 使缩小
 
 The Sextant in the Storm Tree
 Violent, frothy ocean waves began to rapidly scud below the cliff as a stranded sailor with flabby knees saw a massive pine bough beckon like a rescue arm in the dark. He began to frantically scutter toward the safety of an ancient stone buttress, where an old fireplace began to reek of burning peat. Although the biting cold began to heavily constringe his bare fingers, he smiled knowing his dry, brass naval sextant could still safely guide his boat back home.
 
-Story 787
+Story 0787
 
 tart — 酸的； 尖刻的； （名词） 果馅饼； 妓女； （动词） 打扮（常与 up 连用）dissection — 解剖； 剖析； 仔细分析bruise — 瘀伤； 挫伤； （水果等） 伤痕； （动词） 使受瘀伤/ 挫伤/ 碰伤rakish — 潇洒放荡的； 荡检逾闲的； （船只/ 车辆） 倾斜的/ 流线型的agronomy — 农学； 农艺学piquant — 辛辣开胃的； 刺激有趣的； 活泼迷人的slake — 解（渴）； 满足（欲望等）； 消除（怒火）craft — 手艺； 工艺； 船/ 飞机； 诡计； （动词） 精心制作urgent — 紧急的； 迫切的； 执着的libertine — 放荡者； 浪荡子； 自由思想家； （形容词） 放荡的/ 不羁的
 
 The Agronomist's Tart
 A notoriously rakish local libertine arrived at the university research lab carrying an urgent, swollen hand bruise alongside a fresh, piquant berry pastry tart as an apology. However, the dedicated agronomy students firmly chose to focus on their laboratory craft rather than engaging in village gossip. Following a careful, systematic plant disease dissection under the microscope, they calmly used cold spring water to successfully slake his thirst and professionally treated his minor wound.
 
-Story 788
+Story 0788
 
 vagrancy — 流浪； 漂泊； 游荡； 居无定所veer — （思想/ 车辆/ 航向） 转向； 改变立场； （风向） 顺时针转meteoric — 流星般的； 迅速成名的； 疾速的resident — 居民； 常住者； 驻校实习医生； （形容词） 居住的/ 常驻的gear — 齿轮； 传动装置； 装备； 衣服； （动词） 调整/ 使适合（常与 up 连用）bombast — 夸夸其谈； 华而不实的言辞herbaceous — 草本的； 绿色的； 似叶的retaliation — 报复； 反击； 报复行为（常构成 in retaliation for）finesse — 技巧； 策略； 巧妙的处理； （动词） 巧妙处理/ 耍花招accessory — 配件； 附件； 同谋/ 从犯； （形容词） 辅助的/ 附属的
 
 The Meteoric Garden Cart
 A local village resident who had been falsely accused of criminal vagrancy carefully used a salvaged accessory gear and immense physical finesse to smoothly steer his heavy layout cart directly through the estate's prize herbaceous botanical beds. When the heavy cart's sudden, meteoric downhill descent made historical spectators frantically veer aside, he calmly answered their angry, screaming bombast entirely without retaliation, stopped the vehicle, and permanently repaired the mechanical hand brake on the spot.
 
-Story 789
+Story 0789
 
 apocrypha — 伪经；真伪可疑的故事；外典substantial — 大量的；实质的；重大的；坚固的whit — 丝毫；一点点；（常用于否定句 not a whit）anhydrous — 无水的；不含水的conflict — 冲突；抵触；争执；（动词）冲突/抵触posterior — 后部的；臀部的；在后的；（名词）臀部theocracy — 神权政治；神权国家naysay — 反对；否认；（名词）反对/拒绝pollinate — 给……授粉gratify — 使满足；使高兴；迎合（欲望等）
 
 The Bees behind the Temple
 Inside a strict regional theocracy, a dynamic religious text of apocrypha claimed that a specialized anhydrous powder could flawlessly pollinate every mountain fruit orchard without water. A substantial political conflict rapidly arose when an independent university scholar chose to boldly naysay the priesthood's unscientific claim. Demonstrating absolute moral courage, he stood his ground before the council, not one whit afraid of their legal threats, until a wild honeybee suddenly landed on his bare posterior to beautifully gratify and distract the laughing crowd.
 
-Story 790
+Story 0790
 
 interlard — 夹杂； 穿插； （在言语/ 文学中） 混入（常构成 interlard sth. with sth.）concrete — 混凝土； 具体的； 实在的； （动词） 用混凝土浇筑alchemy — 炼金术； 神奇的转变/ 魔力offensive — 冒犯的； 令人不快的； 进攻性的； （名词） 攻势/ 攻击gusher — 喷油井； 自喷井； 滔滔不绝的人/ 煽情的人imperial — 帝国的； 皇帝的； （英国旧制的） 英制单位/ 磅加仑等； 威严的kangaroo — 袋鼠remunerative — 有报酬的； 有利可图的； 赚钱的counterpart — 对应的人或物； 职务相当的人； 副本dissolve — 溶解； 融化； 解散（议会/ 组织）； （使） 消除/ 破灭
 
 The Kangaroo and the Concrete Geyser
 An arrogant imperial petroleum engineer would regularly interlard his dense concrete structural lectures with highly offensive jokes to the students, until a wild, stray kangaroo broke into the laboratory and accidentally struck a high-pressure model gusher array. Within minutes, the facility's once highly remunerative alchemy exhibition project began to completely dissolve into a messy chemical soup. Seeing the disaster, his local engineering counterpart quietly stepped into the workshop to salvage the remaining custom porcelain casting molds.
 
-Story 791
+Story 0791
 
 polemic — 激烈争辩； 论战； 辩论文章； （形容词） 论战的/ 好争辩的accentuate — 强调； 使突出； 为……加重音hermit — 隐士； 独居者； 隐居的动物outrage — 暴行； 极其残暴的恶行； 愤怒； （动词） 激怒/ 违反gloss-over — 掩饰； 草草处理； 遮掩（过错等，亦作 gloss over）perpendicular — 垂直的； 直立的； 陡峭的； （名词） 垂直线/ 垂直状态empiricism — 经验主义； 经验法crusade — （长期的） 正义运动； 斗争； 十字军东征； （动词） 参加运动impending — 即将发生的； 逼近的； 迫在眉睫的subsidiary — 子公司； 附属机构； （形容词） 辅助的/ 次要的/ 附属的
 
 The Hermit's Perpendicular Tower
 A sudden, terrifying impending mountain storm drove an elderly hermit straight out from his high, perpendicular timber tower, where a corrupt corporate subsidiary had secretly planned to merely gloss-over a row of deeply cracked structural support beams. The hermit's subsequent written polemic to the town hall would brilliantly accentuate the vital importance of physical empiricism over empty bureaucratic outrage, masterfully turning what was meant to be a simple minor repair into a massive village-wide safety crusade.
 
-Story 792
+Story 0792
 
 hasty — 匆忙的； 草率的； 仓促的； 脾气暴躁的blight — （植物的） 枯萎病； 祸因； 损害； （动词） 破坏/ 使枯萎asphyxia — 【医学】 窒息； 假死cascade — 小瀑布； 倾泻； 串联； （动词） 倾泻/ 频繁传下litigant — 诉讼当事人； 打官司的人molecule — 【化学/ 物理】 分子； 微粒subsidy — 补贴； 津贴； 财政援助hilt — （刀、剑等武器的） 刀柄； 柄； （词组 to the hilt 意为全然/ 彻底）prototype — 原型； 样品； 典型stipple — 点刻； 点画； 点彩术； （动词） 用点刻法雕刻/ 画
 
 The Stippled Air Filter
 A hasty, hot-tempered legal litigant loudly blamed an unprecedented seasonal orchard blight on a new mechanical prototype filter array. However, a micro stipple layout pattern found on the casing clearly revealed that each trapped toxic gas molecule was safely blocked inside. A government emergency financial subsidy successfully funded full system repairs before the factory fumes could cause physical asphyxia for the town, and a technician firmly gripped the metal hilt of a cutting tool to safely clear a clogged main pipe so water could cascade beautifully down the rocks again.
 
-Story 793
+Story 0793
 
 memorandum — 备忘录； 便笺； 简要协议（复数形式为 memoranda 或 memorandums）snarl — 咆哮； 怒吼； （绳、发等） 缠结/ 混乱； （动词） 吼叫/ 缠结promote — 促进； 推动； 提升； 晋升； 促销/ 宣传centurion — （古罗马军队的） 百夫长； 百人队长proboscis — （象、昆虫等的） 长鼻； 长喙； 【幽默】 大鼻子considerable — 相当大的； 重要的； 值得考虑的； 相当多的generator — 发电机； 发生器； 生产者leverage — 杠杆作用； 杠杆效率； 影响力/ 资本； （动词） 举债经营/ 利用taxonomist — 【生物】 分类学家impostor — 冒名顶替者； 骗子； 冒牌货（亦作 imposter）
 
 The Centurion Moth Memorandum
 A brilliant university insect taxonomist used her considerable professional academic leverage to safely start a backup heavy-duty diesel generator and promote an emergency evening exhibit centered around a rare hawk moth's elongated proboscis structure. However, when a chaotic security impostor dressed as an ancient Roman centurion accidentally caused the main facility lighting cables to heavily snarl under the stage, her meticulously filed formal administrative memorandum quickly exposed his fraudulent identity to the police.
 
-Story 794
+Story 0794
 
 collaborate — 合作； 协作； 勾结/ 通敌（常与 with 连用）disaster — 灾难； 彻底的失败； 祸患perambulate — 漫步； 巡行； （走动中） 视察/ 勘测needy — 贫困的； 生活艰苦的； 缺乏关爱的； （名词常与 the 连用指穷人）braggart — 吹牛者； 自大狂； （形容词） 自吹自擂的dote — 溺爱； （老态龙钟而） 昏聩； （动词常与 on 连用指溺爱）troll — 【神话】 巨怪； 侏儒； 网络挑衅者/ 喷子； （动词） 轮唱/ 网页喷人gravity — 重力； 地心引力； 严重性； 严肃/ 庄重investiture — 授职仪式； 授权； 授爵仪式appreciate — 欣赏； 理解； 感激； （资产） 增值
 
 The Troll at the Investiture
 Right during a formal, high-security state investiture ceremony, a needy, disgruntled local internet troll unexpectedly chose to loudly perambulate directly beneath the main palace balcony to rattle the guests. A wealthy braggart politician on the terrace, who continually claimed to dote on ancient historical folklore, completely failed to appreciate the raw physical gravity of the security breach. Seeing the danger, the perimeter guards began to smoothly collaborate to block the plaza and permanently prevent a public disaster.
 
-Story 795
+Story 0795
 
 blasphemy — 亵渎神明； 亵渎的言论/ 行为placebo — 安慰剂； 宽慰的话； 【宗教】 晚祷词charter — 宪章； 特许状； 执照； （动词） 包租（船/ 机）； （形容词） 包租的enormity — 穷凶极恶； 极大犯罪； （问题的） 严重性/ 巨大civil — 公民的； 民事法律的； 国内的； 有礼貌的/ 文明的blueprint — 蓝图； 方案； 设计图； （动词） 绘制蓝图din — 喧嚣； 嘈杂声； （动词） 连续高声说/ 喧闹（常与 into 连用指反复灌输）torrent — 洪流； 急流； 狂流； （言语、暴雨的） 连发improvise — 即兴创作； 即兴表演； 临时凑成/ 临时制作impassioned — 慷慨激昂的； 热情洋溢的
 
 The Charter beneath the Flood Bell
 High above the terrifying din of a midnight river torrent, an impassioned local town mayor firmly rejected a corporate placebo development proposal and immediately used an old layout blueprint to improvise a civil emergency shelter. A row of conservative critics continually called the city's ancient colonial founding charter absolute historical blasphemy, but her transparently admitting the true, staggering enormity of the flashing flood water successfully united the deadlocked town.
 
-Story 796
+Story 0796
 
 stature — 身高； 体型； 声望； 名望； 发展水平violate — 违反（法律/ 协议）； 侵犯（隐私/ 权利）； 玷污/ 亵渎garret — 阁楼； 顶楼小屋totem — 图腾； 象征； 标志clamp — 夹具； 夹钳； （动词） 夹紧/ 固定； 强制实行（常构成 clamp down on）pronounced — 明显的； 明确的； 显著的； 发了音的perfervid — 热情洋溢的； 炽热激昂的paunchy — 大腹便便的； 大肚子的whistle — 口哨； 汽笛鸣笛； 哨子； （动词） 吹口哨/ 鸣笛/ 呼啸appoint — 任命； 委派； 安排（时间/ 地点）； 开设
 
 The Totem in the Garret
 A paunchy museum curator of considerable professional stature quickly climbed up to the facility's highest wooden garret the exact second an automatic security pressure whistle sounded. The gauge revealed a pronounced, dangerous structural crack running directly along their historic tribal totem pole. He immediately resolved to appoint a highly skilled, perfervid restoration artisan to carefully clamp the timber framework, working precisely without letting haste violate its delicate, hand-painted exterior surface.
 
-Story 797
+Story 0797
 
 apologize — 道歉； 谢罪； 认错（亦作 apologise）detain — 扣留； 拘留； 耽搁； 留住anonymity — 匿名； 无名； 匿名性hedonism — 享乐主义； 快乐主义abeyance — 暂缓； 中止； 悬空状态（常构成 in abeyance）grisly — 可怕的； 骇人的； 阴森可怖的defile — 玷污； 亵渎； 弄脏； 纵列行进； （名词） 狭道/ 峡谷astrology — 占星术； 占星学wreckage — （船、机、车等失事后的） 残骸； 碎片； 破坏spacious — 宽敞的； 广阔的
 
 The Astrologer's Spacious Shelter
 Inside a massive, spacious emergency community shelter, a prominent newspaper astrology columnist boldly abandoned her lifelong public anonymity to formally apologize to the refugees for her previous day's grisly weather prediction. The exhausted wetland rescuers flatly refused to detain her for questioning or defile the surrounding mechanical structural wreckage of the camp. Meanwhile, the town's ongoing philosophical debate over the ethics of luxury corporate hedonism remained completely in abeyance as everyone focused on survival.
 
-Story 798
+Story 0798
 
 fair-minded — 公正的；不偏不倚的entity — 实体；独立存在物simonize — 给……打蜡；使光滑（亦作 simonise）reincarnate — 使转世；使重生；赋予新形体hangar — 飞机库；机棚foodstuff — 食品；食料；粮食（常复数 foodstuffs）preponderate — （数量、重量、影响力上）占优势；超过rubble — 瓦砾；碎石；瓦砾堆reactionary — 反动的；保守派的；（名词）保守分子/反动派cast — 演员阵容；投掷；铸件；（动词）投掷/扮演/铸造
 
 The Waxed Plane in the Rubble
 A highly fair-minded independent documentary production cast gathered inside an abandoned military hangar to film a project meant to metaphorically reincarnate a vintage plane recently uncovered beneath a heap of battlefield rubble. One notoriously rigid, reactionary corporate entity on the museum oversight council aggressively wanted to merely simonize its rusted metal shell for static public display. However, when the final board votes were tallied, the pragmatic choice to restore the aircraft to actively carry emergency foodstuff supplies to the isolated valleys would decisively preponderate.
 
-Story 799
+Story 0799
 
 sonorous — 洪亮的；铿锵的；（声音）响亮的impoverish — 使贫困；使枯竭；使贫瘠；耗尽（精力）hardihood — 勇气；坚韧；刚毅；大肆无礼layover — 中途停留；（旅途中的）短暂逗留dynamic — 动态的；活跃的；充满活力的；（名词常复数）动力/动态hormone — 激素；荷尔蒙piebald — （马等）花斑的；黑白相间的；（引申为）杂色的suffuse — 充满；遍布；（色彩/泪水等）弥漫/染上fiend — 恶魔；狂热者；魔鬼；（俚语指）对某事上瘾的人choleric — 易怒的；暴躁的；脾气坏的
 
 The Piebald Horse's Layover
 During an exhausting mountain railway travel layover, a highly choleric health and fitness fiend delivered a booming, sonorous lecture to the passengers on the chemical structure of every human metabolic hormone. Outside the window, a breathtaking sunset began to beautifully suffuse the coat of a wild piebald horse with a brilliant crimson gold. The majestic animal's subsequent dynamic leap across the ravine and its raw, untamed hardihood perfectly demonstrated to the audience that long travel need never impoverish the human spirit.
 
-Story 800
+Story 0800
 
 broach — 提出（话题等）；开孔；给（桶）钻孔开出；（名词）胸针/锥子brake — 刹车；制动器；（动词）刹车/制动lexicographer — 词典编纂者proofread — 校对；校勘beset — 困扰；包围；围绕（常作过去分词作形容词）adaptable — 适应性强的；可修改的；顺应环境的vegetate — 无所事事地生活；过呆板单调的生活；（植物）生长ecumenical — 普世教会的；广泛包容的；世界范围的enliven — 使活跃；使有生气；使精彩mature — 成熟的；到期的；深思熟虑的；（动词）成熟/到期
 
 The Lexicographer's Brake Manual
 Heavily beset by technical printing errors, an adaptable dictionary lexicographer chose to boldly broach the complex editing problems discovered in a newly translated mechanical brake manual and carefully proofread it himself. Rather than letting his research volunteers simply vegetate at their desks during the summer holiday, an ecumenical student reading club helped him drastically enliven the technical prose. Ultimately, the publication of the mature, polished edition successfully prevented dozens of industrial accidents.
 
-Story 801
+Story 0801
 
 boding — 预兆；凶兆；有预感的；（名词）预感/预兆porcine — 猪的；似猪的；贪婪邋遢的terminal — 终点站；客运码头；【航空】航站楼；末期的；（名词）终端explosive — 爆炸物；炸药；爆炸性的；（情绪等）易暴发的filth — 污物；肮脏；猥亵言行；精神垃圾obligatory — 必须的；义务性的；强制性的；（习惯性）例行的sapient — 有智慧的；明智的；自以为聪明的（常带讽刺语）slog — 艰难跋涉；苦干；重击；（名词）苦干/艰难行进fake — 假货；赝品；冒牌货；（动词）伪造/假装；（形容词）虚假的treason — 叛国罪；背叛；通敌
 
 The Porcine Parcel at the Terminal
 A boding security sensor alarm triggered at the main cargo terminal immediately forced a sapient border guard to painstakingly slog through a deep layer of industrial mud and filth toward a large crate labeled as porcine biological specimens. Her obligatory manual search soon revealed that the object was merely a harmless, fake explosive device planted by a training team. Unfortunately, a crew of careless tabloid reporters on the scene immediately leaked the story and wrongly cried treason to the public.
 
-Story 802
+Story 0802
 
 soulful — 深情的；充满感情的；（音乐等）动人心弦的ennoble — 使高尚；授予……爵位；使尊贵unexceptional — 普通的；平凡的；无独特之处的posit — 假定；断定；假设；安置（常与 that 连用）vibrant — 充满活力的；鲜艳的；（声音）响亮震动的groom — 新郎；马夫；（动词）梳理（动物毛发）/训练/培养blade — 刀刃；（螺旋桨/风车的）叶片；草叶；（划艇的）桨叶literate — 有读写能力的；通晓的；受过良好教育的antic — 滑稽动作；古怪有趣的举动；（形容词）古怪滑稽的anticipate — 预料；期待；先发制人；提前使用
 
 The Groom and the Vibrant Windmill
 A highly literate young groom began a deeply moving, soulful speech directly beside the giant revolving blade of a vibrant, newly painted valley windmill. A few critical wedding guests would cynically posit that such an unexceptional, rustic event antic could not honestly ennoble a high-society marriage. However, they completely failed to anticipate the moment his pet farm goat stepped forward to deliver a perfectly timed, elegant bow to the bride.
 
-Story 803
+Story 0803
 
 whimper — 呜咽； 啜泣； 哀怨地低叫； （名词） 呜咽声/ 啜泣声derivation — 起源； 派生； 引出； 【语】 派生词/ 衍生delta — （河流的） 三角洲； 希腊字母表的第四个字母（Δ/ δ）inconsequential — 无关紧要的； 不重要的； 不合逻辑的overlook — 忽视； 漏看； 俯瞰； 宽容/ 放任rambunctious — 喧闹活泼的； 难以管束的； 狂暴粗鲁的contract — 合同； 契约； （动词） 收缩/ 缩小/ 感染（疾病）meddlesome — 爱管闲事的； 爱插手的doggerel — 打油诗； 蹩脚诗； （形容词） 诗句拙劣的unprincipled — 不讲原则的； 无耻的； 没道德道德的
 
 The Doggerel Contract on the Delta
 While traveling aboard a crowded delta passenger ferry, a rambunctious local street poet joyfully signed a real estate contract written entirely in satirical doggerel. A meddlesome and unprincipled corporate financial broker on the deck tried to quickly overlook the document's highly dubious legal derivation by publicly calling the verse completely inconsequential. However, one young passenger's sudden, terrified whimper of recognition soon exposed the entire multi-million dollar fraud to the onlookers.
 
-Story 804
+Story 0804
 
 racketeer — 敲诈者；从事非法勾当的人（如黑社会勒索者）pell-mell — 匆忙混乱地；乱七八糟地；（形容词）混乱匆忙的adequate — 足够的；胜任的；合格的；平庸的overturn — 推翻；倾覆；颠覆；（动词）打翻/推翻flirt — 调情；轻率对待（危险/想法等）；（名词）爱调情的人/调情（常与 with 连用）detest — 厌恶；憎恨；极不喜欢siren — 警报器；汽笛；（希腊神话中的）海妖；妖艳迷人的女子mollycoddle — 溺爱；娇惯；（名词）娇生惯养的人/懦夫prowess — 非凡技能；高超手艺；英勇；（战场上的）武艺expressly — 明确地；特意地；专门地
 
 The Siren on the Carnival Pier
 The exact second a high-powered emergency siren wailed over the harbor, the panicked holiday crowds fled pell-mell down the boardwalk just as a notorious local racketeer tried to forcefully overturn a heavy carnival supply cart. A security guard armed with more than adequate physical prowess expressly warned the criminal not to flirt with danger, detest community discipline, or ever expect anyone on the police force to mollycoddle his behavior.
 
-Story 805
+Story 0805
 
 gnawing — 折磨人的；持续咬痛的；（名词）咬；（胃等的）剧痛corrugate — 使起皱；制成波纹状；（使）成波纹状（常用过去分词形式）insulate — 使绝缘；使隔热/隔音；使隔离/使免受不快影响jarring — 刺耳的；不协调的；震撼的；（名词）震动/不和garish — 俗艳的；炫目的；过分花哨装饰的rustler — 偷牛贼；偷牲口的人；赶牲口的人；（美口语）精力充沛的人acrobat — 杂技演员；善变的人folklore — 民间传说；民俗学；民间信仰tension — 紧张；张力；拉力；应力；（动词）使紧绷stagger — 蹒跚；摇晃；使震惊；大吃一惊；（名词）蹒跚/摇晃
 
 The Acrobat and the Corrugated Barn
 A gnawing professional suspicion made a touring circus acrobat stagger cautiously toward a garish wooden barn at the edge of the field, where a hidden cattle rustler was loudly singing old folklore songs to mask the jarring sound of a metal saw. Acting quickly upon her tip, the police arrived and ordered the farm workers to corrugate a sheet-metal patch, thoroughly insulate the exposed live electrical wire, and immediately release the painful physical tension in the tight rope wrapped around the stolen calves' necks.
 
-Story 806
+Story 0806
 
 untapped — 未开发的；未利用的；潜藏的mope — 闷闷不乐；忧郁；（名词）闷闷不乐的人articulate — 清楚表达；吐字清晰的；（形容词）善于表达的/有关节的mash — 捣碎；糊状物；（动词）把……捣成泥elocution — 演说技巧；朗诵法defalcate — 挪用公款；侵吞；盗用gaffe — 外交失言；社交失态；（明显的）错误bulk — 大部分；大部分的；体积；巨大（常构成 the bulk of）satire — 讽刺作品；讽刺；讽刺文学narcissist — 自恋者；自我陶醉者
 
 The Untapped Satire Contest
 A stand-up comic with immense untapped talent used her flawless elocution to clearly articulate a brilliant political satire about an arrogant narcissist who would systematically defalcate the bulk of a local charity potato fund. Even after making one minor technical gaffe mid-monologue, she flatly refused to mope backstage; instead, she smartly turned her ruined potato mash prop into a hilarious, improvised finale that won the crowd over.
 
-Story 807
+Story 0807
 
 canyon — 峡谷befuddle — 使迷惑；使昏沉；使极其糊涂affiliate — 附属机构；分会；（动词）使隶属于/与……紧密联系stimulant — 兴奋剂；刺激物；激励因素amuse — 逗乐；消遣；使（人）开心/娱乐interrupt — 打断（讲话/过程）；中断；遮挡（视线）concentrate — 集中（注意力）；聚集；（名词）浓缩物/浓缩液conquest — 征服；战胜；占领；（因迷人而）赢得的情感/俘虏carouse — 狂欢；痛饮；（动词）狂欢作乐/纵酒corrupt — 腐败的；贪污的；堕落的；（动词）败坏/使堕落
 
 The Canyon Stimulant Test
 Deep inside a canyon research laboratory affiliate, a highly corrupt trail guide secretly offered a toxic chemical stimulant concentrate to his climbing group to deliberately befuddle the hikers and interrupt their steep mountain ascent. Rather than letting him carouse over his underhanded, easy conquest in the woods, the alert research team quietly used a complex traditional puzzle riddle to deeply amuse and distract him until the forest rangers safely arrived on the scene.
 
-Story 808
+Story 0808
 
 tantrum — 发脾气；暴怒；（小孩子般的）撒泼（常构成 throw a tantrum）odyssey — 漫长的冒险旅程；艰苦的历程；奥德赛（亦作 Odyssey）chic — 时髦的；雅致的；别致的（亦作 chicker/chicest）fade — 褪色；逐渐消失；变微弱；（电影等）淡出configuration — 构造；外部配置；（计算机的）配置/结构结构capture — 捕获；拍摄记录；夺取；赢得；（名词）捕获/战利品lumberjack — 伐木工splint — （骨折用的）夹板；薄木条；（动词）用夹板固定musty — 霉臭的；陈腐的；（观念）陈旧落后的prissy — 过分拘谨的；挑剔刻板的；神经质的
 
 The Lumberjack's Chic Odyssey
 A highly prissy fashion photographer threw a massive child-like tantrum when the damp, musty atmosphere of a remote wilderness cabin nearly spoiled her expensive, high-society chic odyssey photo shoot. However, a local lumberjack calmly used a wooden structural splint to carefully repair her broken metal camera tripod, completely restoring its original mechanical configuration just in time for her to capture the stunning evening sunlight before it could fade behind the peaks.
 
-Story 809
+Story 0809
 
 bullish — 乐观的；（股市）牛市的；看涨的；（言行）像公牛般粗鲁的disregard — 忽视；漠视；不予理会；（名词）漠视/轻视（常与 of/for 连用）viral — 病毒性的；（网络信息）迅速传播的/爆火的install — 安装（机械/设备）；任命（公职）；安置；（美式亦作 instal）chromatic — 彩色的；色彩鲜艳的；【音乐】半音的/半音阶的compound — 化合物；混合物；大院；（动词）加重/恶化/混合；（形容词）复合的affidavit — 【法律】宣誓书；书面陈述imprint — 印记；深刻的痕迹；（出版物的）版本说明；（动词）压印/铭记oratory — 雄辩术；演说术；（尤指私人的）小祈祷室/小教堂subvert — 颠覆（政权/传统）；破坏；破坏……的信仰
 
 The Chromatic Press in the Oratory
 A highly bullish master printer confidently chose to install a massive, high-efficiency chromatic printing press inside the shell of an old church oratory. A malicious, viral internet rumor rapidly claimed that the machine's complex chemical compound ink could subvert human memory and cause brain damage. However, her transparently filed formal legal affidavit, combined with every single sharp, flawless color imprint on paper, successfully forced the city council to entirely disregard the competitor's highly theatrical safety warning.
 
-Story 810
+Story 0810
 
 centigrade — 摄氏的；百分度的；（名词）摄氏温度计/摄氏（亦作 Celsius）carpentry — 木工手艺；木工作品；木工行业felicitate — 祝贺；庆贺；赞美（常构成 felicitate sb. on sth.）rucksack — （登山用的）帆布背包；大背包untrammeled — 不受束缚的；自由自在的；无阻碍的（美式常拼写为 untrammeled / 英式：untrammelled）souse — 浸泡；腌制；弄湿；使烂醉；（名词）浸泡/腌肉/酒鬼enflame — 点燃；激起（愤怒/激情）；使红肿发炎（现常拼写为 inflame）extricable — 可解脱的；可摆脱的；可挽救的ligneous — 木质的；似木的；由木质组成的convertible — 敞篷车；可转换的；（形容词）可改变/可转换的
 
 The Ligneous Convertible
 During an exhausting heatwave reaching forty degrees centigrade, an untrammeled industrial designer proudly pulled a beautiful, functional scale model of a ligneous convertible straight out from her canvas rucksack. A sudden summer downstorm heavily threatened to souse the delicate, hand-carved carpentry work of the chassis, but its uniquely geared wheels made the toy effortlessly extricable from the deep mud. The display gave the festival judges every technical reason to warmly felicitate her rather than allowing the panel to enflame an administrative budget debate.
 
-Story 811
+Story 0811
 
 prescribe — 开处方；规定；制定；命令curvaceous — 曲线优美的；（女子身材）肉感迷人的rescue — 营救；救援；（动词）营救/救出；（名词）营救/救援行动meld — （使）融合；合并；交融；（纸牌）报牌组合prominent — 突出的；著名的；显眼的；卓越的besot — 使沉迷；使糊涂；使醉（常作过去分词 besotted, 意为迷恋的/醉的）outmoded — 过时的；落伍的；旧式的incense — 香；熏香；（动词）激怒/触怒（常作被动 be incensed at）butt — 对接；（香烟、雪茄的）烟蒂/剩头；（粗俗）臀部；大桶；（动词）碰撞eminence — 显赫；崇高地位；高地；丘陵（大写用于对枢机主教的尊称
 
 Your Eminence）The Curvaceous Rescue Sled
 High up on a treacherous, snowy mountain eminence, a prominent trauma medic firmly refused to prescribe a heavy chemical sedative that might dangerously besot an injured skier's neurological functions. While fragrant local pine incense burned quietly in the medical tent, she carefully used an outmoded but sturdy woodworking butt joint to manually meld the fractured runners of a specialized, curvaceous rescue sled together. Working fast under pressure, she brought him safely down the slope before dawn.
 
-Story 812
+Story 0812
 
 brisk — 轻快的；（生意）兴旺的；（天气）清爽寒冷的；（动词使）活跃（常与 up 连用）unwonted — 不寻常的；不习惯的；罕见的intractable — 难处理的；（人）倔强的/难管束的；（疾病等）顽固的prompt — 促使；导致；提示；（形容词）及时的/迅速的；（名词）提示/提示词opportune — 适时的；恰好的；（时间）凑巧的/有利的accomplish — 完成（任务）；实现（目标）；达到（目的）interlocking — 互锁的；连锁的；咬合的forfeiture — 【法律】（权利、财产的）没收/丧失；罚金commence — 开始；着手；【英】获得（学位）（常与 with 连用）marital — 婚姻的；夫妻的；配偶的
 
 The Interlocking Wedding Arch
 A brisk, highly unwonted autumn wind gust made a massive, heavy iron structural arch violently sway right before the evening ceremony celebrating the couple's marital vows could formally commence. A highly opportune prompt from an assistant architect quickly helped the engineering builders accomplish an emergency, interlocking mechanical repair on the frame, successfully allowing the venue to avoid the complete legal forfeiture of their historic garden trust deposit.
 
-Story 813
+Story 0813
 
 retrace — 原路返回；追溯（源头/历史）；勾勒（轮廓）pawn — （国际象棋中的）兵/卒；被摆布的棋子/傀儡；（动词）典当/质押elliptical — 椭圆的；（语言等）省略的/晦涩难懂的（亦作 elliptic）preview — （电影等）预览；试映；预告片；（动词）预习/试映cub — （狮、熊、狼等肉食动物的）幼兽；（初出茅庐的）新手/年轻记者opiate — 鸦片制剂；麻醉剂；（形容词）含鸦片的/麻醉催眠的；（动词使）麻醉chirp — （鸟或昆虫的）啁啾声/短促鸣叫；（动词）唧唧叫/轻松欢快地说inroad — 侵袭；（对财富、领域等的）侵害/重要进展（通常用复数 inroads）piazza — 广场；有顶的长廊/柱廊（主要是指意大利式的城镇广场）leer — 色迷迷地看；斜眼看；投以恶意的目光；（名词）媚眼/邪恶的注视
 
 The Cub's Elliptical Trail
 During a crowded open-air documentary film preview held in the historic town piazza, a lost wild bear cub suddenly made a massive inroad on the gathering crowd's attention with a sharp, high-pitched chirp. The lead security guard flatly ignored an aggressive vendor's strategic leer, firmly refused his offered opiate chemical bait, carefully moved a giant decorative promotional chess pawn aside, and used a highly detailed, elliptical tracking map to retrace the young animal's exact forest path back home.
 
-Story 814
+Story 0814
 
 mottled — 斑驳的；杂色的；有斑点的touchstone — 试金石；检验标准panorama — 全景；概观；长篇连贯的表现imputation — 归咎；（不抱好意的）归因/责难distain — 使褪色；玷污；贬损poltroon — 懦夫；胆小鬼；（形容词）胆怯的passionate — 热情的；激昂的；易怒的hedgehog — 刺猬；【军事】刺猬式防御工事/障碍物slit — 狭缝；裂缝；（动词）切开/划开reiterate — 重申；反复说
 
 The Hedgehog Panorama
 A passionate wildlife painter carefully cut a narrow vertical slit in her studio canvas screen to reveal a beautifully mottled wild hedgehog resting against a sweeping mountain panorama. She stood before her critics to firmly reiterate that the timid creature was absolutely no helpless poltroon. She fiercely rejected every cruel, unscientific imputation of animal weakness from the board, and proudly chose to use deep human compassion as her primary artistic touchstone rather than letting societal contempt distain the value of its natural forest shelter.
 
-Story 815
+Story 0815
 
 maintenance — 维护；保养；维修；生活费supplicate — 恳求；祈求；哀求backdrop — 背景幕；（事件的）背景/背景幕布amethyst — 紫水晶；紫晶色corrode — 腐蚀；侵蚀；受腐蚀unwarranted — 无根据的；没有正当理由的expatiate — 详述；漫谈；细说（常与 on/upon 连用）baroque — 巴洛克式的；繁复华丽的；过分雕琢的（亦作 Baroque）nucleate — 形成核；成核的；中心包裹的；（动词使）成核reptile — 爬行动物；卑鄙小人；（形容词）爬行动物的/卑鄙的
 
 The Amethyst Reptile Backdrop
 During the routine structural maintenance of a historic baroque theater, restoration workers unexpectedly discovered a rare amethyst reptile sculpture hidden directly behind the main canvas backdrop. An elite curator immediately began to enthusiastically expatiate on exactly how raw underground minerals naturally nucleate over centuries to form such crystals. Meanwhile, the panicked property owner had to desperately supplicate her for scientific preservation help before local humidity could permanently corrode its antique iron support frame, making any further public panic entirely unwarranted.
 
-Story 816
+Story 0816
 
 permeate — 渗透；弥漫；充满；（思想等）扩散gangrene — 【医学】坏疽；（社会的）腐败/毒瘤；（动词使）生坏疽subscribe — 订阅（报刊）；赞同/支持（观点）；捐款（常与 to 连用）hut — 小屋；棚屋；临时营房dignitary — 显要人物；高官；显贵（尤指教会或法律界的要人）contrast — 对比；对照；明显的差异；（动词）形成鲜明反差fraudulent — 欺诈的；欺骗性的；冒充的exhaust — 耗尽；使精疲力竭；（名词）废气/排气管bilingual — 双语的；能说两种语言的；（名词）双语者percussionist — 打击乐手；敲击乐演奏者
 
 The Bilingual Drum Hut
 Heavy motor vehicle exhaust fumes unfortunately began to heavily permeate a small bamboo hut where a resourceful, bilingual percussionist was carefully treating a street performer's cut before dangerous tissue gangrene could start. A visiting foreign government dignitary warmly saw the stark, humbling contrast between her dedicated, sterile first-aid care and a nearby fraudulent corporate medical clinic. Deeply moved, he chose on the spot to personally subscribe a massive annual grant to the village healthcare fund.
 
-Story 817
+Story 0817
 
 initiative — 主动性；首创精神；倡议；新方案；（常构成 take the initiative）plane — 飞机；平面；（木工）刨子；（形容词）平的；（动词）刨平/翱翔croon — 低声吟唱；（柔声地）哼唱orthodontics — 【医学】正畸学；牙齿矫正术detach — 分离；拆卸；派遣（军队等）；使超然（常与 from 连用）licentious — 放荡的；无法无天的；淫乱的；放纵的strand — 使搁浅；（使）处于困境；（名词）（绳、发、线等的）一缕/一根/股resurge — 再度兴起；复苏；复活barbarian — 野蛮人；粗野的人；异教徒；（形容词）野蛮的/粗鲁的instigate — 煽动；促使；唆使；鼓动（常构成 instigate panic/riot）
 
 The Crooning Plane Mechanic
 After a sudden, catastrophic engine failure threatened to permanently strand the survival crew of a twin-propeller plane on a remote desert sandbar, a senior mechanic showed immense professional initiative and calmly began to croon a catchy old commercial orthodontics jingle. Working fast, she proceeded to carefully detach a bent steel hydraulic cable from the chassis, completely ignored a licentious barbarian traveler who was loudly trying to instigate a mass riot panic among the passengers, and successfully made collective hope resurge through the camp.
 
-Story 818
+Story 0818
 
 tenacity — 坚韧；固执；不屈不挠；黏性pygmy — 侏儒；矮小的事物；无足轻重的人；（形容词）极小的/矮人的（亦作 pigmy）cauterize — 烧灼（伤口以止血/消毒）；烙合；（使）变麻木（亦作 cauterise）incinerate — 焚化；烧成灰；把……烧成灰烬intelligible — 可理解的；明白易懂的；清楚的abridge — 删节（书籍等）；缩短（时间/权利）；剥夺indecisive — 犹豫不决的；不明确的；无决断力的admire — 钦佩；欣赏；赞美pulpit — （教堂的）讲坛；布道坛；（引申为）神职人员/牧师grievous — 严重的；令人悲痛的；极其痛苦残忍的
 
 The Pygmy Owl in the Pulpit
 A normally hesitant and indecisive sanctuary keeper unexpectedly found an endangered wild pygmy owl bleeding heavily inside the church's old wooden pulpit. She immediately demonstrated remarkable personal tenacity as she loudly shouted out clear, intelligible medical instructions to her team. She told her helpers to carefully cauterize a grievous wing cut using a heated probe, completely incinerate the dirty biological gauze, abridge the evening service program to keep the room quiet, and admire the beautiful bird strictly from afar.
 
-Story 819
+Story 0819
 
 lumber — 木材；木料；闲置杂物；（动词）笨重缓慢地行进/拖累traitor — 叛徒；背叛者；卖国贼minuscule — 极小的；微不足道的；（名词）小写字母/草书（亦作 miniscule）timbre — （声音/乐器的）音色；音质distinct — 清楚的；明显的；截然不同的；独特的alluring — 诱人的；迷人的；引人入胜的veil — 面纱；面罩；掩盖物；面纱状物；（动词）掩盖/遮蔽geyser — （温泉）间歇泉；（英式）天然气快速热水器predominant — 占主导地位的；显著的；占优势的ethnic — 民族的；族群的；具有民族特色的；（名词）少数民族成员
 
 The Song beneath the Geyser Veil
 As a high-profile ethnic community choir carefully carried heavy building lumber past a towering geothermal geyser, its predominant lead tenor began to beautifully sing a traditional folk ballad with a remarkably alluring, fluid timbre. Although a short-tempered construction foreman nearby aggressively accused a local pipeline worker of being a corporate traitor to the firm, the engineer calmly demonstrated that a minuscule structural crack in the rock face had produced a distinct, unexpected veil of escaping steam, clearly explaining the pressure leak.
 
-Story 820
+Story 0820
 
 ordnance — 军械；大炮；军需武器（常大写用于 Ordnance Survey 英国国家地图测绘）ignite — 点燃；激起（愤怒/欲望）；（火）燃烧pistol — 手枪；（动词用手枪射击）sybaritic — 奢华享乐的；骄奢淫逸的pasteurize — 巴氏消毒；巴氏灭菌（亦作 pasteurise）malpractice — 渎职；医疗事故；不法行为reportorial — 记者的；报道的；新闻报道的recoil — （枪炮）后坐；（因恐惧/厌恶而）畏缩/弹回；（名词）后坐力/畏缩tapestry — 挂毯；壁毯；（引申为）丰富多彩的画卷/复杂结构（复数 tapestries）criteria — 标准；准则；评判条件（名词 criterion 的复数形式）
 
 The Pistol behind the Tapestry
 A sharp reportorial intern unexpectedly discovered a hidden loaded pistol and a cache of old military ordnance concealed directly behind a lavish, sybaritic velvet bedroom wall tapestry. Although she naturally began to physically recoil from the weapon, she strictly followed professional safety criteria by avoiding any direct metal friction sparks that might ignite the remaining black powder. She successfully reported the illicit stash to the police long before hospital workers could pasteurize a batch of freshly collected donor milk nearby, knowing that ignoring such an explosive hazard would have constituted gross legal malpractice.
 
-Story 821
+Story 0821
 
 winding — 蜿蜒的；曲折的；卷绕的；绕组；（名词）绕线/线圈tackle — 处理（难题）；应对；（足球）阻截；（名词）滑车组/用具/渔具riot — 暴乱；骚乱；喧闹；（色彩等）丰富斑驳；（动词）闹事/骚乱fort — 堡垒；要塞；（美国城市名常用前缀 Fort）coincide — 同时发生；（想法/利益等）相符/一致（常与 with 连用）roil — 搅浑（液体）；激怒；扰乱；（水等）翻滚汹涌lore — （关于特定学科的）民间传说/传统知识/学问molest — 骚扰；（尤其是性）侵害；干扰/烦扰composed — 镇静的；泰然自若的；由……组成的（过去分词作形容词）assault — 袭击；猛烈冲击；严厉抨击；【法律】侵犯人身罪；（动词同）
 
 The Winding Path to the Fort
 While leading a group along a steep, winding path up toward the historic stone fort, a remarkably composed professional tour guide used his deep knowledge of local historical lore to successfully tackle a rising wave of rumors regarding a regional political riot. Although a sudden roll of mountain thunder and a fierce assault of heavy winter hail began to violently coincide over their heads, he firmly refused to let the weather panic roil the group's traveling focus, or allow panicked strangers to molest the rare nesting birds along the ledge.
 
-Story 822
+Story 0822
 
 foster — 培养； 促进； 抚养rhinestone — 人造钻石； 莱茵石； （形容词） 闪亮华丽的earplug — 耳塞retaliate — 报复； 反击； 报复行为（常与 against/by 连用）aboriginal — 土著的； 原始的； 土生土长的constitutional — 宪法的； 体质的； 保健的； （名词） 散步singe — 烧焦； 轻微灼伤； 烤焦……的表面reshuffle — 改组； 重新洗牌； （名词） （内阁等的） 改组/ 岗位调整fallible — 会犯错的； 易误的； 不可靠的smut — 污迹； 污垢； （植物） 黑穗病； 猥亵言行
 
 The Rhinestone Fire Dance
 An aboriginal performance troupe uniquely used a glittering rhinestone costume and a soft wax earplug as key conceptual props in a dramatic ceremonial dance meant to foster deep public debate over historical constitutional rights. During the live show, a highly fallible backstage technician accidentally let furnace sparks singe the main velvet curtain and leave a dark, smoky layer of soot smut across the stage. However, the resilient cast firmly refused to retaliate or assign blame, choosing instead to smoothly reshuffle their final choreography to incorporate the incident into the finale.
 
-Story 823
+Story 0823
 
 snicker — 窃笑； 暗笑； 讥笑； （名词） 窃笑/ 浪笑induct — 正式就职； 使入门； 引领； 征召入伍（常与 into 连用）circumscribe — 限制； 约束； 划定……的范围； 画（几何图的） 外接圆disinterested — 公正无私的； 客观中立的； 不感兴趣的chant — 反复吟唱； 圣歌； （动词） 吟唱/ 连呼口号auricular — 耳的； 耳状的； 听觉的； 密谈的constrain — 限制； 强迫； 束缚； 克制amplitude — 振幅； 广大； 丰富； 充足testiness — 易怒； 暴躁； 脾气坏embolden — 鼓励； 使大胆； 树立信心
 
 The Auricular Bell Test
 Hoping to properly induct a newly hired, highly disinterested laboratory engineer, a group of senior science students began to rhythmically chant beside a massive, historical auricular testing bell. The device's wild, sudden acoustic amplitude temporarily threatened to constrain their measurement readings, but her exceptionally calm answer to every childish background snicker and rapid flash of student testiness would beautifully embolden the entire research team to accurately circumscribe the final mechanical vibration zone.
 
-Story 824
+Story 0824
 
 lurch — 蹒跚； 突然倾斜； 颠簸； （名词常构成 leave in the lurch 陷入困境）stouthearted — 勇敢的； 坚毅的； 刚毅大胆的expire — 到期； 期满； 呼气； 吐气； 气绝身亡tragedy — 悲剧； 惨事； 悲剧文学intercept — 拦截； 截获； 截断； 【数】 截距reedy — 芦苇般的； （声音） 尖细的/ 沙哑的； 多芦苇的mourn — 哀悼； 悲伤； 忧伤； 服丧aggravate — 加重； 恶化； 激怒； 触怒lure — 引诱； 诱惑； 诱饵； （动词） 诱惑/ 吸引nimble — 敏捷的； 机灵的； 聪明的； （手指等） 灵巧的
 
 The Reedy Call at the Cliff
 A stouthearted wilderness park ranger unexpectedly heard a faint, reedy cry for help just as a nimble young farm goat began to wildly lurch toward a jagged mountain cliff. She masterfully used a handful of fresh grain as a strategic lure to intercept the frightened animal before the remaining evening daylight could fully expire. Firmly refusing to let panic aggravate the physical danger, she handled the rescue flawlessly, saving the village from a historic tragedy to mourn.
 
-Story 825
+Story 0825
 
 contumacious — 顽抗的； 拒不服从的； 蓄意抗命的（主要用于法律/ 正式语）proposition — 提议； 建议； 命题； 主张； （动词口语指） 向……提出下流要求doze — 打瞌睡； 小睡； （动词常与 off 连用指打盹儿）cape — 海角； 岬； 披肩； 斗篷relate — 叙述； 讲述； 使有关联； 认同（常与 to 连用指理解/ 认同）hover — 盘旋； 徘徊； 翱翔； （在边缘） 摇摆不定parturition — 【医学】 分娩； 生产； 产仔pillory — 颈手枷； 刑具； （动词） 给予公众嘲弄/ 严厉抨击redundant — 多余的； 被裁减的； 被解雇的； 重复雷同的reprove — 责备； 谴责； 申斥（常与 for 连用）
 
 The Birth beneath the Cape
 A notoriously contumacious local shepherd began to carelessly doze wrapped in his heavy wool cape while wild sea gulls continued to hover menacingly above a pregnant ewe caught in difficult parturition. The visiting district veterinarian flatly rejected his rude proposition that professional veterinary help was redundant for farmers. She chose to sharply reprove his severe livestock neglect on the spot, without ever needing to use public shame to pillory his reputation; instead, she calmly asked him to accurately relate the baseline history of the animal.
 
-Story 826
+Story 0826
 
 commensurate — 相称的； 相应的； 相等的； 同量的（常与 with 连用）blizzard — 暴风雪； 大量涌来； 狂暴的打击oafishness — 粗笨； 愚钝； 笨拙无理lease — 租约； 租期； 租赁物； （动词） 出租/ 租借blockade — 封锁； 障碍； 阻碍物； （动词） 封锁/ 围攻reticulation — 网状结构； 网纹； 网络交错lever — 杠杆； 控制杆； 撬棍； （动词） 用杠杆撬动/ 操纵plush — 豪华的； 长毛绒的； 舒适舒适的； （名词） 长毛绒织物assure — 保证； 使确信； 弄清； 确保（常与 of/that 连用）sport — 体育运动； 嬉戏； 恶作剧； （动词） 炫耀/ 夸耀/ 带有
 
 The Plush Lodge Blockade
 A sudden Arctic blizzard rapidly formed a dense, freezing reticulation of heavy ice sheets entirely around a plush mountain tourist lodge currently under corporate lease. Despite his apparent physical oafishness, a veteran guide for the winter sport masterfully used a heavy steel lever tool to forcefully break open the exterior door ice blockade. His prompt actions safely assured the nervous guests inside that his immense rescue effort was fully commensurate with the severe environmental danger of the peaks.
 
-Story 827
+Story 0827
 
 suspicious — 可疑的； 怀疑的； 猜疑的； 引起怀疑的pivot — 枢轴； 中心点； 核心人员； （动词） 以……为中心旋转/ 转向infuriate — 激怒； 使狂怒； 触怒salmon — 鲑鱼； 三文鱼； 鲑红色； （形容词） 鲑红色的interjection — 【语法】 感叹词； 突然的插话/ 掷入smooth — 光滑的； 平稳的； 顺利的； 文雅的； （动词） 抹平/ 变平滑schematic — 示意图； 图解的； 纲要的； 图表的ephemeral — 短暂的； 朝生暮死的； 短命的nerve — 神经； 勇气； 胆量； 魄力； （动词） 鼓起勇气（常与 up 连用）sack — 袋子； 麻袋； 解雇； 洗劫； （动词） 解雇/ 劫掠（常构成 get the sack）
 
 The Ephemeral Salmon Gate
 A suspicious canvas sack unexpectedly caught on the heavy mechanisms of a modern river salmon gate, heavily threatening its smooth focal pivot action. The chief hydraulic engineer on duty carefully studied the original blue-stamped system schematic, completely ignored a contractor's angry background interjection meant to publicly infuriate her team, and found the necessary professional nerve to execute a brilliant, ephemeral mechanical repair right before the massive seasonal fish run officially began.
 
-Story 828
+Story 0828
 
 ferry — 渡船； 摆渡轮； 渡口； （动词） 摆渡/ 运送/ 飞渡niggard — 吝啬鬼； 小气的人； （形容词） 吝啬的小气的（现多作 niggardly）posture — 姿势； 体态； （虚伪的） 立场/ 态度； （动词） 故作姿态strangulation — 【医学】 勒死； 扼制； 绞窄； 窒息beget — 产生； 引起； 招致（后果）； 招致； （古生动） 育（子嗣）abdicate — 退位； 放弃职责； 放弃权力/ 职位odds — 概率； 胜率； 可能性； 差异/ 不和（常构成 at odds with / against the odds）aggregate — 总计； 总数； 聚集物； （动词） 总计/ 聚集； （形容词） 总的总计的univocal — 单义的； 明确无误的； 含义唯一的sustenance — 食物； 粮食； 养分； 支撑/ 维持
 
 The Ferry Rope Verdict
 On board a highly crowded delta passenger ferry, a notorious merchant niggard callously refused to offer basic water sustenance to an exhausted deckhand, whose rigid physical posture clearly warned of impending strangulation by a tangled cargo rope. Fortunately, the statistical odds of a successful rescue dramatically improved when the passenger group began to aggressively aggregate on deck. They collectively gave a loud, univocal order to the bridge demanding that the captain not abdicate his core seafaring duty, lest any further bureaucratic delay beget a complete disaster.
 
-Story 829
+Story 0829
 
 fragrance — 芳香； 香味； 芬芳（亦作 fragrancy）intellectual — 知识分子； 思想家； （形容词） 智力的/ 脑力的/ 理性的script — 剧本； 脚本； 手写体； 笔迹； （动词） 为……写剧本triumph — 胜利； 成功； 杰出成就； （动词） 获胜/ 战胜/ 欢庆（常与 over 连用）futile — 徒劳的； 无用的； 无成效的； 琐碎的mechanical — 机械的； 呆板缺乏想象力的； 物理学的； （名词常复数） 机械学fondle — 抚弄； 爱抚； 怜爱地触摸garnish — （食物的） 装饰配菜； 装饰物； （动词） 装饰/ 配菜/ 【法】 扣押（薪水）tact — 机智； 分寸； 老练； 圆滑（常构成 with tact）convulsion — 【医学】 抽搐； 剧烈震动； （社会的） 动荡/ 动乱（常复数 convulsions）
 
 The Mechanical Chef's Script
 An intellectual experimental chef used immense personal tact to carefully script her newly engineered mechanical banquet, letting her fine-dining guests gently fondle sprigs of fresh wild herbs to naturally release their essential fragrance before using them as a raw garnish on the plates. When a sudden electrical motor convulsion violently shook the automated display table, every ounce of futile public panic in the hall quickly gave way to absolute historical triumph the exact second she calmly stepped forward and pulled the main power plug.
 
-Story 830
+Story 0830
 
 arena — 竞技场；活动领域；主战场constant — 持续的；不变的；（名词）常量/永恒的事物rasp — 刺耳的刮擦声；粗糙的声音；（动词）发出刺耳声/用锉刀锉lubricate — 润滑；使顺畅；使滑润altruism — 利他主义；无私rapids — 急流；湍滩（通常用复数 rapids）nicety — 细节；精确；细微的区别（常复数 niceties）aver — 断言；坚称；郑重声明paralyze — 使瘫痪；使麻木；使彻底停顿（英式拼写：paralyse）reprisal — 报复；报复行动；（军事）报复性袭击
 
 The Rapids Rescue Arena
 At a high-stakes safety training arena constructed directly beside the roaring river rapids, a constant mechanical rasp from a frayed cable loudly warned the river guides to immediately lubricate the primary rescue winch. The chief instructor stepped forward to solemnly aver that true altruism on the water requires absolute, meticulous attention to every single operational nicety, warning the class that structural neglect can permanently paralyze an emergency rescue operation, while a toxic fear of managerial reprisal helps nobody in a crisis.
 
-Story 831
+Story 0831
 
 showy — 华丽的；炫耀的；艳丽的；引人注目的aspiration — 抱负；渴望；【医学】吸入/吸引术surveillance — 监视；监控；密切注视sober — 清醒的；严肃的；未醉的；（颜色）朴素暗淡的；（动词使）清醒distort — 扭曲；歪曲（事实）；使变形；使失真counterpoise — 平衡物；抗衡力；（动词）使平衡/起称垫作用flunk — 考试不及格；使（某人）不及格；放弃（口语）parse — 解析；作语法分析；仔细分析研究levee — 防洪堤；堤岸；（旧时王室的）早晨接见会/（美国的）招待会margarine — 人造黄油；麦淇淋
 
 The Margarine Test on the Levee
 Under the sober, unblinking surveillance of city engineers gathered on a reinforced river levee, a field fluid-mechanics researcher used smooth, industrial margarine as a showy visual modeling material to precisely parse turbulent flood flow patterns. Her fierce commercial ambition would never be allowed to distort her deep professional aspiration for absolute scientific accuracy. She demonstrated that a heavy stone counterpoise kept the testing tray perfectly level, completely disproving the critics who had loudly predicted she would flunk the engineering audit.
 
-Story 832
+Story 0832
 
 owl — 猫头鹰；夜猫子（常熬夜的人）enslave — 奴役；使受控制；使成为奴隶vaccinate — 给……接种疫苗；给……打预防针brat — 顽童；讨厌的淘气鬼；（粗俗）乳臭未干的小孩forestall — 预先阻止；先发制人；抢在……前面行动flatter — 奉承；阿谀奉承；使显得更漂亮/使感到荣幸corporate — 公司的；企业的；法人的；共同的empyreal — 天空的；天国的；神圣高洁的（文学语）securities — 证券；股票；安全保障（名词 security 的复数形式）viscid — 黏稠的；黏性的；半流体的
 
 The Owl above the Clinic
 Hoping to swiftly forestall a dangerous winter viral outbreak, a prominent corporate medical director abruptly left her financial securities seminar to personally vaccinate every single shivering brat in the mountain village. While a wild white owl watched silently from the empyreal dusk of the rafters, the slow drip of a viscid chemical medicine gently reminded her that excessive public praise could easily flatter human ambition, yet entirely enslave rational clinical judgment if a doctor lost their focus.
 
-Story 833
+Story 0833
 
 scrutable — 可以理解的；可辨认的；可读懂的crumb — 碎屑；面包屑；少许/点滴（食物）；（动词）弄碎/把……面包屑化hilarious — 极其滑稽的；欢闹的；引人捧腹大笑的substance — 物质；实质；资产；主旨/核心emblematic — 象征性的；典型的；作为徽章的（亦作 emblematical）swine — 猪；卑鄙的人；下流的人（单复数同形，集合名词）stygian — 阴暗的；地狱般的；幽暗阴森的（亦作 Stygian）leisureliness — 悠闲；从容；慢吞吞gauge — 测量仪器；标准规格；（铁轨）轨距；（动词）测量/评估/判断faddish — 一时流行的；盲目追逐时尚的
 
 The Lantern in the Sty
 With an almost comic level of personal leisureliness, an organic farmer entered the stygian, pitch-black breeding sty with his lantern to accurately gauge whether a newly marketed, faddish grain feed possessed any genuine structural substance. However, the hungry swine inside immediately devoured every single dropped crumb from the bucket, and collectively produced a sudden, hilarious deep grunt that was both beautifully scrutable to the handler and completely emblematic of their final negative verdict.
 
-Story 834
+Story 0834
 
 slew — 大量；许多；（名词）大量；（动词指车辆等）猛打方向侧滑/（使）旋转inconstancy — 反复无常；易变；不忠实traduce — 诽谤；中伤；背叛；出卖junction — （道路、铁路的）交叉口/枢纽站；连接处；接头posse — 武装随从队；（治安官召集的）民防团；一群人/一帮人nihilism — 虚无主义；怀疑主义dilatory — 拖延的；行动迟缓的；拖拉的coagulant — 凝结剂；凝血剂grouch — 爱抱怨的人；发牢骚的人；（动词）发牢骚/抱怨oblivious — 未察觉的；不注意的；健忘的（常与 of/to 连用）
 
 The Spill at Dustroad Junction
 Arriving at a narrow, remote traffic junction, a dilatory police rescue posse unexpectedly discovered a massive slew of overturned chemical barrels blocking the dirt lane, while an oblivious, short-tempered local grouch loudly tried to traduce the innocent transport driver. Firmly rejecting the old man's defensive personal inconstancy and cynical social nihilism, the disciplined riders quickly applied a specialized powder coagulant to safely contain the volatile spill before judging anyone's legal liability.
 
-Story 835
+Story 0835
 
 slurp — 啧啧有声地喝/吃；（名词）大声吞咽的声音tribunal — 审判庭；特别法庭；裁判所drawl — 慢吞吞地说话；拖长腔调；（名词）拉长的腔调/慢吞吞的说话plankton — 浮游生物excursive — 离题的；漫游的；流浪的proximate — 最接近的；直接的；（时间/空间）最贴近的coerce — 强迫；胁迫；迫使（常构成 coerce sb. into doing sth.）maelstrom — 大漩涡；（极度混乱/不可抗拒的）大动荡（亦作 Maelstrom）disclaimer — 免责声明；否认声明；放弃权益声明impediment — 障碍；妨碍；【医学】言语障碍（如口吃）
 
 Testimony from the Maelstrom
 Standing before the formal maritime tribunal panel, an old sailor began his testimony with an excursive, drifting drawl about how he would routinely slurp his hot soup near the ship's rail, and offered a quick written disclaimer regarding his poor short-term memory. The presiding high judge made it completely clear to the courtroom that absolutely no one would coerce or intimidate him on the stand. Reassured, the sailor named a sudden, massive plankton bloom as the proximate environmental cause of the ship's entering the maelstrom, and a broken hydraulic rudder as the final fatal impediment to their escape.
 
-Story 836
+Story 0836
 
 cosmopolitanism — 世界主义；国际性；四海一家scarp — 陡坡；悬崖；（防御土墙的）内坡；（动词）使成陡坡wraith — 幽灵；幻影；（看到的人以为是某人要死的）生魂diffident — 缺乏自信的；羞怯的；胆怯内向的（常与 about 连用）subsistence — 生计；勉强维生；（最基本的生活）生存（常构成 subsistence level）sunder — 分裂；割断；分开；（使）分离hardbitten — 坚韧的；顽强的；饱经风霜的（亦作 hard-bitten）huddle — 挤作一团；蜷缩；（秘密）碰头会；（动词）聚在一起/蜷缩medium — 媒介；媒体；工具；方法；（形容词）中等的/适中的hazardous — 危险的；冒险的；碰运气的
 
 The Wraith on the Scarp
 A highly diffident, nervous spiritual medium and her hardbitten mountain guide slowly climbed up the hazardous rocky scarp, where local shepherds currently living at a bare subsistence level were forced to nightly huddle together against the freezing wind. At the summit, they unexpectedly met a strange misty apparition resembling a tribal wraith. The spirit delivered a chilling warning that deep historical fear would permanently sunder the valley populace, unless its growing, inclusive economic cosmopolitanism successfully united the old rival villages.
 
-Story 837
+Story 0837
 
 wardrobe — 衣柜；大衣橱；（个人的）全部服装；（剧团的）服装部resilience — 韧性；弹力；（不幸后的）恢复力（亦作 resiliency）indifferent — 漠不关心的；冷淡的；一般的；中等的（常与 to 连用）retract — 撤回（诺言/声明）；缩回（爪等）；收回aseptic — 无菌的；防腐的；冷漠缺乏生气的；（名词）无菌剂contiguity — 接触；邻接；接近；（地理）接壤version — 版本；说法；（电影/书的）改编形式；译本indiscernible — 难以辨认的；无法分辨的；微小的（亦作 indescernible）homologous — 【生物/化学】结构相应的；同源的；相当的insignificant — 无关紧要的；微不足道的；无意义的
 
 The Coat in the Aseptic Ward
 Inside a high-security aseptic museum conservation ward, the close spatial contiguity of two homologous royal wool coats in a sealed glass wardrobe had accidentally caused historical fibers to pass between them over time. The structural stylistic differences between the two written versions of the museum catalog sheets were nearly indiscernible and had been long written off as completely insignificant. However, laboratory fabric tests on one garment showed remarkable material resilience. No longer indifferent to the empirical physical evidence, the head curator was forced to formally retract her previous public claim that both coats were merely modern replicas.
 
-Story 838
+Story 0838
 
 valid — 有效的；合理的；（法律）生效的/有正当理由的scintilla — 一星半点；微量；火花（常用于否定句 not a scintilla of）quietus — 终止；消除；解脱；（债务的）清偿（常构成 give/receive a quietus）benignity — 仁慈；温和；善行；慈悲（亦作 benignance）disbeliever — 不相信者；怀疑论者；无信仰者confluent — 汇合的；融合的；（病疹）融合成片的；（名词）支流/汇流octagon — 八边形；八角形glazier — 玻璃匠；装玻璃的工人optic — 眼睛；视觉的；光学的；（大写名词常指）光学lingo — 行业行话；外国话；术语（通常带贬义或幽默色彩）
 
 The Octagonal Observatory
 The expert glazier, who was a notorious disbeliever in all local ghost lingo about haunted windows, found not a single scintilla of valid optical evidence within the confluent reflections bouncing around the corners of the historical building octagon. His testing proved that a microscopic manufacturing flaw inside the central optic glass fully explained the eerie visual anomalies. Ultimately, his professional benignity and calm demeanor toward the frightened caretaker brought the long-running neighborhood rumor a highly welcome and permanent quietus.
 
-Story 839
+Story 0839
 
 forejudge — 预先判断；（在未审前）预断/先入为主Christ — 基督；耶稣（常作感叹词指：天啊！/上帝啊！）virulence — （病毒的）毒性；毒力；（言行中的）恶毒/恶意patronymic — 源自父名的姓氏；（形容词）源自父名的monosyllable — 单音节词；（说话）简短生硬semiannual — 每半年一次的；半年刊的（亦作 semi-annual）dissimilar — 不相似的；不同的（常与 from 连用）anxious — 焦虑的；担心的；渴望的（常与 about/to 连用）prattle — 闲聊；胡扯；（孩子气地）唠叨；（名词）闲聊/儿语inwardly — 在内心里；内心深处；向内
 
 The Name on the Parish Register
 Gathered at the semiannual church parish meeting, the independent archivist Mara was deeply anxious not to forejudge two completely dissimilar historical registry entries that happened to bear the exact same ancestral patronymic. While a small child nearby began to childishly prattle in the pews and an old man muttered “Christ” in pure surprise upon seeing the ledger, she inwardly rejected the rising virulence of the family dispute. She settled the legal identity crisis on the spot with a single, unshakeable monosyllable: “Wait.”
 
-Story 840
+Story 0840
 
 absence — 缺席；不存在；缺乏physiography — 自然地理学；地貌学；自然地理特征rearrange — 重新安排；重新布置；改动clothier — 服装商；制衣商；服装零售店material — 材料；重要的；物质的；（名词）原料/布料bosom — 胸怀；内心；亲密的；（名词指胸部）dragoon — 强迫；逼迫；【军事】龙骑兵propellant — 推进剂；火箭燃料；驱动器demobilize — 复员；遣散；释放（英式拼写：demobilise）obvert — 将正面转向；翻转；【逻辑】以换质法推论
 
 The Map Inside the Uniform
 In the quiet absence of its original owner, a meticulous village clothier unexpectedly discovered a detailed physiography map tightly sewn into the inner silk bosom of a military uniform. Rather than letting a corrupt field officer dragoon him into absolute silence, he chose to boldly obvert the material right in front of the inspectors. He managed to successfully rearrange its coded fabric strips, identify the exact location of a hidden weapon propellant depot, and help the authorities smoothly demobilize the last rogue militia unit in the valley.
 
-Story 841
+Story 0841
 
 altitude — 海拔；高度；高处synod — 宗教会议；（教会的）高级会议/代表大会ambulate — 行走；走动；移动brimstone — 硫黄；（古雅语指地狱之火）befog — 使困惑；使模糊；使（头脑/形势）混乱不清rebut — 反驳；驳回；证明……错误/击退thesis — 论文；论点；核心假设（复数形式为 theses）heritage — 遗产；传统；继承物overproduction — 生产过剩conformation — 构造；形态；（动物的）骨骼结构/顺从
 
 The Sulfur Path Debate
 High up at a treacherous mountain altitude, the gathered delegates to the ecumenical synod had to carefully ambulate along a steep, brimstone-stained rocky path to thoroughly inspect their historic heritage site. Although thick volcanic smoke threatened to heavily befog the legal case, Lina masterfully used her published academic thesis on the cliff's unique geological conformation to definitively rebut the committee's claims that local industrial overproduction alone had caused the strange yellow mineral deposits.
 
-Story 842
+Story 0842
 
 percolator — 渗滤式咖啡壶adieu — 告别；再会；（名词）辞行/道别wintry — 寒冷的；冬天的；（态度等）冷淡的（亦作 wintery）reconstruct — 重建；还原；（在脑海中）重现/改组intensive — 密集的；深入的；彻底的；【语】强烈的superabundance — 过多；极其丰富；过剩differentiate — 区分；使不同；辨别；【生物】分化（常与 between/from 连用）kinsfolk — 亲属；族人；亲戚（集合名词，亦作 kinsmen）judgment — 判断；判决；看法；辨别力（亦作 judgement）infamy — 恶名；罪恶；声名狼藉
 
 Coffee at the Ruined Station
 On a freezing, wintry morning, Ada set a copper percolator down beside the ruined railway station and began a grueling, intensive effort to accurately reconstruct her kinsfolk’s final journey during the war. A chaotic superabundance of local playground rumors made it exceptionally difficult to differentiate genuine battlefield courage from baseline historical infamy. Because of this, she wisely chose to withhold her final emotional judgment, and softly whispered her last adieu only after finding the conductor’s missing personal diary in the rubble.
 
-Story 843
+Story 0843
 
 necrology — 讣告集；死者名录；（教堂的）追思册divagation — 离题；漫游；流浪；闲逛out-of-the-way — 偏僻的；不寻常的；鲜为人知的claimant — 申请人；索赔者；（权利的）声称者paly — 竖条纹状的；【纹章学】有垂直条纹的；苍白的duteous — 忠实尽责的；顺从的pentathlon — 【体育】五项全能（运动）orator — 演说家；雄辩家；演讲者diacritical — 区别性的；辨别性的；（名词常复数）变音符号（如 é, ü）expectorate — 咳出（痰等）；吐痰；吐出
 
 The Athlete in the Necrology
 Deep inside an out-of-the-way municipal archive room, a duteous legal claimant unexpectedly noticed that a simple typographical diacritical mark error had mistakenly placed a living national pentathlon champion in the town's historical necrology ledger. Despite the presiding orator’s long, comic divagation about a unique paly family crest and his constant need to expectorate into a silk handkerchief, the formal hearing successfully ended with the official civil record completely corrected.
 
-Story 844
+Story 0844
 
 sensorium — 感觉中枢；感知系统；大脑感觉器官palsy — 麻痹；瘫痪；（动词使）瘫痪/使无力（常作过去分词 palsied）nomination — 提名；任命；提名权continuance — 持续；延期；（诉讼的）缓期审理/连续bomb — 炸弹；轰炸；突发事件；（动词）轰炸/惨败covey — （鸟的）一小群；一群人/一帮人（通常指鹧鸪或鹌鹑）dialogue — 对话；对白；（政治/外交间的）交换意见（亦作 dialog）inconceivable — 难以置信的；不可思议的；不能想象的disenfranchise — 剥夺选举权；剥夺公民权/特殊权利（亦作 disfranchise）waif — 流浪儿；无主之物；流浪动物
 
 The Waif’s Radio Play
 The young waif’s raw audio dialogue beautifully described how a sudden, violent wartime bomb blast, a startled covey of birds, and an acute case of temporary physical palsy had completely overwhelmed his entire biological sensorium. To the listening audience, it seemed entirely inconceivable that local city officials would disenfranchise him simply for lacking birth papers. Moving quickly, the town council granted an immediate legal continuance on his case and gratefully accepted his nomination as the shelter’s chief youth representative.
 
-Story 845
+Story 0845
 
 confinement — 限制；禁闭；（因病等）卧床/分娩sanguineous — 血的；血红色的；由血组成的；多血质的extremity — 末端；（手脚的）肢端；极端困境；绝境（常复数 extremities）actuality — 现实；事实；真实情况（常复数 actualities）extensible — 可扩展的；可延伸的；可转让的（亦作 extendible/extendable）tiresome — 烦人的；令人厌倦的；单调乏味的effect — 影响；效果；（动词）实现/导致/产生invaluable — 极宝贵的；无价的（难以估价的）predicate — 断言；硬指；【语法】谓语；（动词常以……为前提/依据，常与 on/upon 连用）microscopy — 显微镜检查术；显微镜使用法；显微学
 
 The Flexible Splint
 During her strict physical confinement inside a remote mountain medical clinic, high-precision laboratory microscopy unfortunately revealed a sharp, sanguineous lesion right at the patient’s severely injured lower extremity. The tiresome recovery delay was, in structural actuality, absolutely invaluable to her team. The timely mechanical finding prompted the staff to engineer a new, extensible custom splint whose targeted healing effect completely contradicted the chief surgeon’s previous, gloomy predicate that an immediate amputation was completely inevitable.
 
-Story 846
+Story 0846
 
 antipathize — 厌恶；反感；对……格格不入（英式拼写：antipathise）transferrer — 转让人；传递者；（法律物权的）让与人（亦作 transferor）fusible — 可熔的；易熔的exit — 出口；安全通道；离开；（动词）退出/离开/去世distemper — （狗、猫等的）犬瘟热/传染病；坏脾气；（艺术）胶彩画/水粉画Calvinize — 使皈依加尔文教；向……灌输加尔文教义（英式拼写：Calvinise）modification — 修改；改变；修正；限制pyx — 圣饼盒；（铸币厂的）硬币检验盒；（动词在检验盒中）检验硬币bulbous — 球茎状的；膨大的；圆胖的boll — （棉花、亚麻等的）棉铃/种荚/圆荚
 
 The Silversmith’s Pyx
 The suspicious transferrer of a rare, bulbous antique silver pyx aggressively tried to exit the auction pavilion long before an alert museum conservator discovered a sloppy, fusible solder repair running directly beside an engraved floral boll pattern. Although the rival private bidders in the hall traditionally antipathize toward one another and routinely quarrel over any minor artifact modification, the museum curator loudly blamed their volatile distemper on sheer competitive pride, intervening the exact second one collector foolishly used the word “Calvinize” as a personal cultural insult and withdrew the object from the floor.
 
-Story 847
+Story 0847
 
 sentence — 句子；判决；命题treble — 三倍；高音的；（动词）使增至三倍Parisian — 巴黎人；巴黎的；（名词）巴黎人incident — 事件；插曲；不测事件happy-go-lucky — 随遇而安的；乐天知命的mane — 鬃毛；（人的）浓密长发element — 要素；自然力；基础原理lifetime — 一生；寿命；使用期限insurgence — 起义；暴动；叛乱foresail — 前帆
 
 The Parisian and the Foresail
 A happy-go-lucky Parisian spent his entire lifetime painting traditional ships along the coast, but one chaotic historic incident completely changed his artistic focus. During a sudden city insurgence, a terrified horse with a singed mane broke free into the harbor just as a violent wind tore the main foresail of a docked cutter. That raw, untamed element of public panic ultimately gave every written sentence in his personal memoir a treble force and emotional resonance that captivated readers generations later.
 
-Story 848
+Story 0848
 
 inhuman — 不人道的；非人的；冷酷无情的；（声音）不像人类的broadcast — 广播；播送；广泛传播；（名词）广播节目absent-minded — 心不在焉的；健忘的lifelike — 栩栩如生的；逼真的solar — 太阳的； 太阳能的oaken — 橡木制的；坚固的dermatology — 皮肤病学；皮肤科thermoelectricity — 【物理】温差电；热电sequence — 顺序；一连串；次序；（动词）按顺序排好patriarch — 家长；族长；（宗教）大主教/元老
 
 The Solar Clinic Broadcast
 An absent-minded university patriarch leaned heavily against an oaken desk during a live national broadcast from the remote solar clinic, where a lifelike silicon model beautifully illustrated a modern dermatology procedure. The orderly, professional sequence of graphic images, combined with a newly installed thermoelectricity-powered vaccine cooler, successfully exposed the inhuman environmental conditions that had been long endured by regular patients at the old municipal facility.
 
-Story 849
+Story 0849
 
 selective — 有选择的；挑剔的；选择性的vegetal — 植物的；植物性的；有生长功能的primitive — 原始的；简陋的；早期的；发展初期的sarcasm — 讽刺；挖苦；讥讽came — 来；到达（come的过去式）brogue — 粗革皮鞋；（尤指爱尔兰）浓重口音hernia — 【医学】疝气fluent — 流利的；流畅的；有表达能力的numerical — 数字的；数值的；用数字表示的inference — 推断；结论；推论
 
 The Healer’s Numbers
 When a fluent wilderness guide wearing a pair of worn leather brogue shoes came to the primitive hill clinic for an urgent abdominal hernia treatment, the resident doctor made a selective, rigorous study of traditional vegetal remedies. Entirely without a trace of professional sarcasm, she carefully explained to him that a minor numerical improvement tracked in three specific patients did not justify the broad logical inference that every local wild herb was universally effective.
 
-Story 850
+Story 0850
 
 immiscible — 【化学】不相混溶的；不能混合的sinuosity — 蜿蜒；曲折；弯曲的地方protuberance — 隆起；凸出物；结节asexual — 【生物】无性的；无性繁殖的；不具性器官的regretful — 遗憾的；后悔的；惋惜的abnormal — 异常的；反常的；畸形的irresistible — 无法抗拒的；诱人的；不可抵挡的brogan — 粗皮工作鞋；重型高帮鞋obsequies — 葬礼；丧仪；（常复数 obsequies）occupant — 占用者；居住者；（车辆/职位的）占有者
 
 The Boot in the Tide Pool
 Following the formal family obsequies, a deeply regretful occupant of the coastal lighthouse followed the rocky coast’s natural sinuosity and found an old leather brogan left beside an abnormal rock protuberance in a tide pool. Beneath two immiscible chemical oil films on the surface, an asexual sea anemone spread its translucent tentacles in patterns so beautiful and irresistible that she immediately postponed her plans for selling the historic station.
 
-Story 851
+Story 0851
 
 influential — 有影响力的；有权势的；起支配作用的electrolysis — 【化学/医学】电解；电解脱毛self-respect — 自尊；自尊心grantee — 【法律】受让人；获资助者；被授给者coronet — 小王冠；（贵族）冠冕；（马蹄的）冠圈bigamy — 【法律】重婚罪animadversion — 批评；谴责；责难epicycloid — 【几何】外摆线misogamy — 厌恶婚姻；婚姻恐惧症ado — 忙乱；费事；麻烦；喧嚣（常构成 without much ado）
 
 The Coronet Patent
 An influential scientific grantee successfully restored a historic royal coronet by using controlled industrial electrolysis, and masterfully traced a delicate engraved epicycloid pattern beneath its heavy layer of black tarnish. Amid much bureaucratic ado, immediate public gossip regarding alleged bigamy and deep personal misogamy among the previous owners drew harsh, unfair animadversion from local historians, but she proudly kept her absolute professional self-respect by presenting the original patent records and flatly refusing to discuss the donor’s marriage.
 
-Story 852
+Story 0852
 
 aerostatics — 空气静力学consignor — 发货人； 委托人apothecary — 药剂师； 药房pulmonary — 肺部的quackery — 江湖医术； 骗术inadmissible — 不可接受的； 不准采纳的； （法律） 不具证据能力的beneficent — 慈善的； 仁慈的； 有益的magnificence — 华丽； 壮观； 宏伟hydrodynamics — 流体动力学submerge — 淹没； 潜入水中； 浸入
 
 The Balloonist’s Medicine Chest
 The slick shipping consignor confidently claimed that the antique copper apothecary chest had smoothly crossed the lake beneath a historical hot-air balloon. However, a local aerostatics expert quickly calculated that such a massive structural load would inevitably force the balloon basket to submerge directly into the water. Basic principles of hydrodynamics strongly supported her calculation, while a row of fraudulent pulmonary "cures" found packed inside the drawers easily exposed the seller’s dangerous medical quackery. Ultimately, the inadmissible tale lost all its historic magnificence when a beneficent museum oversight board stepped in and legally returned the chest back to its original valley village.
 
-Story 853
+Story 0853
 
 odorous — 有气味的； 芳香的； 气味浓烈的； （引申为） 显露痕迹的akin — 相似的； 有亲缘关系的； 同类的（常与 to 连用）inexpressible — 难以言表的； 无法用言语表达的narrator — 叙述者； 解说员； （小说/ 戏剧的） 旁白financial — 财务的； 金融的； 财政的exhaustible — 可耗尽的； 有限的evolution — 演变； 进化； 发展； 渐进success — 成功； 成就； 胜利； 成功的人/ 物corollary — 推论； 必然结果foolery — 愚蠢行为； 胡闹； 恶作剧
 
 The Perfumer’s Radio Tale
 The radio documentary narrator beautifully traced the evolutionary history of an odorous wild marsh plant into a premium luxury perfume that was closely akin to rare amber, calling the organic product's rapid commercial success truly inexpressible. However, she warned that the financial corollary of this discovery was far less romantic. Because the fragile wild flower was strictly exhaustible, attempting to aggressively harvest the fields without a rigorous local renewal development plan would constitute pure, reckless administrative foolery.
 
-Story 854
+Story 0854
 
 hypnosis — 催眠； 催眠状态divination — 占卜； 预言； 预测temporary — 临时的； 暂时的； 短暂的； （名词常复数） 临时工frivolity — 轻浮； 无聊的事； 琐碎的言行（复数形式为 frivolities）inarticulate — 说不清的； 口齿不清的； 无法用言语表达的； 无关节的juridical — 司法的； 法律的； 法院的； 法律审判的foreordination — 预定； 宿命； 命中注定botanize — 采集并研究植物； 考察植物（英式拼写：botanise）rightful — 合法的； 正当的； 公正的； 应该得到的tutorship — 辅导； 导师职位； 监护权
 
 The Botanist’s Rightful Claim
 Under the temporary academic tutorship of a retired high-court judge, a naturally shy and inarticulate student slowly learned how to gather her data to botanize and fiercely defend her rightful regional plant discovery. Her jealous university rivals tried to aggressively dismiss her field notes as mere fraud induced by hypnosis, random divination, or basic childish frivolity. However, a rigorous, independent juridical review easily demonstrated to the board that empirical physical evidence, not mystical foreordination, had permanently secured her original scientific authorship.
 
-Story 855
+Story 0855
 
 aural — 听觉的；耳的inure — 使习惯；使适应；（法律等）生效forehead — 前额；额头nuisance — 麻烦事；讨厌的人；妨害行为faulty — 有缺陷的；错误的；不完美的aura — 气氛；气息；（疾病发作前的）先兆octavo — 八开本；八开；八开纸decaliter — 十升；公斗（美式拼写：decaliter / 英式：decalitre）dogmatic — 武断的；教条的；傲慢自大的mastery — 精通；掌握；控制权；统治
 
 The Bellmaker’s Octavo
 A precise aural quality test unexpectedly exposed a faulty bronze bell whose harsh, unstable note made every decaliter glass storage jar in the workshop violently vibrate. The highly dogmatic foundry master carelessly dismissed the engineering complaint as a mere customer nuisance, but a quiet apprentice with black soot smeared across her forehead smartly consulted a rare, centuries-old octavo reference manual. Demonstrating absolute, calm technical mastery of metallurgy, she expertly retuned the casting structure, giving the busy workshop a noticeably calmer and more stable creative aura before anyone on the team could completely inure themselves to the deafening noise.
 
-Story 856
+Story 0856
 
 continence — 节制；自制；克制；（生理）排泄节制力vegetative — 植物性的；无意识的；生长的；植物人状态的sibilate — 发咝声；发出咝咝声；（因不满等）咝声低语statuette — 小雕像；微型雕像nit — 虱卵；小毛病；（俚语）傻瓜；（动词指）挑剔protuberate — 隆起；突出；肿胀成球impulsion — 冲动；推动力；推进；刺激penurious — 吝啬的；贫困的；贫瘠匮乏的indestructible — 坚不可摧的；不可毁灭的necessity — 必需品；必要性；必然性；贫困
 
 The Hissing Statuette
 The exact moment localized workshop heat made a strange resin bubble protuberate directly from the surface of the antique ivory statuette and loudly sibilate like a boiling tea kettle, a penurious local dealer aggressively claimed the anomaly was indestructible chemical proof of the object's ancient historical age. The expert art conservator exercised exceptional moral continence under pressure; she quietly removed a tiny nit from the dealer's hair and a loose strand of ancient vegetative linen fiber from the statuette base, firmly resisting her sudden, strong impulsion to publicly accuse him of fraud until a series of rigorous scientific laboratory testing became an absolute regulatory necessity.
 
-Story 857
+Story 0857
 
 sacrificial — 祭祀的； 牺牲性的； 供献的azalea — 杜鹃花； 映山红alternative — 替代方案； 另一种的选择； （形容词） 供替代的/ 另类的recrudescence — （疾病、暴乱等的） 复发； 再度活跃/ 暴发vincible — 可战胜的； 可克服的mishap — 小事故； 不幸之事liable — 可能的； 易于……的； 负有法律责任的（常与 to/for 连用）incitement — 阻动； 刺激； 诱因alder — 桤木； 赤杨recreate — 再现； 重新创造； 娱乐/ 消遣
 
 The Firebreak Garden
 Following a sudden midnight mishap that completely burned down a historic sacrificial wooden altar directly beside an ancient alder tree, vulnerable valley villagers deeply feared a violent recrudescence of their old tribal family feud. Moving fast to maintain peace, the community gardener offered a brilliant, sustainable alternative. He expertly used rows of dense, water-rich azalea beds to recreate the historic property boundary as a natural landscape firebreak, successfully proving to the elders that their local environmental danger was entirely vincible, and formally declaring that anyone who recklessly treated the previous blaze as a political incitement would be held legally liable for any new property damage.
 
-Story 858
+Story 0858
 
 batten — （固定用的） 板条； 压条； （动词常与 on 连用指： 靠损人肥己/ 靠……过奢侈生活）subtrahend — 【数学】 减数depositor — 存放者； 储户； 寄放人radiate — 辐射； 散发（光/ 热/ 情感等）； （道路等） 自中心伸出datum — 数据； 资料； 已知事实（复数形式为 data）alto — 女低音； 中音部； 中音乐器； （形容词） 中音的recapture — 重新捕获； 重现（过去的体验/ 记忆）； 夺回； （名词） 夺回/ 重现acquiescence — 默许； 顺从； 默认emphasize — 强调； 着重； 突出（亦作 emphasise）recognize — 认出； 承认； 识别； 表彰（亦作 recognise）
 
 The Alto’s Hidden Datum
 Hoping to successfully recapture the medieval chapel’s long-lost acoustic properties, a talented visiting alto sang a steady, continuous scale while an audio engineer carefully tapped each installed oak wall batten. A single, highly unexpected geometric datum on the oscilloscope suddenly made the sound wave pattern radiate clearly across the screen. By treating all ambient background building noise purely as a mathematical subtrahend within their software program, the research team could easily recognize the original, deceased depositor’s authentic recorded voice inside the static, and firmly emphasize to the board that the civic archive had accepted the tape file without an ounce of legal acquiescence to its controversial historic claims.
 
-Story 859
+Story 0859
 
 clan — 家族； 宗族； 帮派； 集团catholicity — 广泛性； 包容性； 普遍性； （大写时指） 天主教教义/ 信仰indivisible — 不可分割的； 【数】 除不尽的； （名词常复数） 不可分割之物misanthropy — 厌世； 厌恶人类； 孤高冷傲typography — 字体设计； 排印学； 印刷排版样式diphthong — 双元音； 双元音字母； （动词使） 发双元音indistinct — 模糊的； 不清楚的； 混淆不清的sentience — 感知能力； 知觉； 有感觉能力correlative — 相关物； 相互关联的事物； 【语】 关联词； （形容词） 相互关联的witchcraft — 巫术； 魔法； 妖术
 
 The Printer’s Indistinct Mark
 An over-zealous clan historian mistakenly interpreted a faded, indistinct diphthong found in a piece of antique typography as a dark, occult sign of mediaeval witchcraft practices. However, a brilliant visiting university linguist possessed of immense intellectual catholicity quickly discovered its exact structural correlative within an adjacent regional mountain dialect. Her transparent philological discovery instantly replaced the historian's bitter background misanthropy with pure, cross-border scientific curiosity, masterfully demonstrating to the town trust that human language development and emotional sentience were entirely indivisible in their ancestors' historic songs.
 
-Story 860
+Story 0860
 
 determinate — 确定的； 限定的； 明确的； （动词） 确定/ 明确arboriculture — 树木栽培学； 乔木栽培theological — 神学的； 宗教上的diplomat — 外交官； 处事圆滑老练的人ballad — 民谣； 歌谣； 叙事诗； （慢节奏的） 抒情歌曲vituperable — 应受斥责的； 责骂的； 极其不名誉的perhaps — 也许； 可能； （名词） 设想/ 猜想dispossess — 剥夺财产； 逐出（房产）； 【法】 夺取（常与 of 连用）glorious — 辉煌的； 壮丽的； 荣耀的； 极好的centenary — 百年纪念； 一世纪； （形容词） 一百年的/ 百年纪念的（美式亦作 centennial）
 
 The Centenary Orchard
 At the historical community orchard’s grand centenary celebration festival, a visiting foreign diplomat elegantly sang a glorious traditional folk ballad while a panel of local experts in scientific arboriculture carefully dated its oldest pear tree. A greedy, outside corporate theological trust had recently attempted to legally dispossess the multi-generational tenants based on perhaps the most vituperable and hostile textual reading of an old property deed. However, the tree's newly extracted growth rings supplied absolute, determinate empirical proof of their century-long continuous agricultural care, permanently saving the land from development.
 
-Story 861
+Story 0861
 
 protective — 保护的；防护的；防范的excusable — 可原谅的；可宽恕的；可合理解释的recur — 再发生；重现；（问题）重新进入脑海altruist — 利他主义者；无私关怀他人者Scriptural — 圣经的；依据经典的；正统权威的omission — 遗漏；省略；疏忽discountenance — 使窘迫/难堪；拒绝批准/反对mealy-mouthed — 含糊其词的；不直率的；拐弯抹角的preestablish — 预先确立；预先制定superheat — 使过热；过热；（名词）过热
 
 The Kiln Safety Clause
 The eccentric altruist who fully funded the non-profit pottery school insisted on painting a prominent Scriptural motto above the main entrance, but she was famously never mealy-mouthed when it came to modern operational safety. She drafted strict rules stating that automated protective pressure valves must explicitly preestablish proper industrial airflow long before any student workers could superheat the high-capacity production kiln. She passionately argued that what might look like an excusable structural omission once in a busy semester may easily recur as a fatal explosion, and clear, unyielding rules successfully discountenance the lazy workplace habit of hiding engineering mistakes.
 
-Story 862
+Story 0862
 
 participant — 参与者；参赛者；（形容词）参与的relevant — 相关的；切题的；有重大意义的（常与 to 连用）frigidarium — （古罗马浴场的）冷水室/冷水浴池assassin — 刺客；暗杀者；政治谋杀犯dogmatize — 武断地宣称；坚持教条/强加观点于人ampersand — 与号（即符号 &）violation — 违反（法律/协议）；侵犯（隐私等）；亵渎wholly — 完全地；全部地；彻底地dolesome — 悲伤的；凄凉的；阴郁忧愁的physics — 物理学；物理现象；物理特征
 
 The Ampersand in the Bathhouse
 Each enthusiastic student participant in the university's summer archaeological physics seminar carefully examined a newly excavated stone carving in the ancient frigidarium, where a prominent, eroded ampersand joined two historic names. A dolesome, overly dramatic local tour guide immediately began to dogmatize to the group about a mythical, dark political assassin who had reportedly trapped a general in the chamber. However, a micro-analysis of wholly relevant industrial tool marks across the limestone clearly showed nothing but a later medieval mason’s structural violation of the original spacing, providing a practical engineering explanation rather than any historical evidence of a murder plot.
 
-Story 863
+Story 0863
 
 regicide — 弑君；弑君者pleasant — 令人愉快的；舒适的inject — 注射；注入；引入abominable — 可恶的；糟糕的；令人厌恶的coniferous — 针叶树的；松柏科的outlaw — 歹徒；逃犯；（动词）宣布非法/剥夺法律保护signification — 含义；意义；表示sextuple — 六倍的；六重的；（动词）使增至六倍pharmacy — 药房；药剂学；配药业compression — 压缩；挤压；浓缩
 
 The Outlaw’s Pine Remedy
 In a pleasant, secluded coniferous valley, a running outlaw carried a sealed pharmacy vial that was locally rumored to inject instant courage and sextuple a soldier's physical strength. The heavy royal crest stamped onto the glass darkly suggested an act of high regicide, but under closer forensic compression, the brittle sealing wax revealed a completely mundane, non-military signification. Ultimately, the supposedly abominable battlefield poison proved to be nothing more than a standard bottle of herbal cough syrup.
 
-Story 864
+Story 0864
 
 foreign — 外国的；陌生的；不相容的（常与 to 连用）free trade — 自由贸易caitiff — 卑鄙小人；懦夫；（形容词）卑鄙懦弱的triumvir — 三人执政之一；三头政治成员（复数形式为 triumvirs 或 triumviri）insensible — 无知觉的；不敏感的；麻木的；未觉察的（常与 to 连用）ridiculous — 荒谬的；可笑的；不合理的possible — 可能的；潜在的sensibility — 感受力；敏感性；（常复数）感情/痛感efficacious — 有效的；灵验的bolero — 波莱罗舞曲；（西式）短上衣；短坎肩
 
 The Bolero at the Trade Fair
 At a grand international free trade fair, an arrogant foreign triumvir publicly dismissed the host village's traditional bolero performance as completely ridiculous, and openly called its brilliant young composer a talentless caitiff. The proud local crowd was certainly not insensible to the blunt diplomatic insult, but the composer's absolute professional sensibility successfully kept her fellow musicians calm. She realized that the most dignified and efficacious reply possible was to simply deliver a flawless, high-energy encore.
 
-Story 865
+Story 0865
 
 advisory — 咨询的；顾问的；警告的；（名词常指）公告/警告orgies — 狂欢；纵饮；狂欢无度（名词 orgy 的复数形式）positive — 积极的；明确的；确定的；正的laborious — 费力的；勤勉的；艰难的；（文体）艰涩的potion — 药水；魔药；一剂（药水/饮料）humanize — 使人性化；使温和；使文明（亦作 humanise）magnet — 磁铁；磁石；有吸引力的人或物kind-hearted — 好心的；仁慈的；友善的（亦作 kindhearted）benevolence — 仁慈；善意；善举；慷慨捐助batter — 连续猛击；捣碎；（名词指建筑的）向后倾斜/（烹饪用的）面糊
 
 The Baker’s Storm Advisory
 Despite a sudden, severe mountain storm advisory, a kind-hearted local baker quickly became a warm magnet for dozens of stranded, shivering highway travelers by serving fresh hot fritters. The preparation of the crisp treats was a laborious task, requiring hours of physical whisking for the heavy batter alongside a secret, warming potion of spiced ginger tea. Her positive, resilient humor successfully helped to humanize a group of strangers whom sensationalist tabloids had previously associated with reckless city orgies, and a quiet spirit of community benevolence completely replaced their initial suspicion.
 
-Story 866
+Story 0866
 
 bailiff — 法警；（庄园的）管家/总管；（英国的）地方司法长官parentage — 出身；血统；门第；起源reservoir — 水库；蓄水池；储藏器；（知识等的）宝库transfusible — 可输注的；可输血的；可转移的mead — 蜂蜜酒；（诗歌中的）草地/牧场transact — 办理（业务）；交易；谈判subtend — 【数学】（弧、边）对着（角）；构成……的弦darkling — 在黑暗中；渐暗的；盲目的；（副词/形容词）在黑暗中的partible — 可分割的；可划分的；（遗产）均分的foreground — 前景；最引人注目的地方；（动词）使突出/强调
 
 The Darkling Reservoir
 An elderly court bailiff arrived darkling at the edge of the remote mountain reservoir to formally transact the long-delayed sale of a contested, partible family estate. In the clear foreground of an old photograph discovered in the cabin stood an antique ceramic flask of native mead placed right beside a historic military medical kit distinctly marked “transfusible plasma blood.” A faint handwritten note on the back explicitly recorded the deceased owner's noble parentage, while on a separate surveyor's map, two legal boundary lines cleanly subtend the eastern shore and definitively confirmed the long-lost heir's estate claim.
 
-Story 867
+Story 0867
 
 irrigant — 冲洗液；灌溉剂；（形容词）用于冲洗的prescriptible — 可依法取得的；可按时效确定的；法定的divergent — 分歧的；发散的；不一致的insistence — 坚持；强求；强调disobedient — 不服从的；不听话的；违抗命令的burgess — 市民；自治市议员；地方高级官员morphology — 【生物】形态学；【语言】构词法/词法学foppery — 纨绔习气；浮华装扮；自负的愚蠢行为sebaceous — 【医学】皮脂的；脂肪质的；分泌脂质的heifer — 小母牛（尤指未产犊或仅产过一犊的年轻母鸡/母牛）
 
 The Burgess and the Heifer
 At the local town burgess’s strict administrative insistence, a visiting federal veterinarian carefully examined a disobedient young heifer whose painful sebaceous skin swelling had completely resisted every standard chemical irrigant. The dynamic, divergent academic opinions among the clinical team regarding the lesion's micro morphology quickly displaced the wealthy councilor’s arrogant personal foppery. Ultimately, the factual findings successfully allowed the independent farmer to establish a permanent, prescriptible historic right to lead his livestock straight across the common town pasture for medical treatment.
 
-Story 868
+Story 0868
 
 disparity — 差异；不平等；不一致；不平衡pestilential — 致疫的；有害的；引起瘟疫的；（语言等）恶毒讨厌的Pan-American — 泛美洲的；全美洲的philanthropy — 慈善；博爱；慈善事业/机构wampum — 贝壳珠；（北美印第安人用的）贝壳珠串/钱币sapid — 有滋味的；有趣的；有吸引力的conformity — 遵从；一致；符合；符合习俗（常与 to/with 连用）admittance — 进入；准入；入场权；【物理】导纳（常与 into 连用）bole — 树干；（粘土）红土excellence — 卓越；优秀；美德；长处
 
 The Wampum Beneath the Bole
 At a high-profile Pan-American historical exhibition gala, a strict museum curator flatly denied public admittance into a damp, pestilential basement storage room until senior conservators unexpectedly discovered a cache of rare native wampum buried directly beneath an old cedar log bole. The absolute structural excellence and sapid tribal history of the artifact instantly exposed a glaring disparity between the organization's loud public philanthropy and its private, systemic structural neglect. The scandal quickly prompted the immediate enforcement of rigid new standards of regulatory conformity for every historical collection in the district.
 
-Story 869
+Story 0869
 
 intimacy — 亲密；熟悉；隐私；（文雅语指）性行为manor — 庄园；领地；大宅head first — 头朝前地；鲁莽地；不顾一切地（亦作 headfirst）muleteer — 骡夫；赶骡人philologist — 语文学家；文献学家contingency — 意外事件；应急措施；偶然性；（形容词）临时的/视条件而定的electrotype — 电铸版；电版；（动词）用电铸版复制accordion — 手风琴；（形容词指衣服等）折叠式的preferment — 晋升；优先权；擢升；（教会的）高级职位adulterant — 掺杂物；掺假剂；（形容词）掺杂的/不纯的
 
 The Accordion Plate
 Deep inside the old stone manor, a clumsy young muleteer tripped head first over a heavy copper electrotype printing plate that had been carefully hidden directly beneath a leather accordion case. A visiting university philologist, whose lifelong intimacy with the household made their archaic local dialect completely familiar, masterfully identified the true meaning of the faded layout inscription. Her chemical testing quickly discovered a dangerous modern synthetic adulterant inside the old ink lines, successfully defeating a corporate contingency plan to win an illegal estate preferment through a forged historical dedication.
 
-Story 870
+Story 0870
 
 ichthyosaurs — 【古生物】鱼龙（名词 ichthyosaur 的复数形式）psychiatry — 精神病学；精神病治疗法paramour — 情人；（尤指已婚者的）情妇/情夫carcass — （大动物的）尸体；（人体的）躯壳；（建筑物、船只的）骨架/残骸inoffensive — 无害的；不冒犯的；平淡无奇的lieu — 代替；场所（常构成 in lieu of 代替）reestablish — 重建；恢复；使重新确立（亦作 re-establish）prima — 首要的；第一的；【乐】主音的/第一部的（常大写用于 prima donna）vacuum — 真空；空白；真空吸尘器；（动词用吸尘器清扫）actuary — （保险公司的）精算师
 
 The Actuary’s Fossil
 A brilliant corporate actuary, who was currently studying geology in lieu of her temporarily absent twins sister, unexpectedly discovered a rare museum specimen clearly labeled as prima among the dusty boxes of the fossil ichthyosaurs. The piece was an almost complete marine skeleton carcass safely sealed inside a heavy, historical glass vacuum chamber. Although an initially inappropriate, joking remark she made regarding a senior curator’s secret paramour temporarily unsettled the laboratory, her deep university training in behavioral psychiatry quickly helped her deliver a graceful apology and successfully reestablish professional trust among the team.
 
-Story 871
+Story 0871
 
 intolerant — 不宽容的；不能耐受的；偏狭的errant — 犯错的；游荡的；走入歧途的hexapod — 六足动物；六足的loch — 湖；狭长海湾（常特指苏格兰的湖泊）metempsychosis — 灵魂转生；轮回转世Baconian — 培根的；培根学说的；（名词）培根哲学的信徒diffusion — 扩散；传播；（文化的）漫延peddler — 小贩；（思想等的）传播者；兜售者（亦作 pedlar）herbarium — 植物标本馆；植物标本集（复数形式为 herbaria 或 herbariums）protomartyr — 第一位殉道者；（引申为）先烈
 
 The Beetle by the Loch
 An errant traveling peddler finally reached the foggy shores of the remote mountain loch carrying an exotic hexapod specimen carefully preserved inside a heavy, leather-bound Baconian herbarium folder. He boldly claimed to the local historical society that the dried beetle embodied the literal metempsychosis of an ancient king. The highly intolerant museum curator loudly mocked his mystical story, but a rapid forensic pigment diffusion test soon linked the artifact's paper wrapper straight to a hidden chapel mural of the town's original protomartyr, giving the humble package genuine, undeniable historical value.
 
-Story 872
+Story 0872
 
 immature — 不成熟的；幼稚的；未完全发育的acidify — 使酸化；变酸kilometer — 千米；公里（美式拼写：kilometer / 英式：kilometre）theorist — 理论家；空谈家kingling — 小国王；小王；微不足道的君主zodiac — 黄道带；（占星术的）黄道十二宫图courser — 骏马；战马；猎犬persuadable — 可说服的；听话的；易受影响的emeritus — 荣休的；名誉退休的（常用于大学教授等头衔前）supposition — 假设；推测；假定（常构成 on the supposition that）
 
 The Kingling’s Zodiac Cup
 An emeritus university antiquative theorist walked a full, exhausting kilometer through the snow just to personally inspect an antique chalice depicting a historic local kingling, a charging courser, and the symbols of the astrological zodiac. His young, immature laboratory assistant aggressively wanted to immediately acidify the heavy surface tarnish to speed up the cleaning process, but he happily proved highly persuadable when a quick, completely harmless scratch test successfully overturned their initial academic supposition that the vessel was solid gold.
 
-Story 873
+Story 0873
 
 requiem — 安魂曲；安魂弥撒；悼念disquiet — 不安；忧虑；（动词）使焦虑/使不安centimeter — 厘米（美式拼写：centimeter / 英式：centimetre）primeval — 原始的；远古的；洪荒时代的demulcent — 缓和剂；（药物）润滑的/缓和的；（言行）安慰的vociferate — 大声叫喊；喧嚷；大声喊叫着说misty — 多雾的；模糊不清的；有雾的rapid — 湍流；急流；（形容词）迅速的/急促的shrinkage — 收缩；缩水；（资产等）贬值/流失proletarian — 无产者；蓝领工人；（形容词）无产阶级的/下层社会的
 
 The Requiem by the Rapid
 Right beside a misty, sub-zero river rapid, a disciplined proletarian community choir beautifully sang a solemn requiem dedicated to the memory of local miners recently lost in the dense, primeval forest. When an anxious tenor unexpectedly began to loudly vociferate during the break about a single centimeter of physical fabric shrinkage discovered in the newly woven memorial banner, the conductor smoothly calmed the rising structural disquiet among the performers by distributing hot, demulcent herbal tea and promising a rapid post-show repair.
 
-Story 874
+Story 0874
 
 metonymy — 【修辞学】转喻neural — 神经的； 神经系统的； 神经网络的declamatory — 雄辩腔的； 朗诵式的； 华而不实的technography — 技术描述； 工艺学； 工业志verification — 核实； 验证； 证实giver — 给予者； 捐赠者； 赠与人abscess — 【医学】 脓肿； 脓包illuminant — 光源； 照明剂； 发光物； （形容词） 发光的/ 照明的determination — 决心； 果断； 测定； 定向supramundane — 超世俗的； 天界的； 超越尘世的
 
 The Illuminant Manuscript
 The eccentric document giver enthusiastically described the medieval medical manuscript in highly dramatic, declamatory prose as a divine, supramundane cure for illness. However, a rigorous technical technography report analyzing its unique chemical illuminant paint, combined with recent laboratory neural imaging scans tracking a patient’s internal tissue abscess, soon provided a sober, empirical verification of the text's actual origin. With quiet, professional determination, the independent editor officially marked the text's reference to “the crown” as a standard literary metonymy rather than a literal organic medical ingredient.
 
-Story 875
+Story 0875
 
 seize — 抓住； 夺取； 没收； 扣押； 捉拿endanger — 危及； 使遭到危险hosiery — 袜类； 针织袜； 针织内衣业decimal — 小数； 十进制的； （名词） 小数tutelar — 守护的； 保护神的； 监护的（亦作 tutelary）overpass — 天桥； 高架桥； 跨线桥； （动词） 越过/ 漏看somnolence — 嗜睡； 困倦； 催眠状态effective — 有效的； 生效的； 实际的； 给人深刻印象的benefice — 圣俸； 有俸圣职； （动词） 赐予圣俸conduce — 有助于； 导致； 促进（常与 to 连用）
 
 The Hosiery Parcel
 While standing directly on the pedestrian overpass, border customs officers attempted to forcefully seize a large commercial hosiery parcel marked with an encrypted decimal safety code from a visiting tutelar community charity group. The parish vicar stepped forward to clearly show the logs proving that the direct proceeds from his permanent church benefice fully funded their highly effective overnight long-haul driver-rest program. He successfully demonstrated to the court that the quiet, isolated rooms inherently conduce to deep, natural sleep without inducing the heavy chemical somnolence that can dangerously endanger morning highway commuters.
 
-Story 876
+Story 0876
 
 outstretch — 伸出； 延展； 展开（常作过去分词 outstretched）perversity — 任性； 反常； 刚愎自用； 歪曲oculist — 眼科医生； 验光师dendroid — 树枝状的； 似树的embolism — 【医学】 栓塞； （历法中的） 闰日插入/ 闰月mouthful — 一口； 满口； 冗长难念的词/ 拗口的话prospectus — （学校/ 公司的） 简章； 招股说明书； 计划书（复数形式为 prospectuses）stagnate — 停滞； 淤积； 萧条； 变迟钝myth — 神话； 虚构的故事； 荒诞的错误观念translate — 翻译； 转化； 转变； 解释（常与 into/from 连用）
 
 The Dendroid Scan
 A senior clinical oculist gently asked the nervous patient to outstretch his right hand for reference while she carefully studied a faint, dendroid capillary shadow emerging in his retinal scan. The university clinic's structural safety prospectus was admittedly a massive, technical mouthful to fully translate to the family during the emergency meeting. However, the data successfully dispelled their superstitious neighborhood myth that the ocular treatment could stagnate indefinitely without risk, clearly demonstrating that ignoring such a prominent, possible cerebral embolism would constitute pure medical perversity.
 
-Story 877
+Story 0877
 
 contributor — 投稿人； 捐助者； 贡献者； 促成因素rapine — 掠夺； 劫掠； 洗劫行为epode — 【文学】 长短句交互组成的抒情诗； 抒情诗的末节habitual — 惯常的； 习惯性的； 经常的imitator — 模仿者； 仿效者； 效嫌者plurality — 多数； 多数席位； 多样性； 兼职iciness — 冰冷； 冷淡； 严寒状态well-doer — 行善者； 做好事的人； 公益赞助人countryman — 同胞； 乡下人； 同乡（复数形式为 countrymen）edible — 可食用的； （名词常复数） 食品/ 食物
 
 The Epode in the Seed Vault
 A proud local countryman who was a dedicated, habitual contributor to the global high-alpine seed vault wrote a beautiful, moving classical epode fiercely condemning wartime agricultural rapine. An arrogant out-of-town imitator quickly copied its unique rhythmic cadence for his own poem, but completely failed to match its genuine emotional warmth. Ultimately, the cold iciness of his plagiarized version vanished from the media, when a local well-doer stepped forward to generously share a vast plurality of rare, edible heritage crop grains with the exact hungry mountain village named in the original master text.
 
-Story 878
+Story 0878
 
 ante — （扑克等比赛中的） 赌注； 预付费用； （动词） 押赌注/ 预付（常构成 raise the ante 提高筹码）bureau — 办公局； 局/ 署； 书桌/ 带抽屉的写字台（复数形式为 bureaus 或 bureaux）acetate — 【化学】 醋酸盐； 醋酸纤维素； 透明塑料胶片arrangement — 安排； 排列； 整理； 协议； 筹备（常复数 arrangements）chancery — 【法律】 大法官署； 衡平法院； 档案保管处（亦作 Chancery）man-trap — 捕人陷阱； 危险的隐患装置/ 陷阱（亦作 mantrap）effectual — 奏效的； 有效的； 确定有法律约束力的irreligious — 不信宗教的； 不虔诚的； 违反宗教的seminar — 研讨会； 讲习班； 专家学术研究小组optometry — 验光学； 视力测定法
 
 The Acetate Map
 Just an hour before the opening session of the international optometry seminar, a senior bureau clerk unexpectedly found a rare, historic acetate reference map tucked away inside a locked chancery desk drawer. Its geometric structural arrangement clearly exposed the existence of a hidden, collapsing maintenance man-trap tunnel located directly beneath the library archive vault. Acting upon this discovery, a famously irreligious head groundskeeper boldly raised the economic ante by proposing a highly advanced, effectual spatial redesign that successfully protected incoming religious pilgrims and secular skeptics alike.
 
-Story 879
+Story 0879
 
 legitimacy — 合法性；正当性；合理性cycloid — 摆线；滚线resonate — 产生共鸣；共振；（在精神上）引起回响hypocrisy — 虚伪；伪善；欺骗行为linguist — 语言学家；通晓多语者contradiction — 矛盾；反驳；相抵触insignificance — 微不足道；无意义；无价值breaker — 碎浪；大浪；断路器；打破者consanguineous — 【生物】血亲的；同源的；同胞的wavelet — 小波；微波；涟漪
 
 The Breaker’s Family Song
 A dedicated field linguist beautifully recorded a traditional folk song right above a roaring coastal ocean breaker, and mathematically mapped each expanding sound wavelet as a fluid geometric cycloid. Its distinct consanguineous regional dialects heavily seemed to contradict the local chief’s public claim of the settlement's historical cultural insignificance. Ultimately, when the raw melody began to powerfully resonate across the islands, the structural contradiction exposed his political hypocrisy to the elders and permanently restored the local singers’ ancestral legitimacy.
 
-Story 880
+Story 0880
 
 committal — 收监；下葬；承诺；委托（管辖/审判）intromit — 使进入；干预；让其加入；【法】介入inaudible — 听不见的；无法辨别的；微弱的stringency — （法律/规则的）严格；（经济）紧迫/紧缩forefather — 祖先；先辈eclipse — 日食；月食；使黯然失色；（名词）黯然失色/消逝bass — 低音；男低音；鲈鱼；（形容词）低音的besmear — 涂抹；弄脏；（以恶名）玷污idiosyncrasy — （个人的）特质；癖好；（事物的）独特之处freshness — 新鲜；清新；蓬勃生机；（言行的）新颖
 
 The Bass Beneath the Eclipse
 During the absolute peak of the spectacular solar eclipse, a deep, almost inaudible structural bass note from a ceremonial horn marked the solemn committal of an old fisher’s tribal forefather. Strict ritual stringency strictly forbade anyone in the crew to intromit a newly composed verse into the mourning chant or besmear the sacred wood of the longboat with fresh paint. Yet, one young child’s spontaneous, melodic idiosyncrasy beautifully gave the ancient ancestral lament an unexpected, breathtaking freshness.
 
-Story 881
+Story 0881
 
 gestation — 妊娠；孕育；（主意、计划的）长期酝酿competitive — 有竞争力的；竞争的；好胜的sequel — 续集；后续；随之而来的结果inedible — 不可食用的；不能吃的by-law — （公司、地方机构的）章程；规章；附则armory — 军械库；兵工厂；【历史】纹章学/盾徽（英式拼写：armoury）insolence — 傲慢；无礼；侮辱的言行angelic — 天使般的；善良纯洁的；可爱的physicist — 物理学家foreman — （工厂、工地的）领班；工头；（陪审团的）团长
 
 The Armory’s Sugar Glass
 A competitive university physicist successfully persuaded the site foreman to let her film a highly complex movie sequel right inside the shell of the town's historic brick armory. Inside the facility, months of intense logistical gestation had successfully produced a row of towering, angelic display figures made entirely of specialized, inedible engineering sugar glass. To protect the art, a strict new municipal by-law properly curbed one actor’s defensive personal insolence after he aggressively tried to smash the fragile structures purely for a dramatic battle scene.
 
-Story 882
+Story 0882
 
 vocable — 词；可发音的词；（形容词）可发音的overeat — 吃得过量；吃得撑着enthuse — 热情谈论；使热心；狂热地赞扬（常与 about 连用）purveyor — （食品、消息的）供应商；传播者；兜售者unspeakable — 难以言表的；糟透的；极可恶的studious — 勤奋的；刻意的；深思熟虑的；（形容词作定语指爱学习的）differentia — 区分特征；本质差别（名词 differentiae 的单数形式）proverb — 谚语；格言；常言preferable — 更可取的；更合意的；更好的tercentenary — 三百周年纪念；（形容词）三百年的/三百周年纪念的（美式常拼为 tricentennial）
 
 The Tercentenary Proverb
 During the grand historic inn’s celebratory tercentenary banquet gala, a studious linguistic purveyor began to enthusiastically enthuse to the table about an old regional proverb containing a long-obsolete vocable. Its primary phonetic differentia was a unique, ancient vowel structure that absolutely no foreign guest could accurately mimic on the spot. However, the resulting communal laughter was far preferable to a boring, unspeakable textbook lecture, and the head cook warmly warned everyone not to overeat while they practiced the sound.
 
-Story 883
+Story 0883
 
 cajolery — 花言巧语； 哄骗； 甜言蜜语的劝诱pharmacopoeia — 药典； 药物志； 配药书requital — 回报； 报答； 酬谢； 报复（常与 for 连用）heathenish — 异教的； 不文明的； 野蛮粗俗的； 异端的crystallize — 结晶； 使明确； （想法等） 逐渐成形/ 明确（亦作 crystallise）transatlantic — 横跨大西洋的； 大西洋彼岸的Madonna — 圣母像； 圣母玛利亚； （引申为） 圣洁迷人的女性（亦作 madonna）discrepant — 不一致的； 有差异的； 矛盾的brae — 山坡； 斜坡； 河边陡坡（主要在苏格兰使用）nunnery — 女修道院（天主教的庵）
 
 The Madonna on the Brae
 A brilliant transatlantic historical scholar finally reached the ancient, isolated nunnery built high on the grassy brae and discovered a breathtaking stone Madonna sculpture dusted with pristine mineral crystals. A row of old, discrepant entries found inside the facility's library pharmacopoeia initially supported a highly heathenish local folklore origin story for the site. However, her patient, empirical laboratory testing soon helped the objective truth beautifully crystallize, and her honest published research report was a noble requital for the head abbess’s grand hospitality, entirely free of corporate cajolery.
 
-Story 884
+Story 0884
 
 rondo — 【音乐】回旋曲；回旋诗体（复数形式为 rondos）triplicity — 三重性；三位一体；三倍的特质foggy — 有雾的；模糊不清的；多雾的；（头脑）昏沉的（亦作 foggier）habitant — 居民；常住者；（加拿大法语地区的）农民/小自耕农incoherence — 不连贯；语无伦次；前后矛盾；松散ferocity — 凶猛；猛烈；残暴perceptible — 可察觉的；看得见的；明显的periodicity — 周期性；定期发生率metaphysician — 形而上学家；理学专家；哲学家accouter — 装备；装束；给……穿戴（装备）（美式常拼为 accouter / 英式：accoutre）
 
 The Rondo in the Fog
 Standing directly on a chilly, foggy river quay, an elderly local habitant kindly helped to properly accouter three traveling street musicians for an outdoor rondo performance whose unique rhythmic triplicity beautifully echoed the automated lighthouse beam. A visiting university metaphysician loudly praised the arrangement's cosmic periodicity, until the sudden, violent onset of the sub-zero storm’s intense ferocity made his philosophical incoherence instantly perceptible to the crowd, and everyone sensibly moved the concert indoors.
 
-Story 885
+Story 0885
 
 waistcoat — 马甲；背心（英式英语中常用，美式常用 vest）light-hearted — 轻松愉快的；无忧无虑的；欢快的（亦作 lighthearted）distiller — 蒸馏器；蒸馏酒商；酿酒者distillation — 蒸馏；提炼；精华；蒸馏物enthusiastic — 热情的；热心的；狂热着迷的（常与 about 连用）Catholicism — 天主教；天主教教义/制度referrer — 【计算机/网络】推荐人；转诊医生；引用页（亦作 referer）ultimatum — 最后通牒（复数形式为 ultimatums 或 ultimata）formula — 配方；公式；程式化言行；婴儿配方奶粉（复数形式为 formulas 或 formulae）nomic — 法则的；格言式的；规范约束的
 
 The Formula in the Waistcoat
 A highly enthusiastic multi-generational artisan distiller unexpectedly found an ancient, nomic handwritten saying about early European Catholicism stitched neatly inside his late grandfather’s wool waistcoat lining. He masterfully traced its specific organic herbal formula straight back to a hidden medieval monastic chemical distillation manual in the vaults. The medical referrer who originally sent him to investigate the city archive issued a light-hearted, playful ultimatum: he must formally credit the historical monks on the label long before selling a single bottle of the revived cordial to the public.
 
-Story 886
+Story 0886
 
 inspector — 检查员；巡视员；监督员mausoleum — 陵墓；阴森的大型墓室convalescence — 康复期；渐愈期omniscience — 全知；全知全能pentagon — 五边形；五角大楼（大写）passible — 能感受外界影响的；有知觉的resistance — 抵抗；阻力；地下抵抗运动coquette — 卖弄风情的女子；狐性女子mantel — 壁炉架；壁炉顶板（亦作 mantelpiece）depth — 深度；深奥；深刻
 
 The Pentagon on the Mantel
 During her long medical convalescence, a senior historic building inspector carefully studied a unique pentagon pattern carved into the marble mantel of an ancient family mausoleum. A vintage oil portrait hanging nearby labeled its historic female subject as nothing but a shallow, gossiping coquette. However, newly uncovered battlefield diaries detailing the absolute depth and structural grid of her wartime espionage resistance network completely belied the archaic insult, reminding the deeply passible visitor that no modern historian possesses absolute omniscience over the past.
 
-Story 887
+Story 0887
 
 chateau — 城堡；大庄园宅邸（复数 chateaus 或 châteaux）transposition — 调换；移项；位置互换effulgence — 灿烂；光辉；流光溢彩brazier — 火盆；木炭炉；黄铜匠narration — 叙述；故事；旁白解说diplomacy — 外交；外交手腕；处事圆滑misplace — 放错；遗失；寄托不当imaginable — 可想象的；能设想的indiscreet — 不谨慎的；轻率的；言行失当的facility — 设施；设备；熟练；灵巧
 
 The Brazier at the Chateau
 While guiding a VIP tour group through the historic rural chateau, an indiscreet junior guide managed to carelessly misplace an ancient brass reference plate right beside a heavy bronze warming brazier. This subtle physical transposition completely altered the spatial narration of every surrounding artifact exhibit on the floor. Exercising admirable, swift professional diplomacy and complete technical facility, the head curator successfully restored the most accurate educational sequence imaginable long before the evening sunset gave the grand exhibition hall its famous crimson effulgence.
 
-Story 888
+Story 0888
 
 officiate — 主持仪式；担任裁判；主持茶会kimono — 和服infrequence — 罕见；稀少；珍贵tangent — 切线；（言语等）离题的话comprehension — 理解力；领悟；包含范围expect — 预期；期待；指望logic — 逻辑；推理；逻辑学granular — 颗粒状的；细致的；由沙粒组成的hindmost — 最后面的；最落后的abhorrence — 憎恶；令人厌恶之物；痛恨
 
 The Hindmost Guest
 Formally asked to personally officiate at a prestigious traditional tea ceremony, Mira wore a beautiful silk blue kimono and meticulously used a handful of granular salt to mark a perfect protective perimeter on the timber floor. Despite the immense historic infrequence of such strict, classical neighborhood rituals, she did not realistically expect the hindmost guest's initial vocal abhorrence to quickly yield to her quiet reasoning. Yet, through her deployment of calm, unyielding philosophical logic and patient explanation, the tense gathering beautifully dissolved into a state of genuine community comprehension.
 
-Story 889
+Story 0889
 
 vale — 山谷；谷地deterrent — 威慑物；遏制因素；（形容词）威慑的/遏制的vegetarian — 素食者；素食的venous — 【医学】静脉的；静脉系统的；有脉络的overweight — 超重的；体重过重的；（动词）使负担过重foreigner — 外国人；外地人；外来者miter — 主教冠；主教帽；【木工】斜接；（动词斜接）（亦作 mitre）theologian — 神学家；宗教理论家inconvenient — 不方便的；棘手的；令人为难的meliorate — 改善；提高；缓和（现更多用 ameliorate）
 
 The Clinic in the Vale
 Deep inside a remote, snow-locked mountain vale, an overweight traveling foreigner who was a strict dietary vegetarian suddenly arrived at the emergency outpost suffering from a severe, acute case of lower venous swelling. Although the timing of the blizzard rescue was exceptionally inconvenient for the staff, a visiting academic theologian calmly set aside his ceremonial golden miter and rolled up his sleeves to help the village doctor meliorate the man's physical condition. Their prompt, transparent baseline care ultimately proved to be a far better deterrent to public panic than any stern administrative warning from the council.
 
-Story 890
+Story 0890
 
 scoundrel — 无赖；恶棍；歹徒generally — 通常；大体上；普遍地misrule — 暴政；治理不当；无法无天deformity — 畸形；变形；伤残缺陷academician — 院士；学者；会员dissonance — 不和谐音；【心理】认知冲突/不协调uppermost — 最上面的；首要的；居统治地位的inchoative — 【语法】表示动作开始的；起始的；初期的conjugation — 【语法】动词变位；【生物】结合/接合feudalism — 封建制度；封建主义
 
 The Grammar of Misrule
 An independent university academician systematically studying the legal blueprints of late medieval feudalism unexpectedly found that a long-dead palace scoundrel had maliciously altered the uppermost handwritten text line of a regional land charter. The material textual deformity had created a jarring grammatical dissonance inside an inchoative verb's standard layout conjugation parameters. Although such clerical filing errors are generally written off as purely accidental by researchers, exposing this specific fraud made the historic baron's deliberate, calculated economic misrule over the valley villagers completely plain to the court.
 
-Story 891
+Story 0891
 
 aliment — 食物；营养品；精神滋养物physiocracy — 【历史/经济】重农主义；重农思想furlough — （军人、公务员的）休假/准假；暂时解雇/停薪留职pavilion — 亭子；展馆；大帐篷intercession — 求情；调解；斡旋vivisection — 活体解剖anemometer — 风速计polemics — 论战；辩论术；激烈争辩reunite — 重聚；使团聚；重新联合non-existent — 不存在的；虚无的；虚假幻觉的（亦作 nonexistent）
 
 Wind at the Pavilion
 Right during his official annual military furlough, Elias visited a remote mountain farm pavilion specifically to reunite with his estranged sister, whose scheduled public talk on the history of agrarian physiocracy unfortunately turned into a fierce, screaming segment of political polemics the exact second a rowdy corporate guest proposed experimental live vivisection as a moral source of agricultural knowledge. Fortunately, her steady, professional intercession quickly restored civility to the hall. A spinning mechanical anemometer outside supplied a welcome acoustic distraction to the crowd, and a shared rustic course of hot organic aliment soon beautifully awakened their previously non-existent appetite for mutual compromise.
 
-Story 892
+Story 0892
 
 Jingo — 好战分子； 极端沙文主义者irradiance — 辐照度； 光辉； 容光焕发intension — 内涵； 强度； 加强； 紧张grantor — 授予人； 让与人； 拨款人hanger-on — 依附者； 食客； 趋炎附势的马屁精derrick — 起重机； （油井的） 井架/钻塔steppe — 大草原energetic — 精力充沛的； 有力的； 积极有效的perversion — 歪曲； 反常行为； 曲解technique — 技巧； 技术； 手法
 
 The Derrick on the Steppe
 Deep on the isolated, windswept central steppe, an exceptionally energetic technology grantor proudly demonstrated a new scale prototype of a solar-powered derrick whose mechanical pump efficiency depended strictly on ambient atmospheric irradiance metrics. However, an aggressive political Jingo and his vocal corporate hanger-on quickly utilized a highly clever, underhanded rhetorical technique in the newspapers to make the machine's completely peaceful industrial intension sound like a dangerous covert military threat to the border. Remaining completely unflappable, the lead design engineer masterfully exposed that strategic perversion to the press before public fear could permanently halt the construction project.
 
-Story 893
+Story 0893
 
 Hibernian — 爱尔兰的；爱尔兰人的；爱尔兰人unfavorable — 不利的；负面的；反感的（英式拼写：unfavourable）negligent — 疏忽的；玩忽职守的；粗心大意的thoroughbred — 纯种马；优秀的人或物；（形容词）纯种的/高贵的demurrage — 滞期费；（集装箱或车辆的）逾期费disappoint — 使失望；使破灭；挫败（计划）intolerable — 无法忍受的；不能容忍的；极可恶的docket — 案件清单；摘要；（动词）将……编入摘要admissible — 可采纳的；获准的；（法律）有证据能力的proselyte — 改宗者；新信徒；新皈依者
 
 The Hibernian's Appeal
 A sharp-tongued Hibernian proselyte arrived at the harbor courthouse on a magnificent thoroughbred stallion to contest an unfavorable port charge. He argued before the magistrate that a negligent customs clerk had placed an intolerable, massive demurrage fee directly onto his company's shipping docket. After a swift review, the presiding judge ruled his receipts fully admissible in court, and the fair legal decision did not disappoint the crowded gallery onlookers.
 
-Story 894
+Story 0894
 
 minority — 少数；少数群体；（形容词）少数的antecede — 先于；居前；时间在……之前reform — 改革；改良；（动词）改革/改造head foremost — 头朝前地；鲁莽地；不顾一切地syllabic — 音节的；按音节划分的；由音节组成的instant — 瞬间；刹那；（形容词）立即的/紧急的aldermanship — 市议员职位；市政官身份unnecessary — 不必要的；多余的regenerate — 使复兴；使再生；使改过自新futurist — 未来主义者；未来学家；未来派的
 
 The Futurist Candidate
 A tech futurist seeking a prominent local aldermanship promised to completely regenerate the long-neglected harbor district. However, the instant he rushed head foremost onto the town plaza stage to speak, a minority choir at the back began a loud, rhythmic syllabic chant. The ancient, unyielding words of their song actually antecede the founding of the city itself; humbled by the depth of the moment, he abandoned his unnecessary theatrical spectacle and let their direct call for socio-economic reform frame his entire campaign speech.
 
-Story 895
+Story 0895
 
 hemorrhoids — 痔疮（英式拼写：haemorrhoids）attorney-general — 总检察长；司法部长（复数形式为 attorneys-general）bursar — （学校或大学的）财务主管；奖学金获得者writhe — （因痛苦等）扭动；痛苦地扭曲身体/挣扎monitory — 警告的；告诫的；（名词）警告书/劝告信confident — 自信的；确信的；有把握的preparatory — 准备的；预备的；预科的beck — 小溪；（尤指山区的）溪流modernize — 使现代化；使适于现代需要（亦作 modernise）penitence — 悔过；上阵痛悔；（常构成 sign of penitence）
 
 Confession by the Beck
 During a preparatory spiritual retreat held beside a rushing mountain beck, the university bursar confessed with evident personal penitence that he had ignored a critical monitory letter regarding plans to modernize the community clinic. Confident that absolute candor mattered more to his recovery than shielding his ego, he even admitted to his colleagues that a painful flare-up of chronic hemorrhoids had forced him to writhe in agony throughout his critical budget meeting with the attorney-general.
 
-Story 896
+Story 0896
 
 excitation — 兴奋；激发；刺激；【物理】励磁/激励sibilance — 咝咝声；齿擦音特征；（噪音，亦作 sibilancy）baritone — 男中音；男中音歌手；（形容词）男中音的migrant — 移民；候鸟；流动工人；（形容词）移居的/迁徙的colleague — 同事；同僚；伙伴auburn — 赤褐色的；红棕色的（多指头发）culvert — 涵洞；地下水道；排水渠incandescent — 白炽的；炽热发光的；热情洋溢的dragnet — 大搜捕；拉网；拖网dissipation — 消散；浪费；（精力等的）消耗/放荡的生活
 
 Song Beneath the Culvert
 An auburn-haired young migrant and her baritone colleague hid inside the damp concrete frame of a storm culvert during a massive regional police dragnet operation. Inside the darkness, the continuous sibilance of the pouring rain combined with the flickering, incandescent glow of a dropped lantern heavily heightened their psychological excitation under pressure. Fortunately, the storm's sudden, welcome dissipation soon revealed the real cargo thief operating far upstream, allowing them to safely emerge from the drainage exit while joyfully singing.
 
-Story 897
+Story 0897
 
 pinchers — 钳子；夹具；（常作复数，亦作 pincers）foretell — 预言；预示；预告inventive — 善于创造的；有创意的anonymous — 匿名的；无名的meditation — 冥想；沉思；深思corrosion — 腐蚀；侵蚀；铁锈ultramontane — 教皇至上主义的；阿尔卑斯山脉那一边的contemporary — 当代的；同时代的人；（名词常复数）同辈adjuration — 郑重请求；恳求misbehave — 行为不端；调皮捣蛋；（机械等）发生故障
 
 The Anonymous Bellmaker
 An anonymous contemporary bellmaker used inventive pinchers to remove a thick layer of corrosion from an ultramontane abbey's oldest bronze bell. After an hour of quiet meditation and the abbot's solemn adjuration to his students not to misbehave, the apprentices worked flawlessly. A few minutes later, the restored bell's clear, resonant note seemed to foretell a lasting peace for the valley.
 
-Story 898
+Story 0898
 
 possessor — 持有人；拥有者；占有者pentavalent — 五价的terrify — 使恐惧；吓坏outburst — （情感等的）爆发；迸发；突然发作variable — 可变的；易变的；（名词）变量importation — 进口；输入品；引进assessor — 评估员；估税员；（法庭）技术顾问impregnate — 使充满；浸透；灌输imbrue — 浸染；玷污；沾染（常与 with 连用）keepsake — 纪念品；珍藏品
 
 The Chemist's Keepsake
 An assessor reviewing the international importation logs of a new pentavalent compound found a variable concentration high enough to terrify the warehouse staff. However, the firm's chief patent possessor explained that it was meant to impregnate ceramic glaze, not to imbrue anyone's hands during shipping. After his nervous outburst subsided, he offered a fired tile as a keepsake.
 
-Story 899
+Story 0899
 
 progression — 进展；前进；【数】数列effeminacy — 柔弱；女性化气质（多指男子）disinherit — 剥夺继承权whereupon — 随即；于是loiterer — 闲逛者；游手好闲者undersell — 低价出售；以低价击败；贬低overstride — 跨过；大步越过；凌驾于poignancy — 辛酸；深刻的感染力（亦作 poignance）frizzle — 卷曲；把头发烫卷；（煎炸食物时的）咝咝声explosion — 爆炸；暴发；激增
 
 The Loiterer at the Salon
 A quiet loiterer watched a barber frizzle an actor's hair for a play about effeminacy and inheritance laws, whereupon a sudden gas line explosion rattled the salon. Showing immense composure under pressure, the dedicated actor chose to overstride the fallen sign outside and continue rehearsing his script. The plot focused on a greedy merchant who tries to disinherit his daughter and undersell her competing shop, giving the drama's ongoing progression unexpected poignancy.
 
-Story 900
+Story 0900
 
 reciprocity — 互惠；相互性；互惠主义principality — 公国；侯国；属地intolerance — 不容忍；不耐受；（对食物或药物的）反感excitable — 易激动的；易兴奋的erroneous — 错误的；不正确的physiology — 生理学；生理机能repentance — 悔悟；上阵忏悔；痛悔（常与 for 连用）inceptive — 起始的；表示开始的orthopedic — 骨科的；矫形的（亦作 orthopaedic）ravine — 峡谷；沟壑；大深谷
 
 Rescue in the Ravine
 An excitable prince crossed a ravine to deliver orthopedic supplies to a neighboring principality, correcting an erroneous rumor that his border people harbored a deep intolerance toward outsiders. The mission began with this inceptive gesture of reciprocity, which reflected genuine repentance for an old border feud and taught him more about human physiology than court physicians ever had.
 
-Story 901
+Story 0901
 
 continuous — 连续的；持续的discomfort — 不适；不安；使不适autopsy — 尸检；验尸malaria — 疟疾inopportune — 不合时宜的；时机不当的derisible — 可嘲笑的；荒谬的；可鄙的countercharge — 反诉；反指控；（动词）反诉reckless — 鲁莽的；不计后果的moonbeam — 月光forethought — 事先考虑；深谋远虑
 
 The Moonbeam Diagnosis
 By the dim light of a single moonbeam, a reckless army officer made the derisible public claim that malaria had caused a stranded traveler's sudden death. However, an immediate, meticulous autopsy revealed unmistakable evidence of continuous chemical poisoning. Despite her deep personal discomfort at his highly inopportune and aggressive accusation, the resident physician calmly answered his countercharge with raw empirical evidence and the professional forethought to securely preserve every organ sample for the high court.
 
-Story 902
+Story 0902
 
 probation — 试用期；缓刑；（常构成 on probation）medial — 中间的；内侧的；平均的accursed — 可憎的；受诅咒的；不幸的travail — 艰苦劳动；阵痛；（动词）苦干/遭受阵痛idealize — 把……理想化；理想化地对待weak-kneed — 软弱的；膝盖发软的；懦弱没骨气的outskirt — 市郊；（城镇的）边缘地带（多用复数 outskirts）freethinker — 自由思想家；打破传统迷信者inhume — 埋葬；土葬manliness — 男子气概；刚毅；刚强
 
 The Grave on the Outskirt
 While serving his strict operational probation, a historically weak-kneed estate clerk cautiously followed a local freethinker out to the quiet, overgrown outskirt of town to secretly inhume an accursed historical relic. A faint inscription carved into the stone monument's medial face meticulously described generations of grueling agricultural travail. The text's final warning not to blindly idealize aggressive physical manliness beautifully gave him the sudden, raw courage to finally admit his own fear to the team rather than trying to clumsily conceal it.
 
-Story 903
+Story 0903
 
 vinery — 葡萄园；葡萄温室；（复数 vineries）liquefacient — 使液化的；【医学】液化剂trimness — 整洁；匀称；利落干净mislay — 放错；遗失；把……弄丢alliance — 联盟；同盟；联姻（常与 with 连用）illogical — 不合逻辑的；荒谬无理的cabalism — 阴谋政治；神秘主义；秘密结党行为antistrophe — 【文学/戏剧】（合唱队的）回舞歌/对句disunion — 分裂；不和；分离warlike — 好战的；战争的；军事的
 
 The Antistrophe in the Vinery
 Inside a sweeping mountain vinery heavily prized for its absolute geometric trimness, two independent local poets formed a tight alliance against a highly aggressive, warlike political faction. However, during the chaotic assembly, one artisan managed to completely mislay both an essential oil liquefacient for their frozen writing ink and the final written antistrophe of their collaborative peace ode. Bitter background accusations of underhanded cabalism rapidly deepened the group's temporary disunion, until they both stopped to recognize exactly how illogical and paranoid their mutual suspicions actually were.
 
-Story 904
+Story 0904
 
 pupilage — 学生时期；监护期；未成年（亦作 pupillage）decorous — 得体的；端庄的；合乎礼仪的fishmonger — 鱼贩；鱼商bromine — 溴dialectician — 辩证学家；善辩者；论理学家distrust — 不信任；怀疑；（动词）怀疑/不信任death's-head — 骷髅图案；鬼脸天蛾buffoonery — 滑稽行为；胡闹；粗俗的笑料wherewith — 用以；借以；拿什么entomology — 昆虫学
 
 The Fishmonger's Moth
 During her university pupilage in advanced entomology, a decorous young dialectician found a spectacular death's-head moth pinned beside a local fishmonger who used bromine to sanitize his concrete street stall. His childish public buffoonery immediately inspired a wave of professional distrust in her, but she lacked any empirical evidence wherewith to accuse him of theft, and she soon discovered that the insect had simply flown straight out from her own open specimen box.
 
-Story 905
+Story 0905
 
 courtesy — 礼貌；礼遇；好意further — 进一步的；更远的；（动词）促进/推进primer — 入门书；初级读本；底漆；【军事】雷管oral — 口头的；口腔的monition — 警告；告诫；传唤书lough — 湖；狭长海湾（常用于爱尔兰特指湖泊，读音同 loch）cornice — 檐口；飞檐；（动词）为……装飞檐legislator — 立法者；国会议员lewd — 淫秽的；下流的；猥亵色情的lowly — 卑微的；地位低的；简陋的
 
 The Primer by the Lough
 A lowly mason repairing a historic structural cornice right beside the foggy mountain lough showed a visiting legislator an old reading primer. The book's lewd marginal drawings turned out to conceal an oral monition regarding unsafe stonework in the district. Common professional courtesy led the official to listen, and a further thorough engineering inspection safely prevented the building's roof from collapsing.
 
-Story 906
+Story 0906
 
 syllabication — 音节划分；拼读（亦作 syllabification）quite — 相当；完全；十分moccasin — 鹿皮鞋；软皮平底鞋；噬鱼蛇specie — 硬币；铸币（特指金银币）convex — 凸面的；凸起的doubly — 加倍地；双重地antitoxin — 抗毒素；血清抗毒素heteromorphic — 异形的；多形态的declension — 词形变化；（力量等）衰退/下倾nebula — 星云；角膜云翳
 
 The Convex Lens
 Walking through the camp wearing only one torn moccasin, a traveling linguist paid in specie for a high-quality convex lens and found its resolution quite useful. Under the optics, it made the complex, heteromorphic shapes floating in a distant nebula look doubly clear to her eye. The tool aided the accurate syllabication of their catalog names, and revealed that the apparent declension in image quality simply came from a small vial of chemical antitoxin spilled onto the glass filter.
 
-Story 907
+Story 0907
 
 opinion — 意见；看法；主张（常构成 in my opinion）detrude — 推下；挤出；使向下错动cosmography — 宇宙志；宇宙描述学Decameron — 《十日谈》evangelical — 福音派的；热衷于倡导的countervail — 抵消；抗衡；对抗reflexible — 可反射的；可折回的maltreat — 虐待；粗暴对待hydrometer — 液体比重计；流体比重计uncommon — 不寻常的；罕见的；卓越的
 
 The Hydrometer Debate
 In my opinion, it was uncommon for an evangelical bookseller to use a hydrometer while lecturing on the Decameron. However, he masterfully used reflexible light rays to read the instrument as a plunger showed how pressure can detrude liquid from a sealed cavity; the lucid experiment helped countervail rumors that he would maltreat any historical volume on scientific cosmography in his shop.
 
-Story 908
+Story 0908
 
 frizz — 使卷曲；把头发烫成小卷；（名词）鬈发editorial — 社论；评论；（形容词）编辑的/社论的blithesome — 愉快的；无忧无虑的；欢快的employer — 雇主；老板indivertible — 不可转移的；不可改变方向的；坚定的univalence — 单价；一价性intermediate — 中间的；中级的；中阶的esthetic — 审美的；美学的（亦作 aesthetic）cadenza — 华彩乐段；华彩式即兴演奏compressible — 可压缩的；可压紧的
 
 The Compressible Concertina
 A blithesome musician used a compressible concertina to accompany an intermediate student violinist's cadenza, while her employer tried to frizz her hair for esthetic effect. A newspaper editorial published the following morning highly praised the performance's indivertible momentum, and beautifully compared its single, recurring harmonic theme to absolute chemical univalence.
 
-Story 909
+Story 0909
 
 lithotype — 石版印刷品；石印版peninsular — 半岛的；半岛居民的；半岛居民rejuvenescence — 返老还童；复兴；恢复活力tricolor — 三色旗；三色的（亦作 tricolour）clamorous — 喧闹的；吵嚷的Martian — 火星的；火星人的；火星人nectarine — 油桃；油桃树redound — 促进；有助于；归于（常与 to 连用）contagion — 感染力；传染；有感染力的事物locative — 【语法】方位格；表示位置的
 
 The Martian Lithotype
 A peninsular museum proudly displayed a vintage lithotype of a Martian holding a ripe nectarine beneath a tricolor sky. The artifact's commercial rejuvenescence began when a clamorous tour group of school children eagerly debated its unique, locative caption. Their newfound enthusiasm spread across the gallery by pure contagion and would ultimately redound to the neglected cultural facility's financial benefit.
 
-Story 910
+Story 0910
 
 sextet — 六重奏；六人组；六件套philogynist — 尊重女性者；爱慕女性者；女权支持者mobocracy — 暴民统治；暴民政治；乌合之众的统治christen — 为……命名；施洗flue — 烟道；烟管；排气管道drowsy — 困倦的；昏昏欲睡的；沉闷的emergence — 出现；兴起；显露commitment — 承诺；投入；奉献；责任Protestant — 新教徒；新教的faun — 【神话】农牧神；半人半羊的荒野精灵
 
 The Faun in the Flue
 A drowsy Protestant composer unexpectedly heard a stray wild faun cough inside his chimney flue and quickly summoned his woodwind sextet. Their lively music promptly encouraged the creature's emergence into the studio, and a local philogynist warmly proposed they christen it Liberty. He expressed his absolute personal commitment to scientific reason over the chaotic mobocracy gathering in the streets outside.
 
-Story 911
+Story 0911
 
 succeed — 成功；继任；继承（常与 to 连用）transcript — 抄本；文字记录；成绩单upturn — （经济等）好转；向上翻；好转sanguinary — 血腥的；嗜血的；残暴的confederate — 同盟者；共犯；同谋vulgarity — 粗俗；庸俗；粗鲁的言行ought — 应该；应当acknowledgment — 承认；致谢；确认收到（亦作 acknowledgement）geology — 地质学；地质特征erudition — 博学；学识；深湛的学问
 
 The Transcript in the Quarry
 A university scholar of geology discovered an ancient legal transcript proving that a sanguinary historic duke and his wealthy corporate confederate had illegally seized the local valley stone quarry. After a sudden regional economic upturn made the ancestral property papers highly valuable, their heirs tried to aggressively succeed them as owners by resorting to verbal vulgarity and threats. However, her unyielding academic erudition easily won widespread public acknowledgment and secured the land for the town, as it rightfully ought to have done.
 
-Story 912
+Story 0912
 
 comparable — 可比较的；类似的；可媲美的conversion — 转变；改建；兑换impotent — 无力的；无能为力的；【医学】阳痿的exigency — 紧急情况；迫切需要outcast — 被排斥者；流浪者；被驱逐的人genital — 生殖器的；生殖的pertinacity — 坚持不懈；顽固；执拗polysyllable — 多音节词objector — 反对者；持异议者unction — 涂油礼；油膏；虚情假意的狂热
 
 The Outcast Physician
 A once-prominent, now outcast physician met a stubborn objector who fiercely opposed the conversion of a historic village chapel into a modern community medical clinic. However, a sudden emergency exigency changed the entire nature of their debate when a small child arrived at the gate with a severe genital tractor injury. Demonstrating remarkable professional pertinacity under pressure, she requested a soothing herbal unction, calmly explained each dense medical polysyllable in comparable, everyday terms, and finally forced the once impotent town council to take immediate life-saving action.
 
-Story 913
+Story 0913
 
 prescript — 规定；命令；法令secession — 脱离；退出；（美历史）南方联邦的分离行为disconnect — 断开；使分离；切断superintendence — 监督；管理；主管aggravation — 加重；恶化；恼怒barcarole — 船歌（亦作 barcarolle）superintendent — 主管；负责人；大楼管理员henchman — 亲信；走狗；随从（复数形式为 henchmen）cosmology — 宇宙学；宇宙论kerchief — 头巾；方巾；手帕（复数形式为 kerchiefs）
 
 The Barcarole of Secession
 Under the station superintendent's strict superintendence, a thuggish henchman aggressively attempted to disconnect the observatory's backup power line. He barged into the communication studio just as a scientist wearing a red kerchief broadcast a fluid barcarole ballad encoded with telemetry data on deep-space cosmology and the region's political secession. Her direct refusal to obey his administrative prescript caused him immense aggravation, but it kept the isolated island populace fully informed of the impending crisis.
 
-Story 914
+Story 0914
 
 tempt — 引诱；向往；漫不经心地考虑dauntless — 无畏的；勇敢的；不屈不挠的subaquatic — 水下的；水生的thearchy — 神权统治；诸神体系expansion — 扩张；扩大；膨胀stimulate — 刺激；促进；激发satiate — 使满足；使厌腻irreverence — 不敬；无礼necessitate — 使成为必要；迫使immigrate — 移居入境；（从外国）移民
 
 The Subaquatic Temple
 A dauntless scientific diver discovered a magnificent subaquatic temple whose intact limestone murals beautifully depicted an ancient, sea-dwelling thearchy inviting mortals to immigrate to their golden undersea city. While historical curiosity might naturally tempt commercial treasure hunters to dangerously disturb the fragile site, a sweeping structural expansion of the surrounding protected marine reserve would instead stimulate objective academic research, fully satiate public curiosity, and absolutely not necessitate any cultural irreverence toward the indigenous populace that originally built it.
 
-Story 915
+Story 0915
 
 antipodes — 对跖地；截然相反者bombardier — 炮兵；（轰炸机上的）投弹手ground — 地面；土地；理由；依据；基础horde — 一大群；群procrastination — 拖延；耽搁；因循拖延的行为maniac — 狂人；狂热者；盲目迷恋者naval — 海军的；军舰的perfumery — 香水制造；香水店；（总称）香水vassal — 封臣；附庸；奴仆soldier — 士兵；军人
 
 The Perfumery at the Antipodes
 At a remote naval outpost located near the geographical antipodes, an experienced bombardier and a young soldier found a chaotic horde tightly surrounding the settlement's only premium perfumery shop. Fearing that its loyal vassal owner was currently being held hostage by a violent maniac inside, they drew their weapons and entered the building without an ounce of procrastination, only to happily learn that the gathering crowd had perfectly good ground to celebrate a rare fragrance's international launch.
 
-Story 916
+Story 0916
 
 recurrent — 反复出现的；周期性的；循环的introversion — 内向；内倾；内省dolor — 悲痛；哀伤；忧伤（亦作 dolour）riddance — 摆脱；清除；解除diverse — 多样的；不同的；五花八门的antemundane — 创世以前的；远古的imminence — 临近；迫近；危急状态archaism — 古语；古风；拟古的古词phonic — 声音的；语音的；声学的cathode — 阴极；负极
 
 The Cathode's Ancient Voice
 A brilliant scientist known for her severe personal introversion expertly utilized an advanced cathode scanning array to capture a series of recurrent phonic pulses emanating from diverse geological rock layers. The imminence of a true technological breakthrough finally freed her spirit from years of heavy academic dolor. Her data analysis soon definitively proved that the anomalous signal was no mythical, antemundane cosmic voice, but rather an obscure naval archaism encoded by an early radio operator in the 1920s, and its decoding brought her a highly welcome riddance from endless boardroom speculation.
 
-Story 917
+Story 0917
 
 seignior — 领主；封建贵族reluctance — 不情愿；勉强；【物理】磁阻actionable — 可诉讼的；可采取行动的；行之有效的assassinate — 暗杀；行刺；恶意诋毁reseat — 使重新就座；重装；重新安置diffusible — 可扩散的；易透入的adulterate — 掺假；掺杂；（形容词）掺假的overleap — 跳过；越过；遗漏buoyancy — 浮力；（情绪等）乐观；（经济）繁荣patter — 急促的轻响；噼啪声；行业顺口溜
 
 The Seignior's Fountain
 The seignior heard the sudden patter of rain and watched a breathless courier overleap the courtyard fountain with surprising buoyancy to deliver actionable proof of a plot to assassinate his reputation before the council. Despite his initial reluctance to trust an outsider, the noble immediately ordered his master engineer to securely reseat a faulty safety gas valve, fearing that an underlying, diffusible toxin had been used by political rivals to covertly adulterate the palace ventilation lines.
 
-Story 918
+Story 0918
 
 refract — 折射；使折光playwright — 剧作家benignant — 仁慈的；和蔼的；【医学】（肿瘤等）良性的proclamation — 公告；宣布；说明psychic — 通灵者；（形容词）心灵的/通灵的precision — 精确；精准；高精度的disconsolate — 悲痛的；郁郁寡欢的cat-o-nine-tails — 九尾鞭quintet — 五重奏；五人组deviltry — 恶作剧；恶行；残酷行为
 
 The Playwright's Proclamation
 A disconsolate playwright anxiously consulted a local psychic after a vintage cat-o-nine-tails violently vanished from his prop room. However, her benignant smile and precise proclamation blamed absolutely no neighborhood deviltry for the missing asset. She demonstrated that a triangular glass prism on the sill could easily refract morning light right around the whip and completely displace its shadow, while the musical quintet rehearsing next door had merely borrowed and moved the actual prop with absolute precision.
 
-Story 919
+Story 0919
 
 definite — 明确的；肯定的；一定的playful — 爱玩的；轻松有趣的difference — 差异；分歧；差额pyrotechnic — 烟火的；绚丽的；（言语等）精彩火爆的potency — 效力；力量；（药或酒的）浓烈度hydromechanics — 流体力学；水力学liquor — 酒；烈性酒；液体；溶液illimitable — 无限的；无边无际的neglectful — 疏忽的；玩忽职守的（常与 of 连用）moderator — 主持人；（会议）主席；【物理】调节器/减速剂
 
 The Moderator's Fountain
 At a playful academic debate centered entirely on the principles of industrial hydromechanics, the faculty moderator carefully poured a vibrant, colored liquor through a model fountain to demonstrate the definite difference between fluid pressure and volume flow. A slightly neglectful laboratory assistant then accidentally triggered a sudden, massive pyrotechnic burst whose volatile thermal potency initially seemed completely illimitable to the startled crowd, until an automated safety cutoff valve successfully ended the display.
 
-Story 920
+Story 0920
 
 acquisition — 获得；收购；增添的资产semiconscious — 半清醒的；神志恍惚的defensive — 防御的；戒备的；防守的legislative — 立法的；立法机关的debatable — 有争议的；未定的betimes — 及时地；早早地dramatist — 剧作家upheave — 举起；隆起；（使）剧烈动荡palinode — 撤回前言的诗文；公开收回声明disburden — 卸下负担；吐露（心事）；开解
 
 The Dramatist's Palinode
 A backstage accident left the dramatist dazed and semiconscious beneath a collapsed legislative banner, causing him to grow defensive when security guards questioned his unauthorized acquisition of the prop. He had arrived at the auditorium betimes to rehearse a highly sensitive public palinode, but a debatable flaw in the automated stage mechanism had begun to violently upheave the central orchestra platform. Caught red-handed in the wreckage, the embarrassed writer finally chose to completely disburden himself of every mortifying detail regarding his covert rehearsal.
 
-Story 921
+Story 0921
 
 dramatize — 戏剧化；改编成剧本；夸张（亦作 dramatise）adjudge — 判定；宣判；裁决arrival — 到达；到来者；新生儿usurious — 高利贷的；利率过高的；剥削的mistrust — 不信任；怀疑lying — 说谎的；躺着的enamor — 使倾心；使迷恋（亦作 enamour）phonogram — 录音；表音符号pitiable — 可怜的；令人同情的；微不足道的dendrology — 树木学
 
 The Phonogram in the Arboretum
 Upon her early morning arrival at the botanical preserve, a university student of dendrology discovered a pitiable research caretaker lying battered and semi-paralysed beneath an ancient oak tree. Nearby, an unedited audio phonogram playing on a dropped recorder clearly exposed the voice of the usurious predatory lender who had brutally attacked him over a missing payment. Rather than attempt to sensationalise or dramatize the empirical crime scene evidence to enamor an online crowd already prone to deep institutional mistrust, the pragmatist quietly turned the recording over to the magistrate, who waited for official medical testimony before he would formally adjudge the assault case.
 
-Story 922
+Story 0922
 
 professor — 教授gyroscope — 陀螺仪insistent — 坚持的；迫切的；引人注目的conscious — 清醒的；意识到的；有意的infrequent — 不常见的；稀少的incomprehensible — 难以理解的；无法懂的accusation — 指控；责备；谴责receivable — 可接受的；应收的；应收款项quarrelsome — 好争吵的；好搬弄是非的lawmaker — 立法者；议员
 
 The Gyroscope Hearing
 An insistent university physics professor confidently demonstrated a newly calibrated satellite gyroscope array to a notoriously quarrelsome state lawmaker, who immediately launched into a rambling, incomprehensible public accusation that the instrument's infrequent rotational wobble proved corporate data fraud. Fully conscious that only objective, mathematically receivable evidence belonged in a formal legislative hearing, the committee chair swiftly dismissed the politician's bizarre technical claim and requested a proper, empirical calibration report from the independent lab instead.
 
-Story 923
+Story 0923
 
 hesitant — 犹豫的；迟疑的；不情编的thereabout — 在那附近；大约（亦作 thereabouts）percipient — 有洞察力的；感知者；有感知力的tribune — 护民官；论坛；高台procedure — 程序；步骤；常规advertiser — 广告商；广告客户indefinitely — 无限期地；不明确地curtsy — 行屈膝礼；（动词）行屈膝礼（亦作 curtsey）Arthurian — 亚瑟王的；亚瑟王传说的desistance — 停止；中止；放弃行为
 
 The Arthurian Tribune
 A hesitant commercial advertiser proposed staging a massive, experimental Arthurian historical pageant right before the town tribune at noon or thereabout, but clumsily supplied no logical safety procedure for the performers beyond asking each costumed actor to formally curtsy to the audience. A highly percipient stage manager firmly warned the production firm that their chaotic open-ended dress rehearsals could not continue indefinitely without a formal city permit. Her sharp, unyielding legal demand for immediate administrative desistance successfully ended the theatrical chaos before the crowds arrived.
 
-Story 924
+Story 0924
 
 suggestive — 暗示性的；引起联想的；挑逗的knighthood — 骑士身份； 骑士团； 爵位prehension — 抓握；理解；感知能力neopaganism — 新异教主义disyllable — 双音节词；（形容词双音节的）apostle — 使徒；倡导者；先驱oblong — 长方形的；椭圆形的；（名词长方形）fungible — 可替代的；可互换的；代替物parlor — 客厅；店堂；私人诊所（亦作 parlour）vindicatory — 辩护的；证明清白的；惩罚性的
 
 The Oblong Token
 Inside a candlelit back-alley parlor, a dedicated young apostle of modern neopaganism delivered a thorough, vindicatory historical lecture defending a long-forgotten medieval knighthood order. She passed around a heavy, oblong iron token whose highly suggestive geometric design beautifully aided the crowd's mental prehension of the group's ancient environmental protection oath. Although each stamped coin was technically standard and fungible within their ritual trading system, the unique, hand-engraved linguistic disyllable on the face made the entire experience deeply memorable to the students.
 
-Story 925
+Story 0925
 
 able-bodied — 身体健全的；强壮的pungency — 刺鼻； 辛辣； 尖刻probate — 遗嘱认证；验证；（动词认证遗嘱）anatomy — 解剖学；结构；剖析squatter — 擅自占地者；蹲坐者；偷住者neocracy — 新贵统治；青年掌权；幼稚政治sphericity — 球形；球度；圆度decameter — 十米；十米尺（亦作 dekameter）mutation — 变异；变化；突变intention — 意图；目的；打算
 
 The Decameter Greenhouse
 An able-bodied urban squatter boldly marched into the estate's private greenhouse during formal family probate court proceedings, claiming that the late botanist's true personal intention was to legally pass the property to a radical ecological student alliance to oppose corporate neocracy. To settle the title dispute, a surveyor rolled out a decameter-long blueprint chart detailing rare floral anatomy to track structural hybrids, which beautifully demonstrated how a single genetic mutation dramatically altered petal sphericity over generations. Ultimately, the unique, sharp aromatic pungency of a hidden bloom nearby led the heirs to discover the master's authentic, notarized last will stashed inside the chassis.
 
-Story 926
+Story 0926
 
 immoral — 不道德的；邪恶的isobar — 等压线；同量异位素pendant — 吊坠；悬挂的tincture — 酊剂；微量；颜色overhang — 悬垂；突出部分；（动词）悬垂于……之上polyhedron — 多面体irruption — 突然闯入；（动物数量）猛增enthrone — 使登基；尊为至高choral — 合唱的；圣咏的；（名词）合唱曲lassie — 少女；小姑娘
 
 The Lassie and the Isobar
 A local lassie wearing a silver pendant meticulously traced a sudden, moving isobar across her weather map just before an unexpected irruption of mountain rain drove the entire outdoor choral festival under a rocky cliff overhang. While waiting under the shelter, she carefully applied a small tincture of herbal medicine to a cut she had sustained while righting a fallen, heavy polyhedron exhibition sculpture. Standing her ground, she firmly refused the corrupt mayor's immoral proposal to publicly enthrone him as the installation's sole, heroic rescuer.
 
-Story 927
+Story 0927
 
 hydroelectric — 水力发电的predatory — 捕食性的；掠夺成性的disfavor — 不赞成；冷遇；（动词）不喜欢/冷落（亦作 disfavour）metronome — 节拍器beau — 男友；花花公子；追求者（复数形式为 beaux 或 beaus）dead-heat — 不分胜负；平局；（动词）跑成平局biology — 生物学；生态confluence — （河流的）汇流处；（人群、思想的）汇合synchronism — 同步；同时发生inseparable — 不可分离的；亲密无间的
 
 The Dead-Heat at the Confluence
 At a turbulent river confluence located directly below a massive hydroelectric dam, an enthusiastic biology student and her supportive beau timed the diving intervals of two inseparable wild otters using a mechanical hand metronome. To their amazement, the animals' perfectly synchronized dives repeatedly ended in a dead-heat. This breathtaking, natural display of synchronism rapidly won immense public favor, while casting deep community disfavor onto a predatory tour operator who had previously tried to illegally trap and separate the pair.
 
-Story 928
+Story 0928
 
 despondent — 沮丧的；失望的；意气消沉的coxswain — （赛艇的）舵手；赛艇队长；（动词）任舵手dismount — 下马；下车；拆卸；（名词）下马/拆卸man-eater — 食人者；食人兽；【鱼】大白鲨peaceful — 和平的；宁静的；爱好和平的machinist — 机械师；机工；装配工decapod — 十足目动物（如虾、蟹）；十足的extraordinary — 非凡的；特别的；意料之外的pectoral — 胸部的；胸饰；（护胸的）well-to-do — 富裕的；小康的；家境殷实的
 
 The Decapod Rescue
 A despondent boat coxswain unexpectedly spotted an extraordinary, giant deep-sea decapod tangled in heavy wire beside a peaceful island traditionally rumored to shelter a territorial man-eater shark. Working quickly, a well-to-do local machinist helped him safely dismount from the vessel's high deck after their automated rescue crane suddenly stalled. Despite treating his own badly strained pectoral muscle mid-effort, the duo successfully freed the marine creature and permanently proved the island's ancient, terrifying safety warning completely false.
 
-Story 929
+Story 0929
 
 Darwinism — 达尔文主义；进化论inundation — 洪水；泛滥；（大批人或物的）涌来Augustinian — 奥古斯丁派的；奥古斯丁修士；（形容词）奥古斯丁派的airy — 通风的；轻快的；空想的；高耸的（亦作 airier/airiest）gynecocracy — 女性统治；女权政治（亦作 gynaecocracy）landlord — 房东；地主；（旅馆、酒馆的）老板indispensable — 必不可少的；不可或缺的；（名词）不可缺少的人或物seduce — 引诱；诱使；吸引conductible — 可传导的；能引导的cynicism — 犬儒主义；愤世嫉俗；冷嘲热讽
 
 The Augustinian's Airy Hall
 Right after a sudden, devastating regional river inundation, a visiting Augustinian academic lecturer rented a spacious, airy hall from a highly skeptical neighborhood landlord to host a public debate regarding the modern applications of Darwinism and corporate gynecocracy. Firmly refusing to let sweeping political rhetoric seduce either opposing faction into empty anger, he brilliantly utilized a highly conductible copper wiring model to visually demonstrate that empirical scientific evidence was absolutely indispensable to logical reasoning. Ultimately, his transparent candor beautifully softened the defensive landlord's deep institutional cynicism.
 
-Story 930
+Story 0930
 
 bibliomania — 藏书狂；嗜书癖putrescent — 正在腐烂的；易腐烂的；败坏的municipal — 市政的；市立的；地方自治的inexpensive — 便宜的；价廉物美的syneresis — 【生物/化学】（胶体的）脱水收缩；【语言】元音缩合utilitarianism — 功利主义；实利主义assignee — 【法律】受让人；受托人；代理人latish — 稍晚的；较迟的；（副词）稍晚地species — 物种；种类（单复数同形）novelette — 短篇小说；中篇短评（现常拼写为 novelette）
 
 The Latish Library Delivery
 A dedicated municipal library assignee afflicted with a lifelong passion for bibliomania arrived latish at the archival vault to collect an inexpensive, vintage novelette tracking the historical tenets of utilitarianism. However, a foul, putrescent smell wafting from a nearby shelf unexpectedly led her to discover a rare, undocumented fungal species growing on the old bookbinding gel. Fascinated, she watched the process of syneresis unfold as fluid naturally separated from the expanding gel structure, choosing to carefully preserve the biological specimen while forgetting her original book errand entirely.
 
-Story 931
+Story 0931
 
 moderation — 适度；节制；温和；稳健effusion — 涌出；（感情的）倾泻/流露；【医学】渗漏液remonstrant — 抗议者；规劝者；（形容词）抗议的/规劝的（大写特指抗议派抗辩派）discussion — 讨论；商议；谈论repetition — 重复；重演；复制品gumption — 进取心；勇气；魄力；聪明睿智expanse — 广阔的区域；辽阔的天空/海面clangor — 铿锵声；连续的响亮撞击声；（动词）发出铿锵声（英式拼写：clangour）courageous — 勇敢的；有胆量的miscount — 数错；误计；（名词）数错/误计
 
 The Miscount Across the Expanse
 While driving heavy supply trucks across a freezing, miles-long arctic ice expanse, a courageous transport remonstrant showed enough immediate gumption to single-handedly halt the entire military convoy. The loud, dynamic clangor of loose steel chains on a trailer chassis had suddenly revealed a highly dangerous numerical miscount of their critical cargo fuel drums. Following a rapid effusion of deep thanks from the logistical team, the drivers held a calm roadside discussion, permanently avoided any catastrophic repetition of the logistical error by strictly assigning each unique count once, and safely continued their journey with absolute moderation.
 
-Story 932
+Story 0932
 
 physiognomy — 面相；外貌特征treasonable — 叛国的；不忠的auditory — 听觉的；听众席hackney — 出租马车；陈腐之物kilowatt — 千瓦olive-branch — 橄榄枝；和解姿态phosphorescence — 磷光；冷光crevasse — 冰隙；裂缝repertory — 保留剧目；全部技能；剧团vocative — 呼格的；呼格
 
 The Signal in the Crevasse
 By the faint phosphorescence glowing within a deep glacier crevasse, an auditory researcher instantly recognized the distinct physiognomy of a missing performer from a local repertory theatre company. Flatly rejecting a passing hackney driver's treasonable allegation that the man had defected, she quickly powered up a one-kilowatt rescue beacon, called his name out in the vocative to pierce the howling wind, and lowered a sturdy wooden olive-branch as a visual marker for the incoming helicopters.
 
-Story 933
+Story 0933
 
 telepathy — 心灵感应；传心术mileage — 里程；耗油里程conjugate — 使结合；动词变位torturous — 折磨人的；曲折的offshoot — 分支；旁系knavery — 欺诈；无赖行为navigable — 可通航的；可航行的inmost — 最内心的；最深处的donator — 捐赠者emigrant — 移民；移居者
 
 The Emigrant's River Map
 A resilient emigrant with astonishing overland mileage behind her became the sole donator of a detailed map showing a hidden, navigable offshoot of the border river. No telepathy had revealed this secret channel to her; rather, her inmost, long-held suspicion of a local trail guide's systemic financial knavery had driven her to escape alone through a torturous stone canyon, where she kept her sanity by learning to conjugate indigenous verbs while charting the deep-water route.
 
-Story 934
+Story 0934
 
 assassination — 暗杀；行刺antiphon — 轮唱圣歌；应答短诗assonance — 元音和谐；类韵benefit — 益处；使受益imaginary — 想象的；虚构的presentient — 有预感的；预知的heptagon — 七边形reverent — 虔敬的；恭敬的possess — 拥有；具有permanence — 永久性；持久
 
 The Seven-Sided Sanctuary
 A presentient chorister noticed that the choir's reverent opening antiphon cleverly utilized strategic assonance to encode seven historical names around a carved stone heptagon. The imaginary, panicked threat of a targeted political assassination in the cathedral proved to be a mere diversion; in reality, the singers did possess definitive physical evidence of corporate temple theft, and publicly exposing the scheme brought a lasting economic benefit to the parish while securing the sanctuary's architectural permanence.
 
-Story 935
+Story 0935
 
 disagree — 不同意；不一致telephony — 电话技术；电话通信ramose — 多枝的；分枝状的reflection — 反射；沉思；反映sympathize — 同情；赞同；深有同感monocracy — 独裁统治；一人统治deliquesce — 潮解；溶化redolence — 芳香；令人联想的气息absorption — 吸收；专注manufacturer — 制造商
 
 The Ramose Receiver
 A telephony manufacturer unveiled a prototype ramose receiver whose chemical cooling salts would rapidly deliquesce when exposed to highly humid air. While development engineers continued to disagree sharply about the device's rate of moisture absorption, the rich redolence of the cedar housing, a clear reflection of craftsmanship in its polished casing, and the inventor's stern safety warning successfully made the executive board sympathize with factory workers resisting the owner's absolute corporate monocracy.
 
-Story 936
+Story 0936
 
 galvanic — 电流的；令人振奋的；突发的bumper — 保险杠；特大杯；（形容词）特大的/丰收的coalescence — 合并；融合descendent — 下降的；降落的；（名词同后代 descendant）nutriment — 营养物；养料radix — 基数；根值；根本awaken — 唤醒；醒来disappear — 消失hospitality — 好客；款待pseudonymity — 使用假名；匿名状态
 
 The Descendent Signal
 A descendent scientific atmospheric probe accidentally struck the lunar rover's front bumper with a sharp, galvanic electrical snap, making its tire tracks instantly disappear beneath a sudden cloud of gray dust. The ground crew's professional hospitality quickly helped awaken the shaken pilot's focus in the hab, while a ration of warm nutriment and the seamless coalescence of two data radio signals exposed the exact digital radix of an encryption code that had securely protected her operational pseudonymity during the mission.
 
-Story 937
+Story 0937
 
 alluvion — 冲积物；冲积地；【法律】因冲积形成的新土地disservice — 伤害；帮倒忙；不轨行为landholder — 土地所有者；地主atonement — 弥补；赎罪；和解somniferous — 催眠的；使人困倦的existence — 存在；生活；生存durance — 禁锢；监禁（常用于 in durance vile 意为被囚禁中）dutiable — 应纳税的separable — 可分离的；可区分的numeration — 计数；命数法
 
 The Boundary in the Silt
 After years of bitter legal durance, an elderly landholder sought moral atonement by definitively proving that the river's newly deposited alluvion was entirely separable from his neighbor's old estate layout. His meticulous numeration of the region's historical dutiable river cargo spared the independent villagers a devastating financial disservice, even though a somniferous courtroom speech by the defense attorney nearly obscured the empirical data and heavily threatened their baseline economic existence.
 
-Story 938
+Story 0938
 
 semicircle — 半圆；半圆形unisonant — 同音的；（声音）和谐一致的infinite — 无限的；无穷的machinery — 机械；机构；大系统punctual — 准时的；精确的disown — 否认；断绝关系inland — 内陆的；向内陆的；（副词）向内陆forerun — 预示；先于……发生episode — 插曲；（电视、广播的）一集viol — 维奥尔琴（一种老式弦乐器）
 
 The Viol at the Inland Mill
 A remarkably punctual classical musician carefully arranged her workers in a perfect semicircle directly beside the automated inland grain mill, where the deep timbre of her historic viol and the unisonant hum of the heavy machinery seemed to ominously forerun an infinite mountain storm. During one exceptionally tense episode, the wealthy mill owner aggressively tried to disown all operational liability for a cracked turbine casing, but her digital audio recording cleanly proved exactly whose mechanical neglect had caused the structural failure.
 
-Story 939
+Story 0939
 
 satyr — 萨堤尔；好色之徒incombustible — 不燃的；耐火的outbreak — 爆发；突然发生aggress — 攻击；挑衅risible — 可笑的；引人发笑的theism — 有神论advocacy — 拥护；倡导witling — 自作聪明者；傻瓜undergarment — 内衣；贴身衣物discolor — 使变色；褪色（亦作 discolour）
 
 The Fireproof Satyr
 During a sudden backstage outbreak of sparks from a faulty spotlight, a panicking witling in a satyr costume aggressively tried to aggress upon the lead fire marshal with completely risible claims about divine protection and local theism. Fortunately, the marshal's steadfast advocacy of treating the stage sets with incombustible chemical spray prevailed over the actor's frantic attempts to block her. The logic of her policy became instantly plain when the heat caused the actor's own cheap synthetic undergarment to visibly smoke and discolor, prompting him to move aside so the cast could safely evacuate the venue.
 
-Story 940
+Story 0940
 
 decagram — 十克；十克重perusal — 细读；审阅apparent — 明显的；表面上的retrogression — 倒退；退化；逆行invalid — 无效的；（名词）病弱者/伤残者；（形容词）无效的/过期的salvo — 齐射；（言语等的）一阵爆发/一阵喝彩constable — 警员；巡警；治安官pervasion — 遍布；渗透；弥漫foreshore — 前滩；海滩eject — 驱逐；弹出；驱离
 
 The Decagram on the Foreshore
 After a small vial containing a single decagram of a rare chemical powder washed onto the rocky foreshore, its rapid, apparent pervasion through the local tide pools deeply alarmed a convalescing, invalid naturalist living nearby. Her careful perusal of the discarded shipping container quickly revealed an invalid cargo manifest, prompting the harbor constable to move swiftly to eject the suspicious smugglers from the beach. He completed the asset seizure despite a loud salvo of angry public protests and a sudden wave of bureaucratic retrogression at city hall.
 
-Story 941
+Story 0941
 
 overpay — 多付；支付过多；（给……）过高的报酬interrogatory — 质问的；（名词法庭的）书面质问/质问书resurrection — 复活；复兴；（大写特指耶稣基督的）复活reproduce — 复制；繁殖；再现assonant — 元音和谐的；类韵的excretion — 排泄；排泄物tortious — 【法律】侵权的；构成侵权的satiric — 讽刺的； 挖苦的； 嘲讽的（亦作 satirical）suppressible — 可抑制的；可隐瞒的；可压制的sisterhood — 姐妹情谊；妇女团体；联合会
 
 The Satiric Sisterhood
 A highly articulate, satiric sisterhood of independent local theater performers successfully staged the public resurrection of a previously banned political play. They effectively utilized rhythmic, assonant crowd chants to reproduce vital legal testimony regarding a chemical corporation's history of tortious waste dumping. A formal courtroom interrogative later revealed that senior facility managers would routinely overpay their third-party yard guards to illegally bury toxic factory excretion, proving to the panel that the material evidence was neither suppressible nor a laughing matter.
 
-Story 942
+Story 0942
 
 contusion — 挫伤；撞伤；（软组织）淤伤statuesque — 雕像般优美的；高挑端庄的well-bred — 有教养的；出身名门的；（动物）良种的poesy — 诗歌；诗艺；诗才（古雅文学语）maidenhood — 少女时期；处女状态；纯洁期acetic — 醋酸的；似醋的conservatism — 保守主义；守旧；保守倾向truculence — 好斗；凶狠；野蛮粗暴refringency — 【物理】折射力；折光性；折射率Americanism — 美式用语；美国特色；美国化特征
 
 The Prism and the Poet
 A statuesque, highly well-bred university lecturer on the classical history of poesy elegantly recalled how her early maidenhood, traditional institutional conservatism, and one fiercely disputed dialectical Americanism had heavily shaped her breakthrough verse. When a disgruntled critic's sudden, rowdy truculence in the lecture hall caused a bleeding contusion across her arm, she remained completely composed. She calmly used an acetic cleaning solution to sterilize the wound, and utilized a nearby glass prism's raw refringency to precisely identify the compound of the broken dynamic chemical bottle that had struck her from the dark.
 
-Story 943
+Story 0943
 
 refer — 提及；转交；参考；指引（常与 to 连用）merciless — 无情的；残酷的；不留情面的abduction — 绑架；诱拐；【医学】（肢体等）外展postdate — 填迟日期；（在时间上）晚于……发生；远期valedictorian — 毕业致辞生；（学校的）优秀毕业生代表spinster — 未婚女子；（尤指年纪较大的）老处女；纺纱女工（旧称）uproot — 连根拔起； 根除； 驱逐出家园fixture — （固定在某处的）装置/设备；（特定地点的）常客/固定活动pentad — 五人组；五个一组；五年期persuade — 说服；劝服；使确信（常构成 persuade sb. to do）
 
 The Pentad's Missing Fixture
 The worried high school valedictorian formally requested the local police detectives to refer directly to the missing person file of an elderly neighborhood spinster, who had been a beloved, reliable fixture at every annual campus awards ceremony. Critical digital banking transaction records that significantly postdate her apparent public abduction quickly helped a dedicated pentad of her closest classmates persuade the active squad to completely uproot a merciless tabloid rumor regarding her safety. Their intervention successfully guided the team to find her volunteering happily at a secure charity shelter across town.
 
-Story 944
+Story 0944
 
 resemblance — 相似；相像；相似点（常与 between/to 连用）abomination — 可憎之物；厌恶；极其令人反感的事物wherever — 无论哪里；究竟哪里（连接副词/代词）divisor — 【数学】除数；约数；因子geniality — 和蔼；亲切；愉快温暖（亦作 genialness）preengage — 预先聘用；预先占用；预先约定（现常拼写为 pre-engage）melodious — 悦耳的；旋律优美的；响亮动听的hesitancy — 犹豫；踌躇；迟疑不决（亦作 hesitance）brokerage — 经纪业；（经纪人的）佣金/手续费；证券商ingratitude — 忘恩负义；不知感恩；过河拆桥
 
 The Melodious Divisor
 A high-profile corporate brokerage firm aggressively attempted to preengage an independent private math tutor whose unique, melodious learning rhyme beautifully explained the mechanical logic of each mathematical divisor. Her natural personal geniality quickly overcame the structural hesitancy of the children wherever the struggling students saw a clear, engaging resemblance between advanced mathematics and real-world coded financial trades. However, valuing her independence, she fiercely condemned the firm's unyielding ethical ingratitude toward its former veteran head tutor as an absolute moral abomination, flatly rejecting their contract offer.
 
-Story 945
+Story 0945
 
 complement — 补充；相配之物；足额；【语法】补语；（动词补充/与……相配）financier — 金融家；资本家；资助者；（动词提供资金）forcible — 强有力的；强制的；有效的；有说服力的ligament — 【解剖学】韧带；纽带；结合剂gnash — （因愤怒/痛苦而）咬牙/磨牙；（名词）咬牙/磨牙声（常构成 gnash one's teeth）nauseous — 令人恶心的；极其恶心的；引起呕吐的sequent — 随后的；作为结果的；连续的；（名词结果/连续）minute — 微小的；详细的；【数】分/分钟；（名词常复数 minutes 会议记录；动词记录）tactics — 策略；战术；兵法（复数名词，常作单数用）Milky Way — 银河；银河系（常大写
 
 The Milky Way）The Financier Under the Milky Way
 High up beneath the magnificent crystalline expanse of the Milky Way, a wealthy corporate financier unfortunately tore a major leg ligament during a hazardous, forcible night climb up the peak. Stranded in the dark, he began to frantically gnash his teeth in agonizing pain while enduring a nauseous chemical smell leaking from his survival pack. Fortunately, a series of minute footprints tracked in the frost combined with sequent light flashes from his emergency beacon beautifully complemented his guide's rescue tactics, safely leading the deployment team directly to him right before dawn.
 
-Story 946
+Story 0946
 
 indulgent — 宽容的；纵容的；放纵的betrothal — 订婚；婚约epizootic — 动物流行病；动物疫病的；（名词）动物流行病undeceive — 使醒悟；纠正……的错误认识；揭露真相evert — 使外翻；翻出；把……底朝上翻symmetrical — 对称的；匀称的；均衡的quadrate — 方形的；使适合；正方形；（动词使一致）antiphony — 轮唱；应答吟唱；对唱infirmary — 医务室；（学校、工场的）医院/疗养所denominator — 分母；共同特征；共同点
 
 The Antiphony at the Infirmary
 An indulgent veterinarian abruptly left her own family betrothal feast the moment a sudden livestock epizootic filled the facility infirmary with sick cattle. To quickly undeceive a panicked farmer who suspected a curse, she pointed to a symmetrical, quadrate diagnostic chart on the wall. She demonstrated that the common denominator across all the sick animals was a batch of contaminated commercial feed, and had him evert each empty canvas sack for inspection while the stable hands kept the rest of the livestock calm through a steady, rhythmic traditional antiphony.
 
-Story 947
+Story 0947
 
 masterpiece — 杰作；名著；代表作pentagram — 五角星形；五线谱；五角星魔圈consumptive — 肺病患者；消耗性的；（名词）痨病患者amatory — 爱情的；恋爱的；情爱的revisal — 修订；校订；修正（亦作 revision）innumerable — 无数的；数不清的；数不胜数的perturbation — 不安；扰动；（天体）摄动transmission — 传输；传播；（汽车）变速器/传动系统lacteal — 乳白色的；乳汁的；【解剖】乳糜管；（名词乳糜管）orate — 演说；高谈阔论；大发议论
 
 The Lacteal Pentagram
 A terminally ill, consumptive painter completed a striking, lacteal pentagram as the glowing centerpiece of what he knew would be his final artistic masterpiece. However, a bold, amatory handwritten dedication hidden along the border of the canvas immediately caused intense political perturbation among the museum's conservative patrons. Following a careful structural revisal of the catalog notes, the artist elegantly chose to publicly orate on the symbol's ancient astronomical meaning, and the live video transmission of his brilliant speech successfully reached innumerable art students across the country.
 
-Story 948
+Story 0948
 
 liniment — 擦剂；搽药；涂抹油adoration — 崇拜；爱慕；热爱anew — 重新；再度；以新方式arborescent — 树状的；枝状的；树状生长的knickknack — 小摆设；小玩意；华而不实的小物件（复数 knickknacks）salutatory — 致意的；欢迎词；（名词）欢迎辞/致欢迎辞的毕业生lascivious — 淫荡的；好色的；好色挑逗的excel — 擅长；胜过；优于（常与 in/at 连用）supplementary — 补充的；追加的；（名词常复数）增补物exhaustion — 筋疲力尽；耗尽；枯竭
 
 The Arborescent Knickknack
 Despite reaching a state of pure physical exhaustion after her long journey, a talented young curator flawlessly delivered her opening salutatory address regarding a rare, arborescent knickknack that had been recently discovered stashed backstage. She firmly rejected a wealthy, lascivious private collector's professed adoration and persistent underhanded purchase offers. Instead, she calmly applied a soothing herbal liniment to her sore wrist, and began her presentation anew with a wealth of supplementary empirical evidence that ultimately helped her excel in the national museum exhibition competition.
 
-Story 949
+Story 0949
 
 bowler — 圆顶礼帽；（板球）投球手；保龄球手genealogist — 系谱学家；族谱研究者impetuosity — 冲动；急躁；狂暴rationalism — 理性主义；唯理论proviso — 附带条件；限制条款；（法律）免责条款antiquary — 古物研究者；古董收藏家（复数 antiquaries）reconcilable — 可调和的；可和解的；一致的extradition — 引渡；【法律】（逃犯）引渡controller — 控制器；主管；调节器；财务总监（亦作 comptroller）incompetence — 无能；不胜任；不称职；【法律】无资格
 
 The Bowler in the Archive
 An archivist working as a part-time genealogist unexpectedly discovered a vintage felt bowler hat belonging to a high-profile fugitive antiquary inside a mislabeled storage box. However, her deep training in scientific rationalism quickly checked her initial impuissance and impetuosity to call the police. She noticed that the financial controller's digital entry records proved the man's two conflicting travel dates were perfectly reconcilable under a forgotten diplomatic transit proviso, successfully defeating a foreign government's heavy-handed extradition request that had been based entirely on sheer official incompetence.
 
-Story 950
+Story 0950
 
 joust — 骑士比武；竞争；（动词）持矛比武/竞争（亦作 tilt）reaction — 反应；反作用；（政治）反动/保守knight errant — 游侠骑士；侠客（复数 knights errant）flection — 弯曲；弯曲部分；【语法】词形变化（亦作 flexion）overpower — 制服；压倒；（情绪、气味等）使受不了autonomous — 自治的；自主的；独立自主的neology — 新词创造；新词；旧词新义（亦作 neologism）sophisticate — 使世故；【法律】掺假；（名词）老于世故者/精明人hypnotism — 催眠术；催眠状态hawthorn — 山楂；山楂树
 
 The Knight Errant's Neology
 At a crowded, autonomous village heritage fair, a self-styled historical knight errant boldly coined a strange linguistic neology right before staging a theatrical joust directly beneath an ancient hawthorn tree. However, his highly exaggerated physical vocal flection and clumsy attempts at audience stage hypnotism completely failed to overpower or impress a sharp, young city sophisticate standing near the barrier. Her genuinely amused, unbothered reaction instantly exposed the entire competitive contest to the surrounding crowd as nothing more than cheap local street theater.
 
-Story 951
+Story 0951
 
 millet — 小米；粟crucible — 坩埚；严峻考验；（各种力量的）熔炉pantoscope — 全景镜；广角观察仪；全景照相机syndicate — 辛迪加；企业联合组织；（大写）财团；（动词）联合出版/联合组成biography — 传记；传记文学（复数 biographies）synonym — 同义词reformer — 改革者；改良派biograph — 早期电影放映机；传记作者；（动词）写传记piccolo — 短笛；（形容词）微型的intoxicant — 致醉物；酒类；麻醉剂；（形容词）使人陶醉的
 
 The Piccolo and the Biograph
 A dedicated agricultural reformer screened an archival history biography using a battered, hand-cranked vintage biograph projector. Meanwhile, a high-pitched live piccolo beautifully accompanied the silent cinematic scenes showing multi-generational millet farmers facing a ruthless trading syndicate. Through a panoramic pantoscope lens, the gathering viewers clearly saw a chemical intoxicant being hidden inside a production smelting crucible, and no polite corporate synonym from the firm's lawyers could soften the raw visual evidence of industrial sabotage.
 
-Story 952
+Story 0952
 
 commissariat — 军需部门；粮秣供应部门；（前苏联的）人民委员部deform — 使变形；损毁；使变丑exorbitance — 过度；价格过高；无节制prediction — 预测；预言；预报abrasion — 擦伤；磨损；磨蚀处juggle — 耍把戏；篡改（数据）；玩弄（花招）；（动词常构成 juggle accounts）percipience — 洞察力；感知能力；敏锐（亦作 percipiency）freemason — 共济会会员；（大写石匠共济会成员）tilth — （土壤的）耕作状况；耕地；深耕promiscuous — 混杂的；随意的；男女滥交的
 
 The Freemason's Prediction
 A master stone freemason serving the military logistics commissariat utilized his uncommon technical percipience to accurately issue a warning prediction that the transport firm's promiscuous commercial dumping would permanently deform the area's rich agricultural tilth. When the crooked supply subcontractors tried to frantically juggle their delivery invoices and dishonestly blame the visible land abrasion entirely on regular iron farm tools, his detailed layout records exposed both the long-term ecological damage and the sheer, criminal exorbitance of their corporate charges.
 
-Story 953
+Story 0953
 
 dissentient — 持异议者；反对的fraudulence — 欺诈性；不诚实tactician — 战术家；谋略家outright — 完全地；直截了当地scholarly — 学术的；博学的linear — 线性的；直线的burgher — 市民；城镇居民frankincense — 乳香defiant — 挑衅的；不服从的chivalry — 骑士精神；彬彬有礼
 
 The Frankincense Route
 A dissentient burgher formally challenged the fraudulence of a defiant merchant's long-standing claim to an exclusive frankincense route. Working behind the scenes, a scholarly tactician painstakingly mapped out the route's linear progression, proving the merchant's ancient charts to be an outright forgery. Ultimately, the burgher showed far more chivalry in his legal victory than the city council had expected, ensuring the disgraced merchant was spared complete financial ruin.
 
-Story 954
+Story 0954
 
 logician — 逻辑学家；对推理者acquittance — 清偿证明；债务解除tense — 紧张的；时态outdo — 胜过；超越sapiential — 智慧的；表达智慧的Newtonian — 牛顿的；牛顿学说的Anglophobia — 恐英症；反英情绪refragable — 可反驳的；可驳倒的thoroughfare — 大道；通道；主要集市niggardly — 吝啬的；小气的
 
 The Logician on the Thoroughfare
 A tense logician stood before a gathering crowd on the busy thoroughfare and confidently produced a valid debt acquittance. She calmly answered a niggardly lender's aggressive outbursts of Anglophobia with exceptional, sapiential restraint. Her clear, Newtonian demonstration of fluid mechanics did not merely outdo his theatrical street spectacle, but effortlessly proved his supposedly refragable structural argument completely false.
 
-Story 955
+Story 0955
 
 zealot — 狂热者；热心者resource — 资源；机智；谋略garrison — 驻军；守备部队sufferance — 容忍；默许navel — 肚脐；中心；核心部位trebly — 三倍地；以高音physique — 体格；体形penetrable — 可穿透的；可理解的amphitheater — 圆形露天剧场；竞技场（亦作 amphitheatre）whereabouts — 下落；所在之处
 
 The Echo in the Amphitheater
 A political zealot managed to escape the heavily guarded military garrison by the quiet sufferance of a sympathetic guard, hiding directly near the stone navel of an ancient ruins amphitheater. However, his secret whereabouts quickly emerged when the venue's natural acoustics trebly amplified his late-night singing. Despite his imposing physical physique, the penetrable reed screen he hid behind offered no real protection, and the capturing captain's chief resource during the standoff was simply patience.
 
-Story 956
+Story 0956
 
 Iliad — 《伊利亚特》preexistence — 先存；前世reducible — 可简化的；可还原的prophesy — 预言；预示hussar — 轻骑兵creed — 信条；纲领sergeant — 中士；警佐nationality — 国籍；民族身份witless — 愚蠢的；无知的confectionery — 糖果店；甜食
 
 The Hussar's Confectionery
 A retired hussar opened a quiet neighborhood confectionery where an old sergeant would routinely read passages from the Iliad aloud to visitors. Absolutely no rigid political creed or shared nationality determined who received his artisanal sweets. Although a witless local critic continually claimed the epic poems secretly prophesy spiritual preexistence, the shop owner firmly maintained that their raw, ancient grief was entirely reducible to ordinary human loss.
 
-Story 957
+Story 0957
 
 gigantic — 巨大的；庞大的genitive — 所有格；属格的；（名词属格）decalogue — 十诫；十条准则（亦作 Decalogue）Achillean — 阿喀琉斯的；英勇的territorial — 领土的；地域性的abbess — 女修道院院长translucence — 半透明；透光性（亦作 translucency）encyclical — 教皇通谕；通告的；（名词教皇通谕）rigorous — 严谨的；严格的inestimable — 无法估量的；极宝贵的
 
 The Translucent Decalogue
 An esteemed abbess conducted a rigorous structural study of a gigantic artifact tablet, whose natural quartz translucence beautifully revealed a hidden genitive case ending beneath an engraved Achillean battle scene. A previously published papal encyclical had mistakenly mislabeled the stone piece as a mere territorial decalogue code, but her brilliant, precise textual correction instantly gave the ancient museum fragment an inestimable value.
 
-Story 958
+Story 0958
 
 corrigible — 可改正的；能改善的allot — 分配；拨给invasion — 入侵；侵袭；（植物的）大面积漫延protector — 保护者；保护装置resonance — 共鸣；回响；【物理】共振salience — 显著性；突出suggestible — 易受暗示的dissension — 分歧；争执stagnation — 停滞；不流动illumine — 照亮；启发；使明亮
 
 The Resonant Floodgate
 Hoping to end severe water stagnation following a sudden invasion by aggressive river weeds, the appointed protector of the wetlands used acoustic resonance to locate a blocked underground floodgate. Its physical salience on her tracking screen helped to beautifully illumine a simple, corrigible structural design flaw in the valve. She firmly refused to allot any administrative blame to her suggestible young student volunteers, effectively preventing further political dissension inside the department.
 
-Story 959
+Story 0959
 
 callosity — 老茧；冷酷无情；（生物的）胼胝体lordling — 小贵族；傲慢的年轻贵族codicil — 遗嘱附录non-resident — 非居民；不常住的；（名词非居民）dun — 催款；灰褐色的；（动词催款/纠缠）deist — 自然神论者realism — 现实主义；务实态度judiciary — 司法机构；法官系统；（形容词司法的）mordacious — 尖刻的；爱咬人的；（痛楚等）剧烈折磨人的ruth — 怜悯；同情（古雅语）
 
 The Dun Codicil
 A characteristically mordacious young lordling tried to aggressively dun a struggling, non-resident deist over a heavily disputed family estate codicil. However, the presiding regional judiciary explicitly valued practical, down-to-earth realism far over inherited social rank. Taking note of the honest laborer's thick callosity from years of hand-ploughing, the judge showed immense personal ruth and decisively ruled that the baseline debt had already been legally paid in full.
 
-Story 960
+Story 0960
 
 righteousness — 正义；正直；公道predict — 预测；预言mentality — 心态；思维方式；思想特征litigious — 好诉讼的；好打官司的dissatisfy — 使不满；未满足fancier — 爱好者；行家；（动植物）饲养家accession — （权位等的）就职；增加；增添物belay — 系牢；（命令）停止；（用绳）拴住reprehension — 谴责；非难；指责encamp — 扎营；露营
 
 The Fancier's Belay
 A highly litigious bird fancier chose to encamp directly below the steep mountain cliffs immediately following the new mayor's formal accession. His stubborn, vocal mentality of self-righteousness drew severe reprehension from the forestry service when he aggressively attempted to belay a popular public trail by stringing private fences across the rocks. Local rangers predict that any permanent trail closure implemented without rigorous empirical evidence will heavily dissatisfy the region's hiking community.
 
-Story 961
+Story 0961
 
 recollect — 回忆；想起；记起Christendom — 基督教世界；整个基督教教会recognizance — 【法律】保证书；具结；（以财产等抵押的）守法保证（常构成 release on recognizance）immeasurable — 不可估量的；无限的；极大的（亦作 immeasurable / 英式：immeasurable）prosody — 韵律学；诗体学；作诗法brethren — 弟兄；同道；（教友、会友的）同胞（复数形式）masonry — 砖石结构；石造建筑；（大写）共济会inconstant — 多变的；不忠的；易变的declarative — 陈述的；宣告的；【语法】陈述句的demonstrator — 示范者；示威者；（新产品的）展示样品
 
 The Mason's Declarative Verse
 Released on a formal legal recognizance, an independent political demonstrator calmly asked his union brethren to closely recollect how masterfully crafted stone masonry had preserved historic folk poems across early Christendom. His sweeping, declarative afternoon lesson in classical lyric prosody gave immeasurable emotional comfort to the striking workers, even though an inconstant acoustic echo inside the courtyard caused every final spoken syllable to softly waver in the wind.
 
-Story 962
+Story 0962
 
 multiform — 多种形式的；多形的；多样化的deject — 使沮丧；使低落；使灰心（常作过去分词 dejected）inquire — 询问；调查；打听（亦作 enquire）votive — 还愿的； 奉献的； 许愿的dissever — 分开； 割裂； 分离； 解体incoercible — 不可强制的；不受约束的；【物理】不能液化的low-spirited — 情绪低落的；沮丧的；无精打采的decagon — 十边形；十角形adhesion — 黏附；依附；支持；【医学】（组织）粘连obstruction — 阻碍；堵塞；妨碍物；（体育等）阻挡
 
 The Votive Decagon
 A low-spirited museum conservator came to the sanctuary to carefully inquire exactly why a historic, votive decagon mosaic panel had suddenly cracked down the center. Her micro-analysis proved that multiform underground mineral salts had severely weakened the ancient mortar's chemical adhesion. Although the unexpected structural obstruction would understandably deject the board of trustees, she firmly warned them that any rash attempt to dissever the fragile clay tiles by sheer force would meet the unyielding, incoercible resistance of the surrounding original foundation bed.
 
-Story 963
+Story 0963
 
 creak — 嘎吱作响； 吱嘎声； （名词） 吱嘎声urgency — 紧迫； 急迫性； 催促endear — 使受喜爱； 使亲近（常与 to 连用）foresee — 预见； 预知； 预料inextensible — 【物理】 不可伸长的； 不能扩展的； 刚性的mythology — 神话； 神话学； 神话集misapprehend — 误解； 误会； 误认felonious — 【法律】 重罪的； 邪恶的； 极严重的differential — 差别的； 特异的； 【数/ 机械】 微分/ 差速器； （名词微分/ 差速器）inapprehensible — 无法理解的； 不可领会的； 模糊不清的
 
 The Creak Beneath the Mythology Hall
 A subtle, anomalous differential creak detected during routine floor scans gave structural engineers enough operational urgency to confidently foresee a catastrophic tensile failure in an inextensible overhead suspension cable directly above the grand classical mythology hall. Incoming museum visitors could easily misapprehend the sudden emergency building evacuation as a piece of immersive promotional street theater. However, the head curator's calm, witty humor under pressure helped heavily endear her to the crowd, and a subsequent forensic inspection revealed malicious, felonious cable damage whose true political motive remained entirely inapprehensible to detectives.
 
-Story 964
+Story 0964
 
 frightful — 可怕的； 极糟的； 惊人的； 骇人听闻的barograph — 【气象】 气压记录仪overrun — 泛滥； 占领； 漫延； 超过（时间/ 预算）； （名词泛滥/ 超额）drachma — 德拉克马； 打兰（古希腊及现代希腊在欧元前的货币单位/ 重量单位； 复数 drachmas 或 drachmae）tolerable — 可容忍的； 尚可的； 还可以的； 还可以忍受的Antichrist — 反基督者； 大恶人； 伪基督（亦作 antichrist）inapt — 不合适的； 不善于的； 笨拙的； 不恰当的irritant — 刺激物； 恼人之事； 刺激因素； （形容词刺激性的）philander — （男子） 玩弄女性； 调情； 乱搞男女关系（名词指玩弄女性者）amply — 充分地； 宽敞地； 丰富地； 详尽地
 
 The Barograph in the Tavern
 A highly sensitive digital barograph inside the harbor office amply documented the onset of the frightful sub-zero storm as the river waters began to completely overrun a riverside tavern. Inside the crowded lounge, a highly inapt young theater actor continuously tried to clumsily philander with the staff while wearing his full stage costume for playing the historical Antichrist. The sudden spreading fireplace smoke soon became a harsh physical irritant to the room, but a single spare silver drachma coin bought him a tolerable, dry room upstairs until the flood waters finally receded.
 
-Story 965
+Story 0965
 
 inflexible — 不灵活的； 不妥协的； 坚定的； 刚性的endurance — 耐力； 忍耐； 持久力； 持续（时间）judicature — 司法； 司法机构； 法官职务； 司法权lovable — 可爱的； 讨人喜欢的； 惹人爱怜的（亦作 loveable）skeptic — 怀疑者； 怀疑论者； 无神论者（英式拼写：sceptic）forby — 此外； 在附近； 在……旁边（副词/ 介词，主要用于苏格兰及英格兰北部方言，亦作 forbye）pledgee — 【法律】 质权人； 受质人； 债权人（指接受抵押品的人）incomparable — 无与伦比的； 不可比的； 无双的inefficiency — 低效； 无效率； 无能； 不称职prohibitory — 禁止的； 禁制的； 限制性的（亦作 prohibitive）
 
 The Pledgee Forby the Court
 A remarkably cheerful, lovable local skeptic waited patiently forby the stone steps of the old county judicature building as an independent business pledgee prepared to legally challenge an inflexible, prohibitory asset seizure order. Her incomparable personal endurance throughout the grueling four-hour hearing successfully exposed the tracking clerk's systemic administrative inefficiency, and the court officially restored the man's pledged vintage violin to his possession long before sunset.
 
-Story 966
+Story 0966
 
 impracticable — 不切实际的； 行不通的； 不能实行的； （道路等） 不能通行的volitive — 意志的； 表示意愿的； 【语法】 愿望的sufficiency — 充足； 足量； 充裕； 自负自满workmanship — 工艺； 手艺； 技巧； 制造质量inglorious — 不光彩的； 可耻的； 默默无闻的circumnavigate — 环航； 绕行； 避开（问题法条）vaudeville — 杂耍歌舞； 综艺演出； 轻歌剧exclusion — 排除； 拒绝； 排斥； 被排斥在外（常与 from 连用）submersible — 潜水器； 可潜水的潜艇； （形容词） 可潜入水中的/ 可潜水使用的exegesis — （对文本、圣经的） 注释； 诠释； 批判性阐述（复数形式为 exegeses）
 
 The Vaudeville Submersible
 A traveling vaudeville comedy troupe boldly attempted to circumnavigate the rugged perimeter of the island inside a homemade, uncertified diving submersible. However, an independent marine engineer's rigorous technical exegesis of the vessel's remarkably poor metal workmanship quickly proved the entire promotional plan to be utterly impracticable. He professionally described their frantic insistence on continuing the stunt as purely volitive and emotional rather than rational, warning the actors that mere stage courage could never ensure physical oxygen sufficiency at depth. Ultimately, the port authority's strict exclusion of the craft from the harbor safely prevented an inglorious and highly preventable disaster.
 
-Story 967
+Story 0967
 
 laudation — 赞美；颂词impersonal — 非个人的；冷淡的specialty — 专长；特色产品（亦作 speciality）troublesome — 麻烦的；棘手的fernery — 蕨类园；蕨类温室duplex — 双层住宅；双工的transferable — 可转让的；可迁移的technic — 技术；技巧；专门手法penitential — 忏悔的；赎罪的rotary — 旋转的；转盘式的
 
 The Rotary Fernery
 In a duplex fernery, a botanist's engineering specialty was a unique rotary irrigation technic whose transferable modular parts made structural repairs easy. After an impersonal city inspector issued a troublesome and pedantic safety citation against the facility, the botanist's subsequent, penitential correction of the valves earned far less public laudation than his vibrant, pristine exotic plants actually deserved.
 
-Story 968
+Story 0968
 
 liege — 君主；宗主；臣属的manumission — 解放奴隶；脱离奴役disallow — 不准许；驳回extensive — 广泛的；大量的wretchedness — 苦难；悲惨tannery — 制革厂lactation — 泌乳；哺乳期consignee — 收货人；受托人saline — 盐水；含盐的continuation — 延续；续篇；持续
 
 The Consignee's Petition
 An independent corporate consignee formally petitioned her liege to disallow the long-standing continuation of forced labor conditions at a sprawling, extensive commercial tannery. Runoff saline chemical waste from the facility had caused deep, systemic wretchedness among nearby nursing families by severely disrupting their livestock's seasonal lactation cycles, and the undeniable empirical data in her petition finally secured the workers' legal manumission.
 
-Story 969
+Story 0969
 
 poetic — 诗意的；诗歌的cantonment — 驻军地；兵营violator — 违反者；侵犯者annual — 每年的；年刊；年鉴breech — （枪炮的）后膛；臀部；臀位manlike — 有男子气概的；像人的premier — 首相；总理；首要的bestrew — 撒满；散布inconsistent — 不一致的；反复无常的outlast — 比……持久；熬过
 
 The Annual at the Cantonment
 Distributed throughout the military cantonment, a highly poetic annual journal prominently portrayed a manlike copper automaton reloading an artillery breech. The regional premier immediately called the graphic illustration inconsistent with their active peace treaty. However, its independent editor fiercely argued that historical pages bestrew the library archive with necessary anti-war warnings, and that honest art would always outlast both the weapon and its short-sighted political violator.
 
-Story 970
+Story 0970
 
 peaceable — 和平的；温和的disputation — 争论；辩论degeneracy — 堕落；退化peter — 逐渐枯竭；渐渐消失（常与 out 连用）possessive — 占有欲强的；【语法】所有格的；（名词所有格）afoot — 在进行中；步行地polygamy — 一夫多妻制；多配偶制poetaster — 蹩脚诗人significance — 重要性；意义insufficiency — 不足；不充分
 
 The Poetaster's Disputation
 A peaceable public disputation was actively afoot at the university when an arrogant, possessive local poetaster loudly claimed that historical polygamy proved a culture's innate degeneracy. His grand baseline argument began to quickly peter out once a veteran historian exposed the severe structural insufficiency of his library sources and explained the true, practical socio-economic significance of the ancient marriage records.
 
-Story 971
+Story 0971
 
 becalm — 使（帆船）因无风而停航；使平静prominence — 突出；声望；卓越quarto — 四开本；四开pollute — 污染；玷污calculable — 可计算的；可预料的reminiscence — 回忆；追忆；怀旧chiffon — 雪纺绸；薄绸transfusion — 输血；输液；注入correlate — 相互关联；（名词相关物）vigilance — 警觉；警戒
 
 The Chiffon Quarto
 An old sailor's private quarto volume securely held a faded chiffon ribbon and a vivid, handwritten reminiscence of the sub-zero storm that had once completely becalmed his ship in the Atlantic. Decades later, his sharp vigilance successfully helped attending hospital doctors correlate local polluted harbor water with a rapid, calculable fall in a patient's baseline red blood cell counts, and his own emergency donation for a blood transfusion brought the quiet witness unexpected prominence in the medical community.
 
-Story 972
+Story 0972
 
 avidity — 渴望；贪婪；热心joggle — 轻摇；微震；（木工/石工）榫接；（动词轻摇/榫接）theology — 神学；宗教理论urbanity — 彬彬有礼；都市生活；儒雅emporium — 商场；大商店；大型零售中心reproduction — 复制品；繁殖；再现perfectible — 可完善的；能改进的preordain — 预先注定；预定（现常作 pre-ordain）lyre — 里拉琴；古希腊竖琴pauperism — 贫困；贫民状态
 
 The Lyre at the Emporium
 Standing inside a crowded commercial emporium, an independent scholar of historical theology showed immense personal urbanity when a small child accidentally began to joggle a high-value museum reproduction of an ancient golden lyre. Firmly rejecting the archaic, unyielding societal idea that an individual's birth conditions must permanently preordain them to a life of structural pauperism, she warmly praised the boy's raw avidity to learn and called every human artistic talent naturally perfectible over time.
 
-Story 973
+Story 0973
 
 Canaanite — 迦南人；迦南的competent — 胜任的；有能力的infidel — 异教徒；不信宗教者adjutant — （军队的）副官；助手makeup — 构成；成分；化妆品incipience — 开端；初始（亦作 incipiency）append — 附加；增补；添加seismograph — 地震仪esquire — 先生；乡绅（旧时对地主的尊称，大写缩写为 Esq.）apposition — 【语法】同位关系；并置；并列
 
 The Canaanite Tablet
 A highly competent military adjutant requested the chief museum curator, Esquire Hale, to immediately append real-time digital seismograph readings to their administrative report on a newly excavated Canaanite stone tablet. Right at the sudden incipience of the subterranean tectonic tremor, the artifact's mineral makeup microscopically shifted under the lens, placing the ancient glyph for “king” in direct grammatical apposition to a baseline name that previous scholars had callously dismissed as mere infidel graffiti.
 
-Story 974
+Story 0974
 
 counting-house — 账房；会计室（亦作 countinghouse）left-handed — 左撇子的；笨拙的；有别有用心的felicity — 幸福；恰当；（言语等的）巧妙protoplasm — 原生质；细胞质dishabille — 衣冠不整；便服状态auricle — 耳廓；【解剖】心耳comparative — 比较的；相对的；【语法】比较级；（名词比较级）gradient — 坡度；倾斜度；【物理/数】梯度enfranchise — 给予（公民权/选举权）；解放unlawful — 非法的；不合法的
 
 The Left-Handed Clerk
 A naturally left-handed research clerk rushed straight into the company counting-house in complete dishabille, carrying an urgent comparative analytical chart detailing hazardous chemical toxin gradients discovered in local fish cellular protoplasm. With admirable verbal felicity, she linked a specimen's torn cardiac auricle directly to a factory's history of unlawful offshore waste dumping, successfully gathering the data needed to permanently enfranchise local dockworkers who had been previously denied an administrative vote on the beach cleanup budget.
 
-Story 975
+Story 0975
 
 Norman — 诺曼人的；诺曼人jugglery — 戏法；欺骗；魔术；耍花招precedential — 可作先例的；有先例作用的；优先的contender — 竞争者；争夺者priory — 小修道院；隐修院（级别低于 abbey）venereal — 【医学】性病的；性交的liberalism — 自由主义；开明思想sympathetic — 同情的；有同情心的；【解剖】交感神经的paralysis — 瘫痪；麻痹；（活动的）彻底停顿impliable — 可暗示的；可由含义推出的
 
 The Norman Priory Hearing
 A wealthy Norman contender aggressively accused an independent village priory medical clinic of baseline logistical jugglery after a patient's untreated venereal blood infection unfortunately caused a sudden, acute lower limb paralysis. However, a highly sympathetic presiding district judge found that administrative legal fault was absolutely not impliable from the hospital's meticulously filed chart records. Her landmark, precedential ruling beautifully joined progressive social liberalism with strict empirical evidence, successfully preserving high-quality free care for the valley's poor.
 
-Story 976
+Story 0976
 
 transalpine — 阿尔卑斯山以北的；越过阿尔卑斯山的vegetation — 植被；植物生长；草木medallion — 大奖章；圆形饰物；圆形浮雕toleration — 宽容；容忍；（宗教）宽容法令constituency — 选区；支持群体；选民intrusion — 闯入；侵扰；【地质】侵入enkindle — 点燃；激起；煽动immovable — 不可移动的；坚定的；固执的subconscious — 潜意识的；下意识；（形容词）潜意识的missal — 弥撒经书；祈祷书
 
 The Missal Beneath the Medallion
 A transalpine scholar discovered an ancient handwritten missal buried directly beneath an immovable iron medallion on the church grounds, right where overgrown mountain vegetation had completely concealed signs of a previous illegal intrusion. Realising that the historical discovery would easily enkindle her constituency's subconscious fears of an ancient property curse, she calmly urged mutual toleration among the local parishes and published her empirical transcript data without assigning personal blame.
 
-Story 977
+Story 0977
 
 Elizabethan — 伊丽莎白时代的；伊丽莎白一世的；（名词）伊丽莎白时代的人ceremonial — 仪式的；典礼的；（名词）仪式/礼仪loneliness — 孤独；寂寞；荒凉eccentricity — 古怪；怪癖；【数/天】偏心率/离心率bric-a-brac — 小古董；零星的艺术古玩；杂物collegian — 大学生；学院成员mulatto — 黑白混血者；（形容词）黑白混血的resistive — 抵抗的；有抵抗力的；【物理】电阻的excrescence — 赘生物；（想法等的）多余之物/毒瘤indolence — 懒惰；懒散；无痛性
 
 The Elizabethan Cabinet
 A dedicated university collegian who was carefully cataloging a collection of Elizabethan bric-a-brac unexpectedly discovered a ceremonial mask depicting a prominent mulatto courtier from the 16th century. Tucked deep beneath a thick, unsightly excrescence of centuries-old scaling wax, a hidden, flexible resistive wire beautifully recorded the original artist's complex technological eccentricity and profound emotional loneliness, completely overturning previous museum claims that sheer artisan indolence had left the luxury storage cabinet unfinished.
 
-Story 978
+Story 0978
 
 abidance — 遵守；持续；居住inadvisable — 不明智的；不可取的；不妥当的necromancer — 巫师；招魂者；通灵恶棍privity — 私下知情；【法律】（同一权利或利益主体的）法律关系/私利mystification — 迷惑；故弄玄虚；神秘化pamphleteer — 小册子作者；宣传册撰写者；（动词撰写小册子）theocrasy — 神性融合；诸神融合；神体混合surround — 包围；环绕；（名词环绕周围的装饰）therefor — 为此；作为其交换；因那（注意区别 therefore）revoke — 撤销；废除；【卡牌】不跟同花牌；（名词废除/不跟牌）
 
 The Pamphleteer's Revocation
 An independent political pamphleteer who was legally in privity with a supposed local necromancer publicly exposed the extensive financial mystification that had long surrounded the secret sect's controversial doctrine of corporate theocrasy. She forcefully demonstrated to the town council that further strict abidance by their land-grant oath was highly inadvisable for the community. Convinced by her data, the magistrates voted to immediately revoke the organization's charter and seize back the valley land that had been given in exchange therefor.
 
-Story 979
+Story 0979
 
 paternal — 父亲的；父系的；父亲般的；慈祥的deponent — 【法律】宣誓作证者；【语法】异相动词；（形容词作证的/异相的）coincident — 同时发生的；一致的；相符的federate — 结盟；联合；（形容词）联邦的/同盟的；（名词同盟国成员）persecution — 迫害；骚扰；烦扰abdomen — 腹部；【昆虫】后腹部apology — 道歉；辩护；辩白书harmonious — 和谐的；协调的；悦耳的graceless — 不优雅的；粗鲁的；不体面的unavoidable — 不可避免的；必然的；不能逃避的
 
 The Deponent's Apology
 An unflappable court deponent clearly described to the jury how a paternal territorial governor had aggressively tried to forcibly federate the independent local villages right after a series of coincident border raids. His clumsy, graceless apology on the steps could not erase years of systemic political persecution or the deep physical shrapnel scar running straight across her abdomen. However, a comprehensive, harmonious out-of-court settlement became completely unavoidable for the state once every single eyeball witness spoke on the stand.
 
-Story 980
+Story 0980
 
 revocation — 撤销；废除；取消sublingual — 【医学】舌下的；舌下腺的；（名词舌下腺/舌下药）unutterable — 难以言表的；完全的；极可恶的invariable — 不变的；恒定的；（名词【数】不变量/常数）centiliter — 厘升（美式拼写：centiliter / 英式：centilitre）divisible — 可整除的；可分割的；可划分的（常与 by 连用）incapacity — 无能力；无资格；【法律】无行为能力elasticity — 弹性；灵活性；伸缩性desiccant — 干燥剂；（形容词使干燥的）polyarchy — 多头统治；多元政治；多头政治
 
 The Sublingual Dose
 During the polyarchy's chaotic emergency medical council session, a field physician carefully measured out exactly one centiliter of fluid sublingual medicine directly beside a ruptured corporate desiccant safety packet. The liquid dose was technically safely divisible for multiple minor treatments, but its invariable chemical potency combined with the elderly patient's sudden physical incapacity made any flexible dosage elasticity exceptionally unsafe. The risk prompted an immediate, formal revocation of the treatment order amid a wave of unutterable relief across the clinic.
 
-Story 981
+Story 0981
 
 beatify — 【宗教】（教皇）为……宣福；使享福；使极为幸福statics — 【物理】静力学；静电学；静态平衡inexcusable — 不可原原谅的；无可辩解的；糟透的bier — 棺架；灵柩；尸台louse — 虱子；卑鄙小人；寄生虫（复数形式为 lice）trinity — 三位一体；三人组；三件套（大写特指基督教的三位一体 The Trinity）strait — 海峡；（常复数 straits）困境/窘境；（形容词狭窄的/严格的）alienable — 【法律】可转让的；可让渡的fez — 菲斯帽（一种红色的土耳其无檐毡帽）refringent — 【物理】折射的；使折射的；有折光力的
 
 The Fez Beside the Bier
 At a solemn funeral service held on the cliffs beside the windy ocean strait, a close-knit trinity of structural engineers used principles of static mechanics and a high-precision refringent optical lens to prove that a red wool fez had fallen from the wooden bier long before the main burial procession had even commenced. In their final report, they noted that publicly blaming a grieving mourner for a stray louse found inside the fabric was completely inexcusable, passionately reminding the town trust that basic human dignity is not an alienable asset and that cruel neighborhood rumor can never beatify the dead.
 
-Story 982
+Story 0982
 
 spinous — 多刺的；棘状的；【生物】突出的seclusion — 隐居；隔绝；孤立状态（常构成 live in seclusion）leonine — 狮子般的；威严的；像狮子的defensible — 可辩护的；有正当理由的；可防守的（亦作 defensible）radiance — 光辉；容光；（情感等）洋溢/流露（亦作 radiancy）hydrostatics — 流体静力学；水力学（作单数用）gourd — 葫芦； 葫芦科植物； 葫芦制成的瓢/ 容器indicant — 指示物； 标志； 【医学】 指征； （形容词指示的）kingship — 王权；君主身份；君主统治obstetrics — 产科学；助产术（作单数用）
 
 The Midwife's Royal Test
 Emerging from years of quiet rural seclusion with an immense, leonine professional confidence, the visiting royal physician used simple laws of fluid hydrostatics and a hollowed-out wild gourd to elegantly demonstrate a new, non-invasive spinous birthing tool to the skeptical medical board. Her fluid design was a clear, unmistakable indicant of sound, progressive clinical obstetrics. Ultimately, the healthy mother's subsequent glowing facial radiance made the physician's core humanist argument—that absolute kingship should always actively protect human life—seem thoroughly defensible to the court.
 
-Story 983
+Story 0983
 
 anticlimax — 扫兴的结局；虎头蛇尾；【修辞】突降法（亦作 anti-climax）finality — 终结性；定局；确定性；（言行的）断然/断定reliquary — 圣物匣；遗物盒；圣骨匣（复数 reliquaries）narrate — 叙述；讲述；作旁白解说aborigines — 土著居民；（特定地区的）原住民（常作大写 Aborigines 特指澳大利亚原住民）counter-claim — 反诉；相反的主张；（动词提出反诉，亦作 counterclaim）antilogy — 自相矛盾；前后矛盾；言行不一suppression — 压制；隐瞒；（情感等）抑制；【医学】（排泄等）停止nowadays — 如今；现今；时下（副词，不可用作形容词）occasion — 场合；时机；重大活动；（动词引起/致使，常构成 on the occasion of）
 
 The Empty Reliquary
 On the prestigious occasion of the grand municipal museum's reopening gala, the independent archivist Mara formally agreed to host the stream and narrate how the region's ancient aborigines had successfully protected a gold-plated reliquary during the war. However, a local tribal descendant's sudden, documented counter-claim during the live panel completely exposed a glaring historical antilogy inside the facility's official written account. She demonstrated that nowadays the supposed wartime theft is widely known to have been a deliberate administrative act of bureaucratic suppression by previous curators, making the final unsealing of the empty box to the crowd a deeply disappointing anticlimax rather than a grand, historic act of closure and finality.
 
-Story 984
+Story 0984
 
 plea — 请求；抗辩；借口septennial — 七年一次的；持续七年的inhospitable — 荒凉的；不友好的foot-note — 脚注；附注（亦作 footnote）preferential — 优先的；优惠的；特惠的gendarme — 宪兵；（法国等国的）警察corruptible — 易腐化的；可收买的；易败坏的bestride — 跨坐；横跨；跨过nowhere — 无处；哪里都不；（名词无处/不知名的地方）colloquialism — 口语表达；俗语；口语体
 
 The Pass at Seven Years
 At the septennial border infrastructure review, a towering gendarme seemed to bestride the narrow, inhospitable mountain pass like an unyielding stone statue. However, Lina's formal legal plea successfully cited an obscure treaty foot-note that explicitly granted her research team preferential passage through the zone. Her use of a local, casual colloquialism initially got her nowhere with the strict perimeter guards, until she verified her entry logs and proved beyond doubt that the seemingly corruptible guard on duty had actually refused every single corporate bribe offered that morning.
 
-Story 985
+Story 0985
 
 payee — 收款人；受款人speculator — 投机者；推测者；投机买卖钻营者Renaissance — 文艺复兴；（大写名词文艺复兴 / 形容词文艺复兴时期的）noiseless — 无声的；安静的；不发出声音的contribution — 贡献；捐款；稿件；促成因素curable — 可治愈的；可矫正的alley — 小巷；胡同；（保龄球等的）球道；走廊（复数 alleys）propeller — 螺旋桨；推进器wizen-faced — 面容干瘪的；饱经风霜而多皱纹的面孔的later — 后来；较晚的；（形容词较晚的/以后的）
 
 The Workshop in Lantern Alley
 A wizen-faced real estate speculator cautiously entered the dark alley seeking the original payee of his anonymous charitable contribution, only to find a massive, noiseless ventilation propeller smoothly turning directly above a restored Renaissance stone fountain. Later that afternoon, its independent inventor clearly demonstrated to him that the automated device powered a free community medical clinic, where an outbreak of what was once considered a fatal tropical wilderness fever was now completely curable.
 
-Story 986
+Story 0986
 
 misogyny — 厌女；仇视女性；反感女性transcontinental — 横贯大陆的；跨越大陆的nameless — 无名的；不可名状的；匿名的；无名无分的lifelong — 终身的；毕生的；一辈子的obsolescent — 逐渐淘汰的；即将过时的；（生物）退化的concurrence — 同意；赞同；同时发生；因缘协同telescope — 望远镜；（动词使套叠/缩短/压缩时间）alienation — 疏离；孤立；【法律】（财产、权利的）转让/让渡diversion — 消遣；娱乐；改道；转移注意力bight — 海湾；（河流的）弯曲处；绳圈/绳扣
 
 The Telescope at Crescent Bight
 Established at a remote rocky bight along the path of the transcontinental railway route, a nameless astronomer's lifelong dedication successfully rescued an obsolescent observatory telescope from decades of total systemic neglect. Securing the town council's full administrative concurrence, she masterfully turned the abandoned research station into a popular public diversion. Through her lectures, she boldly challenged the entrenched academic misogyny and professional alienation that had callously erased the landmark achievements of her female predecessor.
 
-Story 987
+Story 0987
 
 fungus — 真菌； 菌类（复数形式为 fungi 或 funguses）philharmonic — 爱乐乐团； 爱乐的； 交响乐团的（大写常用于乐团名 The Philharmonic）operate — 操作； 运作； 经营； 动手术； 起作用metaphysical — 形而上学的； 玄学的； 哲学抽象的abstinence — 节制； 戒除； （尤指禁欲/ 禁酒，常与 from 连用）presentment — 呈现； 正式陈述； 表现； 【法律】 （大陪审团的） 起诉书/ 呈递productive — 富有成效的； 多产的； 生产性的arbor — 凉亭； 藤架； 【机械】 心轴/ 树心（英式拼写：arbour）impropriety — 不当行为； 不得体； 错误之处（复数 improprieties）fluctuation — 波动； 起伏； 不稳定
 
 Music Beneath the Arbor
 When an outbreak of invasive timber fungus suddenly forced the regional philharmonic orchestra to move and perform directly beneath a rustic garden arbor, the creative conductor strategically treated the layout shift as a profound metaphysical test of absolute abstinence from material comfort. Despite a temporary local electrical voltage fluctuation across the pavilion, the stage technical crew still managed to flawlessly operate the heavy spotlights, and the highly productive rehearsal beautifully concluded with the formal presentment of a long-term plan designed to permanently correct an earlier financial impropriety in the booking budget.
 
-Story 988
+Story 0988
 
 abridgment — 节本； 删节； 摘要； 缩短（亦作 abridgement）resurgent — 复兴的； 再度活跃的； 恢复生机的compute — 计算； 估算； 用计算机计算omnipotence — 全能； 无限权力； 神圣全权（常指上帝的全能）modernity — 现代性； 现代状态； 现代世界similitude — 相似； 相似物； 比喻； 模仿disobedience — 不服从； 违抗； 违反（常与 to 连用）nihilist — 虚无主义者； 无政府主义者； （形容词虚无主义的）assonate — 形成元音和韵； 发出近似音luminous — 发光的； 明亮的； （语言等） 表达清晰的/ 易懂的
 
 The Poet and the Machine
 A newly resurgent classical poet explicitly asked an experimental language computer program to precisely compute the structural similitude between his luminous handwritten epic manuscript and its automated commercial abridgment. When the processed output verses fundamentally failed to assonate or match his original metrics, the furious writer called the digital result a cynical, nihilist insult to the integrity of artistic modernity. However, the machine's quiet, algorithmic disobedience gently reminded him that even the most brilliant human authors possess no absolute omnipotence over how their text is consumed by readers.
 
-Story 989
+Story 0989
 
 animalcule — 微小动物；微生物（肉眼看不见或需放大镜看的小动物，复数 animalcules）course — 过程； 进程； 航向； 课程； （动词快速流动/ 奔流）overseer — 监督者； 工头； 监工； 监护人itinerate — 巡回； 游历； （尤指神职人员/ 司法官） 巡回布道/ 办案instigator — 煽动者； 发起人； 唆使者close-hauled — 【航海】 迎风航行的（指帆船尽量贴近风向航行）surety — 保证； 担保人； 保证金； 确信（复数 sureties）inflammation — 【医学】 炎症； 发炎； 红肿； 激愤/ 怒火extension — 延伸； 延期； 扩大部分； 电话分机underlie — 构成……的基础； 位于……下方； 成为……的底层
 
 The Close-Hauled Clinic
 As the small close-hauled medical clinic vessel masterfully sailed its difficult coastal course against the shifting wind, its dedicated head overseer chose to continuously itinerate among the isolated fishing villages. She carefully tracked the marine micro animalcule that explicitly seemed to underlie a sudden, widespread regional rash of skin inflammation. Recognizing the value of the research, the voyage's original philanthropic instigator formally offered his own primary yacht as legal surety to guarantee a six-month extension of the environmental mission.
 
-Story 990
+Story 0990
 
 lune — 月牙形； 弓形； 弓形地； 半月形饰物onrush — 奔涌； 突进； 猛烈向前冲impure — 不纯的； 不洁的； 混杂的； 肮脏道德败坏的inadequate — 不足的； 不胜任的； 缺乏自信能力的moralize — 说教； 作道德评判； 论述道德原理（亦作 moralise）egotism — 自负； 自我中心； 极端利己主义（注意区别 egoism）epiphany — 顿悟； 突然的显现/ 启示； （大写公历一月六日的） 显现节/ 主显节off — 离开； 偏离； （形容词不对劲的/ 变质的； 副词离开/ 关掉； 介词从……离开）heptarchy — 【历史】 七国时代； 七头政治； 七国联国（特指早期英国历史上盎格鲁- 撒克逊的七个王国，亦作 Heptarchy）athirst — 渴望的； 口渴的； 极度向往的（常与 for 连用，文学语）
 
 The Map of Seven Springs
 Extremely athirst right after the violent, chaotic onrush of a regional border battle, an independent valley scout unexpectedly found a distinct, hand-inked lune marked on an ancient parchment map of the historic heptarchy. The layout gave her a sudden, sweeping intellectual epiphany: the territory's long-lost fresh spring was absolutely not naturally impure or dried up, but had been merely sealed off and buried by past generals. Rather than choosing to waste time and moralize about the ancient kings' defensive political egotism, she immediately used the data to show the council that their own inadequate local wells had historically driven the entire war.
 
-Story 991
+Story 0991
 
 lodgment — 住处；宿处；嵌入；积存（亦作 lodgement）monolith — 巨石；独石柱；庞然大物anesthetic — 麻醉剂；麻醉的；无感觉的（美式拼写：anesthetic / 英式：anaesthetic）propaganda — 宣传；政治宣传；宣传材料afire — 燃烧着；激动的；着火的extensor — 【解剖学】伸肌qualify — 使合格；限定；修饰；取得资格（常与 for 连用）bethink — 考虑；想起；反思（常构成 bethink oneself）ardor — 热情； 炽热； 激情（英式拼写：ardour）polytheism — 多神教；多神信仰
 
 The Surgeon at the Monolith
 Deep inside a remote valley, right near an ancient monolith sacred to regional tribal polytheism, an independent military surgeon successfully secured a safe temporary lodgment for her emergency field hospital. Working under flashlight, she expertly utilized a local anesthetic while meticulously repairing a traditional ritual dancer's severed extensor muscle. When hostile border political propaganda suddenly set the surrounding camp afire with fear and suspicion, her unyielding professional ardor beautifully made the community elders bethink themselves and completely qualify their previous cultural ban on foreign medicine.
 
-Story 992
+Story 0992
 
 dissentious — 好争论的；引起纷争的；不和的（亦作 dissentious）acquire — 获得； 习得； 占有conferee — 与会者；受授予者；参加会议的人（复数 conferees）bombard — 轰击； 连番质问； 炮击（常与 with 连用）pommel — （马鞍前部的）鞍头；（剑柄的）圆头；（动词用拳猛击/连续击打）divertible — 可转移的；可改道的；可转向的juror — 陪审员；审查委员ampere — 【物理】安培（电流单位，符号为 A）cholera — 【医学】霍乱secondary — 次要的；中等教育的；辅助的；从属的
 
 The Pump-House Hearing
 At a highly chaotic, dissentious municipal development hearing, each angry corporate conferee continuously tried to aggressively bombard the visiting design engineer with hostile infrastructure questions. The room remained deadlocked until an independent local juror firmly gripped the witness box table saddle's wooden pommel and loudly asked whether a single one-ampere supply of divertible solar current could safely power the backup secondary water pump. Her highly practical question immediately showed the council exactly how the village might acquire clean well water and permanently stop the regional outbreak of cholera.
 
-Story 993
+Story 0993
 
 quarter — 四分之一；地区；城镇的某区；方向；（动词把……四等分/提供住处）position — 位置；立场；职位；姿势；（动词安置/确定位置）contradictory — 矛盾的；对立的；截然相反的proscription — 禁止；放逐；剥夺法律保护（常特指剥夺政治权利/充公）prefatory — 序言的；开场的；前言的（主要用于正式语）cudgel — 粗短木棍；棍棒；（动词用棍棒打/痛打）fiducial — 【技术】基准的；可信赖的；基于信任的（常用于测量 fiducial mark 基准标记）efflorescence — 【化学】风化结晶；【医学】皮疹；开花；全盛期spherometer — 【光学/测量】球面计；球径计accustom — 使习惯；使习惯于（常构成 accustom oneself to）
 
 The Instrument in the Old Quarter
 Deep inside the city's historic old quarter, a faded prefatory brass plaque explicitly stated an administrative property position that was fundamentally contradictory to the town's standing, archaic proscription of modern scientific laboratory tools. Disregarding the old rule, Nia carefully used a precise fiducial mark and a specialized mechanical spherometer to accurately identify a lost royal optic lens hidden directly beneath a thick efflorescence of mineral salt. Her empirical discovery successfully helped to accustom the local guards to seeing research instruments other than their standard wooden security cudgel.
 
-Story 994
+Story 0994
 
 immutable — 不可改变的； 永恒的； 不变的collapsible — 可折叠的； 会倒塌的； 可拆卸的betide — 发生； 降临（常用于词组 woe betide 祸害将降临于……）recidivist — 惯犯； 累犯； （形容词累犯的/ 屡犯的）legalize — 使合法化； 法律认可（英式拼写：legalise）noticeable — 显著的； 引人注目的； 明显的octave — 【音乐】 八度音； 八度音阶； 八行诗节indigestion — 消化不良； 胃痛auriferous — 产金的； 含金的； 产金沙的migrate — （鸟类等） 迁徙； 移居（外国）； 移动
 
 The Miner's Folding Piano
 Whatever sub-zero weather disasters might betide the logging camp, the notorious recidivist miner loudly swore to his teammates that his personal drinking habits were completely immutable. Yet, the unexpected arrival of a compact, collapsible acoustic piano completely changed his demeanor. Playing each melodic octave beautifully eased his chronic stress indigestion and made a noticeable, permanent improvement in the overall quality of camp life, successfully prompting him to urge the rowdy council to legalize weekend concerts before the exhausted workers began to migrate away from the isolated, auriferous valley.
 
-Story 995
+Story 0995
 
 invincible — 不可战胜的；无敌的；不可征服的magician — 魔术师；魔法师；变戏法的人militarism — 军国主义；尚武思想；武断倾向nominate — 提名；任命；指定（常与 for 连用）botanical — 植物学的；植物制成的；（名词植物性药材，亦作 botanic）juicy — 多汁的；有趣的；引人入胜的；（利润等）丰厚的（亦作 juicier/juiciest）elusion — 逃避； 躲避； 消除（注意区别 illusion 幻觉）prudence — 谨慎；审慎；精明；节俭bronchitis — 【医学】支气管炎hypnotize — 催眠；使着迷；使恍惚（英式拼写：hypnotise）
 
 The Magician's Orchard
 An invincible stage magician confidently claimed in the newspapers that his illusions could effortlessly hypnotize any live audience. However, professional prudence led him to abruptly cancel his grand city show when a sudden bout of acute bronchitis severely roughened his speaking voice. His quiet elusion of commercial fame heavily impressed a visiting botanical conservation society, which enthusiastically chose to nominate him for their annual civic award after he gracefully replaced his aggressive show about historical militarism with a peaceful community orchard feast of fresh, juicy heritage pears.
 
-Story 996
+Story 0996
 
 dentifrice — 牙膏；洁牙剂；洁牙粉midsummer — 仲夏；盛夏；夏至点；（形容词仲夏的）luminescence — 发光；冷光；发光现象involve — 涉及；使参与；包含；必然导致（常与 in 连用）outride — 骑得比……快；（船只等）安然渡过（风暴）galore — 大量；丰富；充足（通常置于被修饰的名词之后，如 rewards galore）orthogonal — 【数学】正交的；垂直的；互不相关的intramural — 校内的；（机构）内部的；（墙）壁内的perturb — 使不安；扰乱；使混乱；（天体）摄动perspiration — 汗；出汗；汗水
 
 The Glowing Midsummer Race
 At the annual university intramural midsummer race, competitive cyclists found challenging route obstacles galore meticulously arranged across an orthogonal spatial grid. However, neither the difficulty of the sub-zero sub-alpine course nor the heavy perspiration soaking her jersey could perturb Mei's baseline race focus. She managed to flawlessly outride the reigning state champion on the final lap, and her evening prize ceremony would involve demonstrating a unique organic dentifrice whose completely harmless chemical luminescence clearly revealed missed plaque to the audience under the spotlight.
 
-Story 997
+Story 0997
 
 prepossession — 偏爱； 先入之见； 偏见； 赞同倾向opportunity — 机会；时机；有利条件（常构成 have an opportunity to do）continuity — 连续性；连贯性；（电影的）分镜头剧本/串联topography — 地形；地形学；地貌图志recover — 恢复； 找回； 重新获得； 痊愈（常与 from 连用）participate — 参与；参加（常与 in 连用）complex — 复杂的；（建筑）群/综合大楼；（名词【心理】情结/复合体）degenerate — 恶化；堕落的；（动词退化/恶化；名词堕落者）almanac — 年鉴； 历书； 天文历（亦作 almanack）crematory — 火葬场； 焚化炉； （形容词火葬的/ 焚化的，亦作 crematorium）
 
 The Almanac's Hidden Path
 Her deep, lifelong prepossession for historical exploration maps finally gave Inez a rare opportunity to recover a missing medieval municipal almanac showing the structural topography built directly beneath an abandoned riverbank crematory complex. To preserve an essential cultural continuity with local neighborhood custom, she politely invited the village elders to actively participate in her geographical study, long before the long-forgotten brick utility tunnels could degenerate further from water erosion.
 
-Story 998
+Story 0998
 
 anticyclone — 【气象】反气旋；高压区taxation — 征税；税制；税款outlive — 比……活得久；经受住；渡过（难关）plenteous — 丰富的；充足的；多产的（主要是文学语）merciful — 仁慈的；温和的；幸运的；宽大的rookery — （秃鼻乌鸦等的）鸟群栖息地；（海豹等的）聚集地；（引申为）贫民拥挤区antemeridian — 午前的； 上午的（大写缩写为 A.M. / 形容词午前的一早的）simplify — 简化；使易懂；使单纯referable — 可归因于……的；可查阅的（常与 to 连用）resistless — 不可抗拒的；无法抵挡的；没有反抗能力的
 
 The Rooks Before Noon
 During a routine, high-precision antemeridian field survey, a resistless seasonal anticyclone suddenly carried a plenteous wall of sub-alpine dust straight toward the protected cliffside rookery. However, a merciful, unexpected shift in the wind direction allowed the oldest and weakest of the nesting rooks to outlive the sub-zero storm. Following her detailed report, environmental officials agreed to simplify the local resource taxation metrics assigned for sanctuary repairs, since the structural damage was clearly referable to volatile coastal weather conditions rather than any human neglect.
 
-Story 999
+Story 0999
 
 inquisition — 审讯；宗教裁判；残酷调查finally — 最后；终于autocracy — 独裁统治；专制政体metric — 衡量标准；公制的；公制度量barring — 除非；阻拦；除……之外administrator — 管理者；行政官euphony — 悦耳；和谐音韵origin — 起源；出身；起因earthenware — 陶器；土陶fete — 庆典；盛宴款待；（动词）款待/庆祝（英式拼写亦作 fête）
 
